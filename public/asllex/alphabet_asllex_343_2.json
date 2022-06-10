@@ -1,0 +1,45 @@
+{
+    "sign": "alphabet",
+    "signer": "aslLex",
+    "uid": 2200,
+    "synonyms": "ABCs, alphabet, alphabetical, alphabetical order",
+    "handshapes": {
+        "begin": {
+            "d": "a",
+            "nd": null
+        },
+        "end": {
+            "d": "closed_b",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Neutral",
+        "morph1_specific": "Neutral",
+        "morph1_specific_second": null,
+        "morph1_contact": null,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 3,
+    "complexity": 2.0,
+    "frequency": 3.88,
+    "category": null
+}

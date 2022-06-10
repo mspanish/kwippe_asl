@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59263@ian@acropora-cervicornis-bleached {max-width:75px; max-height:75px; }
+.@a59263@ian@acropora-cervicornis-bleached::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unhealthy/0.png/0.png);padding: 0; }
+div.@a59263@ian@acropora-cervicornis-bleached::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60175@ian@estuary-3d-river-mouth-triptych {max-width:75px; max-height:75px; }
+.@a60175@ian@estuary-3d-river-mouth-triptych::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unhealthy/0.png/0.png);padding: 0; }
+div.@a60175@ian@estuary-3d-river-mouth-triptych::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61261@ian@porites-lobata-bleached {max-width:75px; max-height:75px; }
+.@a61261@ian@porites-lobata-bleached::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unhealthy/0.png/0.png);padding: 0; }
+div.@a61261@ian@porites-lobata-bleached::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61715@ian@stream-3d-unhealthy {max-width:75px; max-height:75px; }
+.@a61715@ian@stream-3d-unhealthy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unhealthy/0.png/0.png);padding: 0; }
+div.@a61715@ian@stream-3d-unhealthy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6db92d8cca64b2688d2d04ea9b0f31a3:842005c7d2dbb04ceef668a6e98d3795:4ddb42793a59c1b7bfff1539dfc4d068$ */

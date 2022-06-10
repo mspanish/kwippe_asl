@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60323@ian@fossil-bee {max-width:75px; max-height:75px; }
+.@a60323@ian@fossil-bee::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/f/fossilized/0.png/0.png);padding: 0; }
+div.@a60323@ian@fossil-bee::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60324@ian@fossil-moth {max-width:75px; max-height:75px; }
+.@a60324@ian@fossil-moth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/f/fossilized/0.png/0.png);padding: 0; }
+div.@a60324@ian@fossil-moth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60325@ian@fossil-nautilus {max-width:75px; max-height:75px; }
+.@a60325@ian@fossil-nautilus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/f/fossilized/0.png/0.png);padding: 0; }
+div.@a60325@ian@fossil-nautilus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60327@ian@fossil-trilobite {max-width:75px; max-height:75px; }
+.@a60327@ian@fossil-trilobite::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/f/fossilized/0.png/0.png);padding: 0; }
+div.@a60327@ian@fossil-trilobite::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1823d9a79cb3c97b553ce6bb6f9a8a93:732ff35416f3071bb4978b364a905e50:4ddb42793a59c1b7bfff1539dfc4d068$ */

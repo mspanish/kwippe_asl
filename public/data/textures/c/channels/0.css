@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60151@ian@estuary-2d-channels-and-offshore-sandrift {max-width:75px; max-height:75px; }
+.@a60151@ian@estuary-2d-channels-and-offshore-sandrift::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/channels/0.png/0.png);padding: 0; }
+div.@a60151@ian@estuary-2d-channels-and-offshore-sandrift::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60159@ian@estuary-2d-open-with-channels-and-sand-dunes {max-width:75px; max-height:75px; }
+.@a60159@ian@estuary-2d-open-with-channels-and-sand-dunes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/channels/0.png/0.png);padding: 0; }
+div.@a60159@ian@estuary-2d-open-with-channels-and-sand-dunes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:18a8185e04d30630921de530655b85e1:946d3fe13d50ec9665d1da4c6e083836:4ddb42793a59c1b7bfff1539dfc4d068$ */

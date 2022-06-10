@@ -1,0 +1,116 @@
+{
+    "sign": "take_break",
+    "signer": "Brady",
+    "uid": "595164",
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": "B",
+            "nd": "Vulcan"
+        },
+        "end": {
+            "d": "B",
+            "nd": "Vulcan"
+        }
+    },
+    "regions": [],
+    "hands": "N",
+    "num_positions": 2,
+    "positions": [
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 2
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 1
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 40
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 49
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 15,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 1,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                }
+            }
+        },
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 3
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 3
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 42
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 43
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 2,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 2,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                }
+            }
+        }
+    ],
+    "motion": [],
+    "palmface": "",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

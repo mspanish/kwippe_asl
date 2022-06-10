@@ -1,0 +1,37 @@
+{
+    "sign": "beat",
+    "signer": "asl2english",
+    "uid": 120,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": 1
+        },
+        "end": {
+            "d": 82,
+            "nd": 42
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14708@gameicons-lorc@scorpion-tail {max-width:75px; max-height:75px; }
+.@b14708@gameicons-lorc@scorpion-tail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/scorpion_tail/0.png/0.png);padding: 0; }
+div.@b14708@gameicons-lorc@scorpion-tail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d297aa25ad0ffd89db2062d1e745cea6:8ab7b9be5a2ef1d3c64e53954fa8b52d:4ddb42793a59c1b7bfff1539dfc4d068$ */

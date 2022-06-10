@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62170@ian@volcano-3d-dome {max-width:75px; max-height:75px; }
+.@a62170@ian@volcano-3d-dome::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/coulee/0.png/0.png);padding: 0; }
+div.@a62170@ian@volcano-3d-dome::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:04f1d308f76dd889c010a3af29882c85:9a695c040e107e98b4f7491352c8f83a:4ddb42793a59c1b7bfff1539dfc4d068$ */

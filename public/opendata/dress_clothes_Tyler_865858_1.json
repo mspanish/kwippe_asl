@@ -1,0 +1,116 @@
+{
+    "sign": "dress_clothes",
+    "signer": "Tyler",
+    "uid": "865858",
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 5,
+            "nd": 5
+        },
+        "end": {
+            "d": 5,
+            "nd": 5
+        }
+    },
+    "regions": [],
+    "hands": "N",
+    "num_positions": 2,
+    "positions": [
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 11
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 11
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "left",
+                    "aClicks": 38
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "left",
+                    "aClicks": 37
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 2,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 2,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                }
+            }
+        },
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 10
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 10
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 52
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 58
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 0,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 16,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                }
+            }
+        }
+    ],
+    "motion": [],
+    "palmface": "",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48650@small@map-marker {max-width:75px; max-height:75px; }
+.@a48650@small@map-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gps/0.png/0.png);padding: 0; }
+div.@a48650@small@map-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58414@baianet@group {max-width:75px; max-height:75px; }
+.@a58414@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gps/0.png/0.png);padding: 0; }
+div.@a58414@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12702@gameicons-delapouite@gps {max-width:75px; max-height:75px; }
+.@b12702@gameicons-delapouite@gps::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gps/0.png/0.png);padding: 0; }
+div.@b12702@gameicons-delapouite@gps::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6c05e0ba6a592af812a69f617ed19d35:267ca711c524fb243d5274edac58fc15:4ddb42793a59c1b7bfff1539dfc4d068$ */

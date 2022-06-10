@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a11@aac@are {max-width:75px; max-height:75px; }
+.@a11@aac@are::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/are/0.png/0.png);padding: 0; }
+div.@a11@aac@are::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a201@aac@we-are {max-width:75px; max-height:75px; }
+.@a201@aac@we-are::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/are/0.png/0.png);padding: 0; }
+div.@a201@aac@we-are::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2540@bon@things-are-good-5289 {max-width:75px; max-height:75px; }
+.@a2540@bon@things-are-good-5289::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/are/0.png/0.png);padding: 0; }
+div.@a2540@bon@things-are-good-5289::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2545@bon@things-you-are-good-at-8093 {max-width:75px; max-height:75px; }
+.@a2545@bon@things-you-are-good-at-8093::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/are/0.png/0.png);padding: 0; }
+div.@a2545@bon@things-you-are-good-at-8093::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3dc754edcedd9d7bd249eb65d9e37e40:672c0a69cfefdd0cd9e324f7df66c969:4ddb42793a59c1b7bfff1539dfc4d068$ */

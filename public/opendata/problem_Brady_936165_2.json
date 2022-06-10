@@ -1,0 +1,160 @@
+{
+    "sign": "problem",
+    "signer": "Brady",
+    "uid": "936165",
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": "crvd-V",
+            "nd": "crvd-V"
+        },
+        "end": {
+            "d": "crvd-V",
+            "nd": "crvd-V"
+        }
+    },
+    "regions": [],
+    "hands": "N",
+    "num_positions": 3,
+    "positions": [
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 1
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 2
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 63
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 65
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 1,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 0,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                }
+            }
+        },
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 2
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 2
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 44
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 43
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 8,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 2,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                }
+            }
+        },
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 2
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 2
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 45
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 44
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 3,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 2,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                }
+            }
+        }
+    ],
+    "motion": [],
+    "palmface": "",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

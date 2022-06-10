@@ -1,0 +1,116 @@
+{
+    "sign": "bawl_out",
+    "signer": "Liz",
+    "uid": "678959",
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": "S",
+            "nd": "S"
+        },
+        "end": {
+            "d": 4,
+            "nd": 4
+        }
+    },
+    "regions": [],
+    "hands": "N",
+    "num_positions": 2,
+    "positions": [
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 2
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 1
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 48
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 43
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 0,
+                    "thumb_angle": {
+                        "angleReverse": false
+                    }
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 5,
+                    "thumb_angle": {
+                        "angleReverse": false
+                    }
+                }
+            }
+        },
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 4
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 1
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 50
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 44
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 2,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 1,
+                    "thumb_angle": {
+                        "angleReverse": true
+                    }
+                }
+            }
+        }
+    ],
+    "motion": [],
+    "palmface": "",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

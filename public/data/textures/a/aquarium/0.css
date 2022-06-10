@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36459@mul@aquarium {max-width:75px; max-height:75px; }
+.@a36459@mul@aquarium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@a36459@mul@aquarium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59363@ian@aquarium-airstone {max-width:75px; max-height:75px; }
+.@a59363@ian@aquarium-airstone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@a59363@ian@aquarium-airstone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59364@ian@aquarium-from-top {max-width:75px; max-height:75px; }
+.@a59364@ian@aquarium-from-top::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@a59364@ian@aquarium-from-top::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59365@ian@aquarium-from-top2 {max-width:75px; max-height:75px; }
+.@a59365@ian@aquarium-from-top2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@a59365@ian@aquarium-from-top2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59366@ian@aquarium-with-mesh-and-airstone {max-width:75px; max-height:75px; }
+.@a59366@ian@aquarium-with-mesh-and-airstone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@a59366@ian@aquarium-with-mesh-and-airstone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59367@ian@aquarium {max-width:75px; max-height:75px; }
+.@a59367@ian@aquarium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@a59367@ian@aquarium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59647@ian@cephalopholis-argus {max-width:75px; max-height:75px; }
+.@a59647@ian@cephalopholis-argus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@a59647@ian@cephalopholis-argus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59957@ian@dascyllus-aruanus {max-width:75px; max-height:75px; }
+.@a59957@ian@dascyllus-aruanus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@a59957@ian@dascyllus-aruanus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12159@gameicons-delapouite@aquarium {max-width:75px; max-height:75px; }
+.@b12159@gameicons-delapouite@aquarium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/aquarium/0.png/0.png);padding: 0; }
+div.@b12159@gameicons-delapouite@aquarium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:514ed658e40bd04de96a91b5f3015e48:85f685cfbe3f2eb496b45cf93081cc3a:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a31665@lug@omega {max-width:75px; max-height:75px; }
+.@a31665@lug@omega::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/omega/0.png/0.png);padding: 0; }
+div.@a31665@lug@omega::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34589@mat@omega {max-width:75px; max-height:75px; }
+.@a34589@mat@omega::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/omega/0.png/0.png);padding: 0; }
+div.@a34589@mat@omega::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57899@xei@omega {max-width:75px; max-height:75px; }
+.@a57899@xei@omega::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/omega/0.png/0.png);padding: 0; }
+div.@a57899@xei@omega::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14555@gameicons-lorc@omega {max-width:75px; max-height:75px; }
+.@b14555@gameicons-lorc@omega::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/omega/0.png/0.png);padding: 0; }
+div.@b14555@gameicons-lorc@omega::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14747@gameicons-lorc@shiny-omega {max-width:75px; max-height:75px; }
+.@b14747@gameicons-lorc@shiny-omega::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/omega/0.png/0.png);padding: 0; }
+div.@b14747@gameicons-lorc@shiny-omega::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:38fcaafbf42490a515995cd27d67f976:0d59678c7d83e8c1a18b094e9565dcea:4ddb42793a59c1b7bfff1539dfc4d068$ */

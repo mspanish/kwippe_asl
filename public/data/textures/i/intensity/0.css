@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60299@ian@fluorometer {max-width:75px; max-height:75px; }
+.@a60299@ian@fluorometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/i/intensity/0.png/0.png);padding: 0; }
+div.@a60299@ian@fluorometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60698@ian@light-fluorescent-spectra {max-width:75px; max-height:75px; }
+.@a60698@ian@light-fluorescent-spectra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/i/intensity/0.png/0.png);padding: 0; }
+div.@a60698@ian@light-fluorescent-spectra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60701@ian@light-incandescent-spectra {max-width:75px; max-height:75px; }
+.@a60701@ian@light-incandescent-spectra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/i/intensity/0.png/0.png);padding: 0; }
+div.@a60701@ian@light-incandescent-spectra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60704@ian@light-mercury-spectra {max-width:75px; max-height:75px; }
+.@a60704@ian@light-mercury-spectra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/i/intensity/0.png/0.png);padding: 0; }
+div.@a60704@ian@light-mercury-spectra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60707@ian@light-metal-halide-spectra {max-width:75px; max-height:75px; }
+.@a60707@ian@light-metal-halide-spectra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/i/intensity/0.png/0.png);padding: 0; }
+div.@a60707@ian@light-metal-halide-spectra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61491@ian@rms-turbulence-intensity {max-width:75px; max-height:75px; }
+.@a61491@ian@rms-turbulence-intensity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/i/intensity/0.png/0.png);padding: 0; }
+div.@a61491@ian@rms-turbulence-intensity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61666@ian@spectrophotometer {max-width:75px; max-height:75px; }
+.@a61666@ian@spectrophotometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/i/intensity/0.png/0.png);padding: 0; }
+div.@a61666@ian@spectrophotometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:07b8f74a114fc0a418a1de1a017168d7:f2cb554bd8219d73d50c89b59382f352:4ddb42793a59c1b7bfff1539dfc4d068$ */

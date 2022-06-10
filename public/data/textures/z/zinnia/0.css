@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25372@gli@cacti_flower_1 {max-width:75px; max-height:75px; }
+.@a25372@gli@cacti_flower_1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/z/zinnia/0.png/0.png);padding: 0; }
+div.@a25372@gli@cacti_flower_1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25373@gli@cacti_flower_2 {max-width:75px; max-height:75px; }
+.@a25373@gli@cacti_flower_2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/z/zinnia/0.png/0.png);padding: 0; }
+div.@a25373@gli@cacti_flower_2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45137@ofl@flower-43 {max-width:75px; max-height:75px; }
+.@a45137@ofl@flower-43::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/z/zinnia/0.png/0.png);padding: 0; }
+div.@a45137@ofl@flower-43::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48623@small@flower {max-width:75px; max-height:75px; }
+.@a48623@small@flower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/z/zinnia/0.png/0.png);padding: 0; }
+div.@a48623@small@flower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ce4c5a7f2598443a9c922cb02893956:a68b20ca1804b7a936b9acab2caf08fd:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37281@mul@drink-consistency-honey-cup {max-width:75px; max-height:75px; }
+.@a37281@mul@drink-consistency-honey-cup::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/h/honey/0.png/0.png);padding: 0; }
+div.@a37281@mul@drink-consistency-honey-cup::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37919@mul@honey {max-width:75px; max-height:75px; }
+.@a37919@mul@honey::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/h/honey/0.png/0.png);padding: 0; }
+div.@a37919@mul@honey::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12778@gameicons-delapouite@honey-jar {max-width:75px; max-height:75px; }
+.@b12778@gameicons-delapouite@honey-jar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/h/honey/0.png/0.png);padding: 0; }
+div.@b12778@gameicons-delapouite@honey-jar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14082@gameicons-lorc@dripping-honey {max-width:75px; max-height:75px; }
+.@b14082@gameicons-lorc@dripping-honey::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/h/honey/0.png/0.png);padding: 0; }
+div.@b14082@gameicons-lorc@dripping-honey::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e70ea4295326fedb783b6c515900c68b:7f796a0b25da1fab24c2c011fe9decdb:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12953@gameicons-delapouite@metal-skirt {max-width:75px; max-height:75px; }
+.@b12953@gameicons-delapouite@metal-skirt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/metal_skirt/0.png/0.png);padding: 0; }
+div.@b12953@gameicons-delapouite@metal-skirt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b834fabf5f9f5d997c85c06f8f64d1b3:ee4ba59d8c607e47bcfe870fc9b05c44:4ddb42793a59c1b7bfff1539dfc4d068$ */

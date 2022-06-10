@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27996@ico@handball {max-width:75px; max-height:75px; }
+.@a27996@ico@handball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/handball/0.png/0.png);padding: 0; }
+div.@a27996@ico@handball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39701@noc@handball-m-f-1-2 {max-width:75px; max-height:75px; }
+.@a39701@noc@handball-m-f-1-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/handball/0.png/0.png);padding: 0; }
+div.@a39701@noc@handball-m-f-1-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41983@nog@handball-smileys-people-emoji-2 {max-width:75px; max-height:75px; }
+.@a41983@nog@handball-smileys-people-emoji-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/handball/0.png/0.png);padding: 0; }
+div.@a41983@nog@handball-smileys-people-emoji-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41985@nog@handball-smileys-people {max-width:75px; max-height:75px; }
+.@a41985@nog@handball-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/handball/0.png/0.png);padding: 0; }
+div.@a41985@nog@handball-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50503@tw2@handball-1-2 {max-width:75px; max-height:75px; }
+.@a50503@tw2@handball-1-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/handball/0.png/0.png);padding: 0; }
+div.@a50503@tw2@handball-1-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:720a1e361eca3aa7690c5364c477e40c:b05c82040e5ea58d2a30c43476f2f16f:4ddb42793a59c1b7bfff1539dfc4d068$ */

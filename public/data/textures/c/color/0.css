@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60699@ian@light-full-sunlight {max-width:75px; max-height:75px; }
+.@a60699@ian@light-full-sunlight::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/color/0.png/0.png);padding: 0; }
+div.@a60699@ian@light-full-sunlight::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61666@ian@spectrophotometer {max-width:75px; max-height:75px; }
+.@a61666@ian@spectrophotometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/color/0.png/0.png);padding: 0; }
+div.@a61666@ian@spectrophotometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1480247d21b161bf3ebf064828b3e637:4404c39879acb3c4e967f7f411d6a1b0:4ddb42793a59c1b7bfff1539dfc4d068$ */

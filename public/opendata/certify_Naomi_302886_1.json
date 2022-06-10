@@ -1,0 +1,116 @@
+{
+    "sign": "certify",
+    "signer": "Naomi",
+    "uid": "302886",
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": "C",
+            "nd": "C"
+        },
+        "end": {
+            "d": "C",
+            "nd": "C"
+        }
+    },
+    "regions": [],
+    "hands": "N",
+    "num_positions": 2,
+    "positions": [
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 1
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "right",
+                    "aClicks": 1
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "left",
+                    "aClicks": 17
+                },
+                "l": {
+                    "angleReverse": true,
+                    "angleDir": "left",
+                    "aClicks": 14
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "right",
+                    "aClicks": 3,
+                    "thumb_angle": {
+                        "angleReverse": false
+                    }
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 13,
+                    "thumb_angle": {
+                        "angleReverse": false
+                    }
+                }
+            }
+        },
+        {
+            "elbow": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 2
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 1
+                }
+            },
+            "wrist": {
+                "r": {
+                    "angleReverse": true,
+                    "angleDir": "left",
+                    "aClicks": 40
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 41
+                }
+            },
+            "hand": {
+                "r": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 2,
+                    "thumb_angle": {
+                        "angleReverse": false
+                    }
+                },
+                "l": {
+                    "angleReverse": false,
+                    "angleDir": "left",
+                    "aClicks": 4,
+                    "thumb_angle": {
+                        "angleReverse": false
+                    }
+                }
+            }
+        }
+    ],
+    "motion": [],
+    "palmface": "",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

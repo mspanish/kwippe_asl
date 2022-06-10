@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60023@ian@diffusion {max-width:75px; max-height:75px; }
+.@a60023@ian@diffusion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/diffusion/0.png/0.png);padding: 0; }
+div.@a60023@ian@diffusion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60024@ian@diffusive-sublayer-thickness {max-width:75px; max-height:75px; }
+.@a60024@ian@diffusive-sublayer-thickness::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/diffusion/0.png/0.png);padding: 0; }
+div.@a60024@ian@diffusive-sublayer-thickness::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60720@ian@limitation-diffusion {max-width:75px; max-height:75px; }
+.@a60720@ian@limitation-diffusion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/diffusion/0.png/0.png);padding: 0; }
+div.@a60720@ian@limitation-diffusion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7123bd82e3266d3f633e87b2c3ce333f:fe6df7183b6c9b2a9f55decadda4eeb8:4ddb42793a59c1b7bfff1539dfc4d068$ */

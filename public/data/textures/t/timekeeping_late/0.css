@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2558@bon@timekeeping-late-8098 {max-width:75px; max-height:75px; }
+.@a2558@bon@timekeeping-late-8098::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/timekeeping_late/0.png/0.png);padding: 0; }
+div.@a2558@bon@timekeeping-late-8098::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8da9bb7406252e17c4c1c58b322bbb51:1e19986cfe23fba44c03f9a10d234b1c:4ddb42793a59c1b7bfff1539dfc4d068$ */

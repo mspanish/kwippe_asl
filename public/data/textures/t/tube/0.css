@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36844@mul@chewy-tube {max-width:75px; max-height:75px; }
+.@a36844@mul@chewy-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@a36844@mul@chewy-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38698@mul@sensory-tube {max-width:75px; max-height:75px; }
+.@a38698@mul@sensory-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@a38698@mul@sensory-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60546@ian@incubation-chamber {max-width:75px; max-height:75px; }
+.@a60546@ian@incubation-chamber::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@a60546@ian@incubation-chamber::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60695@ian@light-fluorescent-bulb {max-width:75px; max-height:75px; }
+.@a60695@ian@light-fluorescent-bulb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@a60695@ian@light-fluorescent-bulb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60696@ian@light-fluorescent-bulb2 {max-width:75px; max-height:75px; }
+.@a60696@ian@light-fluorescent-bulb2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@a60696@ian@light-fluorescent-bulb2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60697@ian@light-fluorescent-bulb3 {max-width:75px; max-height:75px; }
+.@a60697@ian@light-fluorescent-bulb3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@a60697@ian@light-fluorescent-bulb3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60861@ian@microcapillary-tube {max-width:75px; max-height:75px; }
+.@a60861@ian@microcapillary-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@a60861@ian@microcapillary-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61041@ian@ointment {max-width:75px; max-height:75px; }
+.@a61041@ian@ointment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@a61041@ian@ointment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15150@gameicons-sbed@acid-tube {max-width:75px; max-height:75px; }
+.@b15150@gameicons-sbed@acid-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tube/0.png/0.png);padding: 0; }
+div.@b15150@gameicons-sbed@acid-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:637d056ce57fa557e2e8d768e991264a:f7afd4c151a1d9f662a43531011ac11d:4ddb42793a59c1b7bfff1539dfc4d068$ */

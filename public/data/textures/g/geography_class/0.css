@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37772@mul@geography-class {max-width:75px; max-height:75px; }
+.@a37772@mul@geography-class::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/geography_class/0.png/0.png);padding: 0; }
+div.@a37772@mul@geography-class::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:01fd0aaeff4e3167b34f6986d362a93e:0665ed83b5a9041533f545fafae2d984:4ddb42793a59c1b7bfff1539dfc4d068$ */

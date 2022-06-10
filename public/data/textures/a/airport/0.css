@@ -1,0 +1,59 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59426@ian@aviation-airliner-runway {max-width:75px; max-height:75px; }
+.@a59426@ian@aviation-airliner-runway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@a59426@ian@aviation-airliner-runway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59427@ian@aviation-airport-terminal {max-width:75px; max-height:75px; }
+.@a59427@ian@aviation-airport-terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@a59427@ian@aviation-airport-terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59428@ian@aviation-airport {max-width:75px; max-height:75px; }
+.@a59428@ian@aviation-airport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@a59428@ian@aviation-airport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1060@mutcd@panama_1620 {max-width:75px; max-height:75px; }
+.@d1060@mutcd@panama_1620::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d1060@mutcd@panama_1620::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d121@mutcd@australia_1610 {max-width:75px; max-height:75px; }
+.@d121@mutcd@australia_1610::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d121@mutcd@australia_1610::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1297@mutcd@thailand_1621 {max-width:75px; max-height:75px; }
+.@d1297@mutcd@thailand_1621::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d1297@mutcd@thailand_1621::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1429@mutcd@united_states_1622 {max-width:75px; max-height:75px; }
+.@d1429@mutcd@united_states_1622::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d1429@mutcd@united_states_1622::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1469@mutcd@uruguay_1623 {max-width:75px; max-height:75px; }
+.@d1469@mutcd@uruguay_1623::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d1469@mutcd@uruguay_1623::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d206@mutcd@brazil_1611 {max-width:75px; max-height:75px; }
+.@d206@mutcd@brazil_1611::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d206@mutcd@brazil_1611::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d289@mutcd@canada_1612 {max-width:75px; max-height:75px; }
+.@d289@mutcd@canada_1612::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d289@mutcd@canada_1612::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d370@mutcd@canada_ontario_1613 {max-width:75px; max-height:75px; }
+.@d370@mutcd@canada_ontario_1613::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d370@mutcd@canada_ontario_1613::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d41@mutcd@argentina_1609 {max-width:75px; max-height:75px; }
+.@d41@mutcd@argentina_1609::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d41@mutcd@argentina_1609::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d453@mutcd@canada_quebec_1614 {max-width:75px; max-height:75px; }
+.@d453@mutcd@canada_quebec_1614::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d453@mutcd@canada_quebec_1614::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d540@mutcd@chile_1615 {max-width:75px; max-height:75px; }
+.@d540@mutcd@chile_1615::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d540@mutcd@chile_1615::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d620@mutcd@colombia_1616 {max-width:75px; max-height:75px; }
+.@d620@mutcd@colombia_1616::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d620@mutcd@colombia_1616::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d908@mutcd@mexico_1619 {max-width:75px; max-height:75px; }
+.@d908@mutcd@mexico_1619::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/airport/0.png/0.png);padding: 0; }
+div.@d908@mutcd@mexico_1619::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3b1bcaea7b6302783fa6d9d480e7a075:fde2f67afbd336b4f344d09b32cad71a:4ddb42793a59c1b7bfff1539dfc4d068$ */

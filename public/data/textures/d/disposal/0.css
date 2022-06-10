@@ -1,0 +1,65 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60656@ian@landfill {max-width:75px; max-height:75px; }
+.@a60656@ian@landfill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a60656@ian@landfill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60809@ian@manure-export {max-width:75px; max-height:75px; }
+.@a60809@ian@manure-export::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a60809@ian@manure-export::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61043@ian@old-bottle {max-width:75px; max-height:75px; }
+.@a61043@ian@old-bottle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61043@ian@old-bottle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61044@ian@old-tires {max-width:75px; max-height:75px; }
+.@a61044@ian@old-tires::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61044@ian@old-tires::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61212@ian@plastic-bag-1 {max-width:75px; max-height:75px; }
+.@a61212@ian@plastic-bag-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61212@ian@plastic-bag-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61213@ian@plastic-bag-2 {max-width:75px; max-height:75px; }
+.@a61213@ian@plastic-bag-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61213@ian@plastic-bag-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61214@ian@plastic-bottle-1 {max-width:75px; max-height:75px; }
+.@a61214@ian@plastic-bottle-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61214@ian@plastic-bottle-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61215@ian@plastic-bottle-2 {max-width:75px; max-height:75px; }
+.@a61215@ian@plastic-bottle-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61215@ian@plastic-bottle-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61216@ian@plastic-bottle-3 {max-width:75px; max-height:75px; }
+.@a61216@ian@plastic-bottle-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61216@ian@plastic-bottle-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61256@ian@pop-can {max-width:75px; max-height:75px; }
+.@a61256@ian@pop-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61256@ian@pop-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61493@ian@roadside-trash {max-width:75px; max-height:75px; }
+.@a61493@ian@roadside-trash::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61493@ian@roadside-trash::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61512@ian@rusty-drum {max-width:75px; max-height:75px; }
+.@a61512@ian@rusty-drum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61512@ian@rusty-drum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61624@ian@sewage-pumping-station {max-width:75px; max-height:75px; }
+.@a61624@ian@sewage-pumping-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a61624@ian@sewage-pumping-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62180@ian@waste-management-landfill {max-width:75px; max-height:75px; }
+.@a62180@ian@waste-management-landfill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a62180@ian@waste-management-landfill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62195@ian@water-sewage-treatment-plant-1 {max-width:75px; max-height:75px; }
+.@a62195@ian@water-sewage-treatment-plant-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a62195@ian@water-sewage-treatment-plant-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62196@ian@water-sewage-treatment-plant-2 {max-width:75px; max-height:75px; }
+.@a62196@ian@water-sewage-treatment-plant-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a62196@ian@water-sewage-treatment-plant-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62197@ian@water-sewage-treatment-plant-primary {max-width:75px; max-height:75px; }
+.@a62197@ian@water-sewage-treatment-plant-primary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a62197@ian@water-sewage-treatment-plant-primary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62198@ian@water-sewage-treatment-plant-tertiary {max-width:75px; max-height:75px; }
+.@a62198@ian@water-sewage-treatment-plant-tertiary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/disposal/0.png/0.png);padding: 0; }
+div.@a62198@ian@water-sewage-treatment-plant-tertiary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a288e944a13b1ffaac4fbdc56a12a300:fe951221c5fcbfab7c65a532432b42cc:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "faculty",
+    "signer": "asl2english",
+    "uid": 551,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 44,
+            "nd": null
+        },
+        "end": {
+            "d": 44,
+            "nd": null
+        }
+    },
+    "regions": [
+        "L-shoulder",
+        "R-shoulder"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

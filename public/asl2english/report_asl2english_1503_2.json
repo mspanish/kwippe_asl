@@ -1,0 +1,37 @@
+{
+    "sign": "report",
+    "signer": "asl2english",
+    "uid": 1503,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 70,
+            "nd": 70
+        },
+        "end": {
+            "d": 70,
+            "nd": 70
+        }
+    },
+    "regions": [
+        "chin",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

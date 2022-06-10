@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61965@ian@usa-fl-apalachee {max-width:75px; max-height:75px; }
+.@a61965@ian@usa-fl-apalachee::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/ochlocknee/0.png/0.png);padding: 0; }
+div.@a61965@ian@usa-fl-apalachee::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:240566170dd743e15465b695c0e028bc:f4d241bb72e4eb024214d1c1e296f45f:4ddb42793a59c1b7bfff1539dfc4d068$ */

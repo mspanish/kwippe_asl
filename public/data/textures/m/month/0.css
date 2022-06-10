@@ -1,0 +1,83 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14713@em2@calendar {max-width:75px; max-height:75px; }
+.@a14713@em2@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a14713@em2@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28985@jqu@calendar {max-width:75px; max-height:75px; }
+.@a28985@jqu@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a28985@jqu@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30102@lib@calendar {max-width:75px; max-height:75px; }
+.@a30102@lib@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a30102@lib@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31293@lug@calendar {max-width:75px; max-height:75px; }
+.@a31293@lug@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a31293@lug@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35997@met@calendar {max-width:75px; max-height:75px; }
+.@a35997@met@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a35997@met@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36740@mul@calendar-month {max-width:75px; max-height:75px; }
+.@a36740@mul@calendar-month::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a36740@mul@calendar-month::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36741@mul@calendar {max-width:75px; max-height:75px; }
+.@a36741@mul@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a36741@mul@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38038@mul@last-month {max-width:75px; max-height:75px; }
+.@a38038@mul@last-month::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a38038@mul@last-month::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38257@mul@next-month {max-width:75px; max-height:75px; }
+.@a38257@mul@next-month::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a38257@mul@next-month::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38993@mul@this-month {max-width:75px; max-height:75px; }
+.@a38993@mul@this-month::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a38993@mul@this-month::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48572@small@calendar {max-width:75px; max-height:75px; }
+.@a48572@small@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a48572@small@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50904@tw2@spiral-calendar-pad {max-width:75px; max-height:75px; }
+.@a50904@tw2@spiral-calendar-pad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a50904@tw2@spiral-calendar-pad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53061@vaa@calendar {max-width:75px; max-height:75px; }
+.@a53061@vaa@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a53061@vaa@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56344@win@calendar-day {max-width:75px; max-height:75px; }
+.@a56344@win@calendar-day::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a56344@win@calendar-day::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56347@win@calendar-month {max-width:75px; max-height:75px; }
+.@a56347@win@calendar-month::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a56347@win@calendar-month::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56348@win@calendar-plus {max-width:75px; max-height:75px; }
+.@a56348@win@calendar-plus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a56348@win@calendar-plus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56349@win@calendar-range {max-width:75px; max-height:75px; }
+.@a56349@win@calendar-range::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a56349@win@calendar-range::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56351@win@calendar-week {max-width:75px; max-height:75px; }
+.@a56351@win@calendar-week::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a56351@win@calendar-week::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56352@win@calendar-year {max-width:75px; max-height:75px; }
+.@a56352@win@calendar-year::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a56352@win@calendar-year::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56353@win@calendar {max-width:75px; max-height:75px; }
+.@a56353@win@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a56353@win@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a654@awe@calendar {max-width:75px; max-height:75px; }
+.@a654@awe@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@a654@awe@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12322@gameicons-delapouite@calendar {max-width:75px; max-height:75px; }
+.@b12322@gameicons-delapouite@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@b12322@gameicons-delapouite@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8280@web@calendar-1 {max-width:75px; max-height:75px; }
+.@b8280@web@calendar-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@b8280@web@calendar-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8281@web@calendar-3 {max-width:75px; max-height:75px; }
+.@b8281@web@calendar-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/m/month/0.png/0.png);padding: 0; }
+div.@b8281@web@calendar-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:aafe5bc8f01c62bc9057829938fd90c9:a8d859f6b9b647342826c2a37681a21b:4ddb42793a59c1b7bfff1539dfc4d068$ */

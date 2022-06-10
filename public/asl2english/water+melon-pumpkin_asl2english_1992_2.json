@@ -1,0 +1,37 @@
+{
+    "sign": "water+melon-pumpkin",
+    "signer": "asl2english",
+    "uid": 1992,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 78,
+            "nd": 66
+        },
+        "end": {
+            "d": null,
+            "nd": 10
+        }
+    },
+    "regions": [
+        "chin",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

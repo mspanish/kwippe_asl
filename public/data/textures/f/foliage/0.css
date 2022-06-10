@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59254@ian@acer-rubrum2 {max-width:75px; max-height:75px; }
+.@a59254@ian@acer-rubrum2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a59254@ian@acer-rubrum2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60082@ian@effects-insect-damage {max-width:75px; max-height:75px; }
+.@a60082@ian@effects-insect-damage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a60082@ian@effects-insect-damage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60358@ian@generic-tree-1 {max-width:75px; max-height:75px; }
+.@a60358@ian@generic-tree-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a60358@ian@generic-tree-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60359@ian@generic-tree-fall {max-width:75px; max-height:75px; }
+.@a60359@ian@generic-tree-fall::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a60359@ian@generic-tree-fall::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60360@ian@generic-tree-rainforest-1 {max-width:75px; max-height:75px; }
+.@a60360@ian@generic-tree-rainforest-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a60360@ian@generic-tree-rainforest-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60361@ian@generic-tree-rainforest-2 {max-width:75px; max-height:75px; }
+.@a60361@ian@generic-tree-rainforest-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a60361@ian@generic-tree-rainforest-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60362@ian@generic-tree-rainforest-3 {max-width:75px; max-height:75px; }
+.@a60362@ian@generic-tree-rainforest-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a60362@ian@generic-tree-rainforest-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60363@ian@generic-tree-spring {max-width:75px; max-height:75px; }
+.@a60363@ian@generic-tree-spring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a60363@ian@generic-tree-spring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60364@ian@generic-tree-summer {max-width:75px; max-height:75px; }
+.@a60364@ian@generic-tree-summer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/foliage/0.png/0.png);padding: 0; }
+div.@a60364@ian@generic-tree-summer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d6b4502435903df29fa8f8c4a6cf0734:a374cf2dbf80c64f1359b6fe7ad6eb1a:4ddb42793a59c1b7bfff1539dfc4d068$ */

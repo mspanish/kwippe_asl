@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38159@mul@mercury {max-width:75px; max-height:75px; }
+.@a38159@mul@mercury::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mercury/0.png/0.png);padding: 0; }
+div.@a38159@mul@mercury::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59997@ian@deposition-mercury {max-width:75px; max-height:75px; }
+.@a59997@ian@deposition-mercury::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mercury/0.png/0.png);padding: 0; }
+div.@a59997@ian@deposition-mercury::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59998@ian@deposition-mercury2 {max-width:75px; max-height:75px; }
+.@a59998@ian@deposition-mercury2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mercury/0.png/0.png);padding: 0; }
+div.@a59998@ian@deposition-mercury2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60564@ian@inputs-atmospheric-mercury {max-width:75px; max-height:75px; }
+.@a60564@ian@inputs-atmospheric-mercury::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mercury/0.png/0.png);padding: 0; }
+div.@a60564@ian@inputs-atmospheric-mercury::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60704@ian@light-mercury-spectra {max-width:75px; max-height:75px; }
+.@a60704@ian@light-mercury-spectra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mercury/0.png/0.png);padding: 0; }
+div.@a60704@ian@light-mercury-spectra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:caef0951fe5dfbcc0c65499a0fadf994:3b6aa4300bd1cff22abdffcfaeb7a951:4ddb42793a59c1b7bfff1539dfc4d068$ */

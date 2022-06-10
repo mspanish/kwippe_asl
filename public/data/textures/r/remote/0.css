@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59974@ian@deepwater-research-station {max-width:75px; max-height:75px; }
+.@a59974@ian@deepwater-research-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/remote/0.png/0.png);padding: 0; }
+div.@a59974@ian@deepwater-research-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60244@ian@field-station {max-width:75px; max-height:75px; }
+.@a60244@ian@field-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/remote/0.png/0.png);padding: 0; }
+div.@a60244@ian@field-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13546@gameicons-delapouite@tv-remote {max-width:75px; max-height:75px; }
+.@b13546@gameicons-delapouite@tv-remote::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/remote/0.png/0.png);padding: 0; }
+div.@b13546@gameicons-delapouite@tv-remote::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5edc22a5e448520e4a40fd8ad79bc97d:dd7906a69b696837cf9ceade31579b00:4ddb42793a59c1b7bfff1539dfc4d068$ */

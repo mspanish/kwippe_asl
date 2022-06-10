@@ -1,0 +1,113 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15447@em2@spiral-calendar-pad {max-width:75px; max-height:75px; }
+.@a15447@em2@spiral-calendar-pad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a15447@em2@spiral-calendar-pad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15491@em2@tear-off-calendar {max-width:75px; max-height:75px; }
+.@a15491@em2@tear-off-calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a15491@em2@tear-off-calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15764@emo@calendar-spiral {max-width:75px; max-height:75px; }
+.@a15764@emo@calendar-spiral::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a15764@emo@calendar-spiral::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15765@emo@calendar {max-width:75px; max-height:75px; }
+.@a15765@emo@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a15765@emo@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17592@fir@u1f4c5-calendar {max-width:75px; max-height:75px; }
+.@a17592@fir@u1f4c5-calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a17592@fir@u1f4c5-calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17593@fir@u1f4c6-tearoffcalendar {max-width:75px; max-height:75px; }
+.@a17593@fir@u1f4c6-tearoffcalendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a17593@fir@u1f4c6-tearoffcalendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17832@fir@spiralcalendarpad {max-width:75px; max-height:75px; }
+.@a17832@fir@spiralcalendarpad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a17832@fir@spiralcalendarpad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28236@jqe@calendar {max-width:75px; max-height:75px; }
+.@a28236@jqe@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a28236@jqe@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28806@jqe@spiral-calendar-pad {max-width:75px; max-height:75px; }
+.@a28806@jqe@spiral-calendar-pad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a28806@jqe@spiral-calendar-pad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28836@jqe@tear-off-calendar {max-width:75px; max-height:75px; }
+.@a28836@jqe@tear-off-calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a28836@jqe@tear-off-calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39397@noc@calendar {max-width:75px; max-height:75px; }
+.@a39397@noc@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a39397@noc@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40166@noc@spiral-calendar-pad {max-width:75px; max-height:75px; }
+.@a40166@noc@spiral-calendar-pad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a40166@noc@spiral-calendar-pad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43572@nog@spiral-calendar-pad-objects {max-width:75px; max-height:75px; }
+.@a43572@nog@spiral-calendar-pad-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a43572@nog@spiral-calendar-pad-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43698@nog@tear-off-calendar-objects {max-width:75px; max-height:75px; }
+.@a43698@nog@tear-off-calendar-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a43698@nog@tear-off-calendar-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44792@not@tear-off-calendar {max-width:75px; max-height:75px; }
+.@a44792@not@tear-off-calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a44792@not@tear-off-calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49788@str@731-calendar {max-width:75px; max-height:75px; }
+.@a49788@str@731-calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a49788@str@731-calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50267@tw2@calendar {max-width:75px; max-height:75px; }
+.@a50267@tw2@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a50267@tw2@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50944@tw2@tear-off-calendar {max-width:75px; max-height:75px; }
+.@a50944@tw2@tear-off-calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a50944@tw2@tear-off-calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51130@twe@calendar {max-width:75px; max-height:75px; }
+.@a51130@twe@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a51130@twe@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51657@twe@tear-off-calendar {max-width:75px; max-height:75px; }
+.@a51657@twe@tear-off-calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a51657@twe@tear-off-calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53815@videoplasty@schedule {max-width:75px; max-height:75px; }
+.@a53815@videoplasty@schedule::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a53815@videoplasty@schedule::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56345@win@calendar_dollar {max-width:75px; max-height:75px; }
+.@a56345@win@calendar_dollar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a56345@win@calendar_dollar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59313@ian@amphibolis-griffithii {max-width:75px; max-height:75px; }
+.@a59313@ian@amphibolis-griffithii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a59313@ian@amphibolis-griffithii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59938@ian@cymodocea-rotundata {max-width:75px; max-height:75px; }
+.@a59938@ian@cymodocea-rotundata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a59938@ian@cymodocea-rotundata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60121@ian@enhalus-acoroides {max-width:75px; max-height:75px; }
+.@a60121@ian@enhalus-acoroides::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a60121@ian@enhalus-acoroides::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60435@ian@halodule-wrightii {max-width:75px; max-height:75px; }
+.@a60435@ian@halodule-wrightii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a60435@ian@halodule-wrightii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60459@ian@halophila-stipulacea {max-width:75px; max-height:75px; }
+.@a60459@ian@halophila-stipulacea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a60459@ian@halophila-stipulacea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61184@ian@phyllospadix-spp {max-width:75px; max-height:75px; }
+.@a61184@ian@phyllospadix-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a61184@ian@phyllospadix-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61266@ian@posidonia-angustifolia {max-width:75px; max-height:75px; }
+.@a61266@ian@posidonia-angustifolia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a61266@ian@posidonia-angustifolia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61505@ian@ruppia-maritima-reproductive-shoots {max-width:75px; max-height:75px; }
+.@a61505@ian@ruppia-maritima-reproductive-shoots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a61505@ian@ruppia-maritima-reproductive-shoots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61764@ian@syringodium-filiforme {max-width:75px; max-height:75px; }
+.@a61764@ian@syringodium-filiforme::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a61764@ian@syringodium-filiforme::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61793@ian@thalassia-hemprichii-2 {max-width:75px; max-height:75px; }
+.@a61793@ian@thalassia-hemprichii-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a61793@ian@thalassia-hemprichii-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61799@ian@thalassodendron-ciliatum-2 {max-width:75px; max-height:75px; }
+.@a61799@ian@thalassodendron-ciliatum-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a61799@ian@thalassodendron-ciliatum-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62267@ian@zostera-noltii {max-width:75px; max-height:75px; }
+.@a62267@ian@zostera-noltii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/calendar/0.png/0.png);padding: 0; }
+div.@a62267@ian@zostera-noltii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:89dfbea4459a11ba9a728f5340c339e6:10e6fcf3e76c4aab5ae5625d87c05844:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26464@her@ounce-rampant {max-width:75px; max-height:75px; }
+.@a26464@her@ounce-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/ounce_rampant/0.png/0.png);padding: 0; }
+div.@a26464@her@ounce-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1592c65be6291d4cf94d67ff896c046a:68babcc94636314a8c6447ea2c08f5dd:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38712@mul@shampoo-animal-to {max-width:75px; max-height:75px; }
+.@a38712@mul@shampoo-animal-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/shampoo/0.png/0.png);padding: 0; }
+div.@a38712@mul@shampoo-animal-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38714@mul@shampoo {max-width:75px; max-height:75px; }
+.@a38714@mul@shampoo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/shampoo/0.png/0.png);padding: 0; }
+div.@a38714@mul@shampoo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:50921128ba7996439c1e90059683f4c9:3818075371c9e0a6c1ce65273c02229e:4ddb42793a59c1b7bfff1539dfc4d068$ */

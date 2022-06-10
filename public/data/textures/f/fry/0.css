@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37754@mul@fry-to {max-width:75px; max-height:75px; }
+.@a37754@mul@fry-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fry/0.png/0.png);padding: 0; }
+div.@a37754@mul@fry-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38873@mul@stir-fry-to {max-width:75px; max-height:75px; }
+.@a38873@mul@stir-fry-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fry/0.png/0.png);padding: 0; }
+div.@a38873@mul@stir-fry-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38874@mul@stir-fry {max-width:75px; max-height:75px; }
+.@a38874@mul@stir-fry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fry/0.png/0.png);padding: 0; }
+div.@a38874@mul@stir-fry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:398aa87660ffff379bfc532fdc97795d:e2258b34b230470cc38e680f0fc04c2c:4ddb42793a59c1b7bfff1539dfc4d068$ */

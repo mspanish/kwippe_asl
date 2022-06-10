@@ -1,0 +1,37 @@
+{
+    "sign": "hurry",
+    "signer": "asl2english",
+    "uid": 805,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 76,
+            "nd": 76
+        },
+        "end": {
+            "d": 76,
+            "nd": 76
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "plural"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

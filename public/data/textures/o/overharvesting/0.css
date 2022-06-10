@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60480@ian@heliopora-coerulea {max-width:75px; max-height:75px; }
+.@a60480@ian@heliopora-coerulea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/overharvesting/0.png/0.png);padding: 0; }
+div.@a60480@ian@heliopora-coerulea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bd8217ae72677f4ce7c7a6606b84c88f:e0bc492008d39ac32d97580417178fd8:4ddb42793a59c1b7bfff1539dfc4d068$ */

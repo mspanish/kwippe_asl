@@ -1,0 +1,37 @@
+{
+    "sign": "math",
+    "signer": "asl2english",
+    "uid": 996,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 27,
+            "nd": 27
+        },
+        "end": {
+            "d": 15,
+            "nd": 15
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

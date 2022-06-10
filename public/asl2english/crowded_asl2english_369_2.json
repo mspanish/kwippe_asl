@@ -1,0 +1,37 @@
+{
+    "sign": "crowded",
+    "signer": "asl2english",
+    "uid": 369,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 4,
+            "nd": 4
+        },
+        "end": {
+            "d": 4,
+            "nd": 4
+        }
+    },
+    "regions": [
+        "R-shoulder",
+        "hand"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            0,
+            1
+        ],
+        "type": "change"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

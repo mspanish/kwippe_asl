@@ -1,0 +1,37 @@
+{
+    "sign": "eat+noon",
+    "signer": "asl2english",
+    "uid": 478,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 51,
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "chin",
+        "R-ear"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

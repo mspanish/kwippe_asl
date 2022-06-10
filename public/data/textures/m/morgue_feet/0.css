@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12982@gameicons-delapouite@morgue-feet {max-width:75px; max-height:75px; }
+.@b12982@gameicons-delapouite@morgue-feet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/morgue_feet/0.png/0.png);padding: 0; }
+div.@b12982@gameicons-delapouite@morgue-feet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c6ee75707a866e78d35ab9649129ff5d:bc438e6d26cbc15ebd35881397932dcf:4ddb42793a59c1b7bfff1539dfc4d068$ */

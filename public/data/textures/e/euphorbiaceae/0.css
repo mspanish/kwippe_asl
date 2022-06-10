@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60186@ian@euphorbia-esula {max-width:75px; max-height:75px; }
+.@a60186@ian@euphorbia-esula::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/euphorbiaceae/0.png/0.png);padding: 0; }
+div.@a60186@ian@euphorbia-esula::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60199@ian@excoecaria-agallocha-female-flower {max-width:75px; max-height:75px; }
+.@a60199@ian@excoecaria-agallocha-female-flower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/euphorbiaceae/0.png/0.png);padding: 0; }
+div.@a60199@ian@excoecaria-agallocha-female-flower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60201@ian@excoecaria-agallocha-male-flower {max-width:75px; max-height:75px; }
+.@a60201@ian@excoecaria-agallocha-male-flower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/euphorbiaceae/0.png/0.png);padding: 0; }
+div.@a60201@ian@excoecaria-agallocha-male-flower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60202@ian@excoecaria-agallocha-seed-capsule {max-width:75px; max-height:75px; }
+.@a60202@ian@excoecaria-agallocha-seed-capsule::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/euphorbiaceae/0.png/0.png);padding: 0; }
+div.@a60202@ian@excoecaria-agallocha-seed-capsule::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60203@ian@excoecaria-agallocha {max-width:75px; max-height:75px; }
+.@a60203@ian@excoecaria-agallocha::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/euphorbiaceae/0.png/0.png);padding: 0; }
+div.@a60203@ian@excoecaria-agallocha::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2f714f7b9950d910724b7c1af10e30b3:1e81f77b63a2efab413375e97edd3e6b:4ddb42793a59c1b7bfff1539dfc4d068$ */

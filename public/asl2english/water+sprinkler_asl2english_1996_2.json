@@ -1,0 +1,37 @@
+{
+    "sign": "water+sprinkler",
+    "signer": "asl2english",
+    "uid": 1996,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 78,
+            "nd": 20
+        },
+        "end": {
+            "d": 4,
+            "nd": 20
+        }
+    },
+    "regions": [
+        "mouth",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

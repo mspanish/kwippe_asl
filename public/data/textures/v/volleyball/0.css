@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16953@emo@volleyball {max-width:75px; max-height:75px; }
+.@a16953@emo@volleyball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/volleyball/0.png/0.png);padding: 0; }
+div.@a16953@emo@volleyball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28131@ico@volleyball {max-width:75px; max-height:75px; }
+.@a28131@ico@volleyball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/volleyball/0.png/0.png);padding: 0; }
+div.@a28131@ico@volleyball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39141@mul@volleyball {max-width:75px; max-height:75px; }
+.@a39141@mul@volleyball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/volleyball/0.png/0.png);padding: 0; }
+div.@a39141@mul@volleyball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40271@noc@volleyball {max-width:75px; max-height:75px; }
+.@a40271@noc@volleyball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/volleyball/0.png/0.png);padding: 0; }
+div.@a40271@noc@volleyball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43854@nog@volleyball-activities {max-width:75px; max-height:75px; }
+.@a43854@nog@volleyball-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/volleyball/0.png/0.png);padding: 0; }
+div.@a43854@nog@volleyball-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a504@ara@sport-takraw {max-width:75px; max-height:75px; }
+.@a504@ara@sport-takraw::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/volleyball/0.png/0.png);padding: 0; }
+div.@a504@ara@sport-takraw::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b10003@em2@volleyball {max-width:75px; max-height:75px; }
+.@b10003@em2@volleyball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/volleyball/0.png/0.png);padding: 0; }
+div.@b10003@em2@volleyball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13594@gameicons-delapouite@volleyball-ball {max-width:75px; max-height:75px; }
+.@b13594@gameicons-delapouite@volleyball-ball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/volleyball/0.png/0.png);padding: 0; }
+div.@b13594@gameicons-delapouite@volleyball-ball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e7150046afffb552ced4dc2d3677e2a4:f4994c378adccfff95923f81f4175f71:4ddb42793a59c1b7bfff1539dfc4d068$ */

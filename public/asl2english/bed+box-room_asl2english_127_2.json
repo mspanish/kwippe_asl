@@ -1,0 +1,37 @@
+{
+    "sign": "bed+box-room",
+    "signer": "asl2english",
+    "uid": 127,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 18
+        },
+        "end": {
+            "d": 18,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "R-cheek",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

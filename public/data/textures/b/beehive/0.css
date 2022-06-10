@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36562@mul@beehive {max-width:75px; max-height:75px; }
+.@a36562@mul@beehive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/beehive/0.png/0.png);padding: 0; }
+div.@a36562@mul@beehive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12233@gameicons-delapouite@beehive {max-width:75px; max-height:75px; }
+.@b12233@gameicons-delapouite@beehive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/beehive/0.png/0.png);padding: 0; }
+div.@b12233@gameicons-delapouite@beehive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13522@gameicons-delapouite@tree-beehive {max-width:75px; max-height:75px; }
+.@b13522@gameicons-delapouite@tree-beehive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/beehive/0.png/0.png);padding: 0; }
+div.@b13522@gameicons-delapouite@tree-beehive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e6de57231a94c00dd034aab3feb441df:184ea032c7a4fd39dd999fcdfaad1d00:4ddb42793a59c1b7bfff1539dfc4d068$ */

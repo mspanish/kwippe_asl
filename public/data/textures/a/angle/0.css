@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27232@icf@angle-ruler {max-width:75px; max-height:75px; }
+.@a27232@icf@angle-ruler::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/angle/0.png/0.png);padding: 0; }
+div.@a27232@icf@angle-ruler::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57104@win@ruler {max-width:75px; max-height:75px; }
+.@a57104@win@ruler::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/angle/0.png/0.png);padding: 0; }
+div.@a57104@win@ruler::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2affaf2b7c5f5cc1b5aca937f3e89a9a:0e7f20baf282d6283ad9dfc80ca44ac2:4ddb42793a59c1b7bfff1539dfc4d068$ */

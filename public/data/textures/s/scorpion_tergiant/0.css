@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26515@her@scorpion-tergiant {max-width:75px; max-height:75px; }
+.@a26515@her@scorpion-tergiant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/scorpion_tergiant/0.png/0.png);padding: 0; }
+div.@a26515@her@scorpion-tergiant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5285ce7c4c0602710a744c3a83378085:f2ee0d363bdc5a8b10ae06929213c789:4ddb42793a59c1b7bfff1539dfc4d068$ */

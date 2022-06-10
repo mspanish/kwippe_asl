@@ -1,0 +1,37 @@
+{
+    "sign": "surround",
+    "signer": "asl2english",
+    "uid": 1765,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 4,
+            "nd": 42
+        },
+        "end": {
+            "d": 4,
+            "nd": 4
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "circle",
+        "dir": [
+            0,
+            0,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

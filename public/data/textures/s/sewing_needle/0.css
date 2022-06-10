@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14724@gameicons-lorc@sewing-needle {max-width:75px; max-height:75px; }
+.@b14724@gameicons-lorc@sewing-needle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sewing_needle/0.png/0.png);padding: 0; }
+div.@b14724@gameicons-lorc@sewing-needle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a8eb989bcec3673bb6a1c5a314befc13:57ad3f8299854a2fd61b478ba9bf11c6:4ddb42793a59c1b7bfff1539dfc4d068$ */

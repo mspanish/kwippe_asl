@@ -1,0 +1,37 @@
+{
+    "sign": "alligator",
+    "signer": "asl2english",
+    "uid": 42,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 35,
+            "nd": 35
+        },
+        "end": {
+            "d": 35,
+            "nd": 35
+        }
+    },
+    "regions": [
+        0,
+        "hand"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

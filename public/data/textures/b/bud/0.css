@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36703@mul@bud {max-width:75px; max-height:75px; }
+.@a36703@mul@bud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bud/0.png/0.png);padding: 0; }
+div.@a36703@mul@bud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36994@mul@cotton-bud {max-width:75px; max-height:75px; }
+.@a36994@mul@cotton-bud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bud/0.png/0.png);padding: 0; }
+div.@a36994@mul@cotton-bud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60474@ian@hedera-helix-fruit {max-width:75px; max-height:75px; }
+.@a60474@ian@hedera-helix-fruit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bud/0.png/0.png);padding: 0; }
+div.@a60474@ian@hedera-helix-fruit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60989@ian@nelumb-lutea-bud {max-width:75px; max-height:75px; }
+.@a60989@ian@nelumb-lutea-bud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bud/0.png/0.png);padding: 0; }
+div.@a60989@ian@nelumb-lutea-bud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13867@gameicons-lorc@bud {max-width:75px; max-height:75px; }
+.@b13867@gameicons-lorc@bud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bud/0.png/0.png);padding: 0; }
+div.@b13867@gameicons-lorc@bud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14130@gameicons-lorc@evil-bud {max-width:75px; max-height:75px; }
+.@b14130@gameicons-lorc@evil-bud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bud/0.png/0.png);padding: 0; }
+div.@b14130@gameicons-lorc@evil-bud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:48d493d55bf03d2707224ff46b191986:bd20c1ee257028b4522799aef2983a15:4ddb42793a59c1b7bfff1539dfc4d068$ */

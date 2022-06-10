@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37321@mul@east {max-width:75px; max-height:75px; }
+.@a37321@mul@east::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a37321@mul@east::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38272@mul@north-east {max-width:75px; max-height:75px; }
+.@a38272@mul@north-east::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a38272@mul@north-east::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38811@mul@south-east {max-width:75px; max-height:75px; }
+.@a38811@mul@south-east::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a38811@mul@south-east::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59240@ian@acacia-spp {max-width:75px; max-height:75px; }
+.@a59240@ian@acacia-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a59240@ian@acacia-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59250@ian@acer-platanoides {max-width:75px; max-height:75px; }
+.@a59250@ian@acer-platanoides::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a59250@ian@acer-platanoides::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59362@ian@aquaculture {max-width:75px; max-height:75px; }
+.@a59362@ian@aquaculture::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a59362@ian@aquaculture::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59380@ian@arecaceae-1 {max-width:75px; max-height:75px; }
+.@a59380@ian@arecaceae-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a59380@ian@arecaceae-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59381@ian@arecaceae2 {max-width:75px; max-height:75px; }
+.@a59381@ian@arecaceae2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a59381@ian@arecaceae2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59609@ian@cardinal-marker-east {max-width:75px; max-height:75px; }
+.@a59609@ian@cardinal-marker-east::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a59609@ian@cardinal-marker-east::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59879@ian@concrete-weir {max-width:75px; max-height:75px; }
+.@a59879@ian@concrete-weir::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a59879@ian@concrete-weir::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60060@ian@drinking-water {max-width:75px; max-height:75px; }
+.@a60060@ian@drinking-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a60060@ian@drinking-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60180@ian@eucalyptus-spp-1 {max-width:75px; max-height:75px; }
+.@a60180@ian@eucalyptus-spp-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a60180@ian@eucalyptus-spp-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60529@ian@hydro-power-station {max-width:75px; max-height:75px; }
+.@a60529@ian@hydro-power-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a60529@ian@hydro-power-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61624@ian@sewage-pumping-station {max-width:75px; max-height:75px; }
+.@a61624@ian@sewage-pumping-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a61624@ian@sewage-pumping-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61966@ian@usa-fl-apalachicola-bay {max-width:75px; max-height:75px; }
+.@a61966@ian@usa-fl-apalachicola-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a61966@ian@usa-fl-apalachicola-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61971@ian@usa-fl-choctawhatchee-bay {max-width:75px; max-height:75px; }
+.@a61971@ian@usa-fl-choctawhatchee-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a61971@ian@usa-fl-choctawhatchee-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61977@ian@usa-fl-pensacola-bay {max-width:75px; max-height:75px; }
+.@a61977@ian@usa-fl-pensacola-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a61977@ian@usa-fl-pensacola-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62085@ian@usa-ms-east-mississippi-sound {max-width:75px; max-height:75px; }
+.@a62085@ian@usa-ms-east-mississippi-sound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a62085@ian@usa-ms-east-mississippi-sound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62113@ian@usa-tx-galveston-bay {max-width:75px; max-height:75px; }
+.@a62113@ian@usa-tx-galveston-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/east/0.png/0.png);padding: 0; }
+div.@a62113@ian@usa-tx-galveston-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:52a4604d7fcc23136f8de429e791e198:834934adceb83f3284c2fa03d663a39c:4ddb42793a59c1b7bfff1539dfc4d068$ */

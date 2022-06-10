@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59482@ian@benthic-trawler {max-width:75px; max-height:75px; }
+.@a59482@ian@benthic-trawler::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/trawler/0.png/0.png);padding: 0; }
+div.@a59482@ian@benthic-trawler::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59483@ian@benthic-trawling {max-width:75px; max-height:75px; }
+.@a59483@ian@benthic-trawling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/trawler/0.png/0.png);padding: 0; }
+div.@a59483@ian@benthic-trawling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61282@ian@prawn_trawler {max-width:75px; max-height:75px; }
+.@a61282@ian@prawn_trawler::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/trawler/0.png/0.png);padding: 0; }
+div.@a61282@ian@prawn_trawler::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61843@ian@trawler {max-width:75px; max-height:75px; }
+.@a61843@ian@trawler::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/trawler/0.png/0.png);padding: 0; }
+div.@a61843@ian@trawler::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61844@ian@trawler2 {max-width:75px; max-height:75px; }
+.@a61844@ian@trawler2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/trawler/0.png/0.png);padding: 0; }
+div.@a61844@ian@trawler2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8388dc7dfc47708d83d87b95ae0d9f2a:f258ce49d12532bf2cf0b7b75db02801:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61807@ian@tipi-teepee {max-width:75px; max-height:75px; }
+.@a61807@ian@tipi-teepee::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/tepee/0.png/0.png);padding: 0; }
+div.@a61807@ian@tipi-teepee::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:37e888df7d30f2ee1147f6e3900d95ee:09b5991c6211ff553f25e4fb1b2bc0fe:4ddb42793a59c1b7bfff1539dfc4d068$ */

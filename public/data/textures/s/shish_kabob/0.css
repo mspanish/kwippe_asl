@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a58946@baianet@group {max-width:75px; max-height:75px; }
+.@a58946@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shish_kabob/0.png/0.png);padding: 0; }
+div.@a58946@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6851@df-fastfoodicons@guillemotleft {max-width:75px; max-height:75px; }
+.@a6851@df-fastfoodicons@guillemotleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shish_kabob/0.png/0.png);padding: 0; }
+div.@a6851@df-fastfoodicons@guillemotleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6884@df-fastfoodicons@percent {max-width:75px; max-height:75px; }
+.@a6884@df-fastfoodicons@percent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shish_kabob/0.png/0.png);padding: 0; }
+div.@a6884@df-fastfoodicons@percent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6919@df-fastfoodicons@yen {max-width:75px; max-height:75px; }
+.@a6919@df-fastfoodicons@yen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shish_kabob/0.png/0.png);padding: 0; }
+div.@a6919@df-fastfoodicons@yen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:16eee9420e7a9c608106ee20f5eff874:5531a02c220e5fc52b596469c86ba519:4ddb42793a59c1b7bfff1539dfc4d068$ */

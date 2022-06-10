@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2565@bon@toothbrush-5065 {max-width:75px; max-height:75px; }
+.@a2565@bon@toothbrush-5065::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toothbrush/0.png/0.png);padding: 0; }
+div.@a2565@bon@toothbrush-5065::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29983@knl@toothbrush {max-width:75px; max-height:75px; }
+.@a29983@knl@toothbrush::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toothbrush/0.png/0.png);padding: 0; }
+div.@a29983@knl@toothbrush::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39043@mul@toothbrush-electric {max-width:75px; max-height:75px; }
+.@a39043@mul@toothbrush-electric::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toothbrush/0.png/0.png);padding: 0; }
+div.@a39043@mul@toothbrush-electric::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39044@mul@toothbrush {max-width:75px; max-height:75px; }
+.@a39044@mul@toothbrush::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toothbrush/0.png/0.png);padding: 0; }
+div.@a39044@mul@toothbrush::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56066@web@toothbrush {max-width:75px; max-height:75px; }
+.@a56066@web@toothbrush::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toothbrush/0.png/0.png);padding: 0; }
+div.@a56066@web@toothbrush::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:695b477e0e1e04bb49ba24191d3a22dd:d656c6399e74ad84ed26893676a7c702:4ddb42793a59c1b7bfff1539dfc4d068$ */

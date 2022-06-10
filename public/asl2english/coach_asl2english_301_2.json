@@ -1,0 +1,37 @@
+{
+    "sign": "coach",
+    "signer": "asl2english",
+    "uid": 301,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 30,
+            "nd": null
+        },
+        "end": {
+            "d": 30,
+            "nd": null
+        }
+    },
+    "regions": [
+        "R-shoulder",
+        "R-shoulder"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

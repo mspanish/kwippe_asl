@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14574@ele@ul {max-width:75px; max-height:75px; }
+.@a14574@ele@ul::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unordered/0.png/0.png);padding: 0; }
+div.@a14574@ele@ul::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29127@jqu@list-ul {max-width:75px; max-height:75px; }
+.@a29127@jqu@list-ul::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unordered/0.png/0.png);padding: 0; }
+div.@a29127@jqu@list-ul::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30232@lib@list-ul {max-width:75px; max-height:75px; }
+.@a30232@lib@list-ul::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unordered/0.png/0.png);padding: 0; }
+div.@a30232@lib@list-ul::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53346@vaa@list-ul {max-width:75px; max-height:75px; }
+.@a53346@vaa@list-ul::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unordered/0.png/0.png);padding: 0; }
+div.@a53346@vaa@list-ul::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a869@awe@list-ul {max-width:75px; max-height:75px; }
+.@a869@awe@list-ul::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/unordered/0.png/0.png);padding: 0; }
+div.@a869@awe@list-ul::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1b849204e30dddbb0110ba9f6c85dd2d:d3de8dbd0c7027003e542518c730d232:4ddb42793a59c1b7bfff1539dfc4d068$ */

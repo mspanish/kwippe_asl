@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a47278@pic@badge-accept {max-width:75px; max-height:75px; }
+.@a47278@pic@badge-accept::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47278@pic@badge-accept::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47279@pic@badge-cancel {max-width:75px; max-height:75px; }
+.@a47279@pic@badge-cancel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47279@pic@badge-cancel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47280@pic@badge-down {max-width:75px; max-height:75px; }
+.@a47280@pic@badge-down::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47280@pic@badge-down::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47281@pic@badge-edit {max-width:75px; max-height:75px; }
+.@a47281@pic@badge-edit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47281@pic@badge-edit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47282@pic@badge-eject {max-width:75px; max-height:75px; }
+.@a47282@pic@badge-eject::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47282@pic@badge-eject::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47283@pic@badge-information {max-width:75px; max-height:75px; }
+.@a47283@pic@badge-information::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47283@pic@badge-information::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47284@pic@badge-minus {max-width:75px; max-height:75px; }
+.@a47284@pic@badge-minus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47284@pic@badge-minus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47285@pic@badge-pause {max-width:75px; max-height:75px; }
+.@a47285@pic@badge-pause::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47285@pic@badge-pause::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47286@pic@badge-plus {max-width:75px; max-height:75px; }
+.@a47286@pic@badge-plus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47286@pic@badge-plus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47287@pic@badge-run {max-width:75px; max-height:75px; }
+.@a47287@pic@badge-run::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47287@pic@badge-run::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47288@pic@badge-security {max-width:75px; max-height:75px; }
+.@a47288@pic@badge-security::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47288@pic@badge-security::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47289@pic@badge-settings {max-width:75px; max-height:75px; }
+.@a47289@pic@badge-settings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47289@pic@badge-settings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47290@pic@badge-stop {max-width:75px; max-height:75px; }
+.@a47290@pic@badge-stop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/picol/0.png/0.png);padding: 0; }
+div.@a47290@pic@badge-stop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d2ae6661bb140830f5430c56af5afc21:780fd8416ff45ae7a577b00f48270034:4ddb42793a59c1b7bfff1539dfc4d068$ */

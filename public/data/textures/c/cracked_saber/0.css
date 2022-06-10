@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13972@gameicons-lorc@cracked-saber {max-width:75px; max-height:75px; }
+.@b13972@gameicons-lorc@cracked-saber::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cracked_saber/0.png/0.png);padding: 0; }
+div.@b13972@gameicons-lorc@cracked-saber::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:001307182303b858cf66ab8bfe0af0e0:233907bf6558f0803e2773e6c65f7081:4ddb42793a59c1b7bfff1539dfc4d068$ */

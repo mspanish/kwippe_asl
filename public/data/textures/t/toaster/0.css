@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29970@knl@toastr {max-width:75px; max-height:75px; }
+.@a29970@knl@toastr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/toaster/0.png/0.png);padding: 0; }
+div.@a29970@knl@toastr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39026@mul@toaster {max-width:75px; max-height:75px; }
+.@a39026@mul@toaster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/toaster/0.png/0.png);padding: 0; }
+div.@a39026@mul@toaster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13498@gameicons-delapouite@toaster {max-width:75px; max-height:75px; }
+.@b13498@gameicons-delapouite@toaster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/toaster/0.png/0.png);padding: 0; }
+div.@b13498@gameicons-delapouite@toaster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:08066dcf60f32367d787071238899760:181c7e7e2eb5f111c768d54e5548c8ce:4ddb42793a59c1b7bfff1539dfc4d068$ */

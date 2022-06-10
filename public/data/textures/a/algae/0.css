@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59927@ian@cyanobacteria {max-width:75px; max-height:75px; }
+.@a59927@ian@cyanobacteria::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/algae/0.png/0.png);padding: 0; }
+div.@a59927@ian@cyanobacteria::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59928@ian@cyanobacterial-mat {max-width:75px; max-height:75px; }
+.@a59928@ian@cyanobacterial-mat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/algae/0.png/0.png);padding: 0; }
+div.@a59928@ian@cyanobacterial-mat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60016@ian@diadema-antillarum {max-width:75px; max-height:75px; }
+.@a60016@ian@diadema-antillarum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/algae/0.png/0.png);padding: 0; }
+div.@a60016@ian@diadema-antillarum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60738@ian@lobaria-pulmonaria {max-width:75px; max-height:75px; }
+.@a60738@ian@lobaria-pulmonaria::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/algae/0.png/0.png);padding: 0; }
+div.@a60738@ian@lobaria-pulmonaria::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61582@ian@seagrass-leaf-with-cladophora {max-width:75px; max-height:75px; }
+.@a61582@ian@seagrass-leaf-with-cladophora::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/algae/0.png/0.png);padding: 0; }
+div.@a61582@ian@seagrass-leaf-with-cladophora::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12134@gameicons-delapouite@algae {max-width:75px; max-height:75px; }
+.@b12134@gameicons-delapouite@algae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/algae/0.png/0.png);padding: 0; }
+div.@b12134@gameicons-delapouite@algae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:43e7f58670a8454065fbd449dd1ed778:4ff70d0fc2963416aa159fb4a81b3680:4ddb42793a59c1b7bfff1539dfc4d068$ */

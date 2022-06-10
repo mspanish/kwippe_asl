@@ -1,0 +1,45 @@
+{
+    "sign": "mock",
+    "signer": "aslLex",
+    "uid": 3006,
+    "synonyms": "make fun of, mock, ridicule, taunt, tease, torment",
+    "handshapes": {
+        "begin": {
+            "d": "horns",
+            "nd": null
+        },
+        "end": {
+            "d": "horns",
+            "nd": "horns"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "CheekNose",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 2.8,
+    "category": null
+}

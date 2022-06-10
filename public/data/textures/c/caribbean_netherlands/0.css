@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16039@emo@bq {max-width:75px; max-height:75px; }
+.@a16039@emo@bq::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/caribbean_netherlands/0.png/0.png);padding: 0; }
+div.@a16039@emo@bq::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37480@mul@bonaire-dutch-antillies {max-width:75px; max-height:75px; }
+.@a37480@mul@bonaire-dutch-antillies::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/caribbean_netherlands/0.png/0.png);padding: 0; }
+div.@a37480@mul@bonaire-dutch-antillies::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fc28c75ddd7cbe5fb0591652feefd694:321026f8cea53a3736b7137181a43593:4ddb42793a59c1b7bfff1539dfc4d068$ */

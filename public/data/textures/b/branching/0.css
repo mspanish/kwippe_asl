@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59259@ian@acropora-black-band-disease {max-width:75px; max-height:75px; }
+.@a59259@ian@acropora-black-band-disease::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/branching/0.png/0.png);padding: 0; }
+div.@a59259@ian@acropora-black-band-disease::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59260@ian@acropora-bleached-1 {max-width:75px; max-height:75px; }
+.@a59260@ian@acropora-bleached-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/branching/0.png/0.png);padding: 0; }
+div.@a59260@ian@acropora-bleached-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59261@ian@acropora-bleached-2 {max-width:75px; max-height:75px; }
+.@a59261@ian@acropora-bleached-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/branching/0.png/0.png);padding: 0; }
+div.@a59261@ian@acropora-bleached-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59262@ian@acropora-brown-band-disease {max-width:75px; max-height:75px; }
+.@a59262@ian@acropora-brown-band-disease::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/branching/0.png/0.png);padding: 0; }
+div.@a59262@ian@acropora-brown-band-disease::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59532@ian@branching-coral-juvenile {max-width:75px; max-height:75px; }
+.@a59532@ian@branching-coral-juvenile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/branching/0.png/0.png);padding: 0; }
+div.@a59532@ian@branching-coral-juvenile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59533@ian@branching-coral {max-width:75px; max-height:75px; }
+.@a59533@ian@branching-coral::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/branching/0.png/0.png);padding: 0; }
+div.@a59533@ian@branching-coral::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c61b26e6cf49df53e261f50840c10889:39ef4e4daed9d555150f08b99dd3a1e2:4ddb42793a59c1b7bfff1539dfc4d068$ */

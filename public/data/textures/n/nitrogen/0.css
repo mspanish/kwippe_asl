@@ -1,0 +1,83 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59397@ian@atmospheric-nitrogen {max-width:75px; max-height:75px; }
+.@a59397@ian@atmospheric-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59397@ian@atmospheric-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59823@ian@concentration-high-nitrogen {max-width:75px; max-height:75px; }
+.@a59823@ian@concentration-high-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59823@ian@concentration-high-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59824@ian@concentration-high-np {max-width:75px; max-height:75px; }
+.@a59824@ian@concentration-high-np::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59824@ian@concentration-high-np::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59843@ian@concentration-intermittent-nitrogen {max-width:75px; max-height:75px; }
+.@a59843@ian@concentration-intermittent-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59843@ian@concentration-intermittent-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59844@ian@concentration-intermittent-np {max-width:75px; max-height:75px; }
+.@a59844@ian@concentration-intermittent-np::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59844@ian@concentration-intermittent-np::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59863@ian@concentration-low-nitrogen {max-width:75px; max-height:75px; }
+.@a59863@ian@concentration-low-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59863@ian@concentration-low-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59864@ian@concentration-low-np {max-width:75px; max-height:75px; }
+.@a59864@ian@concentration-low-np::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59864@ian@concentration-low-np::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59980@ian@delta-high-del-15n {max-width:75px; max-height:75px; }
+.@a59980@ian@delta-high-del-15n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59980@ian@delta-high-del-15n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59983@ian@delta-intermittent-del-15n {max-width:75px; max-height:75px; }
+.@a59983@ian@delta-intermittent-del-15n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59983@ian@delta-intermittent-del-15n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59986@ian@delta-low-del-15n {max-width:75px; max-height:75px; }
+.@a59986@ian@delta-low-del-15n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a59986@ian@delta-low-del-15n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60237@ian@fertilizer-factory {max-width:75px; max-height:75px; }
+.@a60237@ian@fertilizer-factory::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a60237@ian@fertilizer-factory::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60565@ian@inputs-atmospheric-nitrogen {max-width:75px; max-height:75px; }
+.@a60565@ian@inputs-atmospheric-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a60565@ian@inputs-atmospheric-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60724@ian@limitation-nitrogen {max-width:75px; max-height:75px; }
+.@a60724@ian@limitation-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a60724@ian@limitation-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61297@ian@process-denitrification-1 {max-width:75px; max-height:75px; }
+.@a61297@ian@process-denitrification-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61297@ian@process-denitrification-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61298@ian@process-denitrification-2 {max-width:75px; max-height:75px; }
+.@a61298@ian@process-denitrification-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61298@ian@process-denitrification-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61301@ian@process-nitrification {max-width:75px; max-height:75px; }
+.@a61301@ian@process-nitrification::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61301@ian@process-nitrification::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61302@ian@process-nitrogen-fixation-1 {max-width:75px; max-height:75px; }
+.@a61302@ian@process-nitrogen-fixation-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61302@ian@process-nitrogen-fixation-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61303@ian@process-nitrogen-fixation-2 {max-width:75px; max-height:75px; }
+.@a61303@ian@process-nitrogen-fixation-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61303@ian@process-nitrogen-fixation-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61407@ian@response-bioassay-high-n {max-width:75px; max-height:75px; }
+.@a61407@ian@response-bioassay-high-n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61407@ian@response-bioassay-high-n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61408@ian@response-bioassay-high-np {max-width:75px; max-height:75px; }
+.@a61408@ian@response-bioassay-high-np::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61408@ian@response-bioassay-high-np::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61412@ian@response-bioassay-low-n {max-width:75px; max-height:75px; }
+.@a61412@ian@response-bioassay-low-n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61412@ian@response-bioassay-low-n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61413@ian@response-bioassay-low-np {max-width:75px; max-height:75px; }
+.@a61413@ian@response-bioassay-low-np::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61413@ian@response-bioassay-low-np::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61810@ian@total-nitrogen {max-width:75px; max-height:75px; }
+.@a61810@ian@total-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61810@ian@total-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61893@ian@uptake-nitrogen {max-width:75px; max-height:75px; }
+.@a61893@ian@uptake-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/nitrogen/0.png/0.png);padding: 0; }
+div.@a61893@ian@uptake-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9bfda9238d3e51ea13e1c1c1543345e4:03a294b44a21886b01b2900ec777bee4:4ddb42793a59c1b7bfff1539dfc4d068$ */

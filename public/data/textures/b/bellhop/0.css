@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14653@em2@bellhop-bell {max-width:75px; max-height:75px; }
+.@a14653@em2@bellhop-bell::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bellhop/0.png/0.png);padding: 0; }
+div.@a14653@em2@bellhop-bell::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15709@emo@bellhop {max-width:75px; max-height:75px; }
+.@a15709@emo@bellhop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bellhop/0.png/0.png);padding: 0; }
+div.@a15709@emo@bellhop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28193@jqe@bellhop-bell {max-width:75px; max-height:75px; }
+.@a28193@jqe@bellhop-bell::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bellhop/0.png/0.png);padding: 0; }
+div.@a28193@jqe@bellhop-bell::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39334@noc@bellhop-bell {max-width:75px; max-height:75px; }
+.@a39334@noc@bellhop-bell::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bellhop/0.png/0.png);padding: 0; }
+div.@a39334@noc@bellhop-bell::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40659@nog@bellhop-bell-travel-places {max-width:75px; max-height:75px; }
+.@a40659@nog@bellhop-bell-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bellhop/0.png/0.png);padding: 0; }
+div.@a40659@nog@bellhop-bell-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1ff00f223c5c278b9c73fd6bc6f6cc72:a193838aadec05d37fa7cc8966b48da5:4ddb42793a59c1b7bfff1539dfc4d068$ */

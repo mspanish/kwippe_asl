@@ -1,0 +1,37 @@
+{
+    "sign": "congratulations",
+    "signer": "asl2english",
+    "uid": 332,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 36,
+            "nd": 36
+        },
+        "end": {
+            "d": 36,
+            "nd": 36
+        }
+    },
+    "regions": [
+        "hand",
+        "hand"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "grow+collect",
+    "signer": "asl2english",
+    "uid": 733,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 51,
+            "nd": 74
+        },
+        "end": {
+            "d": 12,
+            "nd": 30
+        }
+    },
+    "regions": [
+        "chest",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            0,
+            1
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

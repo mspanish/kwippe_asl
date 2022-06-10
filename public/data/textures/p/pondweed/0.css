@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61275@ian@potamogeton-crispus {max-width:75px; max-height:75px; }
+.@a61275@ian@potamogeton-crispus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/pondweed/0.png/0.png);padding: 0; }
+div.@a61275@ian@potamogeton-crispus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61276@ian@potamogeton-perfoliatus {max-width:75px; max-height:75px; }
+.@a61276@ian@potamogeton-perfoliatus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/pondweed/0.png/0.png);padding: 0; }
+div.@a61276@ian@potamogeton-perfoliatus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61721@ian@stuckenia-pectinata {max-width:75px; max-height:75px; }
+.@a61721@ian@stuckenia-pectinata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/pondweed/0.png/0.png);padding: 0; }
+div.@a61721@ian@stuckenia-pectinata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62256@ian@zannichellia-palustris {max-width:75px; max-height:75px; }
+.@a62256@ian@zannichellia-palustris::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/pondweed/0.png/0.png);padding: 0; }
+div.@a62256@ian@zannichellia-palustris::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:81c690c1e8c7b3a83bd61849737ed84a:5c836eab7aed5ca0dcc2db0251c14dbf:4ddb42793a59c1b7bfff1539dfc4d068$ */

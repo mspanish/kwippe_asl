@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12797@gameicons-delapouite@huts-village {max-width:75px; max-height:75px; }
+.@b12797@gameicons-delapouite@huts-village::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/huts/0.png/0.png);padding: 0; }
+div.@b12797@gameicons-delapouite@huts-village::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bc8d31b7f8725e577820d95c6c79b26f:02bcd292018fa4f6d419c04f68a6384b:4ddb42793a59c1b7bfff1539dfc4d068$ */

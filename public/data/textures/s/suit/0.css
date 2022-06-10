@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38900@mul@suit-ladys {max-width:75px; max-height:75px; }
+.@a38900@mul@suit-ladys::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/suit/0.png/0.png);padding: 0; }
+div.@a38900@mul@suit-ladys::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38921@mul@swimming-costume {max-width:75px; max-height:75px; }
+.@a38921@mul@swimming-costume::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/suit/0.png/0.png);padding: 0; }
+div.@a38921@mul@swimming-costume::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38922@mul@swimming-trunks {max-width:75px; max-height:75px; }
+.@a38922@mul@swimming-trunks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/suit/0.png/0.png);padding: 0; }
+div.@a38922@mul@swimming-trunks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42873@nog@one-piece-swimsuit-objects-clothing {max-width:75px; max-height:75px; }
+.@a42873@nog@one-piece-swimsuit-objects-clothing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/suit/0.png/0.png);padding: 0; }
+div.@a42873@nog@one-piece-swimsuit-objects-clothing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42875@nog@one-piece-swimsuit_objects-clothing_25ft2 {max-width:75px; max-height:75px; }
+.@a42875@nog@one-piece-swimsuit_objects-clothing_25ft2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/suit/0.png/0.png);padding: 0; }
+div.@a42875@nog@one-piece-swimsuit_objects-clothing_25ft2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42876@nog@one-piece-swimsuit_objects-clothing_a3alw {max-width:75px; max-height:75px; }
+.@a42876@nog@one-piece-swimsuit_objects-clothing_a3alw::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/suit/0.png/0.png);padding: 0; }
+div.@a42876@nog@one-piece-swimsuit_objects-clothing_a3alw::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12741@gameicons-delapouite@hazmat-suit {max-width:75px; max-height:75px; }
+.@b12741@gameicons-delapouite@hazmat-suit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/suit/0.png/0.png);padding: 0; }
+div.@b12741@gameicons-delapouite@hazmat-suit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13251@gameicons-delapouite@saiyan-suit {max-width:75px; max-height:75px; }
+.@b13251@gameicons-delapouite@saiyan-suit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/suit/0.png/0.png);padding: 0; }
+div.@b13251@gameicons-delapouite@saiyan-suit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c7cfed8b269fceedd460f3780a26b6c6:12e6770b5c82ae288aecabf139236b69:4ddb42793a59c1b7bfff1539dfc4d068$ */

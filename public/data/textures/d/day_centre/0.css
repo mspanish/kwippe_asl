@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1725@bon@day-centre-1021 {max-width:75px; max-height:75px; }
+.@a1725@bon@day-centre-1021::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/day_centre/0.png/0.png);padding: 0; }
+div.@a1725@bon@day-centre-1021::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1726@bon@day-centre-4030 {max-width:75px; max-height:75px; }
+.@a1726@bon@day-centre-4030::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/day_centre/0.png/0.png);padding: 0; }
+div.@a1726@bon@day-centre-4030::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1727@bon@day-centre-4251 {max-width:75px; max-height:75px; }
+.@a1727@bon@day-centre-4251::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/day_centre/0.png/0.png);padding: 0; }
+div.@a1727@bon@day-centre-4251::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1728@bon@day-centre-8025 {max-width:75px; max-height:75px; }
+.@a1728@bon@day-centre-8025::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/day_centre/0.png/0.png);padding: 0; }
+div.@a1728@bon@day-centre-8025::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dde934bfd8e34d7d049942b32aad0342:bd5eeffdcedf6430881ad9b0df3be197:4ddb42793a59c1b7bfff1539dfc4d068$ */

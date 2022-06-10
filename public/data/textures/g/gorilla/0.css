@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37801@mul@gorilla {max-width:75px; max-height:75px; }
+.@a37801@mul@gorilla::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gorilla/0.png/0.png);padding: 0; }
+div.@a37801@mul@gorilla::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60386@ian@gorilla-gorilla {max-width:75px; max-height:75px; }
+.@a60386@ian@gorilla-gorilla::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gorilla/0.png/0.png);padding: 0; }
+div.@a60386@ian@gorilla-gorilla::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12701@gameicons-delapouite@gorilla {max-width:75px; max-height:75px; }
+.@b12701@gameicons-delapouite@gorilla::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gorilla/0.png/0.png);padding: 0; }
+div.@b12701@gameicons-delapouite@gorilla::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9e9cfd85dfa38d23f3a9f865f214600d:7379e6f6370d55fd5cf11e9588957837:4ddb42793a59c1b7bfff1539dfc4d068$ */

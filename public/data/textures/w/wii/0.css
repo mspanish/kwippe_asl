@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39220@mul@wii-fit {max-width:75px; max-height:75px; }
+.@a39220@mul@wii-fit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wii/0.png/0.png);padding: 0; }
+div.@a39220@mul@wii-fit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39221@mul@wii {max-width:75px; max-height:75px; }
+.@a39221@mul@wii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wii/0.png/0.png);padding: 0; }
+div.@a39221@mul@wii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2406a0c1689ddb9ac33743def728fb80:85bd70a945ba21390c55d105438d70cc:4ddb42793a59c1b7bfff1539dfc4d068$ */

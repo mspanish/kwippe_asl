@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38539@mul@pyramid-triangular-base {max-width:75px; max-height:75px; }
+.@a38539@mul@pyramid-triangular-base::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/pyramid_triangular_base/0.png/0.png);padding: 0; }
+div.@a38539@mul@pyramid-triangular-base::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5b218ce2306a8557a49287238584ea61:de038022534a4130de2c21026debef54:4ddb42793a59c1b7bfff1539dfc4d068$ */

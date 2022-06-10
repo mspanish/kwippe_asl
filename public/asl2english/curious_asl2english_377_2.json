@@ -1,0 +1,37 @@
+{
+    "sign": "curious",
+    "signer": "asl2english",
+    "uid": 377,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 44,
+            "nd": null
+        },
+        "end": {
+            "d": 44,
+            "nd": null
+        }
+    },
+    "regions": [
+        "neck",
+        "neck"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

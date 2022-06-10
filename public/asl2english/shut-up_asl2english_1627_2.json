@@ -1,0 +1,37 @@
+{
+    "sign": "shut-up",
+    "signer": "asl2english",
+    "uid": 1627,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 39,
+            "nd": 51
+        },
+        "end": {
+            "d": 18,
+            "nd": null
+        }
+    },
+    "regions": [
+        "stomach",
+        "forehead"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            -1
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

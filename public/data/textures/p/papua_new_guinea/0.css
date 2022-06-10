@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16190@emo@pg {max-width:75px; max-height:75px; }
+.@a16190@emo@pg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/papua_new_guinea/0.png/0.png);padding: 0; }
+div.@a16190@emo@pg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4623@wikim-sodacan@national_emblem_of_papua_new_guinea {max-width:75px; max-height:75px; }
+.@d4623@wikim-sodacan@national_emblem_of_papua_new_guinea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/papua_new_guinea/0.png/0.png);padding: 0; }
+div.@d4623@wikim-sodacan@national_emblem_of_papua_new_guinea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e41681e48410cc1980f8a839e54516ba:7526d67068c061c0647273a7ac91cac3:4ddb42793a59c1b7bfff1539dfc4d068$ */

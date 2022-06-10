@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14179@gameicons-lorc@fish-corpse {max-width:75px; max-height:75px; }
+.@b14179@gameicons-lorc@fish-corpse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/corpse/0.png/0.png);padding: 0; }
+div.@b14179@gameicons-lorc@fish-corpse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:411d5d6aa9739d694ed965c7778ae22d:b985f611eb5dcc7daed1d5725b741535:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16152@emo@mc {max-width:75px; max-height:75px; }
+.@a16152@emo@mc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/monaco/0.png/0.png);padding: 0; }
+div.@a16152@emo@mc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37079@mul@monaco {max-width:75px; max-height:75px; }
+.@a37079@mul@monaco::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/monaco/0.png/0.png);padding: 0; }
+div.@a37079@mul@monaco::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1750@wikim-all@blason_pays_monaco {max-width:75px; max-height:75px; }
+.@d1750@wikim-all@blason_pays_monaco::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/monaco/0.png/0.png);padding: 0; }
+div.@d1750@wikim-all@blason_pays_monaco::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2102@wikim-all@crowned_coat_of_arms_of_monaco {max-width:75px; max-height:75px; }
+.@d2102@wikim-all@crowned_coat_of_arms_of_monaco::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/monaco/0.png/0.png);padding: 0; }
+div.@d2102@wikim-all@crowned_coat_of_arms_of_monaco::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2587@wikim-all@flag_of_monaco {max-width:75px; max-height:75px; }
+.@d2587@wikim-all@flag_of_monaco::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/monaco/0.png/0.png);padding: 0; }
+div.@d2587@wikim-all@flag_of_monaco::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ba70659182fe128a02c2396d36288cbd:38d1aa9ecf2abc1232bd4553843acd64:4ddb42793a59c1b7bfff1539dfc4d068$ */

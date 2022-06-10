@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59641@ian@center-pivot-irrigation {max-width:75px; max-height:75px; }
+.@a59641@ian@center-pivot-irrigation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/irrigation/0.png/0.png);padding: 0; }
+div.@a59641@ian@center-pivot-irrigation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60352@ian@garden-hose {max-width:75px; max-height:75px; }
+.@a60352@ian@garden-hose::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/irrigation/0.png/0.png);padding: 0; }
+div.@a60352@ian@garden-hose::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60403@ian@groundwater-extraction-compression {max-width:75px; max-height:75px; }
+.@a60403@ian@groundwater-extraction-compression::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/irrigation/0.png/0.png);padding: 0; }
+div.@a60403@ian@groundwater-extraction-compression::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60598@ian@irrigation {max-width:75px; max-height:75px; }
+.@a60598@ian@irrigation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/irrigation/0.png/0.png);padding: 0; }
+div.@a60598@ian@irrigation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9c83c20a105b55826bd2da20104e068b:882721607c28ef82cbc927be13b22e0e:4ddb42793a59c1b7bfff1539dfc4d068$ */

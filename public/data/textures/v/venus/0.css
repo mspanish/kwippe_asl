@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1086@awe@venus {max-width:75px; max-height:75px; }
+.@a1086@awe@venus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/venus/0.png/0.png);padding: 0; }
+div.@a1086@awe@venus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36381@met@venus {max-width:75px; max-height:75px; }
+.@a36381@met@venus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/venus/0.png/0.png);padding: 0; }
+div.@a36381@met@venus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39129@mul@venus {max-width:75px; max-height:75px; }
+.@a39129@mul@venus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/venus/0.png/0.png);padding: 0; }
+div.@a39129@mul@venus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13579@gameicons-delapouite@venus-of-willendorf {max-width:75px; max-height:75px; }
+.@b13579@gameicons-delapouite@venus-of-willendorf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/venus/0.png/0.png);padding: 0; }
+div.@b13579@gameicons-delapouite@venus-of-willendorf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6d261a1711753be0c66a5ad1f79011c1:d2b5e61fee368bd2bc73629addec6d85:4ddb42793a59c1b7bfff1539dfc4d068$ */

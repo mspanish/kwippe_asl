@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15375@em2@shamrock {max-width:75px; max-height:75px; }
+.@a15375@em2@shamrock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/shamrock/0.png/0.png);padding: 0; }
+div.@a15375@em2@shamrock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16756@emo@shamrock {max-width:75px; max-height:75px; }
+.@a16756@emo@shamrock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/shamrock/0.png/0.png);padding: 0; }
+div.@a16756@emo@shamrock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40093@noc@shamrock {max-width:75px; max-height:75px; }
+.@a40093@noc@shamrock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/shamrock/0.png/0.png);padding: 0; }
+div.@a40093@noc@shamrock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43368@nog@shamrock-animals-nature {max-width:75px; max-height:75px; }
+.@a43368@nog@shamrock-animals-nature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/shamrock/0.png/0.png);padding: 0; }
+div.@a43368@nog@shamrock-animals-nature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50853@tw2@shamrock {max-width:75px; max-height:75px; }
+.@a50853@tw2@shamrock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/shamrock/0.png/0.png);padding: 0; }
+div.@a50853@tw2@shamrock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13291@gameicons-delapouite@shamrock {max-width:75px; max-height:75px; }
+.@b13291@gameicons-delapouite@shamrock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/shamrock/0.png/0.png);padding: 0; }
+div.@b13291@gameicons-delapouite@shamrock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:96a6c3d28445c2653ccd53be03cff8ad:76763b84fabeba484f06ad2ebdfd7364:4ddb42793a59c1b7bfff1539dfc4d068$ */

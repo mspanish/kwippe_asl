@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61879@ian@uca-annulipes {max-width:75px; max-height:75px; }
+.@a61879@ian@uca-annulipes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/annulipes/0.png/0.png);padding: 0; }
+div.@a61879@ian@uca-annulipes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9145c5ac2e310e3ec913127292f5f29e:b0f43adbc0f07c2ae73bf2ee9c2a4299:4ddb42793a59c1b7bfff1539dfc4d068$ */

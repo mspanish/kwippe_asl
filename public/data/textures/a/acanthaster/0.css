@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59241@ian@acanthaster-planci {max-width:75px; max-height:75px; }
+.@a59241@ian@acanthaster-planci::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/acanthaster/0.png/0.png);padding: 0; }
+div.@a59241@ian@acanthaster-planci::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61221@ian@plate-coral-crown-of-thorns {max-width:75px; max-height:75px; }
+.@a61221@ian@plate-coral-crown-of-thorns::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/acanthaster/0.png/0.png);padding: 0; }
+div.@a61221@ian@plate-coral-crown-of-thorns::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f5004ef02435966d24e00d61448a9a8f:3788af0fa69259c4c583f4a34b2ff136:4ddb42793a59c1b7bfff1539dfc4d068$ */

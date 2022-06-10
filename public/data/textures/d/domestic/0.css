@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59596@ian@canis-lupis-familiaris {max-width:75px; max-height:75px; }
+.@a59596@ian@canis-lupis-familiaris::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/domestic/0.png/0.png);padding: 0; }
+div.@a59596@ian@canis-lupis-familiaris::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59603@ian@capra-aegagrus-hircus {max-width:75px; max-height:75px; }
+.@a59603@ian@capra-aegagrus-hircus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/domestic/0.png/0.png);padding: 0; }
+div.@a59603@ian@capra-aegagrus-hircus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60226@ian@feces-dog {max-width:75px; max-height:75px; }
+.@a60226@ian@feces-dog::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/domestic/0.png/0.png);padding: 0; }
+div.@a60226@ian@feces-dog::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60227@ian@feces-horse {max-width:75px; max-height:75px; }
+.@a60227@ian@feces-horse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/domestic/0.png/0.png);padding: 0; }
+div.@a60227@ian@feces-horse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a4917181bbe19ca238b80fee2de619a4:d8ba605794ef21d0750f7509443fa6ae:4ddb42793a59c1b7bfff1539dfc4d068$ */

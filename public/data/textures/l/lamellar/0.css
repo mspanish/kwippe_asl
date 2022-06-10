@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14394@gameicons-lorc@lamellar {max-width:75px; max-height:75px; }
+.@b14394@gameicons-lorc@lamellar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/lamellar/0.png/0.png);padding: 0; }
+div.@b14394@gameicons-lorc@lamellar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ea0d35aea5dce4914c879f8594d5c478:59e471b1a711511b1600b40ecad8924a:4ddb42793a59c1b7bfff1539dfc4d068$ */

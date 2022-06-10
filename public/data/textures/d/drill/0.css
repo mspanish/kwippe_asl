@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27379@icf@drill {max-width:75px; max-height:75px; }
+.@a27379@icf@drill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@a27379@icf@drill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29603@knl@drill {max-width:75px; max-height:75px; }
+.@a29603@knl@drill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@a29603@knl@drill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37276@mul@drill-bit {max-width:75px; max-height:75px; }
+.@a37276@mul@drill-bit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@a37276@mul@drill-bit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37277@mul@drill-electric {max-width:75px; max-height:75px; }
+.@a37277@mul@drill-electric::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@a37277@mul@drill-electric::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61931@ian@urosalpinx-cinerea {max-width:75px; max-height:75px; }
+.@a61931@ian@urosalpinx-cinerea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@a61931@ian@urosalpinx-cinerea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12519@gameicons-delapouite@drill {max-width:75px; max-height:75px; }
+.@b12519@gameicons-delapouite@drill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@b12519@gameicons-delapouite@drill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14078@gameicons-lorc@drill {max-width:75px; max-height:75px; }
+.@b14078@gameicons-lorc@drill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@b14078@gameicons-lorc@drill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14542@gameicons-lorc@needle-drill {max-width:75px; max-height:75px; }
+.@b14542@gameicons-lorc@needle-drill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@b14542@gameicons-lorc@needle-drill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8612@web@drill {max-width:75px; max-height:75px; }
+.@b8612@web@drill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/drill/0.png/0.png);padding: 0; }
+div.@b8612@web@drill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e09531a80a5b5369ad30048aec6e70c5:3963ce7f2d20cf249f25fc60004a6e4a:4ddb42793a59c1b7bfff1539dfc4d068$ */

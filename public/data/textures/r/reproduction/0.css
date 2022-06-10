@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59575@ian@callinectes-sapidus-egg-bearing-female {max-width:75px; max-height:75px; }
+.@a59575@ian@callinectes-sapidus-egg-bearing-female::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/reproduction/0.png/0.png);padding: 0; }
+div.@a59575@ian@callinectes-sapidus-egg-bearing-female::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59576@ian@callinectes-sapidus-eggs {max-width:75px; max-height:75px; }
+.@a59576@ian@callinectes-sapidus-eggs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/reproduction/0.png/0.png);padding: 0; }
+div.@a59576@ian@callinectes-sapidus-eggs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59893@ian@coral-larvae {max-width:75px; max-height:75px; }
+.@a59893@ian@coral-larvae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/reproduction/0.png/0.png);padding: 0; }
+div.@a59893@ian@coral-larvae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60525@ian@hydra-budding {max-width:75px; max-height:75px; }
+.@a60525@ian@hydra-budding::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/reproduction/0.png/0.png);padding: 0; }
+div.@a60525@ian@hydra-budding::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:733f48751a076e853d80e1ca1badee14:789b1d3003b1eb43b02d485f927997aa:4ddb42793a59c1b7bfff1539dfc4d068$ */

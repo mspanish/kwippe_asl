@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16252@emo@vc {max-width:75px; max-height:75px; }
+.@a16252@emo@vc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grenadines/0.png/0.png);padding: 0; }
+div.@a16252@emo@vc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37109@mul@st_vincent_grenadines {max-width:75px; max-height:75px; }
+.@a37109@mul@st_vincent_grenadines::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grenadines/0.png/0.png);padding: 0; }
+div.@a37109@mul@st_vincent_grenadines::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37612@mul@st_vincent_grenadines {max-width:75px; max-height:75px; }
+.@a37612@mul@st_vincent_grenadines::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grenadines/0.png/0.png);padding: 0; }
+div.@a37612@mul@st_vincent_grenadines::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2029@wikim-all@coat_of_arms_of_saint_vincent_and_the_grenadines {max-width:75px; max-height:75px; }
+.@d2029@wikim-all@coat_of_arms_of_saint_vincent_and_the_grenadines::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grenadines/0.png/0.png);padding: 0; }
+div.@d2029@wikim-all@coat_of_arms_of_saint_vincent_and_the_grenadines::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2658@wikim-all@flag_of_saint_vincent_and_the_grenadines {max-width:75px; max-height:75px; }
+.@d2658@wikim-all@flag_of_saint_vincent_and_the_grenadines::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grenadines/0.png/0.png);padding: 0; }
+div.@d2658@wikim-all@flag_of_saint_vincent_and_the_grenadines::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0e495c1859a21ca74df5da326aff6124:6ecbf7f713aa3e2d41f151707b8aaa70:4ddb42793a59c1b7bfff1539dfc4d068$ */

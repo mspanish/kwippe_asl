@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14968@em2@full-moon-with-face {max-width:75px; max-height:75px; }
+.@a14968@em2@full-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a14968@em2@full-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15197@em2@new-moon-with-face {max-width:75px; max-height:75px; }
+.@a15197@em2@new-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a15197@em2@new-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16292@emo@full-moon-with-face {max-width:75px; max-height:75px; }
+.@a16292@emo@full-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a16292@emo@full-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16524@emo@new-moon-with-face {max-width:75px; max-height:75px; }
+.@a16524@emo@new-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a16524@emo@new-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17189@fir@u1f31a-newmoonwithface {max-width:75px; max-height:75px; }
+.@a17189@fir@u1f31a-newmoonwithface::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a17189@fir@u1f31a-newmoonwithface::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17192@fir@u1f31d-fullmoonwithface {max-width:75px; max-height:75px; }
+.@a17192@fir@u1f31d-fullmoonwithface::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a17192@fir@u1f31d-fullmoonwithface::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28427@jqe@full-moon-with-face {max-width:75px; max-height:75px; }
+.@a28427@jqe@full-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a28427@jqe@full-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28608@jqe@new-moon-with-face {max-width:75px; max-height:75px; }
+.@a28608@jqe@new-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a28608@jqe@new-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39666@noc@full-moon-w-face {max-width:75px; max-height:75px; }
+.@a39666@noc@full-moon-w-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a39666@noc@full-moon-w-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39915@noc@new-moon-w-face {max-width:75px; max-height:75px; }
+.@a39915@noc@new-moon-w-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a39915@noc@new-moon-w-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44369@not@full-moon-with-face {max-width:75px; max-height:75px; }
+.@a44369@not@full-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a44369@not@full-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44550@not@new-moon-with-face {max-width:75px; max-height:75px; }
+.@a44550@not@new-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a44550@not@new-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49699@str@642-full-moon-face {max-width:75px; max-height:75px; }
+.@a49699@str@642-full-moon-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a49699@str@642-full-moon-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50468@tw2@full-moon-with-face {max-width:75px; max-height:75px; }
+.@a50468@tw2@full-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a50468@tw2@full-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50692@tw2@new-moon-with-face {max-width:75px; max-height:75px; }
+.@a50692@tw2@new-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a50692@tw2@new-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51291@twe@full-moon-with-face {max-width:75px; max-height:75px; }
+.@a51291@twe@full-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a51291@twe@full-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51460@twe@new-moon-with-face {max-width:75px; max-height:75px; }
+.@a51460@twe@new-moon-with-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/w/with_face/0.png/0.png);padding: 0; }
+div.@a51460@twe@new-moon-with-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:65b55df67bd17dd0426fef80aa9842f6:0713772d7ee4a145fa5450dc15b1d862:4ddb42793a59c1b7bfff1539dfc4d068$ */

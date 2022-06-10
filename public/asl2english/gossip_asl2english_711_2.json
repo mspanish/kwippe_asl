@@ -1,0 +1,37 @@
+{
+    "sign": "gossip",
+    "signer": "asl2english",
+    "uid": 711,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 38,
+            "nd": 60
+        },
+        "end": {
+            "d": 21,
+            "nd": 21
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            1
+        ],
+        "type": "circle"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "dribble",
+    "signer": "asl2english",
+    "uid": 445,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 18
+        },
+        "end": {
+            "d": 4,
+            "nd": 4
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

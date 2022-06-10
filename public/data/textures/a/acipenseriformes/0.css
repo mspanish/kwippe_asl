@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59257@ian@acipenser-oxyrinchus {max-width:75px; max-height:75px; }
+.@a59257@ian@acipenser-oxyrinchus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/acipenseriformes/0.png/0.png);padding: 0; }
+div.@a59257@ian@acipenser-oxyrinchus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61549@ian@scaphirhynchus-albus {max-width:75px; max-height:75px; }
+.@a61549@ian@scaphirhynchus-albus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/acipenseriformes/0.png/0.png);padding: 0; }
+div.@a61549@ian@scaphirhynchus-albus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b9bb69f7cfb2efae2b6176d91e238007:ba78d47e24f89460b0a7003d8b0ba1ac:4ddb42793a59c1b7bfff1539dfc4d068$ */

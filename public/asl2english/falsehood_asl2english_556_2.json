@@ -1,0 +1,37 @@
+{
+    "sign": "falsehood",
+    "signer": "asl2english",
+    "uid": 556,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 22,
+            "nd": null
+        },
+        "end": {
+            "d": 22,
+            "nd": null
+        }
+    },
+    "regions": [
+        "R-shoulder",
+        "L-shoulder"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

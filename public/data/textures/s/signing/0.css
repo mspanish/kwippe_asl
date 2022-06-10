@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2355@bon@signing-1069 {max-width:75px; max-height:75px; }
+.@a2355@bon@signing-1069::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/signing/0.png/0.png);padding: 0; }
+div.@a2355@bon@signing-1069::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2356@bon@signing-8081 {max-width:75px; max-height:75px; }
+.@a2356@bon@signing-8081::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/signing/0.png/0.png);padding: 0; }
+div.@a2356@bon@signing-8081::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2357@bon@signing-your-name-8082 {max-width:75px; max-height:75px; }
+.@a2357@bon@signing-your-name-8082::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/signing/0.png/0.png);padding: 0; }
+div.@a2357@bon@signing-your-name-8082::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a040dca657ed3db61c2da6e76a8492cd:45fcc9cdcc06dd5598b9d12f8dbc0ee1:4ddb42793a59c1b7bfff1539dfc4d068$ */

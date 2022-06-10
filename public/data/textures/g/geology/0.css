@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59528@ian@box-corer {max-width:75px; max-height:75px; }
+.@a59528@ian@box-corer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a59528@ian@box-corer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59897@ian@core-logger {max-width:75px; max-height:75px; }
+.@a59897@ian@core-logger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a59897@ian@core-logger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine {max-width:75px; max-height:75px; }
+.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60936@ian@mountain-range-3d-folded {max-width:75px; max-height:75px; }
+.@a60936@ian@mountain-range-3d-folded::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a60936@ian@mountain-range-3d-folded::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60959@ian@mountains-with-saddle {max-width:75px; max-height:75px; }
+.@a60959@ian@mountains-with-saddle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a60959@ian@mountains-with-saddle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61222@ian@plate-tectonics-subduction-zone-and-mid-ocean-ridge {max-width:75px; max-height:75px; }
+.@a61222@ian@plate-tectonics-subduction-zone-and-mid-ocean-ridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a61222@ian@plate-tectonics-subduction-zone-and-mid-ocean-ridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61497@ian@rocks-1 {max-width:75px; max-height:75px; }
+.@a61497@ian@rocks-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a61497@ian@rocks-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61498@ian@rocks-2 {max-width:75px; max-height:75px; }
+.@a61498@ian@rocks-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a61498@ian@rocks-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61499@ian@rocks-3 {max-width:75px; max-height:75px; }
+.@a61499@ian@rocks-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a61499@ian@rocks-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61862@ian@tsunami-sensor-and-transmitting-buoy {max-width:75px; max-height:75px; }
+.@a61862@ian@tsunami-sensor-and-transmitting-buoy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/g/geology/0.png/0.png);padding: 0; }
+div.@a61862@ian@tsunami-sensor-and-transmitting-buoy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4651837dc9ffc1bf1a587b9bf6d8c3ef:9f19bb909266ee9c4c084a1f050df43a:4ddb42793a59c1b7bfff1539dfc4d068$ */

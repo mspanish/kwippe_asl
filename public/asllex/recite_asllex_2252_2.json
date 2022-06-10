@@ -1,0 +1,45 @@
+{
+    "sign": "recite",
+    "signer": "aslLex",
+    "uid": 237,
+    "synonyms": "list, list out, recite, sign, sign to me, sign to you, tell, tell me, tell name, tell number, tell you",
+    "handshapes": {
+        "begin": {
+            "d": "o",
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Neutral",
+        "morph1_specific": "Neutral",
+        "morph1_specific_second": "Neutral",
+        "morph1_contact": null,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 1,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 1.0,
+    "frequency": 3.852,
+    "category": null
+}

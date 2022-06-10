@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60063@ian@drying-oven {max-width:75px; max-height:75px; }
+.@a60063@ian@drying-oven::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/o/oven/0.png/0.png);padding: 0; }
+div.@a60063@ian@drying-oven::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12379@gameicons-delapouite@chicken-oven {max-width:75px; max-height:75px; }
+.@b12379@gameicons-delapouite@chicken-oven::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/o/oven/0.png/0.png);padding: 0; }
+div.@b12379@gameicons-delapouite@chicken-oven::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7a9136b99a97385e782a6e770c7cb592:449ff1b463e5d68e48c2755de885c84f:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13281@gameicons-delapouite@sell-card {max-width:75px; max-height:75px; }
+.@b13281@gameicons-delapouite@sell-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sell_card/0.png/0.png);padding: 0; }
+div.@b13281@gameicons-delapouite@sell-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a26598b1d00c1439d254e3196eee6f8e:2990cecf46d4570b1adfcbf3c6ca944f:4ddb42793a59c1b7bfff1539dfc4d068$ */

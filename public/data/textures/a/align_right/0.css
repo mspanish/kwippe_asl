@@ -1,0 +1,80 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1110@bat@align-right-edges {max-width:75px; max-height:75px; }
+.@a1110@bat@align-right-edges::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a1110@bat@align-right-edges::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27061@ibm@right-align-16 {max-width:75px; max-height:75px; }
+.@a27061@ibm@right-align-16::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a27061@ibm@right-align-16::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27062@ibm@right-align-b {max-width:75px; max-height:75px; }
+.@a27062@ibm@right-align-b::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a27062@ibm@right-align-b::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27063@ibm@right-align-r {max-width:75px; max-height:75px; }
+.@a27063@ibm@right-align-r::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a27063@ibm@right-align-r::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27064@ibm@right-align-t {max-width:75px; max-height:75px; }
+.@a27064@ibm@right-align-t::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a27064@ibm@right-align-t::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27229@icf@align-objects-right {max-width:75px; max-height:75px; }
+.@a27229@icf@align-objects-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a27229@icf@align-objects-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2743@bri@align-right-1 {max-width:75px; max-height:75px; }
+.@a2743@bri@align-right-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a2743@bri@align-right-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27807@icf@text-align-right {max-width:75px; max-height:75px; }
+.@a27807@icf@text-align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a27807@icf@text-align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28933@jqu@align-right {max-width:75px; max-height:75px; }
+.@a28933@jqu@align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a28933@jqu@align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30057@lib@align-right {max-width:75px; max-height:75px; }
+.@a30057@lib@align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a30057@lib@align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30279@lib@object-align-right {max-width:75px; max-height:75px; }
+.@a30279@lib@object-align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a30279@lib@object-align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30754@lin@horizontal-align-right {max-width:75px; max-height:75px; }
+.@a30754@lin@horizontal-align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a30754@lin@horizontal-align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30896@lin@paragraph-align-right {max-width:75px; max-height:75px; }
+.@a30896@lin@paragraph-align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a30896@lin@paragraph-align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33681@mat@format-align-right {max-width:75px; max-height:75px; }
+.@a33681@mat@format-align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a33681@mat@format-align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47722@pic@text-align-right {max-width:75px; max-height:75px; }
+.@a47722@pic@text-align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a47722@pic@text-align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49852@the@align-right {max-width:75px; max-height:75px; }
+.@a49852@the@align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a49852@the@align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52981@vaa@align-right {max-width:75px; max-height:75px; }
+.@a52981@vaa@align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a52981@vaa@align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53887@wav@align-right {max-width:75px; max-height:75px; }
+.@a53887@wav@align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a53887@wav@align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54256@wav@format-align-right {max-width:75px; max-height:75px; }
+.@a54256@wav@format-align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a54256@wav@format-align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56257@win@align-right {max-width:75px; max-height:75px; }
+.@a56257@win@align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a56257@win@align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57243@win@text-align-right {max-width:75px; max-height:75px; }
+.@a57243@win@text-align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a57243@win@text-align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57408@xei@align-right {max-width:75px; max-height:75px; }
+.@a57408@xei@align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a57408@xei@align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a576@awe@align-right {max-width:75px; max-height:75px; }
+.@a576@awe@align-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/align_right/0.png/0.png);padding: 0; }
+div.@a576@awe@align-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b2257c7d6e9a85064b8c126d260f11c0:664f052b9877ee03712de3e3ab04b2a1:4ddb42793a59c1b7bfff1539dfc4d068$ */

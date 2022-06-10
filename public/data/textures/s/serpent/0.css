@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26521@her@sea-serpent-erect {max-width:75px; max-height:75px; }
+.@a26521@her@sea-serpent-erect::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/serpent/0.png/0.png);padding: 0; }
+div.@a26521@her@sea-serpent-erect::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26523@her@sea-serpent {max-width:75px; max-height:75px; }
+.@a26523@her@sea-serpent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/serpent/0.png/0.png);padding: 0; }
+div.@a26523@her@sea-serpent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14716@gameicons-lorc@sea-serpent {max-width:75px; max-height:75px; }
+.@b14716@gameicons-lorc@sea-serpent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/serpent/0.png/0.png);padding: 0; }
+div.@b14716@gameicons-lorc@sea-serpent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a0dbd0e14fd2dffb682a47d0adf1b444:15bcf0dbbbff454607fb9a4401847ce7:4ddb42793a59c1b7bfff1539dfc4d068$ */

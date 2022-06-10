@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12109@gameicons-darkzaitzev@robber-hand {max-width:75px; max-height:75px; }
+.@b12109@gameicons-darkzaitzev@robber-hand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/robber/0.png/0.png);padding: 0; }
+div.@b12109@gameicons-darkzaitzev@robber-hand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13211@gameicons-delapouite@robber-mask {max-width:75px; max-height:75px; }
+.@b13211@gameicons-delapouite@robber-mask::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/robber/0.png/0.png);padding: 0; }
+div.@b13211@gameicons-delapouite@robber-mask::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13212@gameicons-delapouite@robber {max-width:75px; max-height:75px; }
+.@b13212@gameicons-delapouite@robber::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/robber/0.png/0.png);padding: 0; }
+div.@b13212@gameicons-delapouite@robber::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d3ae64b9cc2a470169fde6ecb3c660c2:0c0b319f90e8295a567fc60a582cefc8:4ddb42793a59c1b7bfff1539dfc4d068$ */

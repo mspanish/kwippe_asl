@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15201@em2@no-entry-sign {max-width:75px; max-height:75px; }
+.@a15201@em2@no-entry-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a15201@em2@no-entry-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16534@emo@no-entry-sign {max-width:75px; max-height:75px; }
+.@a16534@emo@no-entry-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a16534@emo@no-entry-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17995@fir@noentrysign {max-width:75px; max-height:75px; }
+.@a17995@fir@noentrysign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a17995@fir@noentrysign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28612@jqe@no-entry-sign {max-width:75px; max-height:75px; }
+.@a28612@jqe@no-entry-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a28612@jqe@no-entry-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39919@noc@no-entry-sign {max-width:75px; max-height:75px; }
+.@a39919@noc@no-entry-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a39919@noc@no-entry-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42806@nog@no-entry-sign-symbols {max-width:75px; max-height:75px; }
+.@a42806@nog@no-entry-sign-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a42806@nog@no-entry-sign-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44555@not@no-entry-sign {max-width:75px; max-height:75px; }
+.@a44555@not@no-entry-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a44555@not@no-entry-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50696@tw2@no-entry-sign {max-width:75px; max-height:75px; }
+.@a50696@tw2@no-entry-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a50696@tw2@no-entry-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51465@twe@no-entry-sign {max-width:75px; max-height:75px; }
+.@a51465@twe@no-entry-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/do_not_enter/0.png/0.png);padding: 0; }
+div.@a51465@twe@no-entry-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:96657b2ac02257d2b1f48e133d33e494:b36dd05a1a0df2b80e43e9a51861ebdd:4ddb42793a59c1b7bfff1539dfc4d068$ */

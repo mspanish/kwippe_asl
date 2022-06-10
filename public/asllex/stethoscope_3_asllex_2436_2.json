@@ -1,0 +1,45 @@
+{
+    "sign": "stethoscope_3",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": "baby_o"
+        },
+        "end": {
+            "d": "curved_l",
+            "nd": "curved_l"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Other",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": 0.0
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": null,
+    "frequency": 2.895,
+    "category": null
+}

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61504@ian@ruppia-maritima-fruits {max-width:75px; max-height:75px; }
+.@a61504@ian@ruppia-maritima-fruits::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/widgeongrass/0.png/0.png);padding: 0; }
+div.@a61504@ian@ruppia-maritima-fruits::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61505@ian@ruppia-maritima-reproductive-shoots {max-width:75px; max-height:75px; }
+.@a61505@ian@ruppia-maritima-reproductive-shoots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/widgeongrass/0.png/0.png);padding: 0; }
+div.@a61505@ian@ruppia-maritima-reproductive-shoots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61506@ian@ruppia-maritima-vegetative-shoots {max-width:75px; max-height:75px; }
+.@a61506@ian@ruppia-maritima-vegetative-shoots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/widgeongrass/0.png/0.png);padding: 0; }
+div.@a61506@ian@ruppia-maritima-vegetative-shoots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b51073ea4dee9878e46ed6174a1d9ee1:2b679a6dde6501451b128be0ba8743dc:4ddb42793a59c1b7bfff1539dfc4d068$ */

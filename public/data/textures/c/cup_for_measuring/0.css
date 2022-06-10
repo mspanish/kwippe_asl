@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1702@bon@cup-for-measuring-2518 {max-width:75px; max-height:75px; }
+.@a1702@bon@cup-for-measuring-2518::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cup_for_measuring/0.png/0.png);padding: 0; }
+div.@a1702@bon@cup-for-measuring-2518::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5bd624a48b6d4f782b3aff28a5280f8c:fdf55da88faf070f852ed35dd3a51250:4ddb42793a59c1b7bfff1539dfc4d068$ */

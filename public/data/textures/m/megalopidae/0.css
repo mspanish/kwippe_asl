@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60832@ian@megalops-atlanticus {max-width:75px; max-height:75px; }
+.@a60832@ian@megalops-atlanticus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/megalopidae/0.png/0.png);padding: 0; }
+div.@a60832@ian@megalops-atlanticus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:412cdcf542b64a9e2decc1b5b819f3b3:7cddf515e5501bd75c675e714647ccea:4ddb42793a59c1b7bfff1539dfc4d068$ */

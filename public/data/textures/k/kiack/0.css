@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59302@ian@alosa-pseudoharengus {max-width:75px; max-height:75px; }
+.@a59302@ian@alosa-pseudoharengus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/k/kiack/0.png/0.png);padding: 0; }
+div.@a59302@ian@alosa-pseudoharengus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8381b88cb7101acec465f190fde11de6:cdac8b7d1e0507bb214f00ae07931d40:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "happy+most",
+    "signer": "asl2english",
+    "uid": 752,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": null
+        },
+        "end": {
+            "d": 12,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            0,
+            -1
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

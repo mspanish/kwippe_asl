@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59462@ian@bank-erosion {max-width:75px; max-height:75px; }
+.@a59462@ian@bank-erosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.25839793281653745% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a59462@ian@bank-erosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59601@ian@canyon-3d {max-width:75px; max-height:75px; }
+.@a59601@ian@canyon-3d::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 10.20671834625323% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a59601@ian@canyon-3d::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59750@ian@coastline-2d-receding-shoreline {max-width:75px; max-height:75px; }
+.@a59750@ian@coastline-2d-receding-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.155038759689923% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a59750@ian@coastline-2d-receding-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60142@ian@erosion {max-width:75px; max-height:75px; }
+.@a60142@ian@erosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 30.103359173126616% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a60142@ian@erosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60176@ian@estuary-3d-sea-level-rise-diptych {max-width:75px; max-height:75px; }
+.@a60176@ian@estuary-3d-sea-level-rise-diptych::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.05167958656331% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a60176@ian@estuary-3d-sea-level-rise-diptych::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60577@ian@inputs-sediments-2 {max-width:75px; max-height:75px; }
+.@a60577@ian@inputs-sediments-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a60577@ian@inputs-sediments-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61368@ian@receding-shoreline {max-width:75px; max-height:75px; }
+.@a61368@ian@receding-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.94832041343669% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a61368@ian@receding-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61462@ian@river-3d-cross-section-4 {max-width:75px; max-height:75px; }
+.@a61462@ian@river-3d-cross-section-4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 69.89664082687338% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a61462@ian@river-3d-cross-section-4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61613@ian@sediment {max-width:75px; max-height:75px; }
+.@a61613@ian@sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.84496124031008% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a61613@ian@sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61710@ian@stream-3d-eroding-banks {max-width:75px; max-height:75px; }
+.@a61710@ian@stream-3d-eroding-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 89.79328165374677% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a61710@ian@stream-3d-eroding-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61715@ian@stream-3d-unhealthy {max-width:75px; max-height:75px; }
+.@a61715@ian@stream-3d-unhealthy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.74160206718346% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/e/erosion/0.png/0.png);padding: 0; }
+div.@a61715@ian@stream-3d-unhealthy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:11af606684e0d5a33a2032f2f0abfcb9:1f055bfcbdb6e8a37082b777fe675857:4ddb42793a59c1b7bfff1539dfc4d068$ */

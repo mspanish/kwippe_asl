@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13352@gameicons-delapouite@solar-system {max-width:75px; max-height:75px; }
+.@b13352@gameicons-delapouite@solar-system::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/solar_system/0.png/0.png);padding: 0; }
+div.@b13352@gameicons-delapouite@solar-system::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:31ed6ff98c6359d738d7948a984c43c0:5f136332878f054feb5294cf6b00d528:4ddb42793a59c1b7bfff1539dfc4d068$ */

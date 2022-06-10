@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2080@bon@microwave-2537 {max-width:75px; max-height:75px; }
+.@a2080@bon@microwave-2537::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/microwave/0.png/0.png);padding: 0; }
+div.@a2080@bon@microwave-2537::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2081@bon@microwave-bowl-2538 {max-width:75px; max-height:75px; }
+.@a2081@bon@microwave-bowl-2538::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/microwave/0.png/0.png);padding: 0; }
+div.@a2081@bon@microwave-bowl-2538::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38166@mul@microwave {max-width:75px; max-height:75px; }
+.@a38166@mul@microwave::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/microwave/0.png/0.png);padding: 0; }
+div.@a38166@mul@microwave::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d838b5f9c509b5180f7a4d3c8cffd3e0:d3db382355a77c7a42db44bebe831faa:4ddb42793a59c1b7bfff1539dfc4d068$ */

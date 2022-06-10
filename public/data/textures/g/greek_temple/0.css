@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12713@gameicons-delapouite@greek-temple {max-width:75px; max-height:75px; }
+.@b12713@gameicons-delapouite@greek-temple::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/greek_temple/0.png/0.png);padding: 0; }
+div.@b12713@gameicons-delapouite@greek-temple::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7494c98151ee2ce393dd3999c17284dc:042a30d923bee4689f2080ba777638da:4ddb42793a59c1b7bfff1539dfc4d068$ */

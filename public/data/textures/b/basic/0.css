@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2460@bon@task-basic-cleaning-6068 {max-width:75px; max-height:75px; }
+.@a2460@bon@task-basic-cleaning-6068::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/basic/0.png/0.png);padding: 0; }
+div.@a2460@bon@task-basic-cleaning-6068::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61166@ian@ph-alkaline {max-width:75px; max-height:75px; }
+.@a61166@ian@ph-alkaline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/basic/0.png/0.png);padding: 0; }
+div.@a61166@ian@ph-alkaline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:568fba03d61370b855e69bebde91f8bb:68267ec48bdcc599eb8a2a2097921bef:4ddb42793a59c1b7bfff1539dfc4d068$ */

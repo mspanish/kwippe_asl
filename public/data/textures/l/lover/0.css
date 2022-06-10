@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48852@solver@4-happy-lover {max-width:75px; max-height:75px; }
+.@a48852@solver@4-happy-lover::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/lover/0.png/0.png);padding: 0; }
+div.@a48852@solver@4-happy-lover::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5654e12d22c1b7d886b10b8269769196:14e1c3c9dabdf670dc46569b93d91fc9:4ddb42793a59c1b7bfff1539dfc4d068$ */

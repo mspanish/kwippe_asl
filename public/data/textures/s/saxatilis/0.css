@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60919@ian@morone-saxatilis-egg {max-width:75px; max-height:75px; }
+.@a60919@ian@morone-saxatilis-egg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/saxatilis/0.png/0.png);padding: 0; }
+div.@a60919@ian@morone-saxatilis-egg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60920@ian@morone-saxatilis-feeding-larvae {max-width:75px; max-height:75px; }
+.@a60920@ian@morone-saxatilis-feeding-larvae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/saxatilis/0.png/0.png);padding: 0; }
+div.@a60920@ian@morone-saxatilis-feeding-larvae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60921@ian@morone-saxatilis-juvenile {max-width:75px; max-height:75px; }
+.@a60921@ian@morone-saxatilis-juvenile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/saxatilis/0.png/0.png);padding: 0; }
+div.@a60921@ian@morone-saxatilis-juvenile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60922@ian@morone-saxatilis-yolksac-larvae {max-width:75px; max-height:75px; }
+.@a60922@ian@morone-saxatilis-yolksac-larvae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/saxatilis/0.png/0.png);padding: 0; }
+div.@a60922@ian@morone-saxatilis-yolksac-larvae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60923@ian@morone-saxatilis {max-width:75px; max-height:75px; }
+.@a60923@ian@morone-saxatilis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/saxatilis/0.png/0.png);padding: 0; }
+div.@a60923@ian@morone-saxatilis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b54b5a30d74fff4b3184056b99ec59a6:8797e339cf88a947fd3fbf8aef70f197:4ddb42793a59c1b7bfff1539dfc4d068$ */

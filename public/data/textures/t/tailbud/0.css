@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59348@ian@anura-lifecycle-day03-04-tailbud {max-width:75px; max-height:75px; }
+.@a59348@ian@anura-lifecycle-day03-04-tailbud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/tailbud/0.png/0.png);padding: 0; }
+div.@a59348@ian@anura-lifecycle-day03-04-tailbud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:daa96b6401145da79a2591ec890d23ac:5ea0072f1c70d6bb4b9e2e67f40b69e5:4ddb42793a59c1b7bfff1539dfc4d068$ */

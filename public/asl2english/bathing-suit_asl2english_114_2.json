@@ -1,0 +1,37 @@
+{
+    "sign": "bathing-suit",
+    "signer": "asl2english",
+    "uid": 114,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 81,
+            "nd": 81
+        },
+        "end": {
+            "d": 81,
+            "nd": 81
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

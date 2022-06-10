@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13495@gameicons-delapouite@tightrope {max-width:75px; max-height:75px; }
+.@b13495@gameicons-delapouite@tightrope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/tightrope/0.png/0.png);padding: 0; }
+div.@b13495@gameicons-delapouite@tightrope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0ae4529e586dafcd8b4b9510719b5bcd:5abc571f91b9abee4ed80331437bc639:4ddb42793a59c1b7bfff1539dfc4d068$ */

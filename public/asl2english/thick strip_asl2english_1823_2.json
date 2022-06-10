@@ -1,0 +1,37 @@
+{
+    "sign": "thick strip",
+    "signer": "asl2english",
+    "uid": 1823,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 59,
+            "nd": 59
+        },
+        "end": {
+            "d": 59,
+            "nd": 59
+        }
+    },
+    "regions": [
+        "chest-front",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

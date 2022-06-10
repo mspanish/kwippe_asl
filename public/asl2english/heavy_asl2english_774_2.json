@@ -1,0 +1,37 @@
+{
+    "sign": "heavy",
+    "signer": "asl2english",
+    "uid": 774,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 36,
+            "nd": 4
+        },
+        "end": {
+            "d": 35,
+            "nd": 36
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

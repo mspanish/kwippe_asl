@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59239@ian@acacia-koa {max-width:75px; max-height:75px; }
+.@a59239@ian@acacia-koa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/acacia/0.png/0.png);padding: 0; }
+div.@a59239@ian@acacia-koa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59240@ian@acacia-spp {max-width:75px; max-height:75px; }
+.@a59240@ian@acacia-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/acacia/0.png/0.png);padding: 0; }
+div.@a59240@ian@acacia-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9267391b45151f4c8b29d856f9565201:60f5d2f84bb724b7db56d436f44b0665:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15334@gameicons-skoll@knockout {max-width:75px; max-height:75px; }
+.@b15334@gameicons-skoll@knockout::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/k/knockout/0.png/0.png);padding: 0; }
+div.@b15334@gameicons-skoll@knockout::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ac441daef36ded82b988f3e97564fce:6f8c030283bded137fe5c17a0f464078:4ddb42793a59c1b7bfff1539dfc4d068$ */

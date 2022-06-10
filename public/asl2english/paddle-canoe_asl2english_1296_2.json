@@ -1,0 +1,37 @@
+{
+    "sign": "paddle-canoe",
+    "signer": "asl2english",
+    "uid": 1296,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": 82
+        },
+        "end": {
+            "d": 14,
+            "nd": 14
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

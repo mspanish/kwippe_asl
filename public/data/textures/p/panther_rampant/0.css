@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26468@her@panther-rampant {max-width:75px; max-height:75px; }
+.@a26468@her@panther-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/panther_rampant/0.png/0.png);padding: 0; }
+div.@a26468@her@panther-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:97a4c33a12b6017d679b9cd366bcf8f7:d665582763cae139445c30ca4194bd8b:4ddb42793a59c1b7bfff1539dfc4d068$ */

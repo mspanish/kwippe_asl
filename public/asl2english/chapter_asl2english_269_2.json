@@ -1,0 +1,37 @@
+{
+    "sign": "chapter",
+    "signer": "asl2english",
+    "uid": 269,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 30,
+            "nd": 30
+        },
+        "end": {
+            "d": 36,
+            "nd": 36
+        }
+    },
+    "regions": [
+        "hand",
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

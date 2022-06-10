@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a17802@fir@harddisk {max-width:75px; max-height:75px; }
+.@a17802@fir@harddisk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a17802@fir@harddisk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a276@ara@cloud-harddisk-1 {max-width:75px; max-height:75px; }
+.@a276@ara@cloud-harddisk-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a276@ara@cloud-harddisk-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33915@mat@harddisk {max-width:75px; max-height:75px; }
+.@a33915@mat@harddisk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a33915@mat@harddisk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46636@pap@drive-harddisk-ieee1394-symbolic {max-width:75px; max-height:75px; }
+.@a46636@pap@drive-harddisk-ieee1394-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a46636@pap@drive-harddisk-ieee1394-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46637@pap@drive-harddisk-solidstate-symbolic {max-width:75px; max-height:75px; }
+.@a46637@pap@drive-harddisk-solidstate-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a46637@pap@drive-harddisk-solidstate-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46638@pap@drive-harddisk-system-symbolic {max-width:75px; max-height:75px; }
+.@a46638@pap@drive-harddisk-system-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a46638@pap@drive-harddisk-system-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47530@pic@harddisk-sans-eject {max-width:75px; max-height:75px; }
+.@a47530@pic@harddisk-sans-eject::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a47530@pic@harddisk-sans-eject::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47531@pic@harddisk-sans-security {max-width:75px; max-height:75px; }
+.@a47531@pic@harddisk-sans-security::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a47531@pic@harddisk-sans-security::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47532@pic@harddisk-sans-settings {max-width:75px; max-height:75px; }
+.@a47532@pic@harddisk-sans-settings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a47532@pic@harddisk-sans-settings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47533@pic@harddisk-sans {max-width:75px; max-height:75px; }
+.@a47533@pic@harddisk-sans::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a47533@pic@harddisk-sans::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49957@the@harddrive {max-width:75px; max-height:75px; }
+.@a49957@the@harddrive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a49957@the@harddrive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49958@the@harddrives {max-width:75px; max-height:75px; }
+.@a49958@the@harddrives::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a49958@the@harddrives::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53295@vaa@harddrive-o {max-width:75px; max-height:75px; }
+.@a53295@vaa@harddrive-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a53295@vaa@harddrive-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53296@vaa@harddrive {max-width:75px; max-height:75px; }
+.@a53296@vaa@harddrive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a53296@vaa@harddrive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54313@wav@hard-drive {max-width:75px; max-height:75px; }
+.@a54313@wav@hard-drive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@a54313@wav@hard-drive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8860@web@harddisk {max-width:75px; max-height:75px; }
+.@b8860@web@harddisk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@b8860@web@harddisk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8861@web@harddrive-1 {max-width:75px; max-height:75px; }
+.@b8861@web@harddrive-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/h/harddrive/0.png/0.png);padding: 0; }
+div.@b8861@web@harddrive-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8eeb0965a4a03d6925eb8b90a8b200e3:a2286fe8e403e4d624f1dd2c53df63ca:4ddb42793a59c1b7bfff1539dfc4d068$ */

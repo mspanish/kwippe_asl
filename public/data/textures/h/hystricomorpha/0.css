@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60974@ian@myocastor-coypus {max-width:75px; max-height:75px; }
+.@a60974@ian@myocastor-coypus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/hystricomorpha/0.png/0.png);padding: 0; }
+div.@a60974@ian@myocastor-coypus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:77a609d95f16a3fe555094531e132b7a:c9e7d3f52d2e21ebe1cbf72709b7945c:4ddb42793a59c1b7bfff1539dfc4d068$ */

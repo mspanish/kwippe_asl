@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2374@bon@social-work-office-4260 {max-width:75px; max-height:75px; }
+.@a2374@bon@social-work-office-4260::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/social_work_office/0.png/0.png);padding: 0; }
+div.@a2374@bon@social-work-office-4260::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ac19f83f0c62522669b8392fd6b330a8:63314c77f76012064445c3aa6573a670:4ddb42793a59c1b7bfff1539dfc4d068$ */

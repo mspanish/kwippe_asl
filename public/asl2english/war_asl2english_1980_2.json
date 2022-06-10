@@ -1,0 +1,37 @@
+{
+    "sign": "war",
+    "signer": "asl2english",
+    "uid": 1980,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 85,
+            "nd": 85
+        },
+        "end": {
+            "d": 78,
+            "nd": 78
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            -1,
+            0,
+            0
+        ]
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

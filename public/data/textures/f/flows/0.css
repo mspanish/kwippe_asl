@@ -1,0 +1,131 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59343@ian@antibiotics {max-width:75px; max-height:75px; }
+.@a59343@ian@antibiotics::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a59343@ian@antibiotics::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59397@ian@atmospheric-nitrogen {max-width:75px; max-height:75px; }
+.@a59397@ian@atmospheric-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a59397@ian@atmospheric-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59440@ian@bacteria-inputs {max-width:75px; max-height:75px; }
+.@a59440@ian@bacteria-inputs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a59440@ian@bacteria-inputs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59880@ian@conductivity-inputs {max-width:75px; max-height:75px; }
+.@a59880@ian@conductivity-inputs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a59880@ian@conductivity-inputs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60404@ian@groundwater {max-width:75px; max-height:75px; }
+.@a60404@ian@groundwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60404@ian@groundwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60561@ian@input-nutrients-non-point-source {max-width:75px; max-height:75px; }
+.@a60561@ian@input-nutrients-non-point-source::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60561@ian@input-nutrients-non-point-source::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60562@ian@inputs-atmospheric-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a60562@ian@inputs-atmospheric-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60562@ian@inputs-atmospheric-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60563@ian@inputs-atmospheric-lead {max-width:75px; max-height:75px; }
+.@a60563@ian@inputs-atmospheric-lead::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60563@ian@inputs-atmospheric-lead::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60564@ian@inputs-atmospheric-mercury {max-width:75px; max-height:75px; }
+.@a60564@ian@inputs-atmospheric-mercury::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60564@ian@inputs-atmospheric-mercury::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60565@ian@inputs-atmospheric-nitrogen {max-width:75px; max-height:75px; }
+.@a60565@ian@inputs-atmospheric-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60565@ian@inputs-atmospheric-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60566@ian@inputs-atmospheric-particulates {max-width:75px; max-height:75px; }
+.@a60566@ian@inputs-atmospheric-particulates::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60566@ian@inputs-atmospheric-particulates::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60567@ian@inputs-freshwater {max-width:75px; max-height:75px; }
+.@a60567@ian@inputs-freshwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60567@ian@inputs-freshwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60568@ian@inputs-gas {max-width:75px; max-height:75px; }
+.@a60568@ian@inputs-gas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60568@ian@inputs-gas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60569@ian@inputs-humic-stained-water {max-width:75px; max-height:75px; }
+.@a60569@ian@inputs-humic-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60569@ian@inputs-humic-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60570@ian@inputs-iron-stained-water {max-width:75px; max-height:75px; }
+.@a60570@ian@inputs-iron-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60570@ian@inputs-iron-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60571@ian@inputs-nutrients-1 {max-width:75px; max-height:75px; }
+.@a60571@ian@inputs-nutrients-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60571@ian@inputs-nutrients-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60572@ian@inputs-nutrients-2 {max-width:75px; max-height:75px; }
+.@a60572@ian@inputs-nutrients-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60572@ian@inputs-nutrients-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60573@ian@inputs-nutrients-toxins-sediment {max-width:75px; max-height:75px; }
+.@a60573@ian@inputs-nutrients-toxins-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60573@ian@inputs-nutrients-toxins-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60574@ian@inputs-particulate-organic-carbon {max-width:75px; max-height:75px; }
+.@a60574@ian@inputs-particulate-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60574@ian@inputs-particulate-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60575@ian@inputs-saltwater {max-width:75px; max-height:75px; }
+.@a60575@ian@inputs-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60575@ian@inputs-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60576@ian@inputs-sediments-1 {max-width:75px; max-height:75px; }
+.@a60576@ian@inputs-sediments-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60576@ian@inputs-sediments-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60577@ian@inputs-sediments-2 {max-width:75px; max-height:75px; }
+.@a60577@ian@inputs-sediments-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60577@ian@inputs-sediments-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60578@ian@inputs-sediments-nutrients {max-width:75px; max-height:75px; }
+.@a60578@ian@inputs-sediments-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60578@ian@inputs-sediments-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60579@ian@inputs-sediments {max-width:75px; max-height:75px; }
+.@a60579@ian@inputs-sediments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60579@ian@inputs-sediments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60580@ian@inputs-sewage {max-width:75px; max-height:75px; }
+.@a60580@ian@inputs-sewage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60580@ian@inputs-sewage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60581@ian@inputs-toxicants {max-width:75px; max-height:75px; }
+.@a60581@ian@inputs-toxicants::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60581@ian@inputs-toxicants::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60582@ian@inputs-toxics {max-width:75px; max-height:75px; }
+.@a60582@ian@inputs-toxics::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a60582@ian@inputs-toxics::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61135@ian@pathogens {max-width:75px; max-height:75px; }
+.@a61135@ian@pathogens::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a61135@ian@pathogens::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61386@ian@reef-3d-volcanic-island-waterfall-atoll {max-width:75px; max-height:75px; }
+.@a61386@ian@reef-3d-volcanic-island-waterfall-atoll::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a61386@ian@reef-3d-volcanic-island-waterfall-atoll::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61818@ian@toxicants-high {max-width:75px; max-height:75px; }
+.@a61818@ian@toxicants-high::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a61818@ian@toxicants-high::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61819@ian@toxicants-low {max-width:75px; max-height:75px; }
+.@a61819@ian@toxicants-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a61819@ian@toxicants-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61820@ian@toxicants-organo-chlorine {max-width:75px; max-height:75px; }
+.@a61820@ian@toxicants-organo-chlorine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a61820@ian@toxicants-organo-chlorine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61842@ian@trash-inputs {max-width:75px; max-height:75px; }
+.@a61842@ian@trash-inputs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a61842@ian@trash-inputs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61845@ian@treated-effluent {max-width:75px; max-height:75px; }
+.@a61845@ian@treated-effluent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a61845@ian@treated-effluent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62221@ian@watershed-3d-volcanic-island-crater-lakes-waterfalls-lava-flows {max-width:75px; max-height:75px; }
+.@a62221@ian@watershed-3d-volcanic-island-crater-lakes-waterfalls-lava-flows::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a62221@ian@watershed-3d-volcanic-island-crater-lakes-waterfalls-lava-flows::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62271@ian@inputs-atmospheric-phosphorus {max-width:75px; max-height:75px; }
+.@a62271@ian@inputs-atmospheric-phosphorus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a62271@ian@inputs-atmospheric-phosphorus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62272@ian@inputs-atmospheric-sulphur {max-width:75px; max-height:75px; }
+.@a62272@ian@inputs-atmospheric-sulphur::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a62272@ian@inputs-atmospheric-sulphur::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62273@ian@inputs-dissolved-organic-carbon {max-width:75px; max-height:75px; }
+.@a62273@ian@inputs-dissolved-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a62273@ian@inputs-dissolved-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62274@ian@toxicants-lead {max-width:75px; max-height:75px; }
+.@a62274@ian@toxicants-lead::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@a62274@ian@toxicants-lead::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13983@gameicons-lorc@crossed-air-flows {max-width:75px; max-height:75px; }
+.@b13983@gameicons-lorc@crossed-air-flows::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/f/flows/0.png/0.png);padding: 0; }
+div.@b13983@gameicons-lorc@crossed-air-flows::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8e3f35d561a257eef8f5d10133b11b0e:eaee57c67f2d1d4dc02c40ed115550a6:4ddb42793a59c1b7bfff1539dfc4d068$ */

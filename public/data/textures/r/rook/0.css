@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14538@ele@rook {max-width:75px; max-height:75px; }
+.@a14538@ele@rook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rook/0.png/0.png);padding: 0; }
+div.@a14538@ele@rook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55747@web@rook {max-width:75px; max-height:75px; }
+.@a55747@web@rook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rook/0.png/0.png);padding: 0; }
+div.@a55747@web@rook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56408@win@chess-rook {max-width:75px; max-height:75px; }
+.@a56408@win@chess-rook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rook/0.png/0.png);padding: 0; }
+div.@a56408@win@chess-rook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15280@gameicons-skoll@ches_gameicons-rook {max-width:75px; max-height:75px; }
+.@b15280@gameicons-skoll@ches_gameicons-rook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rook/0.png/0.png);padding: 0; }
+div.@b15280@gameicons-skoll@ches_gameicons-rook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3bf072b99c4f04907a0eafce49e4c240:ca27de2e9d6a64593d095c63808a7051:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "lunch",
+    "signer": "asl2english",
+    "uid": 971,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 60,
+            "nd": null
+        },
+        "end": {
+            "d": 60,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest-front",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            -1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

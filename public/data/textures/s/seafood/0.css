@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60513@ian@hospitality-seafood-restaurant {max-width:75px; max-height:75px; }
+.@a60513@ian@hospitality-seafood-restaurant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/seafood/0.png/0.png);padding: 0; }
+div.@a60513@ian@hospitality-seafood-restaurant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:abb75dbc8a212fc9a10af90e9aa2ff26:2915a16f6bdc56c285c78729583c2c28:4ddb42793a59c1b7bfff1539dfc4d068$ */

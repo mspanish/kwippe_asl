@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2167@bon@paperwork-risk-assessment-8058 {max-width:75px; max-height:75px; }
+.@a2167@bon@paperwork-risk-assessment-8058::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/assessment/0.png/0.png);padding: 0; }
+div.@a2167@bon@paperwork-risk-assessment-8058::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4eb95512a5ebec957f8167c13213c93c:e4eff255a26dd5450d00ec1de39415f6:4ddb42793a59c1b7bfff1539dfc4d068$ */

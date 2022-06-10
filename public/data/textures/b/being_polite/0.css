@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1531@bon@being-polite-8005 {max-width:75px; max-height:75px; }
+.@a1531@bon@being-polite-8005::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/being_polite/0.png/0.png);padding: 0; }
+div.@a1531@bon@being-polite-8005::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a5cbfc1ebf1aed9899fcf8b4c29db1d2:9fcf035c9cb45e800085564d7d5fae6b:4ddb42793a59c1b7bfff1539dfc4d068$ */

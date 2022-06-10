@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a5514@df-coffeeicons@g {max-width:75px; max-height:75px; }
+.@a5514@df-coffeeicons@g::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grinder/0.png/0.png);padding: 0; }
+div.@a5514@df-coffeeicons@g::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5527@df-coffeeicons@m {max-width:75px; max-height:75px; }
+.@a5527@df-coffeeicons@m::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grinder/0.png/0.png);padding: 0; }
+div.@a5527@df-coffeeicons@m::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5554@df-coffeeicons@r {max-width:75px; max-height:75px; }
+.@a5554@df-coffeeicons@r::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grinder/0.png/0.png);padding: 0; }
+div.@a5554@df-coffeeicons@r::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5572@df-coffeeicons@v {max-width:75px; max-height:75px; }
+.@a5572@df-coffeeicons@v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grinder/0.png/0.png);padding: 0; }
+div.@a5572@df-coffeeicons@v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12928@gameicons-delapouite@manual-meat-grinder {max-width:75px; max-height:75px; }
+.@b12928@gameicons-delapouite@manual-meat-grinder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/grinder/0.png/0.png);padding: 0; }
+div.@b12928@gameicons-delapouite@manual-meat-grinder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:52cbae698249a682f40ed6afbe822270:0b78c7ef696ffc34a22477f9e13ff8f0:4ddb42793a59c1b7bfff1539dfc4d068$ */

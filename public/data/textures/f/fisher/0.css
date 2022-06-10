@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59990@ian@dema-fisher {max-width:75px; max-height:75px; }
+.@a59990@ian@dema-fisher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fisher/0.png/0.png);padding: 0; }
+div.@a59990@ian@dema-fisher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60731@ian@line_fisher_indonesia {max-width:75px; max-height:75px; }
+.@a60731@ian@line_fisher_indonesia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fisher/0.png/0.png);padding: 0; }
+div.@a60731@ian@line_fisher_indonesia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60816@ian@martes-pennanti {max-width:75px; max-height:75px; }
+.@a60816@ian@martes-pennanti::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fisher/0.png/0.png);padding: 0; }
+div.@a60816@ian@martes-pennanti::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:eaddf3b6d06bbe5ac69635a0ea28774d:0e186c3e03e3d9937f7b1bed758f667c:4ddb42793a59c1b7bfff1539dfc4d068$ */

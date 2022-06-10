@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1626@bon@clinic-psychiatry-5026 {max-width:75px; max-height:75px; }
+.@a1626@bon@clinic-psychiatry-5026::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/clinic_psychiatry/0.png/0.png);padding: 0; }
+div.@a1626@bon@clinic-psychiatry-5026::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:70b8ea59df233ae0bf33f8184be9c659:2207b0568c5c33e993d844f5637bc144:4ddb42793a59c1b7bfff1539dfc4d068$ */

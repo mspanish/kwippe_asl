@@ -1,0 +1,38 @@
+{
+    "sign": "poor",
+    "signer": "asl2english",
+    "uid": 1393,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 35,
+            "nd": 82
+        },
+        "end": {
+            "d": 51,
+            "nd": 82
+        }
+    },
+    "regions": [
+        -1,
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            -1,
+            -1,
+            0
+        ]
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

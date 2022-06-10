@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1693@bon@craft-pottery-1015 {max-width:75px; max-height:75px; }
+.@a1693@bon@craft-pottery-1015::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pottery/0.png/0.png);padding: 0; }
+div.@a1693@bon@craft-pottery-1015::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2208@bon@pottery1792 {max-width:75px; max-height:75px; }
+.@a2208@bon@pottery1792::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pottery/0.png/0.png);padding: 0; }
+div.@a2208@bon@pottery1792::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38502@mul@pottery {max-width:75px; max-height:75px; }
+.@a38502@mul@pottery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pottery/0.png/0.png);padding: 0; }
+div.@a38502@mul@pottery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59371@ian@archaeological-site {max-width:75px; max-height:75px; }
+.@a59371@ian@archaeological-site::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pottery/0.png/0.png);padding: 0; }
+div.@a59371@ian@archaeological-site::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12299@gameicons-delapouite@broken-pottery {max-width:75px; max-height:75px; }
+.@b12299@gameicons-delapouite@broken-pottery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pottery/0.png/0.png);padding: 0; }
+div.@b12299@gameicons-delapouite@broken-pottery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13051@gameicons-delapouite@painted-pottery {max-width:75px; max-height:75px; }
+.@b13051@gameicons-delapouite@painted-pottery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pottery/0.png/0.png);padding: 0; }
+div.@b13051@gameicons-delapouite@painted-pottery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1604cf22b37961b223616b1564c70916:2c8a719b975dea80ec7ca58ad02fb339:4ddb42793a59c1b7bfff1539dfc4d068$ */

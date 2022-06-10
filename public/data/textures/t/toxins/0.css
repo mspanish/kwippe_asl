@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59970@ian@deep-sea-mining-bulk-cutter {max-width:75px; max-height:75px; }
+.@a59970@ian@deep-sea-mining-bulk-cutter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toxins/0.png/0.png);padding: 0; }
+div.@a59970@ian@deep-sea-mining-bulk-cutter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool {max-width:75px; max-height:75px; }
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toxins/0.png/0.png);padding: 0; }
+div.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59972@ian@deep-sea-mining-support-vessel {max-width:75px; max-height:75px; }
+.@a59972@ian@deep-sea-mining-support-vessel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toxins/0.png/0.png);padding: 0; }
+div.@a59972@ian@deep-sea-mining-support-vessel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60175@ian@estuary-3d-river-mouth-triptych {max-width:75px; max-height:75px; }
+.@a60175@ian@estuary-3d-river-mouth-triptych::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toxins/0.png/0.png);padding: 0; }
+div.@a60175@ian@estuary-3d-river-mouth-triptych::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60573@ian@inputs-nutrients-toxins-sediment {max-width:75px; max-height:75px; }
+.@a60573@ian@inputs-nutrients-toxins-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/toxins/0.png/0.png);padding: 0; }
+div.@a60573@ian@inputs-nutrients-toxins-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7ccbaa37ab896fc936d90d90f4ce4f90:eb69a29309e1d66e8efddf39070d09bf:4ddb42793a59c1b7bfff1539dfc4d068$ */

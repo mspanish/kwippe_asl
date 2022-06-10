@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1798@bon@farm-park-bs-8501-8023 {max-width:75px; max-height:75px; }
+.@a1798@bon@farm-park-bs-8501-8023::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/farm_park_bs/0.png/0.png);padding: 0; }
+div.@a1798@bon@farm-park-bs-8501-8023::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:54ae6a1e213f4d2ab69102324d34ed6c:d4cf7c86d946e58f7922f2fe0f223c0e:4ddb42793a59c1b7bfff1539dfc4d068$ */

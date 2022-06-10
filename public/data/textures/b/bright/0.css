@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36680@mul@bright-room {max-width:75px; max-height:75px; }
+.@a36680@mul@bright-room::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/bright/0.png/0.png);padding: 0; }
+div.@a36680@mul@bright-room::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36681@mul@bright {max-width:75px; max-height:75px; }
+.@a36681@mul@bright::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/bright/0.png/0.png);padding: 0; }
+div.@a36681@mul@bright::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ba22cf5d21d963f77637d17cc2e5263b:62ebe2b0b66dd91c41942de7d17ed506:4ddb42793a59c1b7bfff1539dfc4d068$ */

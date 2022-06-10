@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36964@mul@computer_game {max-width:75px; max-height:75px; }
+.@a36964@mul@computer_game::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gaming/0.png/0.png);padding: 0; }
+div.@a36964@mul@computer_game::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36965@mul@computer_game {max-width:75px; max-height:75px; }
+.@a36965@mul@computer_game::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gaming/0.png/0.png);padding: 0; }
+div.@a36965@mul@computer_game::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47907@plateau@gaming {max-width:75px; max-height:75px; }
+.@a47907@plateau@gaming::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gaming/0.png/0.png);padding: 0; }
+div.@a47907@plateau@gaming::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a557@ara@gameboy {max-width:75px; max-height:75px; }
+.@a557@ara@gameboy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gaming/0.png/0.png);padding: 0; }
+div.@a557@ara@gameboy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12675@gameicons-delapouite@console {max-width:75px; max-height:75px; }
+.@b12675@gameicons-delapouite@console::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gaming/0.png/0.png);padding: 0; }
+div.@b12675@gameicons-delapouite@console::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:97ca3e6f161ec71cf128e7aab3294e26:1707f1e65b60ebc2f1862f1c566c52b0:4ddb42793a59c1b7bfff1539dfc4d068$ */

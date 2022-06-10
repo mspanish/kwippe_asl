@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60460@ian@halophila-tricostata-1 {max-width:75px; max-height:75px; }
+.@a60460@ian@halophila-tricostata-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tricostata/0.png/0.png);padding: 0; }
+div.@a60460@ian@halophila-tricostata-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60461@ian@halophila-tricostata-2 {max-width:75px; max-height:75px; }
+.@a60461@ian@halophila-tricostata-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tricostata/0.png/0.png);padding: 0; }
+div.@a60461@ian@halophila-tricostata-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60462@ian@halophila-tricostata-seeds {max-width:75px; max-height:75px; }
+.@a60462@ian@halophila-tricostata-seeds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tricostata/0.png/0.png);padding: 0; }
+div.@a60462@ian@halophila-tricostata-seeds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b49b8f42dc5fbb14672070e9b786d823:75022ef1c0380674c4d9ace9c1161310:4ddb42793a59c1b7bfff1539dfc4d068$ */

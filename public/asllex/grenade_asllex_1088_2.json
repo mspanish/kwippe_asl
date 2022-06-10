@@ -1,0 +1,45 @@
+{
+    "sign": "grenade",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "s",
+            "nd": "s"
+        },
+        "end": {
+            "d": "s",
+            "nd": "s"
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "FingerRadial",
+        "morph1_specific_second": "HandAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "AsymmetricalSameHandshape",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalSameHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 1.786,
+    "category": null
+}

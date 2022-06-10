@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60490@ian@high-clouds-cirrocumulus {max-width:75px; max-height:75px; }
+.@a60490@ian@high-clouds-cirrocumulus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/herringbone/0.png/0.png);padding: 0; }
+div.@a60490@ian@high-clouds-cirrocumulus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:511f9595e08d3acb5d9eaa69e6173836:e448a12030870836ba049bedc5d436c5:4ddb42793a59c1b7bfff1539dfc4d068$ */

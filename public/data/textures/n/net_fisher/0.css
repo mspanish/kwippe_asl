@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61001@ian@net-fisher {max-width:75px; max-height:75px; }
+.@a61001@ian@net-fisher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/net_fisher/0.png/0.png);padding: 0; }
+div.@a61001@ian@net-fisher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61002@ian@net-fishers-india {max-width:75px; max-height:75px; }
+.@a61002@ian@net-fishers-india::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/net_fisher/0.png/0.png);padding: 0; }
+div.@a61002@ian@net-fishers-india::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61003@ian@net-fishers-six-crew {max-width:75px; max-height:75px; }
+.@a61003@ian@net-fishers-six-crew::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/net_fisher/0.png/0.png);padding: 0; }
+div.@a61003@ian@net-fishers-six-crew::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61004@ian@net-fishers {max-width:75px; max-height:75px; }
+.@a61004@ian@net-fishers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/net_fisher/0.png/0.png);padding: 0; }
+div.@a61004@ian@net-fishers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e4091f77379ba79ebd79bc9ca94b8969:55d158b5c333306d71f0bdbb7145d00f:4ddb42793a59c1b7bfff1539dfc4d068$ */

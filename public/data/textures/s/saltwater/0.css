@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59725@ian@climate-change-ghost-forest {max-width:75px; max-height:75px; }
+.@a59725@ian@climate-change-ghost-forest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltwater/0.png/0.png);padding: 0; }
+div.@a59725@ian@climate-change-ghost-forest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60010@ian@desalination-plant {max-width:75px; max-height:75px; }
+.@a60010@ian@desalination-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltwater/0.png/0.png);padding: 0; }
+div.@a60010@ian@desalination-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60195@ian@exchange-saltwater-limited {max-width:75px; max-height:75px; }
+.@a60195@ian@exchange-saltwater-limited::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltwater/0.png/0.png);padding: 0; }
+div.@a60195@ian@exchange-saltwater-limited::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60196@ian@exchange-saltwater {max-width:75px; max-height:75px; }
+.@a60196@ian@exchange-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltwater/0.png/0.png);padding: 0; }
+div.@a60196@ian@exchange-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60306@ian@flux-saltwater {max-width:75px; max-height:75px; }
+.@a60306@ian@flux-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltwater/0.png/0.png);padding: 0; }
+div.@a60306@ian@flux-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60575@ian@inputs-saltwater {max-width:75px; max-height:75px; }
+.@a60575@ian@inputs-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltwater/0.png/0.png);padding: 0; }
+div.@a60575@ian@inputs-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60837@ian@melaleuca-cuticularis {max-width:75px; max-height:75px; }
+.@a60837@ian@melaleuca-cuticularis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltwater/0.png/0.png);padding: 0; }
+div.@a60837@ian@melaleuca-cuticularis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61836@ian@transport-saltwater {max-width:75px; max-height:75px; }
+.@a61836@ian@transport-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltwater/0.png/0.png);padding: 0; }
+div.@a61836@ian@transport-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cfa5210d84d6f16d7f6408bfaf534c22:402a7ee9b1dc754f2de65209a489ea24:4ddb42793a59c1b7bfff1539dfc4d068$ */

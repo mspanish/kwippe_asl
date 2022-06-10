@@ -1,0 +1,37 @@
+{
+    "sign": "earth+rumble",
+    "signer": "asl2english",
+    "uid": 468,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 66,
+            "nd": 18
+        },
+        "end": {
+            "d": 82,
+            "nd": 93
+        }
+    },
+    "regions": [
+        "chest-front",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            0,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

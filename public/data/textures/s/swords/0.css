@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13454@gameicons-delapouite@swords-power {max-width:75px; max-height:75px; }
+.@b13454@gameicons-delapouite@swords-power::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/swords/0.png/0.png);padding: 0; }
+div.@b13454@gameicons-delapouite@swords-power::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14038@gameicons-lorc@dervish-swords {max-width:75px; max-height:75px; }
+.@b14038@gameicons-lorc@dervish-swords::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/swords/0.png/0.png);padding: 0; }
+div.@b14038@gameicons-lorc@dervish-swords::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14932@gameicons-lorc@swords-emblem {max-width:75px; max-height:75px; }
+.@b14932@gameicons-lorc@swords-emblem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/swords/0.png/0.png);padding: 0; }
+div.@b14932@gameicons-lorc@swords-emblem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0a6b50740593b8b59f7fa8f01b48b8d7:a4a6c309a21a9b59e40c1e9e0ff514d3:4ddb42793a59c1b7bfff1539dfc4d068$ */

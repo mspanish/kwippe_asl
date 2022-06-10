@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60335@ian@freight-port-1 {max-width:75px; max-height:75px; }
+.@a60335@ian@freight-port-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/commerce/0.png/0.png);padding: 0; }
+div.@a60335@ian@freight-port-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60336@ian@freight-port-crane-1 {max-width:75px; max-height:75px; }
+.@a60336@ian@freight-port-crane-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/commerce/0.png/0.png);padding: 0; }
+div.@a60336@ian@freight-port-crane-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60337@ian@freight-port-crane-2 {max-width:75px; max-height:75px; }
+.@a60337@ian@freight-port-crane-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/commerce/0.png/0.png);padding: 0; }
+div.@a60337@ian@freight-port-crane-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60338@ian@freight-port {max-width:75px; max-height:75px; }
+.@a60338@ian@freight-port::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/commerce/0.png/0.png);padding: 0; }
+div.@a60338@ian@freight-port::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60339@ian@freight-port2 {max-width:75px; max-height:75px; }
+.@a60339@ian@freight-port2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/commerce/0.png/0.png);padding: 0; }
+div.@a60339@ian@freight-port2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60807@ian@manufacturing-plant {max-width:75px; max-height:75px; }
+.@a60807@ian@manufacturing-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/commerce/0.png/0.png);padding: 0; }
+div.@a60807@ian@manufacturing-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62154@ian@vehicle-sedan {max-width:75px; max-height:75px; }
+.@a62154@ian@vehicle-sedan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/commerce/0.png/0.png);padding: 0; }
+div.@a62154@ian@vehicle-sedan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:26b77be27b6443dc81701c1459279460:66a9ce711404186d32fa5257ca789c0c:4ddb42793a59c1b7bfff1539dfc4d068$ */

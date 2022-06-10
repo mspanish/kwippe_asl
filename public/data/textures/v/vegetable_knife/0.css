@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2631@bon@vegetable-knife-2570 {max-width:75px; max-height:75px; }
+.@a2631@bon@vegetable-knife-2570::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/v/vegetable_knife/0.png/0.png);padding: 0; }
+div.@a2631@bon@vegetable-knife-2570::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c1642c87cda236dfb299a6a569dce7d9:7ca177d5ca5826c51b95b7bc7eaacf1a:4ddb42793a59c1b7bfff1539dfc4d068$ */

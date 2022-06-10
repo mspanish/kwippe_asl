@@ -1,0 +1,45 @@
+{
+    "sign": "computer_mouse",
+    "signer": "aslLex",
+    "uid": 2543,
+    "synonyms": "computer, computer mouse, desktop, mouse",
+    "handshapes": {
+        "begin": {
+            "d": "1",
+            "nd": null
+        },
+        "end": {
+            "d": "curved_5",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "CheekNose",
+        "morph1_specific_second": "HeadAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 1,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Circular",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 3.9,
+    "category": null
+}

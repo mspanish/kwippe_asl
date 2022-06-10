@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60072@ian@echinacea-purpurea {max-width:75px; max-height:75px; }
+.@a60072@ian@echinacea-purpurea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/purpurea/0.png/0.png);padding: 0; }
+div.@a60072@ian@echinacea-purpurea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c72d8e955e900e0eb5d130b187652c3e:47962b2929f2856c3d301bd9333c00b9:4ddb42793a59c1b7bfff1539dfc4d068$ */

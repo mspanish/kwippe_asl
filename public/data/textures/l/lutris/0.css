@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60122@ian@enhydra-lutris-1 {max-width:75px; max-height:75px; }
+.@a60122@ian@enhydra-lutris-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/l/lutris/0.png/0.png);padding: 0; }
+div.@a60122@ian@enhydra-lutris-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60123@ian@enhydra-lutris-2 {max-width:75px; max-height:75px; }
+.@a60123@ian@enhydra-lutris-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/l/lutris/0.png/0.png);padding: 0; }
+div.@a60123@ian@enhydra-lutris-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ff5564c2a53bc567865ace012b106395:6920b42183d622b9c74f65d56bd28867:4ddb42793a59c1b7bfff1539dfc4d068$ */

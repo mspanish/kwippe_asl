@@ -1,0 +1,37 @@
+{
+    "sign": "divorce",
+    "signer": "asl2english",
+    "uid": 432,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 42,
+            "nd": 42
+        },
+        "end": {
+            "d": 42,
+            "nd": 42
+        }
+    },
+    "regions": [
+        0,
+        "right"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

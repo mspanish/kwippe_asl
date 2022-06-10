@@ -1,0 +1,95 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59255@ian@acid-rain {max-width:75px; max-height:75px; }
+.@a59255@ian@acid-rain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59255@ian@acid-rain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59289@ian@air-quality-high {max-width:75px; max-height:75px; }
+.@a59289@ian@air-quality-high::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59289@ian@air-quality-high::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59290@ian@air-quality-low {max-width:75px; max-height:75px; }
+.@a59290@ian@air-quality-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59290@ian@air-quality-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59291@ian@air-quality-medium {max-width:75px; max-height:75px; }
+.@a59291@ian@air-quality-medium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59291@ian@air-quality-medium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59375@ian@arctic-drilling {max-width:75px; max-height:75px; }
+.@a59375@ian@arctic-drilling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59375@ian@arctic-drilling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59502@ian@blowout-preventer {max-width:75px; max-height:75px; }
+.@a59502@ian@blowout-preventer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59502@ian@blowout-preventer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59724@ian@climate-change-drought {max-width:75px; max-height:75px; }
+.@a59724@ian@climate-change-drought::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59724@ian@climate-change-drought::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59726@ian@climate-change-heatwave {max-width:75px; max-height:75px; }
+.@a59726@ian@climate-change-heatwave::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59726@ian@climate-change-heatwave::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59970@ian@deep-sea-mining-bulk-cutter {max-width:75px; max-height:75px; }
+.@a59970@ian@deep-sea-mining-bulk-cutter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59970@ian@deep-sea-mining-bulk-cutter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool {max-width:75px; max-height:75px; }
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59972@ian@deep-sea-mining-support-vessel {max-width:75px; max-height:75px; }
+.@a59972@ian@deep-sea-mining-support-vessel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59972@ian@deep-sea-mining-support-vessel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59975@ian@deer-overbrowse-shrub {max-width:75px; max-height:75px; }
+.@a59975@ian@deer-overbrowse-shrub::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59975@ian@deer-overbrowse-shrub::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59976@ian@deer-overbrowse-tree {max-width:75px; max-height:75px; }
+.@a59976@ian@deer-overbrowse-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59976@ian@deer-overbrowse-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59978@ian@degraded-water-quality {max-width:75px; max-height:75px; }
+.@a59978@ian@degraded-water-quality::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a59978@ian@degraded-water-quality::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60656@ian@landfill {max-width:75px; max-height:75px; }
+.@a60656@ian@landfill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a60656@ian@landfill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61043@ian@old-bottle {max-width:75px; max-height:75px; }
+.@a61043@ian@old-bottle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61043@ian@old-bottle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61044@ian@old-tires {max-width:75px; max-height:75px; }
+.@a61044@ian@old-tires::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61044@ian@old-tires::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61212@ian@plastic-bag-1 {max-width:75px; max-height:75px; }
+.@a61212@ian@plastic-bag-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61212@ian@plastic-bag-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61213@ian@plastic-bag-2 {max-width:75px; max-height:75px; }
+.@a61213@ian@plastic-bag-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61213@ian@plastic-bag-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61214@ian@plastic-bottle-1 {max-width:75px; max-height:75px; }
+.@a61214@ian@plastic-bottle-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61214@ian@plastic-bottle-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61215@ian@plastic-bottle-2 {max-width:75px; max-height:75px; }
+.@a61215@ian@plastic-bottle-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61215@ian@plastic-bottle-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61216@ian@plastic-bottle-3 {max-width:75px; max-height:75px; }
+.@a61216@ian@plastic-bottle-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61216@ian@plastic-bottle-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61256@ian@pop-can {max-width:75px; max-height:75px; }
+.@a61256@ian@pop-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61256@ian@pop-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61368@ian@receding-shoreline {max-width:75px; max-height:75px; }
+.@a61368@ian@receding-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61368@ian@receding-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61493@ian@roadside-trash {max-width:75px; max-height:75px; }
+.@a61493@ian@roadside-trash::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61493@ian@roadside-trash::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61512@ian@rusty-drum {max-width:75px; max-height:75px; }
+.@a61512@ian@rusty-drum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61512@ian@rusty-drum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61526@ian@saltwater-intrusion {max-width:75px; max-height:75px; }
+.@a61526@ian@saltwater-intrusion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a61526@ian@saltwater-intrusion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62190@ian@water-quality {max-width:75px; max-height:75px; }
+.@a62190@ian@water-quality::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/e/environmental/0.png/0.png);padding: 0; }
+div.@a62190@ian@water-quality::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e9a5fe265816992f05ad965c970acbda:08c499e96ced9c535bd091118981bb2f:4ddb42793a59c1b7bfff1539dfc4d068$ */

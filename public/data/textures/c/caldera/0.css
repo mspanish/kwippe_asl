@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60638@ian@lake-2d-caldera-with-volanic-island {max-width:75px; max-height:75px; }
+.@a60638@ian@lake-2d-caldera-with-volanic-island::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caldera/0.png/0.png);padding: 0; }
+div.@a60638@ian@lake-2d-caldera-with-volanic-island::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60647@ian@lake-3d-caldera-lake-with-volcanic-island {max-width:75px; max-height:75px; }
+.@a60647@ian@lake-3d-caldera-lake-with-volcanic-island::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caldera/0.png/0.png);padding: 0; }
+div.@a60647@ian@lake-3d-caldera-lake-with-volcanic-island::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60648@ian@lake-3d-caldera-lake {max-width:75px; max-height:75px; }
+.@a60648@ian@lake-3d-caldera-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caldera/0.png/0.png);padding: 0; }
+div.@a60648@ian@lake-3d-caldera-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62165@ian@volcano-3d-caldera {max-width:75px; max-height:75px; }
+.@a62165@ian@volcano-3d-caldera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caldera/0.png/0.png);padding: 0; }
+div.@a62165@ian@volcano-3d-caldera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13887@gameicons-lorc@caldera {max-width:75px; max-height:75px; }
+.@b13887@gameicons-lorc@caldera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caldera/0.png/0.png);padding: 0; }
+div.@b13887@gameicons-lorc@caldera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:58b04879c519d22ef314a7bafeb1cda9:cfa5562a51b4d26e507ca518f8a62430:4ddb42793a59c1b7bfff1539dfc4d068$ */

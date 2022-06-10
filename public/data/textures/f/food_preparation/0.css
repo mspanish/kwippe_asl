@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1861@bon@food-preparation-2526 {max-width:75px; max-height:75px; }
+.@a1861@bon@food-preparation-2526::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/food_preparation/0.png/0.png);padding: 0; }
+div.@a1861@bon@food-preparation-2526::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1862@bon@food-preparation-3021 {max-width:75px; max-height:75px; }
+.@a1862@bon@food-preparation-3021::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/food_preparation/0.png/0.png);padding: 0; }
+div.@a1862@bon@food-preparation-3021::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f7cb65e34a9eaa121d8f5ee9df6352b6:31ebf370b4bcfa50569c0e4cb3f35ca9:4ddb42793a59c1b7bfff1539dfc4d068$ */

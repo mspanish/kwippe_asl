@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59695@ian@chisel {max-width:75px; max-height:75px; }
+.@a59695@ian@chisel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/carve/0.png/0.png);padding: 0; }
+div.@a59695@ian@chisel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:26bac5fe71dc81e4f9cf075abaaae5d2:bec968354e4b279b47ed3a5573456229:4ddb42793a59c1b7bfff1539dfc4d068$ */

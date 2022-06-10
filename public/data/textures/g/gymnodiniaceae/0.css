@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59315@ian@amphidinium-crassum {max-width:75px; max-height:75px; }
+.@a59315@ian@amphidinium-crassum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/gymnodiniaceae/0.png/0.png);padding: 0; }
+div.@a59315@ian@amphidinium-crassum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60413@ian@gyrodinium {max-width:75px; max-height:75px; }
+.@a60413@ian@gyrodinium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/gymnodiniaceae/0.png/0.png);padding: 0; }
+div.@a60413@ian@gyrodinium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8f66c9d3bc5132e05faff3f940f90a80:8fc8a9cb9b1ac0e0ac42832f029b5e31:4ddb42793a59c1b7bfff1539dfc4d068$ */

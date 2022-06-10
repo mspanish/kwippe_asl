@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37791@mul@golf-club {max-width:75px; max-height:75px; }
+.@a37791@mul@golf-club::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@a37791@mul@golf-club::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44351@not@flag-in-hole {max-width:75px; max-height:75px; }
+.@a44351@not@flag-in-hole::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@a44351@not@flag-in-hole::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47519@pic@golf {max-width:75px; max-height:75px; }
+.@a47519@pic@golf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@a47519@pic@golf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49028@ssj@golf {max-width:75px; max-height:75px; }
+.@a49028@ssj@golf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@a49028@ssj@golf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53279@vaa@golf {max-width:75px; max-height:75px; }
+.@a53279@vaa@golf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@a53279@vaa@golf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58610@baianet@group {max-width:75px; max-height:75px; }
+.@a58610@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@a58610@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60379@ian@golf-course {max-width:75px; max-height:75px; }
+.@a60379@ian@golf-course::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@a60379@ian@golf-course::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12699@gameicons-delapouite@golf-tee {max-width:75px; max-height:75px; }
+.@b12699@gameicons-delapouite@golf-tee::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@b12699@gameicons-delapouite@golf-tee::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8817@web@golf {max-width:75px; max-height:75px; }
+.@b8817@web@golf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/golf/0.png/0.png);padding: 0; }
+div.@b8817@web@golf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a9ffa03fd903db2d31c66a6dc4c71a46:e329d42f2dc0ac41560786b4b2c9976c:4ddb42793a59c1b7bfff1539dfc4d068$ */

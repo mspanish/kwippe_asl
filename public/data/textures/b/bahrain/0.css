@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16031@emo@bh {max-width:75px; max-height:75px; }
+.@a16031@emo@bh::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bahrain/0.png/0.png);padding: 0; }
+div.@a16031@emo@bh::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37009@mul@bahrain {max-width:75px; max-height:75px; }
+.@a37009@mul@bahrain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bahrain/0.png/0.png);padding: 0; }
+div.@a37009@mul@bahrain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37471@mul@bahrain {max-width:75px; max-height:75px; }
+.@a37471@mul@bahrain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bahrain/0.png/0.png);padding: 0; }
+div.@a37471@mul@bahrain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b1fc093e1e1ab0e4a6439b2a2cca5acf:717c47990b4a316f24ec758ab0fdc405:4ddb42793a59c1b7bfff1539dfc4d068$ */

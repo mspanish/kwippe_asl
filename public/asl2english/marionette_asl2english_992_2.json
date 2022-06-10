@@ -1,0 +1,37 @@
+{
+    "sign": "marionette",
+    "signer": "asl2english",
+    "uid": 992,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 67,
+            "nd": 44
+        },
+        "end": {
+            "d": 44,
+            "nd": null
+        }
+    },
+    "regions": [
+        "R-shoulder",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "plural",
+        "dir": [
+            1,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a10812@df-pregnancy@1814 {max-width:75px; max-height:75px; }
+.@a10812@df-pregnancy@1814::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mother/0.png/0.png);padding: 0; }
+div.@a10812@df-pregnancy@1814::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10882@df-pregnancy@742 {max-width:75px; max-height:75px; }
+.@a10882@df-pregnancy@742::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mother/0.png/0.png);padding: 0; }
+div.@a10882@df-pregnancy@742::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10883@df-pregnancy@763 {max-width:75px; max-height:75px; }
+.@a10883@df-pregnancy@763::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mother/0.png/0.png);padding: 0; }
+div.@a10883@df-pregnancy@763::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6c4a1875b64dde6cd3f1b39ca03549c2:638178e670f403551910cf2aed83b88a:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a53419@vaa@pie_bar {max-width:75px; max-height:75px; }
+.@a53419@vaa@pie_bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/pie_bar/0.png/0.png);padding: 0; }
+div.@a53419@vaa@pie_bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cc10bef58e106e6a2774c3c15b511906:1d4b9dbdfd19f9d301453017dccea31d:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12589@gameicons-delapouite@fallout-shelter {max-width:75px; max-height:75px; }
+.@b12589@gameicons-delapouite@fallout-shelter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/fallout/0.png/0.png);padding: 0; }
+div.@b12589@gameicons-delapouite@fallout-shelter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9eaf3f5d4a3d48b7ea0f2a967214af37:fee5bf1ffa144c7323496b995d951135:4ddb42793a59c1b7bfff1539dfc4d068$ */

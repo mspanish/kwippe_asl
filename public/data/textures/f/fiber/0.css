@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59798@ian@coil-rope {max-width:75px; max-height:75px; }
+.@a59798@ian@coil-rope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/fiber/0.png/0.png);padding: 0; }
+div.@a59798@ian@coil-rope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59902@ian@cotton-boll {max-width:75px; max-height:75px; }
+.@a59902@ian@cotton-boll::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/fiber/0.png/0.png);padding: 0; }
+div.@a59902@ian@cotton-boll::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:96e21a96bcd9ba542891b3602b3da3f5:9c0aa7f3fc3d586347718f6ddb57f98f:4ddb42793a59c1b7bfff1539dfc4d068$ */

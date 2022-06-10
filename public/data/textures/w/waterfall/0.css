@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61386@ian@reef-3d-volcanic-island-waterfall-atoll {max-width:75px; max-height:75px; }
+.@a61386@ian@reef-3d-volcanic-island-waterfall-atoll::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/waterfall/0.png/0.png);padding: 0; }
+div.@a61386@ian@reef-3d-volcanic-island-waterfall-atoll::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62205@ian@waterfall-1 {max-width:75px; max-height:75px; }
+.@a62205@ian@waterfall-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/waterfall/0.png/0.png);padding: 0; }
+div.@a62205@ian@waterfall-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62206@ian@waterfall-2 {max-width:75px; max-height:75px; }
+.@a62206@ian@waterfall-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/waterfall/0.png/0.png);padding: 0; }
+div.@a62206@ian@waterfall-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62221@ian@watershed-3d-volcanic-island-crater-lakes-waterfalls-lava-flows {max-width:75px; max-height:75px; }
+.@a62221@ian@watershed-3d-volcanic-island-crater-lakes-waterfalls-lava-flows::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/waterfall/0.png/0.png);padding: 0; }
+div.@a62221@ian@watershed-3d-volcanic-island-crater-lakes-waterfalls-lava-flows::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13620@gameicons-delapouite@waterfall {max-width:75px; max-height:75px; }
+.@b13620@gameicons-delapouite@waterfall::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/waterfall/0.png/0.png);padding: 0; }
+div.@b13620@gameicons-delapouite@waterfall::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:84939be8283fee02e4555e35ec64de6e:8f7c6774dc5355fc5f365851bf03138f:4ddb42793a59c1b7bfff1539dfc4d068$ */

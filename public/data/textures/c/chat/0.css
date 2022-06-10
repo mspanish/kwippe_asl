@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36949@mul@communication-aid-chat-2 {max-width:75px; max-height:75px; }
+.@a36949@mul@communication-aid-chat-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/chat/0.png/0.png);padding: 0; }
+div.@a36949@mul@communication-aid-chat-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12369@gameicons-delapouite@chat-bubble {max-width:75px; max-height:75px; }
+.@b12369@gameicons-delapouite@chat-bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/chat/0.png/0.png);padding: 0; }
+div.@b12369@gameicons-delapouite@chat-bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:be636c1d4b80bf2469f8da048f0f7e95:63a7214c30fe7217ce49cfc5761a285c:4ddb42793a59c1b7bfff1539dfc4d068$ */

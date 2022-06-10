@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16024@emo@az {max-width:75px; max-height:75px; }
+.@a16024@emo@az::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/azerbaijan/0.png/0.png);padding: 0; }
+div.@a16024@emo@az::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37008@mul@azerbaijan {max-width:75px; max-height:75px; }
+.@a37008@mul@azerbaijan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/azerbaijan/0.png/0.png);padding: 0; }
+div.@a37008@mul@azerbaijan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37470@mul@azerbaijan {max-width:75px; max-height:75px; }
+.@a37470@mul@azerbaijan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/azerbaijan/0.png/0.png);padding: 0; }
+div.@a37470@mul@azerbaijan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:459b7ca3374709f7e93ebdd5df2eca60:ed1b9ada81adc641365a1af2a6996f5c:4ddb42793a59c1b7bfff1539dfc4d068$ */

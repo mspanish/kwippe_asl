@@ -1,0 +1,37 @@
+{
+    "sign": "drunk",
+    "signer": "asl2english",
+    "uid": 449,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 14,
+            "nd": 14
+        },
+        "end": {
+            "d": 12,
+            "nd": 12
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "L-shouler"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

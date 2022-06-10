@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37652@mul@wales {max-width:75px; max-height:75px; }
+.@a37652@mul@wales::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wales/0.png/0.png);padding: 0; }
+div.@a37652@mul@wales::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51003@tw2@wales {max-width:75px; max-height:75px; }
+.@a51003@tw2@wales::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wales/0.png/0.png);padding: 0; }
+div.@a51003@tw2@wales::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:618e70fded8a7ebf729f9d9b155f3000:e61b755548c674c79a2c60cf0c1b40eb:4ddb42793a59c1b7bfff1539dfc4d068$ */

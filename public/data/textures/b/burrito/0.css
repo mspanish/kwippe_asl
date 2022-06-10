@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14706@em2@burrito {max-width:75px; max-height:75px; }
+.@a14706@em2@burrito::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/burrito/0.png/0.png);padding: 0; }
+div.@a14706@em2@burrito::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15756@emo@burrito {max-width:75px; max-height:75px; }
+.@a15756@emo@burrito::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/burrito/0.png/0.png);padding: 0; }
+div.@a15756@emo@burrito::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39390@noc@burrito {max-width:75px; max-height:75px; }
+.@a39390@noc@burrito::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/burrito/0.png/0.png);padding: 0; }
+div.@a39390@noc@burrito::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40842@nog@burrito-food-drink {max-width:75px; max-height:75px; }
+.@a40842@nog@burrito-food-drink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/burrito/0.png/0.png);padding: 0; }
+div.@a40842@nog@burrito-food-drink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50260@tw2@burrito {max-width:75px; max-height:75px; }
+.@a50260@tw2@burrito::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/burrito/0.png/0.png);padding: 0; }
+div.@a50260@tw2@burrito::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6920@df-fastfoodicons@z {max-width:75px; max-height:75px; }
+.@a6920@df-fastfoodicons@z::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/burrito/0.png/0.png);padding: 0; }
+div.@a6920@df-fastfoodicons@z::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0921b741f81fa863c82ef76910e14a4a:37ee8fb0ff97254a827a5e8af4f6996a:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "physical",
+    "signer": "asl2english",
+    "uid": 1354,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 58,
+            "nd": 58
+        },
+        "end": {
+            "d": 58,
+            "nd": 58
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

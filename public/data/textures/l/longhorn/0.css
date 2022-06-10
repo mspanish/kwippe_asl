@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59523@ian@bos-primigenius-taurus {max-width:75px; max-height:75px; }
+.@a59523@ian@bos-primigenius-taurus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/longhorn/0.png/0.png);padding: 0; }
+div.@a59523@ian@bos-primigenius-taurus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:29640c140b65584c72b67e0340e90a00:37b4d1cd8673d51f8bf9b7f1d2992c15:4ddb42793a59c1b7bfff1539dfc4d068$ */

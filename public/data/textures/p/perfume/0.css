@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38406@mul@perfume {max-width:75px; max-height:75px; }
+.@a38406@mul@perfume::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/perfume/0.png/0.png);padding: 0; }
+div.@a38406@mul@perfume::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14589@gameicons-lorc@perfume-bottle {max-width:75px; max-height:75px; }
+.@b14589@gameicons-lorc@perfume-bottle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/perfume/0.png/0.png);padding: 0; }
+div.@b14589@gameicons-lorc@perfume-bottle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7efdc442d8be47c398ea4d530b0f722a:a26970dc07a15e4da031a02750a5a792:4ddb42793a59c1b7bfff1539dfc4d068$ */

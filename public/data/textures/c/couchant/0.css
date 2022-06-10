@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26508@her@salamander-couchant {max-width:75px; max-height:75px; }
+.@a26508@her@salamander-couchant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/couchant/0.png/0.png);padding: 0; }
+div.@a26508@her@salamander-couchant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f056e190938a4ae6f88200b74effb3a7:ef5907c8943aded74fefb537f02e832f:4ddb42793a59c1b7bfff1539dfc4d068$ */

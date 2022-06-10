@@ -1,0 +1,37 @@
+{
+    "sign": "crash",
+    "signer": "asl2english",
+    "uid": 360,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 4,
+            "nd": 14
+        },
+        "end": {
+            "d": 82,
+            "nd": 18
+        }
+    },
+    "regions": [
+        0,
+        "hand"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            0,
+            0
+        ],
+        "type": "change"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

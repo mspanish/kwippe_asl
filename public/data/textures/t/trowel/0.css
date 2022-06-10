@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2604@bon@trowel-trades-3051 {max-width:75px; max-height:75px; }
+.@a2604@bon@trowel-trades-3051::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/trowel/0.png/0.png);padding: 0; }
+div.@a2604@bon@trowel-trades-3051::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39084@mul@trowel {max-width:75px; max-height:75px; }
+.@a39084@mul@trowel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/trowel/0.png/0.png);padding: 0; }
+div.@a39084@mul@trowel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13538@gameicons-delapouite@trowel {max-width:75px; max-height:75px; }
+.@b13538@gameicons-delapouite@trowel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/trowel/0.png/0.png);padding: 0; }
+div.@b13538@gameicons-delapouite@trowel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8a40d6cde043cc901265298ce58c6d7d:e32201eee75bee8fb1040743222b69c5:4ddb42793a59c1b7bfff1539dfc4d068$ */

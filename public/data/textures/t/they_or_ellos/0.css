@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48758@solver@1-they-or-ellos {max-width:75px; max-height:75px; }
+.@a48758@solver@1-they-or-ellos::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/they_or_ellos/0.png/0.png);padding: 0; }
+div.@a48758@solver@1-they-or-ellos::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b7db673037110af360f3ebb2b5774b1f:c67e13aa5881dd0c4d4a1520ccb3256b:4ddb42793a59c1b7bfff1539dfc4d068$ */

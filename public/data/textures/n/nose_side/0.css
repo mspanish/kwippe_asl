@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13014@gameicons-delapouite@nose-side {max-width:75px; max-height:75px; }
+.@b13014@gameicons-delapouite@nose-side::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/n/nose_side/0.png/0.png);padding: 0; }
+div.@b13014@gameicons-delapouite@nose-side::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e54e534f31c07acc372d5254a30a2e4c:611db31c418d2530b7c633502623aa02:4ddb42793a59c1b7bfff1539dfc4d068$ */

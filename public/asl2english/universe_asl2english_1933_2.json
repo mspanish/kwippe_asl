@@ -1,0 +1,37 @@
+{
+    "sign": "universe",
+    "signer": "asl2english",
+    "uid": 1933,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 76,
+            "nd": 76
+        },
+        "end": {
+            "d": 76,
+            "nd": 76
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "circle",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

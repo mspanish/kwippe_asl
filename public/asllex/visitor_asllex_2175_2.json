@@ -1,0 +1,45 @@
+{
+    "sign": "visitor",
+    "signer": "aslLex",
+    "uid": 1398,
+    "synonyms": "guest, person, visit, visitor",
+    "handshapes": {
+        "begin": {
+            "d": "p",
+            "nd": "p"
+        },
+        "end": {
+            "d": "open_b",
+            "nd": "open_b"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Eye",
+        "morph1_specific_second": "HeadAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Circular",
+        "morph1_repeat": 1,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 4.0,
+    "frequency": 4.3,
+    "category": null
+}

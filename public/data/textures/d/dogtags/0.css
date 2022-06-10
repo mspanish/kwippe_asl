@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a11739@df-specialforces@2534 {max-width:75px; max-height:75px; }
+.@a11739@df-specialforces@2534::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/dogtags/0.png/0.png);padding: 0; }
+div.@a11739@df-specialforces@2534::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a9479@df-militaria@1436 {max-width:75px; max-height:75px; }
+.@a9479@df-militaria@1436::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/dogtags/0.png/0.png);padding: 0; }
+div.@a9479@df-militaria@1436::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:81354833f8330e2c5e5ed37969151d58:79c84b79b986403a109d65557f8e92a2:4ddb42793a59c1b7bfff1539dfc4d068$ */

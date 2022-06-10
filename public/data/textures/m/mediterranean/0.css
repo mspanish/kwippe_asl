@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59705@ian@chromis-chromis {max-width:75px; max-height:75px; }
+.@a59705@ian@chromis-chromis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mediterranean/0.png/0.png);padding: 0; }
+div.@a59705@ian@chromis-chromis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59899@ian@coris-julis {max-width:75px; max-height:75px; }
+.@a59899@ian@coris-julis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mediterranean/0.png/0.png);padding: 0; }
+div.@a59899@ian@coris-julis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61269@ian@posidonia-oceanica-on-matte {max-width:75px; max-height:75px; }
+.@a61269@ian@posidonia-oceanica-on-matte::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mediterranean/0.png/0.png);padding: 0; }
+div.@a61269@ian@posidonia-oceanica-on-matte::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b768f10ed1b0578fa14ae72a2b6bd4f7:c84c631d18435321d773652d62f42520:4ddb42793a59c1b7bfff1539dfc4d068$ */

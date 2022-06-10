@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a33893@mat@grease-pencil {max-width:75px; max-height:75px; }
+.@a33893@mat@grease-pencil::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/grease/0.png/0.png);padding: 0; }
+div.@a33893@mat@grease-pencil::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14277@gameicons-lorc@grease-trap {max-width:75px; max-height:75px; }
+.@b14277@gameicons-lorc@grease-trap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/grease/0.png/0.png);padding: 0; }
+div.@b14277@gameicons-lorc@grease-trap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d0b5281f21c61e608dd0204be1f1eeb8:2af8f2d4e0d05b8ed0b87f9d3e293c3f:4ddb42793a59c1b7bfff1539dfc4d068$ */

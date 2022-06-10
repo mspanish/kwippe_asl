@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1829@bon@felt-you-did-everything-you-wanted-to-do-5274 {max-width:75px; max-height:75px; }
+.@a1829@bon@felt-you-did-everything-you-wanted-to-do-5274::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/did/0.png/0.png);padding: 0; }
+div.@a1829@bon@felt-you-did-everything-you-wanted-to-do-5274::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35@aac@did-not {max-width:75px; max-height:75px; }
+.@a35@aac@did-not::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/did/0.png/0.png);padding: 0; }
+div.@a35@aac@did-not::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ef2cf9094f5897b8eb2c03eaea9c9a23:d4b93e5643b443da4c92b89c37de8b80:4ddb42793a59c1b7bfff1539dfc4d068$ */

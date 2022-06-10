@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48740@solver@1-mexican {max-width:75px; max-height:75px; }
+.@a48740@solver@1-mexican::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mexican/0.png/0.png);padding: 0; }
+div.@a48740@solver@1-mexican::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48858@solver@4-mexican-guy {max-width:75px; max-height:75px; }
+.@a48858@solver@4-mexican-guy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mexican/0.png/0.png);padding: 0; }
+div.@a48858@solver@4-mexican-guy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:39855504b13914767fd1653c838e1f94:8adcb15f8fa7f7a9d263e98008c6f4d3:4ddb42793a59c1b7bfff1539dfc4d068$ */

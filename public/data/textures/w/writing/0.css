@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16999@emo@writing-hand {max-width:75px; max-height:75px; }
+.@a16999@emo@writing-hand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@a16999@emo@writing-hand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17767@fir@u1f58e-leftwritinghand {max-width:75px; max-height:75px; }
+.@a17767@fir@u1f58e-leftwritinghand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@a17767@fir@u1f58e-leftwritinghand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2700@bon@writing-1089 {max-width:75px; max-height:75px; }
+.@a2700@bon@writing-1089::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@a2700@bon@writing-1089::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40355@noc@writing-hand-m-f-1-2 {max-width:75px; max-height:75px; }
+.@a40355@noc@writing-hand-m-f-1-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@a40355@noc@writing-hand-m-f-1-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43993@nog@writing-hand-smileys-people {max-width:75px; max-height:75px; }
+.@a43993@nog@writing-hand-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@a43993@nog@writing-hand-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49447@str@386-writing-hand-2 {max-width:75px; max-height:75px; }
+.@a49447@str@386-writing-hand-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@a49447@str@386-writing-hand-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51038@tw2@writing-hand-3 {max-width:75px; max-height:75px; }
+.@a51038@tw2@writing-hand-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@a51038@tw2@writing-hand-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59508@ian@book {max-width:75px; max-height:75px; }
+.@a59508@ian@book::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@a59508@ian@book::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b10062@em2@writing-hand-emoji-modifier-fitzpatrick-type-1-2 {max-width:75px; max-height:75px; }
+.@b10062@em2@writing-hand-emoji-modifier-fitzpatrick-type-1-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/writing/0.png/0.png);padding: 0; }
+div.@b10062@em2@writing-hand-emoji-modifier-fitzpatrick-type-1-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bcb9e440582229cf1688316f6565aebd:254034209b609bc3a18bd19b1fd5cd8b:4ddb42793a59c1b7bfff1539dfc4d068$ */

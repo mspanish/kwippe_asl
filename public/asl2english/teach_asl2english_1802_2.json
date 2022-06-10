@@ -1,0 +1,37 @@
+{
+    "sign": "teach",
+    "signer": "asl2english",
+    "uid": 1802,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 51,
+            "nd": 51
+        },
+        "end": {
+            "d": 51,
+            "nd": 51
+        }
+    },
+    "regions": [
+        "temple",
+        "temple"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1910@bon@going-out-pub-1028 {max-width:75px; max-height:75px; }
+.@a1910@bon@going-out-pub-1028::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/going_out_pub/0.png/0.png);padding: 0; }
+div.@a1910@bon@going-out-pub-1028::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1911@bon@going-out-pub-6019 {max-width:75px; max-height:75px; }
+.@a1911@bon@going-out-pub-6019::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/going_out_pub/0.png/0.png);padding: 0; }
+div.@a1911@bon@going-out-pub-6019::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fba32f68c233e76fd85e7eebe674d219:456f0cbd5dbbaef170b13d4a22e7b82e:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "ns-france",
+    "signer": "asl2english",
+    "uid": 1154,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 44,
+            "nd": null
+        },
+        "end": {
+            "d": 44,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest-front",
+        "upper-area"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59924@ian@current-meter {max-width:75px; max-height:75px; }
+.@a59924@ian@current-meter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/discharge/0.png/0.png);padding: 0; }
+div.@a59924@ian@current-meter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60006@ian@depth-mean-flow {max-width:75px; max-height:75px; }
+.@a60006@ian@depth-mean-flow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/discharge/0.png/0.png);padding: 0; }
+div.@a60006@ian@depth-mean-flow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60297@ian@flow-deflector {max-width:75px; max-height:75px; }
+.@a60297@ian@flow-deflector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/discharge/0.png/0.png);padding: 0; }
+div.@a60297@ian@flow-deflector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2d16553b2cf4bed94452c91f42cdbcf1:13e6006e5db41ba38dc19b651603959b:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,47 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1486@bon@archery-bs-8501-9002 {max-width:75px; max-height:75px; }
+.@a1486@bon@archery-bs-8501-9002::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@a1486@bon@archery-bs-8501-9002::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26257@her@crossbow {max-width:75px; max-height:75px; }
+.@a26257@her@crossbow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@a26257@her@crossbow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36461@mul@archery-target {max-width:75px; max-height:75px; }
+.@a36461@mul@archery-target::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@a36461@mul@archery-target::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36462@mul@archery {max-width:75px; max-height:75px; }
+.@a36462@mul@archery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@a36462@mul@archery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13723@gameicons-lorc@archery-target {max-width:75px; max-height:75px; }
+.@b13723@gameicons-lorc@archery-target::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@b13723@gameicons-lorc@archery-target::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13729@gameicons-lorc@arrow-cluster {max-width:75px; max-height:75px; }
+.@b13729@gameicons-lorc@arrow-cluster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@b13729@gameicons-lorc@arrow-cluster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13735@gameicons-lorc@arrows-shield {max-width:75px; max-height:75px; }
+.@b13735@gameicons-lorc@arrows-shield::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@b13735@gameicons-lorc@arrows-shield::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13838@gameicons-lorc@bowman {max-width:75px; max-height:75px; }
+.@b13838@gameicons-lorc@bowman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@b13838@gameicons-lorc@bowman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14424@gameicons-lorc@lightning-bow {max-width:75px; max-height:75px; }
+.@b14424@gameicons-lorc@lightning-bow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@b14424@gameicons-lorc@lightning-bow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14502@gameicons-lorc@middle-arrow {max-width:75px; max-height:75px; }
+.@b14502@gameicons-lorc@middle-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@b14502@gameicons-lorc@middle-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14608@gameicons-lorc@pocket-bow {max-width:75px; max-height:75px; }
+.@b14608@gameicons-lorc@pocket-bow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@b14608@gameicons-lorc@pocket-bow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14776@gameicons-lorc@slicing-arrow {max-width:75px; max-height:75px; }
+.@b14776@gameicons-lorc@slicing-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/a/archery/0.png/0.png);padding: 0; }
+div.@b14776@gameicons-lorc@slicing-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:88f5038566ad2ed6eef702e07b69df0f:c03aa36ab5d440c120a40e340e171a0e:4ddb42793a59c1b7bfff1539dfc4d068$ */

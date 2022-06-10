@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61550@ian@scarus-spp {max-width:75px; max-height:75px; }
+.@a61550@ian@scarus-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/scarus/0.png/0.png);padding: 0; }
+div.@a61550@ian@scarus-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:16522c8b312ab401ee8e0b1f4b079845:e9fca5432e7e68abb9fcfaf9e0b2671e:4ddb42793a59c1b7bfff1539dfc4d068$ */

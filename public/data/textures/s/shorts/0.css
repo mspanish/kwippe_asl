@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38737@mul@shorts {max-width:75px; max-height:75px; }
+.@a38737@mul@shorts::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shorts/0.png/0.png);padding: 0; }
+div.@a38737@mul@shorts::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43395@nog@shorts-objects-clothing {max-width:75px; max-height:75px; }
+.@a43395@nog@shorts-objects-clothing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shorts/0.png/0.png);padding: 0; }
+div.@a43395@nog@shorts-objects-clothing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43397@nog@shorts_objects-clothing_r06ce {max-width:75px; max-height:75px; }
+.@a43397@nog@shorts_objects-clothing_r06ce::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shorts/0.png/0.png);padding: 0; }
+div.@a43397@nog@shorts_objects-clothing_r06ce::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13308@gameicons-delapouite@shorts {max-width:75px; max-height:75px; }
+.@b13308@gameicons-delapouite@shorts::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shorts/0.png/0.png);padding: 0; }
+div.@b13308@gameicons-delapouite@shorts::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:251a086caca08c8d16f6b276a2d91cba:e293ae25d2f549f1f8ca80ba64a8ea86:4ddb42793a59c1b7bfff1539dfc4d068$ */

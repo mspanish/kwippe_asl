@@ -1,0 +1,28 @@
+
+{
+
+"@a30970@lin@rotate-anti": { 
+	"vb": "75 75 -0 -0",
+ },
+"@a30972@lin@rotate": { 
+	"vb": "75 75 -0 -75",
+ },
+"@a35007@mat@rotate-3d": { 
+	"vb": "71 75 -150 -75",
+ },
+"@a35009@mat@rotate-90": { 
+	"vb": "75 75 -0 -150",
+ },
+"@a55750@web@rotate-clockwise": { 
+	"vb": "75 75 -75 -0",
+ },
+"@a55751@web@rotate-counter-clockwise": { 
+	"vb": "75 75 -150 -0",
+ },
+"@a57302@win@transform-rotate-clockwise": { 
+	"vb": "75 75 -75 -75",
+ },
+"@a57303@win@transform-rotate-counterclockwise": { 
+	"vb": "75 75 -75 -150",
+ },
+}

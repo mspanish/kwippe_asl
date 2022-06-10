@@ -1,0 +1,45 @@
+{
+    "sign": "witch_2",
+    "signer": "aslLex",
+    "uid": 2491,
+    "synonyms": "magic, witch, wizard",
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": null
+        },
+        "end": {
+            "d": "baby_o",
+            "nd": "baby_o"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "CheekNose",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "FingerTip",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": 0.0
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": null,
+    "frequency": 2.917,
+    "category": null
+}

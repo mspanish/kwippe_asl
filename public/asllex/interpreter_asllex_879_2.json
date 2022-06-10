@@ -1,0 +1,45 @@
+{
+    "sign": "interpreter",
+    "signer": "aslLex",
+    "uid": 1722,
+    "synonyms": "interpreter, translator",
+    "handshapes": {
+        "begin": {
+            "d": "f",
+            "nd": "DominanceConditionViolation"
+        },
+        "end": {
+            "d": "open_b",
+            "nd": "open_b"
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "FingerTip",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "DominanceViolation",
+        "morph1_movement": "None",
+        "morph1_repeat": 1,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "DominanceViolation",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 6.148,
+    "category": "People"
+}

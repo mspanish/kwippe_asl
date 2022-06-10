@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60345@ian@gaillardia-aristata {max-width:75px; max-height:75px; }
+.@a60345@ian@gaillardia-aristata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/gaillardia/0.png/0.png);padding: 0; }
+div.@a60345@ian@gaillardia-aristata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60346@ian@gaillardia-pulchella {max-width:75px; max-height:75px; }
+.@a60346@ian@gaillardia-pulchella::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/gaillardia/0.png/0.png);padding: 0; }
+div.@a60346@ian@gaillardia-pulchella::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9f7aff8df4a2ca5af1b880bbaa2ea9e2:8cff6a282e0b8337eaecb0566cac3d96:4ddb42793a59c1b7bfff1539dfc4d068$ */

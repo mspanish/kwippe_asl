@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2648@bon@wash-your-hands-2-6104 {max-width:75px; max-height:75px; }
+.@a2648@bon@wash-your-hands-2-6104::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wash_your_hands/0.png/0.png);padding: 0; }
+div.@a2648@bon@wash-your-hands-2-6104::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2649@bon@wash-your-hands-6103 {max-width:75px; max-height:75px; }
+.@a2649@bon@wash-your-hands-6103::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wash_your_hands/0.png/0.png);padding: 0; }
+div.@a2649@bon@wash-your-hands-6103::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5c36817caa44487352a4a7dc7501ba02:25fd10d3d49f9611ab9b4543516c5801:4ddb42793a59c1b7bfff1539dfc4d068$ */

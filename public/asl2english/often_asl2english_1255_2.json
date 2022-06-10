@@ -1,0 +1,37 @@
+{
+    "sign": "often",
+    "signer": "asl2english",
+    "uid": 1255,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 24,
+            "nd": 18
+        },
+        "end": {
+            "d": 18,
+            "nd": 18
+        }
+    },
+    "regions": [
+        0,
+        "hand"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "plural"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

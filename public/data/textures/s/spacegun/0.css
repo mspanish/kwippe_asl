@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a10373@df-otherspace@q {max-width:75px; max-height:75px; }
+.@a10373@df-otherspace@q::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/spacegun/0.png/0.png);padding: 0; }
+div.@a10373@df-otherspace@q::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10386@df-otherspace@v {max-width:75px; max-height:75px; }
+.@a10386@df-otherspace@v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/spacegun/0.png/0.png);padding: 0; }
+div.@a10386@df-otherspace@v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9bb38d2e475efe9ea6940223e2691ffe:3c7e3e9d30ad5bfdbd7d39bde437eb7a:4ddb42793a59c1b7bfff1539dfc4d068$ */

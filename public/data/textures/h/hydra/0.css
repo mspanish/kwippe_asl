@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26402@her@hydra {max-width:75px; max-height:75px; }
+.@a26402@her@hydra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hydra/0.png/0.png);padding: 0; }
+div.@a26402@her@hydra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60525@ian@hydra-budding {max-width:75px; max-height:75px; }
+.@a60525@ian@hydra-budding::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hydra/0.png/0.png);padding: 0; }
+div.@a60525@ian@hydra-budding::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60526@ian@hydra {max-width:75px; max-height:75px; }
+.@a60526@ian@hydra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hydra/0.png/0.png);padding: 0; }
+div.@a60526@ian@hydra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14340@gameicons-lorc@hydra-shot {max-width:75px; max-height:75px; }
+.@b14340@gameicons-lorc@hydra-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hydra/0.png/0.png);padding: 0; }
+div.@b14340@gameicons-lorc@hydra-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14341@gameicons-lorc@hydra {max-width:75px; max-height:75px; }
+.@b14341@gameicons-lorc@hydra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hydra/0.png/0.png);padding: 0; }
+div.@b14341@gameicons-lorc@hydra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:59b247ff9027be2b6b81688b0e8cced8:4781eb400566cac6a453dd337164d049:4ddb42793a59c1b7bfff1539dfc4d068$ */

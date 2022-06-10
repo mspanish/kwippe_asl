@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16251@emo@va {max-width:75px; max-height:75px; }
+.@a16251@emo@va::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/vatican_city/0.png/0.png);padding: 0; }
+div.@a16251@emo@va::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37648@mul@vatican-city {max-width:75px; max-height:75px; }
+.@a37648@mul@vatican-city::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/vatican_city/0.png/0.png);padding: 0; }
+div.@a37648@mul@vatican-city::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2081@wikim-all@coat_of_arms_of_the_vatican_city {max-width:75px; max-height:75px; }
+.@d2081@wikim-all@coat_of_arms_of_the_vatican_city::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/vatican_city/0.png/0.png);padding: 0; }
+div.@d2081@wikim-all@coat_of_arms_of_the_vatican_city::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1284cbc08226f6a278d95ca975e4282d:4c9718c0959ba28a1f53c04586724cef:4ddb42793a59c1b7bfff1539dfc4d068$ */

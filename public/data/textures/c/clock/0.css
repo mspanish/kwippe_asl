@@ -1,0 +1,119 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a44221@not@clock-face-two-thirty {max-width:75px; max-height:75px; }
+.@a44221@not@clock-face-two-thirty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a44221@not@clock-face-two-thirty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46275@osm@amenity-clock-14 {max-width:75px; max-height:75px; }
+.@a46275@osm@amenity-clock-14::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a46275@osm@amenity-clock-14::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47371@pic@clock-mini {max-width:75px; max-height:75px; }
+.@a47371@pic@clock-mini::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a47371@pic@clock-mini::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47372@pic@clock {max-width:75px; max-height:75px; }
+.@a47372@pic@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a47372@pic@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47948@plateau@time-clock {max-width:75px; max-height:75px; }
+.@a47948@plateau@time-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a47948@plateau@time-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48117@roc@clock {max-width:75px; max-height:75px; }
+.@a48117@roc@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a48117@roc@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48414@sli@clock {max-width:75px; max-height:75px; }
+.@a48414@sli@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a48414@sli@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48571@small@calendar-clock {max-width:75px; max-height:75px; }
+.@a48571@small@calendar-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a48571@small@calendar-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48575@small@clock {max-width:75px; max-height:75px; }
+.@a48575@small@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a48575@small@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48888@solver@6-clock {max-width:75px; max-height:75px; }
+.@a48888@solver@6-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a48888@solver@6-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48902@solver@7-clock {max-width:75px; max-height:75px; }
+.@a48902@solver@7-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a48902@solver@7-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48921@solver@clock-ii {max-width:75px; max-height:75px; }
+.@a48921@solver@clock-ii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a48921@solver@clock-ii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48987@ssj@clock {max-width:75px; max-height:75px; }
+.@a48987@ssj@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a48987@ssj@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49847@the@alarm-clock {max-width:75px; max-height:75px; }
+.@a49847@the@alarm-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a49847@the@alarm-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50642@tw2@mantelpiece-clock {max-width:75px; max-height:75px; }
+.@a50642@tw2@mantelpiece-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a50642@tw2@mantelpiece-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50961@tw2@timer-clock {max-width:75px; max-height:75px; }
+.@a50961@tw2@timer-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a50961@tw2@timer-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53057@vaa@calendar-clock {max-width:75px; max-height:75px; }
+.@a53057@vaa@calendar-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a53057@vaa@calendar-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53112@vaa@clock {max-width:75px; max-height:75px; }
+.@a53112@vaa@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a53112@vaa@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53578@vaa@user-clock {max-width:75px; max-height:75px; }
+.@a53578@vaa@user-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a53578@vaa@user-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53594@videoplasty@alarm_clock_vector {max-width:75px; max-height:75px; }
+.@a53594@videoplasty@alarm_clock_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a53594@videoplasty@alarm_clock_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53634@videoplasty@clock_vector {max-width:75px; max-height:75px; }
+.@a53634@videoplasty@clock_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a53634@videoplasty@clock_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54063@wav@clock-circle {max-width:75px; max-height:75px; }
+.@a54063@wav@clock-circle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a54063@wav@clock-circle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54064@wav@clock-square {max-width:75px; max-height:75px; }
+.@a54064@wav@clock-square::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a54064@wav@clock-square::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54065@wav@clock {max-width:75px; max-height:75px; }
+.@a54065@wav@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a54065@wav@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56433@win@clock {max-width:75px; max-height:75px; }
+.@a56433@win@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a56433@win@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57398@xei@alarm-clock-o {max-width:75px; max-height:75px; }
+.@a57398@xei@alarm-clock-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a57398@xei@alarm-clock-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57399@xei@alarm-clock-off {max-width:75px; max-height:75px; }
+.@a57399@xei@alarm-clock-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a57399@xei@alarm-clock-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57400@xei@alarm-clock {max-width:75px; max-height:75px; }
+.@a57400@xei@alarm-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a57400@xei@alarm-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57570@xei@clock-o {max-width:75px; max-height:75px; }
+.@a57570@xei@clock-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a57570@xei@clock-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57571@xei@clock {max-width:75px; max-height:75px; }
+.@a57571@xei@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a57571@xei@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59294@ian@alarm-clock {max-width:75px; max-height:75px; }
+.@a59294@ian@alarm-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a59294@ian@alarm-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a698@awe@clock-o {max-width:75px; max-height:75px; }
+.@a698@awe@clock-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@a698@awe@clock-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12133@gameicons-delapouite@alarm-clock {max-width:75px; max-height:75px; }
+.@b12133@gameicons-delapouite@alarm-clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@b12133@gameicons-delapouite@alarm-clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13937@gameicons-lorc@clockwork {max-width:75px; max-height:75px; }
+.@b13937@gameicons-lorc@clockwork::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@b13937@gameicons-lorc@clockwork::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8436@web@clock-1 {max-width:75px; max-height:75px; }
+.@b8436@web@clock-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@b8436@web@clock-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8437@web@clock {max-width:75px; max-height:75px; }
+.@b8437@web@clock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/c/clock/0.png/0.png);padding: 0; }
+div.@b8437@web@clock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:33853b97d0c3e31f40b845821149e4a1:bb8fd460c2071888e201431fce685fad:4ddb42793a59c1b7bfff1539dfc4d068$ */

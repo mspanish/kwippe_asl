@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16140@emo@la {max-width:75px; max-height:75px; }
+.@a16140@emo@la::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laos/0.png/0.png);padding: 0; }
+div.@a16140@emo@la::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37063@mul@laos {max-width:75px; max-height:75px; }
+.@a37063@mul@laos::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laos/0.png/0.png);padding: 0; }
+div.@a37063@mul@laos::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37544@mul@laos {max-width:75px; max-height:75px; }
+.@a37544@mul@laos::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laos/0.png/0.png);padding: 0; }
+div.@a37544@mul@laos::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2286@wikim-all@eurolaos {max-width:75px; max-height:75px; }
+.@d2286@wikim-all@eurolaos::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laos/0.png/0.png);padding: 0; }
+div.@d2286@wikim-all@eurolaos::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2546@wikim-all@flag_of_laos {max-width:75px; max-height:75px; }
+.@d2546@wikim-all@flag_of_laos::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laos/0.png/0.png);padding: 0; }
+div.@d2546@wikim-all@flag_of_laos::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4c8e5d440e5a52093b548154d3202a62:524fc53a195a1a075853be81f58e6879:4ddb42793a59c1b7bfff1539dfc4d068$ */

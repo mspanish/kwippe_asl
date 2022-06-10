@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38872@mul@sting-bee {max-width:75px; max-height:75px; }
+.@a38872@mul@sting-bee::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/sting/0.png/0.png);padding: 0; }
+div.@a38872@mul@sting-bee::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15059@gameicons-lorc@wasp-sting {max-width:75px; max-height:75px; }
+.@b15059@gameicons-lorc@wasp-sting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/sting/0.png/0.png);padding: 0; }
+div.@b15059@gameicons-lorc@wasp-sting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0e09c71003dafdb78db7f763b27b2d55:ebaeafde7b406f9e10a7a3844a2c831f:4ddb42793a59c1b7bfff1539dfc4d068$ */

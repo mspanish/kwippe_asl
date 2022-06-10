@@ -1,0 +1,31 @@
+
+{
+
+"warnings-warning~sharp_curve": { 
+	"vb": "35 35 -0 -0",
+ },
+"warnings-warning~slippery_road_surface": { 
+	"vb": "35 35 -0 -35",
+ },
+"warnings-warning~steep_grade_downwards": { 
+	"vb": "35 35 -0 -70",
+ },
+"warnings-warning~steep_grade_upwards": { 
+	"vb": "35 35 -35 -0",
+ },
+"warnings-warning~swing_bridge-opening": { 
+	"vb": "35 35 -70 -0",
+ },
+"warnings-warning~traffic_merges": { 
+	"vb": "35 35 -35 -35",
+ },
+"warnings-warning~tunnel": { 
+	"vb": "35 35 -35 -70",
+ },
+"warnings-warning~two_way_traffic": { 
+	"vb": "35 35 -70 -35",
+ },
+"warnings-warning~uneven_surface": { 
+	"vb": "35 35 -70 -70",
+ },
+}

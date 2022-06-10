@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60729@ian@limulus-polyphemus {max-width:75px; max-height:75px; }
+.@a60729@ian@limulus-polyphemus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cyclops/0.png/0.png);padding: 0; }
+div.@a60729@ian@limulus-polyphemus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14023@gameicons-lorc@cyclops {max-width:75px; max-height:75px; }
+.@b14023@gameicons-lorc@cyclops::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cyclops/0.png/0.png);padding: 0; }
+div.@b14023@gameicons-lorc@cyclops::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ab07fffa4b69a3e9444ff0d1703451b0:f6beb1da70a62bc3916fded491818ffc:4ddb42793a59c1b7bfff1539dfc4d068$ */

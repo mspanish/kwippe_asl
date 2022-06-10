@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62270@ian@usa_hawaii {max-width:75px; max-height:75px; }
+.@a62270@ian@usa_hawaii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/u/usa_hawaii/0.png/0.png);padding: 0; }
+div.@a62270@ian@usa_hawaii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:67c09d2f919759e2717c4c948e4adbae:790788940b2c26a4c331c49e9606d4bc:4ddb42793a59c1b7bfff1539dfc4d068$ */

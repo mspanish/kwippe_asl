@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27400@icf@ecommerce-business-shopping-receipt {max-width:75px; max-height:75px; }
+.@a27400@icf@ecommerce-business-shopping-receipt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/receipt/0.png/0.png);padding: 0; }
+div.@a27400@icf@ecommerce-business-shopping-receipt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30323@lib@receipt {max-width:75px; max-height:75px; }
+.@a30323@lib@receipt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/receipt/0.png/0.png);padding: 0; }
+div.@a30323@lib@receipt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30957@lin@receipt {max-width:75px; max-height:75px; }
+.@a30957@lin@receipt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/receipt/0.png/0.png);padding: 0; }
+div.@a30957@lin@receipt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34939@mat@receipt {max-width:75px; max-height:75px; }
+.@a34939@mat@receipt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/receipt/0.png/0.png);padding: 0; }
+div.@a34939@mat@receipt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50088@the@receipt {max-width:75px; max-height:75px; }
+.@a50088@the@receipt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/receipt/0.png/0.png);padding: 0; }
+div.@a50088@the@receipt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54652@wav@receipt {max-width:75px; max-height:75px; }
+.@a54652@wav@receipt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/receipt/0.png/0.png);padding: 0; }
+div.@a54652@wav@receipt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57957@xei@receipt {max-width:75px; max-height:75px; }
+.@a57957@xei@receipt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/receipt/0.png/0.png);padding: 0; }
+div.@a57957@xei@receipt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:49e19f2312629e6801c367a8ea42c698:7b087810a940295af982282dd3ac9e29:4ddb42793a59c1b7bfff1539dfc4d068$ */

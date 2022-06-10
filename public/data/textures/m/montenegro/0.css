@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16154@emo@me {max-width:75px; max-height:75px; }
+.@a16154@emo@me::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montenegro/0.png/0.png);padding: 0; }
+div.@a16154@emo@me::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37561@mul@montenegro {max-width:75px; max-height:75px; }
+.@a37561@mul@montenegro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montenegro/0.png/0.png);padding: 0; }
+div.@a37561@mul@montenegro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1649@wikim-all@arms_of_montenegro {max-width:75px; max-height:75px; }
+.@d1649@wikim-all@arms_of_montenegro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montenegro/0.png/0.png);padding: 0; }
+div.@d1649@wikim-all@arms_of_montenegro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2009@wikim-all@coat_of_arms_of_montenegro {max-width:75px; max-height:75px; }
+.@d2009@wikim-all@coat_of_arms_of_montenegro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montenegro/0.png/0.png);padding: 0; }
+div.@d2009@wikim-all@coat_of_arms_of_montenegro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2296@wikim-all@euromontenegro {max-width:75px; max-height:75px; }
+.@d2296@wikim-all@euromontenegro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montenegro/0.png/0.png);padding: 0; }
+div.@d2296@wikim-all@euromontenegro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2589@wikim-all@flag_of_montenegro {max-width:75px; max-height:75px; }
+.@d2589@wikim-all@flag_of_montenegro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montenegro/0.png/0.png);padding: 0; }
+div.@d2589@wikim-all@flag_of_montenegro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5c21654ab7ca507bf93ff3684c76444c:077e06c5bb10b0c935b3095741a0b120:4ddb42793a59c1b7bfff1539dfc4d068$ */

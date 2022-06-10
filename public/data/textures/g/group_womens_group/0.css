@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1953@bon@group-women's-group-1045 {max-width:75px; max-height:75px; }
+.@a1953@bon@group-women's-group-1045::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/group_womens_group/0.png/0.png);padding: 0; }
+div.@a1953@bon@group-women's-group-1045::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:192feb648ad954581e5ad0633873e296:50ecd5d9ac263e59a8054cc425b5acf2:4ddb42793a59c1b7bfff1539dfc4d068$ */

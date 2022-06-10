@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60022@ian@didinium-nasutum {max-width:75px; max-height:75px; }
+.@a60022@ian@didinium-nasutum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/haptorida/0.png/0.png);padding: 0; }
+div.@a60022@ian@didinium-nasutum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:94d3feb1c203a9491d4f0929209afb9b:f7f9e3de5776a4cb6d78cbecb66e078e:4ddb42793a59c1b7bfff1539dfc4d068$ */

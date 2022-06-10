@@ -1,0 +1,37 @@
+{
+    "sign": "fasting",
+    "signer": "asl2english",
+    "uid": 565,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 44,
+            "nd": null
+        },
+        "end": {
+            "d": 44,
+            "nd": null
+        }
+    },
+    "regions": [
+        "L-cheek",
+        "R-cheek"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

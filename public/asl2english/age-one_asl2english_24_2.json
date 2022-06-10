@@ -1,0 +1,37 @@
+{
+    "sign": "age-one",
+    "signer": "asl2english",
+    "uid": 24,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": null
+        },
+        "end": {
+            "d": 1,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chin",
+        "chest-front"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            0,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

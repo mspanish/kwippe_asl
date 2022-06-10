@@ -1,0 +1,59 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14739@em2@cheering-megaphone {max-width:75px; max-height:75px; }
+.@a14739@em2@cheering-megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a14739@em2@cheering-megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17621@fir@u1f4e3-megaphone {max-width:75px; max-height:75px; }
+.@a17621@fir@u1f4e3-megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a17621@fir@u1f4e3-megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17737@fir@bullhorn {max-width:75px; max-height:75px; }
+.@a17737@fir@bullhorn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a17737@fir@bullhorn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27642@icf@megaphone {max-width:75px; max-height:75px; }
+.@a27642@icf@megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a27642@icf@megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28254@jqe@cheering-megaphone {max-width:75px; max-height:75px; }
+.@a28254@jqe@cheering-megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a28254@jqe@cheering-megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30845@lin@megaphone {max-width:75px; max-height:75px; }
+.@a30845@lin@megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a30845@lin@megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39419@noc@cheering-megaphone {max-width:75px; max-height:75px; }
+.@a39419@noc@cheering-megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a39419@noc@cheering-megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40972@nog@cheering-megaphone-objects {max-width:75px; max-height:75px; }
+.@a40972@nog@cheering-megaphone-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a40972@nog@cheering-megaphone-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44176@not@cheering-megaphone {max-width:75px; max-height:75px; }
+.@a44176@not@cheering-megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a44176@not@cheering-megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a472@ara@share-megaphone-2 {max-width:75px; max-height:75px; }
+.@a472@ara@share-megaphone-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a472@ara@share-megaphone-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48256@roc@megaphone {max-width:75px; max-height:75px; }
+.@a48256@roc@megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a48256@roc@megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48569@small@bullhorn {max-width:75px; max-height:75px; }
+.@a48569@small@bullhorn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a48569@small@bullhorn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50289@tw2@cheering-megaphone {max-width:75px; max-height:75px; }
+.@a50289@tw2@cheering-megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a50289@tw2@cheering-megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53695@videoplasty@hand_gesture_-_holding_a_megaphone_vector {max-width:75px; max-height:75px; }
+.@a53695@videoplasty@hand_gesture_-_holding_a_megaphone_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@a53695@videoplasty@hand_gesture_-_holding_a_megaphone_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12126@gameicons-delapouite@acoustic-megaphone {max-width:75px; max-height:75px; }
+.@b12126@gameicons-delapouite@acoustic-megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@b12126@gameicons-delapouite@acoustic-megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12947@gameicons-delapouite@megaphone {max-width:75px; max-height:75px; }
+.@b12947@gameicons-delapouite@megaphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/m/megaphone/0.png/0.png);padding: 0; }
+div.@b12947@gameicons-delapouite@megaphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b48d837382fd95824557d4100eba0717:5aebfd186a4c6e3852c4dc4a8d985b4a:4ddb42793a59c1b7bfff1539dfc4d068$ */

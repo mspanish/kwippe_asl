@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a10855@df-pregnancy@285 {max-width:75px; max-height:75px; }
+.@a10855@df-pregnancy@285::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/birth/0.png/0.png);padding: 0; }
+div.@a10855@df-pregnancy@285::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15@aac@birth {max-width:75px; max-height:75px; }
+.@a15@aac@birth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/birth/0.png/0.png);padding: 0; }
+div.@a15@aac@birth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1722@bon@date-of-birth-5035 {max-width:75px; max-height:75px; }
+.@a1722@bon@date-of-birth-5035::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/birth/0.png/0.png);padding: 0; }
+div.@a1722@bon@date-of-birth-5035::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1723@bon@date-of-birth-8024 {max-width:75px; max-height:75px; }
+.@a1723@bon@date-of-birth-8024::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/birth/0.png/0.png);padding: 0; }
+div.@a1723@bon@date-of-birth-8024::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fd6755ab3ace7259e0045830728f62c6:c8d57397e03c0aad31769b342e56cb1c:4ddb42793a59c1b7bfff1539dfc4d068$ */

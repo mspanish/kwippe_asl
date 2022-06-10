@@ -1,0 +1,101 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a112@aac@mail {max-width:75px; max-height:75px; }
+.@a112@aac@mail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a112@aac@mail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14870@em2@e-mail-symbol {max-width:75px; max-height:75px; }
+.@a14870@em2@e-mail-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a14870@em2@e-mail-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14888@em2@envelope-with-downwards-arrow-above {max-width:75px; max-height:75px; }
+.@a14888@em2@envelope-with-downwards-arrow-above::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a14888@em2@envelope-with-downwards-arrow-above::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14889@em2@envelope {max-width:75px; max-height:75px; }
+.@a14889@em2@envelope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a14889@em2@envelope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17625@fir@u1f4e7-email {max-width:75px; max-height:75px; }
+.@a17625@fir@u1f4e7-email::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a17625@fir@u1f4e7-email::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17627@fir@u1f4e9-envelopedownarrowabove {max-width:75px; max-height:75px; }
+.@a17627@fir@u1f4e9-envelopedownarrowabove::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a17627@fir@u1f4e9-envelopedownarrowabove::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17757@fir@u1f584-envelopewithlightning {max-width:75px; max-height:75px; }
+.@a17757@fir@u1f584-envelopewithlightning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a17757@fir@u1f584-envelopewithlightning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a18097@fir@u2709-envelope {max-width:75px; max-height:75px; }
+.@a18097@fir@u2709-envelope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a18097@fir@u2709-envelope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2625@bon@using-e-mail-1080 {max-width:75px; max-height:75px; }
+.@a2625@bon@using-e-mail-1080::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a2625@bon@using-e-mail-1080::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28347@jqe@e-mail-symbol {max-width:75px; max-height:75px; }
+.@a28347@jqe@e-mail-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a28347@jqe@e-mail-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28360@jqe@envelope-with-downwards-arrow-above {max-width:75px; max-height:75px; }
+.@a28360@jqe@envelope-with-downwards-arrow-above::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a28360@jqe@envelope-with-downwards-arrow-above::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28361@jqe@envelope {max-width:75px; max-height:75px; }
+.@a28361@jqe@envelope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a28361@jqe@envelope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30842@lin@mail {max-width:75px; max-height:75px; }
+.@a30842@lin@mail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a30842@lin@mail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37355@mul@envelope {max-width:75px; max-height:75px; }
+.@a37355@mul@envelope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a37355@mul@envelope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39569@noc@e-mail-symbol {max-width:75px; max-height:75px; }
+.@a39569@noc@e-mail-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a39569@noc@e-mail-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39587@noc@envelope-w-downwards-arrow-above {max-width:75px; max-height:75px; }
+.@a39587@noc@envelope-w-downwards-arrow-above::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a39587@noc@envelope-w-downwards-arrow-above::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39588@noc@envelope {max-width:75px; max-height:75px; }
+.@a39588@noc@envelope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a39588@noc@envelope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41560@nog@envelope-downwards-arrow-above-objects {max-width:75px; max-height:75px; }
+.@a41560@nog@envelope-downwards-arrow-above-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a41560@nog@envelope-downwards-arrow-above-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41562@nog@envelope-objects {max-width:75px; max-height:75px; }
+.@a41562@nog@envelope-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a41562@nog@envelope-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47881@plateau@mail-email {max-width:75px; max-height:75px; }
+.@a47881@plateau@mail-email::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a47881@plateau@mail-email::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49779@str@722-e-mail-1 {max-width:75px; max-height:75px; }
+.@a49779@str@722-e-mail-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a49779@str@722-e-mail-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49780@str@723-e-mail-2 {max-width:75px; max-height:75px; }
+.@a49780@str@723-e-mail-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a49780@str@723-e-mail-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50390@tw2@e-mail-symbol {max-width:75px; max-height:75px; }
+.@a50390@tw2@e-mail-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a50390@tw2@e-mail-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50404@tw2@envelope-with-downwards-arrow-above {max-width:75px; max-height:75px; }
+.@a50404@tw2@envelope-with-downwards-arrow-above::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a50404@tw2@envelope-with-downwards-arrow-above::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50405@tw2@envelope {max-width:75px; max-height:75px; }
+.@a50405@tw2@envelope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a50405@tw2@envelope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51222@twe@e-mail-symbol {max-width:75px; max-height:75px; }
+.@a51222@twe@e-mail-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a51222@twe@e-mail-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51232@twe@envelope-with-downwards-arrow-above {max-width:75px; max-height:75px; }
+.@a51232@twe@envelope-with-downwards-arrow-above::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a51232@twe@envelope-with-downwards-arrow-above::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51233@twe@envelope {max-width:75px; max-height:75px; }
+.@a51233@twe@envelope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@a51233@twe@envelope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14699@gameicons-lorc@scale-mail {max-width:75px; max-height:75px; }
+.@b14699@gameicons-lorc@scale-mail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@b14699@gameicons-lorc@scale-mail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15544@gameicons-willdabeast@chain-mail {max-width:75px; max-height:75px; }
+.@b15544@gameicons-willdabeast@chain-mail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/m/mail/0.png/0.png);padding: 0; }
+div.@b15544@gameicons-willdabeast@chain-mail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c8a7283c927f71a02e812d9c09289efb:a66cda20bfb85ab416cad681863364a4:4ddb42793a59c1b7bfff1539dfc4d068$ */

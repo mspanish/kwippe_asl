@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14125@gameicons-lorc@erlenmeyer {max-width:75px; max-height:75px; }
+.@b14125@gameicons-lorc@erlenmeyer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/erlenmeyer/0.png/0.png);padding: 0; }
+div.@b14125@gameicons-lorc@erlenmeyer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e40a3571ac20f174280e7ae6aadc19d6:df6ff9e6f8bc3389783b7ddb67b8bba0:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "bison-buffalo",
+    "signer": "asl2english",
+    "uid": 157,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 39,
+            "nd": 35
+        },
+        "end": {
+            "d": 4,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "temple",
+        "above-right-shoulder"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            1
+        ],
+        "type": "change"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

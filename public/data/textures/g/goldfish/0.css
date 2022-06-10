@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37789@mul@goldfish-bowl {max-width:75px; max-height:75px; }
+.@a37789@mul@goldfish-bowl::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/goldfish/0.png/0.png);padding: 0; }
+div.@a37789@mul@goldfish-bowl::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37790@mul@goldfish {max-width:75px; max-height:75px; }
+.@a37790@mul@goldfish::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/goldfish/0.png/0.png);padding: 0; }
+div.@a37790@mul@goldfish::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45072@oa1@gold-fish {max-width:75px; max-height:75px; }
+.@a45072@oa1@gold-fish::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/goldfish/0.png/0.png);padding: 0; }
+div.@a45072@oa1@gold-fish::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45073@oa1@goldfish-bowl {max-width:75px; max-height:75px; }
+.@a45073@oa1@goldfish-bowl::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/goldfish/0.png/0.png);padding: 0; }
+div.@a45073@oa1@goldfish-bowl::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d5c9f27d1eaac50a76dc460af6c40c27:8b4c497ccdd9bd970abeee1d5a796855:4ddb42793a59c1b7bfff1539dfc4d068$ */

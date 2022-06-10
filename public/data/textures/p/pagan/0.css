@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a30202@lib@hands_of_god {max-width:75px; max-height:75px; }
+.@a30202@lib@hands_of_god::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/pagan/0.png/0.png);padding: 0; }
+div.@a30202@lib@hands_of_god::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62124@ian@usa-va-james-river {max-width:75px; max-height:75px; }
+.@a62124@ian@usa-va-james-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/pagan/0.png/0.png);padding: 0; }
+div.@a62124@ian@usa-va-james-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d55f94d339fef4328eec380a39663672:9a92224192b98c991a744ef08538173e:4ddb42793a59c1b7bfff1539dfc4d068$ */

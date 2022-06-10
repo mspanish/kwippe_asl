@@ -1,0 +1,37 @@
+{
+    "sign": "water+water-rise",
+    "signer": "asl2english",
+    "uid": 1997,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 4,
+            "nd": 18
+        },
+        "end": {
+            "d": 78,
+            "nd": 4
+        }
+    },
+    "regions": [
+        "stomach",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

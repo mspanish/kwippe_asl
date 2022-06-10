@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15438@em2@speaker-with-cancellation-stroke {max-width:75px; max-height:75px; }
+.@a15438@em2@speaker-with-cancellation-stroke::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a15438@em2@speaker-with-cancellation-stroke::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17656@fir@u1f507-speakercancellation {max-width:75px; max-height:75px; }
+.@a17656@fir@u1f507-speakercancellation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a17656@fir@u1f507-speakercancellation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27775@icf@speaker-off {max-width:75px; max-height:75px; }
+.@a27775@icf@speaker-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a27775@icf@speaker-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28797@jqe@speaker-with-cancellation-stroke {max-width:75px; max-height:75px; }
+.@a28797@jqe@speaker-with-cancellation-stroke::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a28797@jqe@speaker-with-cancellation-stroke::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40157@noc@speaker-w-cancellation-stroke {max-width:75px; max-height:75px; }
+.@a40157@noc@speaker-w-cancellation-stroke::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a40157@noc@speaker-w-cancellation-stroke::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43544@nog@speaker-cancellation-stroke-objects {max-width:75px; max-height:75px; }
+.@a43544@nog@speaker-cancellation-stroke-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a43544@nog@speaker-cancellation-stroke-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44738@not@speaker-with-cancellation-stroke {max-width:75px; max-height:75px; }
+.@a44738@not@speaker-with-cancellation-stroke::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a44738@not@speaker-with-cancellation-stroke::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47707@pic@speaker-off {max-width:75px; max-height:75px; }
+.@a47707@pic@speaker-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a47707@pic@speaker-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49741@str@684-muted-speaker {max-width:75px; max-height:75px; }
+.@a49741@str@684-muted-speaker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a49741@str@684-muted-speaker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a499@ara@speaker-volume-off {max-width:75px; max-height:75px; }
+.@a499@ara@speaker-volume-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a499@ara@speaker-volume-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50895@tw2@speaker-with-cancellation-stroke {max-width:75px; max-height:75px; }
+.@a50895@tw2@speaker-with-cancellation-stroke::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a50895@tw2@speaker-with-cancellation-stroke::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51624@twe@speaker-with-cancellation-stroke {max-width:75px; max-height:75px; }
+.@a51624@twe@speaker-with-cancellation-stroke::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@a51624@twe@speaker-with-cancellation-stroke::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13366@gameicons-delapouite@speaker-off {max-width:75px; max-height:75px; }
+.@b13366@gameicons-delapouite@speaker-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@b13366@gameicons-delapouite@speaker-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15160@gameicons-sbed@cancel {max-width:75px; max-height:75px; }
+.@b15160@gameicons-sbed@cancel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cancel/0.png/0.png);padding: 0; }
+div.@b15160@gameicons-sbed@cancel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d2f26cb39acaf30e25ed37f913928e6b:ed5162ba5f79bf3573c5956b755d0ec7:4ddb42793a59c1b7bfff1539dfc4d068$ */

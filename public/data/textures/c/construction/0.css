@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a17514@fir@u1f477-construct {max-width:75px; max-height:75px; }
+.@a17514@fir@u1f477-construct::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a17514@fir@u1f477-construct::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40840@nog@building_construction_travel-places_kgncr {max-width:75px; max-height:75px; }
+.@a40840@nog@building_construction_travel-places_kgncr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a40840@nog@building_construction_travel-places_kgncr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57313@win@transit-construction {max-width:75px; max-height:75px; }
+.@a57313@win@transit-construction::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a57313@win@transit-construction::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59552@ian@bulldozer {max-width:75px; max-height:75px; }
+.@a59552@ian@bulldozer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a59552@ian@bulldozer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59599@ian@canopy-crane {max-width:75px; max-height:75px; }
+.@a59599@ian@canopy-crane::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a59599@ian@canopy-crane::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59897@ian@core-logger {max-width:75px; max-height:75px; }
+.@a59897@ian@core-logger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a59897@ian@core-logger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59900@ian@corregated-culvert-pipe {max-width:75px; max-height:75px; }
+.@a59900@ian@corregated-culvert-pipe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a59900@ian@corregated-culvert-pipe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59922@ian@culvert {max-width:75px; max-height:75px; }
+.@a59922@ian@culvert::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a59922@ian@culvert::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60876@ian@mining-open-cut-mine {max-width:75px; max-height:75px; }
+.@a60876@ian@mining-open-cut-mine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a60876@ian@mining-open-cut-mine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60877@ian@mining-quarry {max-width:75px; max-height:75px; }
+.@a60877@ian@mining-quarry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a60877@ian@mining-quarry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60961@ian@mower {max-width:75px; max-height:75px; }
+.@a60961@ian@mower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a60961@ian@mower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61770@ian@tape-measure {max-width:75px; max-height:75px; }
+.@a61770@ian@tape-measure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a61770@ian@tape-measure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62248@ian@work-glove {max-width:75px; max-height:75px; }
+.@a62248@ian@work-glove::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/construction/0.png/0.png);padding: 0; }
+div.@a62248@ian@work-glove::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:187bc1a557f846f83f48d8c56b974003:ed498bfe74b7264a98915f1c9b73b070:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36901@mul@clean-shoes-to {max-width:75px; max-height:75px; }
+.@a36901@mul@clean-shoes-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/clean_shoes_to/0.png/0.png);padding: 0; }
+div.@a36901@mul@clean-shoes-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a7f0eff910a82753a23f1156dc327eeb:52417720e46e4d04c3a42102a0abd338:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25291@gli@arbito_ladder_tile_center_01_stone {max-width:75px; max-height:75px; }
+.@a25291@gli@arbito_ladder_tile_center_01_stone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25291@gli@arbito_ladder_tile_center_01_stone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25292@gli@arbito_ladder_tile_center_02_stone {max-width:75px; max-height:75px; }
+.@a25292@gli@arbito_ladder_tile_center_02_stone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25292@gli@arbito_ladder_tile_center_02_stone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25293@gli@arbito_ladder_tile_center_03_stone {max-width:75px; max-height:75px; }
+.@a25293@gli@arbito_ladder_tile_center_03_stone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25293@gli@arbito_ladder_tile_center_03_stone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25294@gli@arbito_platform_1 {max-width:75px; max-height:75px; }
+.@a25294@gli@arbito_platform_1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25294@gli@arbito_platform_1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25295@gli@arbito_platform_2 {max-width:75px; max-height:75px; }
+.@a25295@gli@arbito_platform_2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25295@gli@arbito_platform_2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25296@gli@arbito_platform_3 {max-width:75px; max-height:75px; }
+.@a25296@gli@arbito_platform_3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25296@gli@arbito_platform_3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25417@gli@concrete_pad {max-width:75px; max-height:75px; }
+.@a25417@gli@concrete_pad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25417@gli@concrete_pad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25776@gli@platform-1 {max-width:75px; max-height:75px; }
+.@a25776@gli@platform-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25776@gli@platform-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25777@gli@platform-2 {max-width:75px; max-height:75px; }
+.@a25777@gli@platform-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25777@gli@platform-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25778@gli@platform-3 {max-width:75px; max-height:75px; }
+.@a25778@gli@platform-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25778@gli@platform-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25779@gli@platform-4 {max-width:75px; max-height:75px; }
+.@a25779@gli@platform-4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25779@gli@platform-4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25796@gli@platform_1b {max-width:75px; max-height:75px; }
+.@a25796@gli@platform_1b::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25796@gli@platform_1b::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25797@gli@platform_2b {max-width:75px; max-height:75px; }
+.@a25797@gli@platform_2b::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25797@gli@platform_2b::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25798@gli@platform_3_ani {max-width:75px; max-height:75px; }
+.@a25798@gli@platform_3_ani::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25798@gli@platform_3_ani::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25799@gli@platform_3b {max-width:75px; max-height:75px; }
+.@a25799@gli@platform_3b::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@a25799@gli@platform_3b::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13026@gameicons-delapouite@offshore-platform {max-width:75px; max-height:75px; }
+.@b13026@gameicons-delapouite@offshore-platform::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@b13026@gameicons-delapouite@offshore-platform::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15364@gameicons-skoll@platform {max-width:75px; max-height:75px; }
+.@b15364@gameicons-skoll@platform::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/p/platform/0.png/0.png);padding: 0; }
+div.@b15364@gameicons-skoll@platform::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e92a2db1da2145db0e99f41c2f6d9752:d323dc4580fe18f8cd199e1fbbc6f356:4ddb42793a59c1b7bfff1539dfc4d068$ */

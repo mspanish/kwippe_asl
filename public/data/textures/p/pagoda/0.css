@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13047@gameicons-delapouite@pagoda {max-width:75px; max-height:75px; }
+.@b13047@gameicons-delapouite@pagoda::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/pagoda/0.png/0.png);padding: 0; }
+div.@b13047@gameicons-delapouite@pagoda::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ef63861e871ea047c3aa0501ed9d691e:c05675a5af1f6345e42a494de48c0309:4ddb42793a59c1b7bfff1539dfc4d068$ */

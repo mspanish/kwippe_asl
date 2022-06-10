@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14031@gameicons-lorc@death-note {max-width:75px; max-height:75px; }
+.@b14031@gameicons-lorc@death-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/death_note/0.png/0.png);padding: 0; }
+div.@b14031@gameicons-lorc@death-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6b17384d0da2a32696b20797fb3f0f78:00415195e47c2896f6149a51d51932bf:4ddb42793a59c1b7bfff1539dfc4d068$ */

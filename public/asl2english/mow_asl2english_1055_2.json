@@ -1,0 +1,37 @@
+{
+    "sign": "mow",
+    "signer": "asl2english",
+    "uid": 1055,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": 82
+        },
+        "end": {
+            "d": 82,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            0,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

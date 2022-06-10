@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62023@ian@usa-md-chester-river {max-width:75px; max-height:75px; }
+.@a62023@ian@usa-md-chester-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/corsica/0.png/0.png);padding: 0; }
+div.@a62023@ian@usa-md-chester-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12438@gameicons-delapouite@corsica {max-width:75px; max-height:75px; }
+.@b12438@gameicons-delapouite@corsica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/corsica/0.png/0.png);padding: 0; }
+div.@b12438@gameicons-delapouite@corsica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2f347a9cb7ac6e23d6e5e083c30df4fa:d30423842414c93aa5de49e62613979c:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61725@ian@submersible-glider-thermally-powered {max-width:75px; max-height:75px; }
+.@a61725@ian@submersible-glider-thermally-powered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/submersible/0.png/0.png);padding: 0; }
+div.@a61725@ian@submersible-glider-thermally-powered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3ba5ccf333020aec0619377358eaadde:a8cbb00bb04fdba7814e6e0c6dd9516e:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "learn",
+    "signer": "asl2english",
+    "uid": 905,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 4,
+            "nd": 51
+        },
+        "end": {
+            "d": 35,
+            "nd": null
+        }
+    },
+    "regions": [
+        "hand",
+        "forehead"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

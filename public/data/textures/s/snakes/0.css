@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60831@ian@medical-caduceus {max-width:75px; max-height:75px; }
+.@a60831@ian@medical-caduceus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/snakes/0.png/0.png);padding: 0; }
+div.@a60831@ian@medical-caduceus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:92edf5ff42c846de6497bf73c124e496:5b8ce74eb0cca858f2d77d1777940229:4ddb42793a59c1b7bfff1539dfc4d068$ */

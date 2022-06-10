@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39125@mul@vagina {max-width:75px; max-height:75px; }
+.@a39125@mul@vagina::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/v/vagina/0.png/0.png);padding: 0; }
+div.@a39125@mul@vagina::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e267f4a8c2c87cd954aba769a596dcbe:fd9885b380eb48ec9a7000f72ee8b98a:4ddb42793a59c1b7bfff1539dfc4d068$ */

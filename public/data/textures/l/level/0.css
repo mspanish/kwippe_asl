@@ -1,0 +1,89 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59289@ian@air-quality-high {max-width:75px; max-height:75px; }
+.@a59289@ian@air-quality-high::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59289@ian@air-quality-high::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59290@ian@air-quality-low {max-width:75px; max-height:75px; }
+.@a59290@ian@air-quality-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59290@ian@air-quality-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59291@ian@air-quality-medium {max-width:75px; max-height:75px; }
+.@a59291@ian@air-quality-medium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59291@ian@air-quality-medium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59725@ian@climate-change-ghost-forest {max-width:75px; max-height:75px; }
+.@a59725@ian@climate-change-ghost-forest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59725@ian@climate-change-ghost-forest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59727@ian@climate-change-sea-level-rise {max-width:75px; max-height:75px; }
+.@a59727@ian@climate-change-sea-level-rise::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59727@ian@climate-change-sea-level-rise::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59747@ian@coastline-2d-intertidal-zone {max-width:75px; max-height:75px; }
+.@a59747@ian@coastline-2d-intertidal-zone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59747@ian@coastline-2d-intertidal-zone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59752@ian@coastline-2d-sand-dune-system-with-lagoon {max-width:75px; max-height:75px; }
+.@a59752@ian@coastline-2d-sand-dune-system-with-lagoon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59752@ian@coastline-2d-sand-dune-system-with-lagoon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59753@ian@coastline-2d-sand-dune-system {max-width:75px; max-height:75px; }
+.@a59753@ian@coastline-2d-sand-dune-system::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59753@ian@coastline-2d-sand-dune-system::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59758@ian@coastline-2d-sea-level-rise {max-width:75px; max-height:75px; }
+.@a59758@ian@coastline-2d-sea-level-rise::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a59758@ian@coastline-2d-sea-level-rise::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60642@ian@lake-2d-perched-lake-dune-contact-lake {max-width:75px; max-height:75px; }
+.@a60642@ian@lake-2d-perched-lake-dune-contact-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a60642@ian@lake-2d-perched-lake-dune-contact-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60643@ian@lake-2d-perched-lake-water-table-window {max-width:75px; max-height:75px; }
+.@a60643@ian@lake-2d-perched-lake-water-table-window::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a60643@ian@lake-2d-perched-lake-water-table-window::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61395@ian@regional-level-initiatives {max-width:75px; max-height:75px; }
+.@a61395@ian@regional-level-initiatives::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a61395@ian@regional-level-initiatives::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61480@ian@river-3d-urban-paving-low-water-level {max-width:75px; max-height:75px; }
+.@a61480@ian@river-3d-urban-paving-low-water-level::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a61480@ian@river-3d-urban-paving-low-water-level::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61481@ian@river-3d-urban-paving-mid-water-level {max-width:75px; max-height:75px; }
+.@a61481@ian@river-3d-urban-paving-mid-water-level::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a61481@ian@river-3d-urban-paving-mid-water-level::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61576@ian@seagrass-habitat-deep {max-width:75px; max-height:75px; }
+.@a61576@ian@seagrass-habitat-deep::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a61576@ian@seagrass-habitat-deep::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61577@ian@seagrass-habitat-intertidal {max-width:75px; max-height:75px; }
+.@a61577@ian@seagrass-habitat-intertidal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a61577@ian@seagrass-habitat-intertidal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61580@ian@seagrass-habitat-subtidal {max-width:75px; max-height:75px; }
+.@a61580@ian@seagrass-habitat-subtidal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a61580@ian@seagrass-habitat-subtidal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61689@ian@state-level-planning-initiatives {max-width:75px; max-height:75px; }
+.@a61689@ian@state-level-planning-initiatives::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a61689@ian@state-level-planning-initiatives::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62200@ian@water-table-3d {max-width:75px; max-height:75px; }
+.@a62200@ian@water-table-3d::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@a62200@ian@water-table-3d::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12881@gameicons-delapouite@level-crossing {max-width:75px; max-height:75px; }
+.@b12881@gameicons-delapouite@level-crossing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@b12881@gameicons-delapouite@level-crossing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15195@gameicons-sbed@level-four-advanced {max-width:75px; max-height:75px; }
+.@b15195@gameicons-sbed@level-four-advanced::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@b15195@gameicons-sbed@level-four-advanced::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15196@gameicons-sbed@level-four {max-width:75px; max-height:75px; }
+.@b15196@gameicons-sbed@level-four::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@b15196@gameicons-sbed@level-four::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15197@gameicons-sbed@level-three-advanced {max-width:75px; max-height:75px; }
+.@b15197@gameicons-sbed@level-three-advanced::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@b15197@gameicons-sbed@level-three-advanced::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15198@gameicons-sbed@level-three {max-width:75px; max-height:75px; }
+.@b15198@gameicons-sbed@level-three::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@b15198@gameicons-sbed@level-three::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15199@gameicons-sbed@level-two-advanced {max-width:75px; max-height:75px; }
+.@b15199@gameicons-sbed@level-two-advanced::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@b15199@gameicons-sbed@level-two-advanced::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15200@gameicons-sbed@level-two {max-width:75px; max-height:75px; }
+.@b15200@gameicons-sbed@level-two::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/l/level/0.png/0.png);padding: 0; }
+div.@b15200@gameicons-sbed@level-two::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:de335f5e3d50c0986d6021ad2154a4c0:15ebe5e1a9be8ae966bc8558634c668a:4ddb42793a59c1b7bfff1539dfc4d068$ */

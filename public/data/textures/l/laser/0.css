@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12870@gameicons-delapouite@laser-turret {max-width:75px; max-height:75px; }
+.@b12870@gameicons-delapouite@laser-turret::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/laser/0.png/0.png);padding: 0; }
+div.@b12870@gameicons-delapouite@laser-turret::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14400@gameicons-lorc@laser-blast {max-width:75px; max-height:75px; }
+.@b14400@gameicons-lorc@laser-blast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/laser/0.png/0.png);padding: 0; }
+div.@b14400@gameicons-lorc@laser-blast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14401@gameicons-lorc@laser-precision {max-width:75px; max-height:75px; }
+.@b14401@gameicons-lorc@laser-precision::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/laser/0.png/0.png);padding: 0; }
+div.@b14401@gameicons-lorc@laser-precision::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14402@gameicons-lorc@laser-sparks {max-width:75px; max-height:75px; }
+.@b14402@gameicons-lorc@laser-sparks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/laser/0.png/0.png);padding: 0; }
+div.@b14402@gameicons-lorc@laser-sparks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14403@gameicons-lorc@laser-warning {max-width:75px; max-height:75px; }
+.@b14403@gameicons-lorc@laser-warning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/laser/0.png/0.png);padding: 0; }
+div.@b14403@gameicons-lorc@laser-warning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15231@gameicons-sbed@target-laser {max-width:75px; max-height:75px; }
+.@b15231@gameicons-sbed@target-laser::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/laser/0.png/0.png);padding: 0; }
+div.@b15231@gameicons-sbed@target-laser::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15335@gameicons-skoll@laser-burst {max-width:75px; max-height:75px; }
+.@b15335@gameicons-skoll@laser-burst::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/laser/0.png/0.png);padding: 0; }
+div.@b15335@gameicons-skoll@laser-burst::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b92e80ece750f1a6e9b2eaf5c9604adc:e35a2bc0e391cb26db20c33090f1aa2f:4ddb42793a59c1b7bfff1539dfc4d068$ */

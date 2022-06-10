@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37220@mul@dinner-2-people {max-width:75px; max-height:75px; }
+.@a37220@mul@dinner-2-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/dinner_people/0.png/0.png);padding: 0; }
+div.@a37220@mul@dinner-2-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37221@mul@dinner-3-people {max-width:75px; max-height:75px; }
+.@a37221@mul@dinner-3-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/dinner_people/0.png/0.png);padding: 0; }
+div.@a37221@mul@dinner-3-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:57d629ac3213dd76f18fc29940581c62:10936d382e430fe48730f04d03d216ac:4ddb42793a59c1b7bfff1539dfc4d068$ */

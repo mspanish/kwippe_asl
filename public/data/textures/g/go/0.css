@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1893@bon@go-on-holiday-1025 {max-width:75px; max-height:75px; }
+.@a1893@bon@go-on-holiday-1025::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/go/0.png/0.png);padding: 0; }
+div.@a1893@bon@go-on-holiday-1025::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38161@mul@merry-go-round {max-width:75px; max-height:75px; }
+.@a38161@mul@merry-go-round::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/go/0.png/0.png);padding: 0; }
+div.@a38161@mul@merry-go-round::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a63@aac@go-2 {max-width:75px; max-height:75px; }
+.@a63@aac@go-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/go/0.png/0.png);padding: 0; }
+div.@a63@aac@go-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a64@aac@go {max-width:75px; max-height:75px; }
+.@a64@aac@go::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/go/0.png/0.png);padding: 0; }
+div.@a64@aac@go::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2164b9948150de1ef504a6bb0daae455:08fb86131cc543c07dfc015190b37171:4ddb42793a59c1b7bfff1539dfc4d068$ */

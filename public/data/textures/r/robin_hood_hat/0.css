@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13213@gameicons-delapouite@robin-hood-hat {max-width:75px; max-height:75px; }
+.@b13213@gameicons-delapouite@robin-hood-hat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/robin_hood_hat/0.png/0.png);padding: 0; }
+div.@b13213@gameicons-delapouite@robin-hood-hat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:eb1407e1964dded0e7aab636ad697d42:bd851a023256086c99a7bc2ae6b5291e:4ddb42793a59c1b7bfff1539dfc4d068$ */

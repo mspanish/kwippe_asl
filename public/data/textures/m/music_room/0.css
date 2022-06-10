@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2099@bon@music-room-4059 {max-width:75px; max-height:75px; }
+.@a2099@bon@music-room-4059::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/music_room/0.png/0.png);padding: 0; }
+div.@a2099@bon@music-room-4059::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38226@mul@music-room {max-width:75px; max-height:75px; }
+.@a38226@mul@music-room::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/music_room/0.png/0.png);padding: 0; }
+div.@a38226@mul@music-room::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bed8c851bec0733e7464fd04b630c44d:cad1ba07103dc9b044a5d24956cc7c88:4ddb42793a59c1b7bfff1539dfc4d068$ */

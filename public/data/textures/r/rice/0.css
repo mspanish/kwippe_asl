@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14792@em2@cooked-rice {max-width:75px; max-height:75px; }
+.@a14792@em2@cooked-rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a14792@em2@cooked-rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16711@emo@rice {max-width:75px; max-height:75px; }
+.@a16711@emo@rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a16711@emo@rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17249@fir@u1f35a-cookedrice {max-width:75px; max-height:75px; }
+.@a17249@fir@u1f35a-cookedrice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a17249@fir@u1f35a-cookedrice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25869@gli@seeds-rice {max-width:75px; max-height:75px; }
+.@a25869@gli@seeds-rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a25869@gli@seeds-rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26016@gli@vegetable-rice {max-width:75px; max-height:75px; }
+.@a26016@gli@vegetable-rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a26016@gli@vegetable-rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28296@jqe@cooked-rice {max-width:75px; max-height:75px; }
+.@a28296@jqe@cooked-rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a28296@jqe@cooked-rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38587@mul@rice-cake {max-width:75px; max-height:75px; }
+.@a38587@mul@rice-cake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a38587@mul@rice-cake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38588@mul@rice-packet {max-width:75px; max-height:75px; }
+.@a38588@mul@rice-packet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a38588@mul@rice-packet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38589@mul@rice {max-width:75px; max-height:75px; }
+.@a38589@mul@rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a38589@mul@rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39493@noc@cooked-rice {max-width:75px; max-height:75px; }
+.@a39493@noc@cooked-rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a39493@noc@cooked-rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41204@nog@cooked-rice-food-drink {max-width:75px; max-height:75px; }
+.@a41204@nog@cooked-rice-food-drink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a41204@nog@cooked-rice-food-drink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44240@not@cooked-rice {max-width:75px; max-height:75px; }
+.@a44240@not@cooked-rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a44240@not@cooked-rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49604@str@547-cooked-rice {max-width:75px; max-height:75px; }
+.@a49604@str@547-cooked-rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a49604@str@547-cooked-rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50333@tw2@cooked-rice {max-width:75px; max-height:75px; }
+.@a50333@tw2@cooked-rice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a50333@tw2@cooked-rice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61062@ian@oryza-spp {max-width:75px; max-height:75px; }
+.@a61062@ian@oryza-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a61062@ian@oryza-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61444@ian@rice-1 {max-width:75px; max-height:75px; }
+.@a61444@ian@rice-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a61444@ian@rice-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61445@ian@rice-2 {max-width:75px; max-height:75px; }
+.@a61445@ian@rice-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a61445@ian@rice-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62260@ian@zizania-spp {max-width:75px; max-height:75px; }
+.@a62260@ian@zizania-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a62260@ian@zizania-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6879@df-fastfoodicons@otilde {max-width:75px; max-height:75px; }
+.@a6879@df-fastfoodicons@otilde::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/r/rice/0.png/0.png);padding: 0; }
+div.@a6879@df-fastfoodicons@otilde::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:394baa3e72507d8b21889c0dba4ccdaf:cee515ac4c534966c6f2bb08482d720e:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38769@mul@skeleton {max-width:75px; max-height:75px; }
+.@a38769@mul@skeleton::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/skeleton/0.png/0.png);padding: 0; }
+div.@a38769@mul@skeleton::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14759@gameicons-lorc@skeleton-inside {max-width:75px; max-height:75px; }
+.@b14759@gameicons-lorc@skeleton-inside::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/skeleton/0.png/0.png);padding: 0; }
+div.@b14759@gameicons-lorc@skeleton-inside::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15368@gameicons-skoll@raise-skeleton {max-width:75px; max-height:75px; }
+.@b15368@gameicons-skoll@raise-skeleton::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/skeleton/0.png/0.png);padding: 0; }
+div.@b15368@gameicons-skoll@raise-skeleton::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15381@gameicons-skoll@skeleton {max-width:75px; max-height:75px; }
+.@b15381@gameicons-skoll@skeleton::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/skeleton/0.png/0.png);padding: 0; }
+div.@b15381@gameicons-skoll@skeleton::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a12c620a06c39386feb467df36377020:f1f67e8770c89b13f51eadc79f2de076:4ddb42793a59c1b7bfff1539dfc4d068$ */

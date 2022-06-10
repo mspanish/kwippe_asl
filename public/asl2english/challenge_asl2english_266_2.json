@@ -1,0 +1,37 @@
+{
+    "sign": "challenge",
+    "signer": "asl2english",
+    "uid": 266,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 12,
+            "nd": 12
+        },
+        "end": {
+            "d": 12,
+            "nd": 12
+        }
+    },
+    "regions": [
+        0,
+        "hand"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            0,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

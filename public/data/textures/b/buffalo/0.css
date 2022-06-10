@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36705@mul@buffalo {max-width:75px; max-height:75px; }
+.@a36705@mul@buffalo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/buffalo/0.png/0.png);padding: 0; }
+div.@a36705@mul@buffalo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59500@ian@bison-bison {max-width:75px; max-height:75px; }
+.@a59500@ian@bison-bison::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/buffalo/0.png/0.png);padding: 0; }
+div.@a59500@ian@bison-bison::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59507@ian@bolbometopon-muricatum {max-width:75px; max-height:75px; }
+.@a59507@ian@bolbometopon-muricatum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/buffalo/0.png/0.png);padding: 0; }
+div.@a59507@ian@bolbometopon-muricatum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59526@ian@bouteloua-dactyloides {max-width:75px; max-height:75px; }
+.@a59526@ian@bouteloua-dactyloides::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/buffalo/0.png/0.png);padding: 0; }
+div.@a59526@ian@bouteloua-dactyloides::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12303@gameicons-delapouite@buffalo-head {max-width:75px; max-height:75px; }
+.@b12303@gameicons-delapouite@buffalo-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/buffalo/0.png/0.png);padding: 0; }
+div.@b12303@gameicons-delapouite@buffalo-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:77402b46df0ea520380a60d62b9e9335:7630fadcdb6fb08f75f5289abd6e0202:4ddb42793a59c1b7bfff1539dfc4d068$ */

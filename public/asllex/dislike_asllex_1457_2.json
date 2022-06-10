@@ -1,0 +1,45 @@
+{
+    "sign": "dislike",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "a",
+            "nd": null
+        },
+        "end": {
+            "d": "8",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "UnderChin",
+        "morph1_specific_second": "HeadAway",
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Body",
+        "morph2_specific": "TorsoTop",
+        "morph2_specific_second": "BodyAway",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 2.0,
+    "frequency": 5.444,
+    "category": null
+}

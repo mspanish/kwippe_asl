@@ -1,0 +1,191 @@
+{
+  "skeleton": {
+    "spine": "4.0.63",
+    "images": "."
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backs",
+      "x": -0.5,
+      "y": 0.5,
+      "parent": "root"
+    },
+    {
+      "name": "humanbody",
+      "x": 22,
+      "y": -332.5,
+      "parent": "root"
+    },
+    {
+      "name": "antlers",
+      "x": 10.5,
+      "y": 264.5,
+      "parent": "root"
+    },
+    {
+      "name": "faceshape",
+      "x": 19,
+      "y": 3.5,
+      "parent": "root"
+    },
+    {
+      "name": "mouth",
+      "x": -5,
+      "y": -150,
+      "parent": "faceshape"
+    },
+    {
+      "name": "eyesback",
+      "x": -5.5,
+      "y": 15.5,
+      "parent": "faceshape"
+    },
+    {
+      "name": "eyesiris",
+      "x": -0.5,
+      "y": 19,
+      "parent": "faceshape"
+    },
+    {
+      "name": "eyesfront",
+      "x": -6.5,
+      "y": 11.5,
+      "parent": "faceshape"
+    },
+    {
+      "name": "nose",
+      "x": -5,
+      "y": -71.5,
+      "parent": "faceshape"
+    }
+  ],
+  "slots": [
+    {
+      "name": "backs",
+      "bone": "backs",
+      "attachment": "backs"
+    },
+    {
+      "name": "humanbody",
+      "bone": "humanbody",
+      "attachment": "humanbody"
+    },
+    {
+      "name": "antlers",
+      "bone": "antlers",
+      "attachment": "antlers"
+    },
+    {
+      "name": "faceshape",
+      "bone": "faceshape",
+      "attachment": "faceshape"
+    },
+    {
+      "name": "mouth",
+      "bone": "mouth",
+      "attachment": "mouth"
+    },
+    {
+      "name": "eyesback",
+      "bone": "eyesback",
+      "attachment": "eyesback"
+    },
+    {
+      "name": "eyesiris",
+      "bone": "eyesiris",
+      "attachment": "eyesiris"
+    },
+    {
+      "name": "eyesfront",
+      "bone": "eyesfront",
+      "attachment": "eyesfront"
+    },
+    {
+      "name": "nose",
+      "bone": "nose",
+      "attachment": "nose"
+    }
+  ],
+  "skins": {
+    "default": {
+      "backs": {
+        "backs": {
+          "x": 0,
+          "y": 0,
+          "width": -1399,
+          "height": 999
+        }
+      },
+      "humanbody": {
+        "humanbody": {
+          "x": 0,
+          "y": 0,
+          "width": -644,
+          "height": 333
+        }
+      },
+      "antlers": {
+        "antlers": {
+          "x": 0,
+          "y": 0,
+          "width": -380,
+          "height": 319
+        }
+      },
+      "faceshape": {
+        "faceshape": {
+          "x": 0,
+          "y": 0,
+          "width": -380,
+          "height": 527
+        }
+      },
+      "mouth": {
+        "mouth": {
+          "x": 0,
+          "y": 0,
+          "width": -202,
+          "height": 89
+        }
+      },
+      "eyesback": {
+        "eyesback": {
+          "x": 0,
+          "y": 0,
+          "width": -293,
+          "height": 72
+        }
+      },
+      "eyesiris": {
+        "eyesiris": {
+          "x": 0,
+          "y": 0,
+          "width": -247,
+          "height": 81
+        }
+      },
+      "eyesfront": {
+        "eyesfront": {
+          "x": 0,
+          "y": 0,
+          "width": -337,
+          "height": 142
+        }
+      },
+      "nose": {
+        "nose": {
+          "x": 0,
+          "y": 0,
+          "width": -70,
+          "height": 26
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {}
+  }
+}

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61952@ian@usa-ca-tomales-bay {max-width:75px; max-height:75px; }
+.@a61952@ian@usa-ca-tomales-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/tomales/0.png/0.png);padding: 0; }
+div.@a61952@ian@usa-ca-tomales-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7714bdf3492089f81e75f36d2110d2ef:cc0379cea2fcd0f34c5bd5b1b3f53892:4ddb42793a59c1b7bfff1539dfc4d068$ */

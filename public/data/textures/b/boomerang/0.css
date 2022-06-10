@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12173@gameicons-delapouite@armored-boomerang {max-width:75px; max-height:75px; }
+.@b12173@gameicons-delapouite@armored-boomerang::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/boomerang/0.png/0.png);padding: 0; }
+div.@b12173@gameicons-delapouite@armored-boomerang::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12268@gameicons-delapouite@boomerang-cross {max-width:75px; max-height:75px; }
+.@b12268@gameicons-delapouite@boomerang-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/boomerang/0.png/0.png);padding: 0; }
+div.@b12268@gameicons-delapouite@boomerang-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12269@gameicons-delapouite@boomerang {max-width:75px; max-height:75px; }
+.@b12269@gameicons-delapouite@boomerang::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/boomerang/0.png/0.png);padding: 0; }
+div.@b12269@gameicons-delapouite@boomerang::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:306a14f61eac897c22e53f6ca4e9301a:c52dedc32a4958cd0f90710dd668cbb5:4ddb42793a59c1b7bfff1539dfc4d068$ */

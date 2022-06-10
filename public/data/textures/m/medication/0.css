@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2217@bon@prescribed-treatment-medication-5052 {max-width:75px; max-height:75px; }
+.@a2217@bon@prescribed-treatment-medication-5052::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/medication/0.png/0.png);padding: 0; }
+div.@a2217@bon@prescribed-treatment-medication-5052::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2318@bon@self-care-medication-6062 {max-width:75px; max-height:75px; }
+.@a2318@bon@self-care-medication-6062::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/medication/0.png/0.png);padding: 0; }
+div.@a2318@bon@self-care-medication-6062::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2406@bon@storage-medication-6280 {max-width:75px; max-height:75px; }
+.@a2406@bon@storage-medication-6280::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/medication/0.png/0.png);padding: 0; }
+div.@a2406@bon@storage-medication-6280::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59338@ian@animal-nutrition {max-width:75px; max-height:75px; }
+.@a59338@ian@animal-nutrition::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/medication/0.png/0.png);padding: 0; }
+div.@a59338@ian@animal-nutrition::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7125ea33a46048259ffda46436a13463:5ebcb04cf5f4d1c03fe5eec1dd9d25de:4ddb42793a59c1b7bfff1539dfc4d068$ */

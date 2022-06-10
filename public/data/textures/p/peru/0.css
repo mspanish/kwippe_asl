@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16188@emo@pe {max-width:75px; max-height:75px; }
+.@a16188@emo@pe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/peru/0.png/0.png);padding: 0; }
+div.@a16188@emo@pe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37583@mul@peru {max-width:75px; max-height:75px; }
+.@a37583@mul@peru::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/peru/0.png/0.png);padding: 0; }
+div.@a37583@mul@peru::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2633@wikim-all@flag_of_peru {max-width:75px; max-height:75px; }
+.@d2633@wikim-all@flag_of_peru::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/peru/0.png/0.png);padding: 0; }
+div.@d2633@wikim-all@flag_of_peru::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4330@wikim-nojs@coat_of_arms_of_peru_uuu28state_flaguuu29_alternative_version {max-width:75px; max-height:75px; }
+.@d4330@wikim-nojs@coat_of_arms_of_peru_uuu28state_flaguuu29_alternative_version::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/peru/0.png/0.png);padding: 0; }
+div.@d4330@wikim-nojs@coat_of_arms_of_peru_uuu28state_flaguuu29_alternative_version::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4367@wikim-nojs@naval_jack_of_peru_uuu28alternative_versionuuu29 {max-width:75px; max-height:75px; }
+.@d4367@wikim-nojs@naval_jack_of_peru_uuu28alternative_versionuuu29::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/peru/0.png/0.png);padding: 0; }
+div.@d4367@wikim-nojs@naval_jack_of_peru_uuu28alternative_versionuuu29::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4a7c578de6a358889eb3bc7b94550648:056d211c29595a975726128f68fdea5c:4ddb42793a59c1b7bfff1539dfc4d068$ */

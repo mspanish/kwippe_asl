@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60931@ian@mountain-3d-glaciated {max-width:75px; max-height:75px; }
+.@a60931@ian@mountain-3d-glaciated::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/glaciers/0.png/0.png);padding: 0; }
+div.@a60931@ian@mountain-3d-glaciated::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60932@ian@mountain-3d-glaciers-and-foothills {max-width:75px; max-height:75px; }
+.@a60932@ian@mountain-3d-glaciers-and-foothills::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/glaciers/0.png/0.png);padding: 0; }
+div.@a60932@ian@mountain-3d-glaciers-and-foothills::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60939@ian@mountain-range-3d-foothills-and-glaciers {max-width:75px; max-height:75px; }
+.@a60939@ian@mountain-range-3d-foothills-and-glaciers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/glaciers/0.png/0.png);padding: 0; }
+div.@a60939@ian@mountain-range-3d-foothills-and-glaciers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60948@ian@mountains-3d-glacier-with-braided-stream-and-varve-lake {max-width:75px; max-height:75px; }
+.@a60948@ian@mountains-3d-glacier-with-braided-stream-and-varve-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/glaciers/0.png/0.png);padding: 0; }
+div.@a60948@ian@mountains-3d-glacier-with-braided-stream-and-varve-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0719934a28e1b18361b24e44dfd06733:5c4042dafb3dfa6b55ea0c2113a7038a:4ddb42793a59c1b7bfff1539dfc4d068$ */

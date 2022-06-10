@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36909@mul@clingfilm {max-width:75px; max-height:75px; }
+.@a36909@mul@clingfilm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/clingfilm/0.png/0.png);padding: 0; }
+div.@a36909@mul@clingfilm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d21c6002af6cae908ffbe00641f641a3:9d6aebc834e4173c545b417e64417906:4ddb42793a59c1b7bfff1539dfc4d068$ */

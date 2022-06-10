@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37880@mul@headlamp {max-width:75px; max-height:75px; }
+.@a37880@mul@headlamp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/headlamp/0.png/0.png);padding: 0; }
+div.@a37880@mul@headlamp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59729@ian@climbing-caving-helmet-with-headlamp {max-width:75px; max-height:75px; }
+.@a59729@ian@climbing-caving-helmet-with-headlamp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/headlamp/0.png/0.png);padding: 0; }
+div.@a59729@ian@climbing-caving-helmet-with-headlamp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1d7c51d3f3075a803b64ffd8bd3c24f7:77882615ab36e87183ccbafc123137f8:4ddb42793a59c1b7bfff1539dfc4d068$ */

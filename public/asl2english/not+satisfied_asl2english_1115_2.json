@@ -1,0 +1,37 @@
+{
+    "sign": "not+satisfied",
+    "signer": "asl2english",
+    "uid": 1115,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 12,
+            "nd": 37
+        },
+        "end": {
+            "d": 37,
+            "nd": 37
+        }
+    },
+    "regions": [
+        "chin",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

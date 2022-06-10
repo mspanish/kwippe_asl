@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59284@ian@agricultural-mower {max-width:75px; max-height:75px; }
+.@a59284@ian@agricultural-mower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mower/0.png/0.png);padding: 0; }
+div.@a59284@ian@agricultural-mower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60673@ian@lawn-mower-01 {max-width:75px; max-height:75px; }
+.@a60673@ian@lawn-mower-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mower/0.png/0.png);padding: 0; }
+div.@a60673@ian@lawn-mower-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60961@ian@mower {max-width:75px; max-height:75px; }
+.@a60961@ian@mower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mower/0.png/0.png);padding: 0; }
+div.@a60961@ian@mower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7f050b11dbb2f841bb49f9e7f9e07fc5:7d6dae5dfb87f4d2937613b27470502b:4ddb42793a59c1b7bfff1539dfc4d068$ */

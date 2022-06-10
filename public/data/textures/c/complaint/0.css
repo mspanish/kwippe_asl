@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2161@bon@paperwork-complaint-form-8052 {max-width:75px; max-height:75px; }
+.@a2161@bon@paperwork-complaint-form-8052::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/complaint/0.png/0.png);padding: 0; }
+div.@a2161@bon@paperwork-complaint-form-8052::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2162@bon@paperwork-complaint-form-result-8053 {max-width:75px; max-height:75px; }
+.@a2162@bon@paperwork-complaint-form-result-8053::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/complaint/0.png/0.png);padding: 0; }
+div.@a2162@bon@paperwork-complaint-form-result-8053::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2163@bon@paperwork-complaint-form-sending-8054 {max-width:75px; max-height:75px; }
+.@a2163@bon@paperwork-complaint-form-sending-8054::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/complaint/0.png/0.png);padding: 0; }
+div.@a2163@bon@paperwork-complaint-form-sending-8054::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:39ce9fb5bf54100c4647042f46066655:85c87d529a11e9aea5d907fa76d3c972:4ddb42793a59c1b7bfff1539dfc4d068$ */

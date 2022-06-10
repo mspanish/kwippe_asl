@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13894@gameicons-lorc@cannister {max-width:75px; max-height:75px; }
+.@b13894@gameicons-lorc@cannister::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cannister/0.png/0.png);padding: 0; }
+div.@b13894@gameicons-lorc@cannister::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0fdc434a121e2d7865edc6021c908e64:7f90512e1fdfcbf303f56aeab1c1860b:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59618@ian@carya-ovata-fruit {max-width:75px; max-height:75px; }
+.@a59618@ian@carya-ovata-fruit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/carya/0.png/0.png);padding: 0; }
+div.@a59618@ian@carya-ovata-fruit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59619@ian@carya-ovata-leaves {max-width:75px; max-height:75px; }
+.@a59619@ian@carya-ovata-leaves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/carya/0.png/0.png);padding: 0; }
+div.@a59619@ian@carya-ovata-leaves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59620@ian@carya-ovata {max-width:75px; max-height:75px; }
+.@a59620@ian@carya-ovata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/carya/0.png/0.png);padding: 0; }
+div.@a59620@ian@carya-ovata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:18bac0f9c12292ac8ac2893e7474b519:5106884de8b0c8f34321f1d9cc515c04:4ddb42793a59c1b7bfff1539dfc4d068$ */

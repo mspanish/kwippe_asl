@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15223@em2@om-symbol {max-width:75px; max-height:75px; }
+.@a15223@em2@om-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/om/0.png/0.png);padding: 0; }
+div.@a15223@em2@om-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16560@emo@om-symbol {max-width:75px; max-height:75px; }
+.@a16560@emo@om-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/om/0.png/0.png);padding: 0; }
+div.@a16560@emo@om-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17718@fir@u1f549-omsymbol {max-width:75px; max-height:75px; }
+.@a17718@fir@u1f549-omsymbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/om/0.png/0.png);padding: 0; }
+div.@a17718@fir@u1f549-omsymbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39941@noc@om-symbol {max-width:75px; max-height:75px; }
+.@a39941@noc@om-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/om/0.png/0.png);padding: 0; }
+div.@a39941@noc@om-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42858@nog@om-symbol-symbols {max-width:75px; max-height:75px; }
+.@a42858@nog@om-symbol-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/om/0.png/0.png);padding: 0; }
+div.@a42858@nog@om-symbol-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7f1a3dc350f1dbfafdaf36e062496390:b96d0478c1b529b284c0a4828c3a7b9c:4ddb42793a59c1b7bfff1539dfc4d068$ */

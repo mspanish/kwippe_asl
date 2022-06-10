@@ -1,0 +1,37 @@
+{
+    "sign": "revenge",
+    "signer": "asl2english",
+    "uid": 1511,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 21,
+            "nd": 21
+        },
+        "end": {
+            "d": 21,
+            "nd": 21
+        }
+    },
+    "regions": [
+        "stomach",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            -1,
+            1,
+            0
+        ]
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

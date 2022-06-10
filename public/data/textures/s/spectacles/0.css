@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26829@ibm@glasses-16 {max-width:75px; max-height:75px; }
+.@a26829@ibm@glasses-16::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/spectacles/0.png/0.png);padding: 0; }
+div.@a26829@ibm@glasses-16::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26830@ibm@glasses-b {max-width:75px; max-height:75px; }
+.@a26830@ibm@glasses-b::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/spectacles/0.png/0.png);padding: 0; }
+div.@a26830@ibm@glasses-b::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26831@ibm@glasses-r {max-width:75px; max-height:75px; }
+.@a26831@ibm@glasses-r::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/spectacles/0.png/0.png);padding: 0; }
+div.@a26831@ibm@glasses-r::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26832@ibm@glasses-t {max-width:75px; max-height:75px; }
+.@a26832@ibm@glasses-t::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/spectacles/0.png/0.png);padding: 0; }
+div.@a26832@ibm@glasses-t::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53276@vaa@glasses {max-width:75px; max-height:75px; }
+.@a53276@vaa@glasses::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/spectacles/0.png/0.png);padding: 0; }
+div.@a53276@vaa@glasses::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14810@gameicons-lorc@spectacle-lenses {max-width:75px; max-height:75px; }
+.@b14810@gameicons-lorc@spectacle-lenses::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/spectacles/0.png/0.png);padding: 0; }
+div.@b14810@gameicons-lorc@spectacle-lenses::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5746d233103070e707594bec685b24a0:ca7884b94651b841bdc1fa95f8bc137c:4ddb42793a59c1b7bfff1539dfc4d068$ */

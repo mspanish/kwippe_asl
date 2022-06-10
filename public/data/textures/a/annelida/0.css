@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60755@ian@lumbricus-spp-1 {max-width:75px; max-height:75px; }
+.@a60755@ian@lumbricus-spp-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/annelida/0.png/0.png);padding: 0; }
+div.@a60755@ian@lumbricus-spp-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61100@ian@palolo-viridis {max-width:75px; max-height:75px; }
+.@a61100@ian@palolo-viridis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/annelida/0.png/0.png);padding: 0; }
+div.@a61100@ian@palolo-viridis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61672@ian@spirobranchus-giganteus {max-width:75px; max-height:75px; }
+.@a61672@ian@spirobranchus-giganteus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/annelida/0.png/0.png);padding: 0; }
+div.@a61672@ian@spirobranchus-giganteus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61673@ian@spirobranchus-giganteus2 {max-width:75px; max-height:75px; }
+.@a61673@ian@spirobranchus-giganteus2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/annelida/0.png/0.png);padding: 0; }
+div.@a61673@ian@spirobranchus-giganteus2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:859f07c3af88629031ddfe73c56722e5:a2bb9529b55f359a48b5ad8f1cbd3836:4ddb42793a59c1b7bfff1539dfc4d068$ */

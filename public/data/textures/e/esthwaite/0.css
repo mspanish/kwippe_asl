@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60527@ian@hydrilla-verticillata-1 {max-width:75px; max-height:75px; }
+.@a60527@ian@hydrilla-verticillata-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/esthwaite/0.png/0.png);padding: 0; }
+div.@a60527@ian@hydrilla-verticillata-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60528@ian@hydrilla-verticillata-2 {max-width:75px; max-height:75px; }
+.@a60528@ian@hydrilla-verticillata-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/esthwaite/0.png/0.png);padding: 0; }
+div.@a60528@ian@hydrilla-verticillata-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f4132262208dcfef8b7336dd28168c87:a7758c6826f29e16052c0c9e86090c61:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "hot",
+    "signer": "asl2english",
+    "uid": 798,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 6,
+            "nd": 35
+        },
+        "end": {
+            "d": 30,
+            "nd": 6
+        }
+    },
+    "regions": [
+        "mouth",
+        "chest-front"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

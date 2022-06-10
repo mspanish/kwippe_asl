@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38085@mul@little-mac-switch {max-width:75px; max-height:75px; }
+.@a38085@mul@little-mac-switch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/little/0.png/0.png);padding: 0; }
+div.@a38085@mul@little-mac-switch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38086@mul@little {max-width:75px; max-height:75px; }
+.@a38086@mul@little::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/little/0.png/0.png);padding: 0; }
+div.@a38086@mul@little::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61551@ian@schizachyrium-scoparium {max-width:75px; max-height:75px; }
+.@a61551@ian@schizachyrium-scoparium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/little/0.png/0.png);padding: 0; }
+div.@a61551@ian@schizachyrium-scoparium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61957@ian@usa-de-delaware-inland-bays {max-width:75px; max-height:75px; }
+.@a61957@ian@usa-de-delaware-inland-bays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/little/0.png/0.png);padding: 0; }
+div.@a61957@ian@usa-de-delaware-inland-bays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62043@ian@usa-md-patuxent-river {max-width:75px; max-height:75px; }
+.@a62043@ian@usa-md-patuxent-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/little/0.png/0.png);padding: 0; }
+div.@a62043@ian@usa-md-patuxent-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62093@ian@usa-nj-barnegat-bay {max-width:75px; max-height:75px; }
+.@a62093@ian@usa-nj-barnegat-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/little/0.png/0.png);padding: 0; }
+div.@a62093@ian@usa-nj-barnegat-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62111@ian@usa-tx-brazos-river {max-width:75px; max-height:75px; }
+.@a62111@ian@usa-tx-brazos-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/little/0.png/0.png);padding: 0; }
+div.@a62111@ian@usa-tx-brazos-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:df8dc34f17673770ead9b38fa578c01d:710c5ae76f408556f26e34e2d65d258c:4ddb42793a59c1b7bfff1539dfc4d068$ */

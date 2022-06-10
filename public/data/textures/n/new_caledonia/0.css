@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16175@emo@nc {max-width:75px; max-height:75px; }
+.@a16175@emo@nc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/new_caledonia/0.png/0.png);padding: 0; }
+div.@a16175@emo@nc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37085@mul@new_caledonia {max-width:75px; max-height:75px; }
+.@a37085@mul@new_caledonia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/new_caledonia/0.png/0.png);padding: 0; }
+div.@a37085@mul@new_caledonia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37568@mul@new_caledonia {max-width:75px; max-height:75px; }
+.@a37568@mul@new_caledonia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/new_caledonia/0.png/0.png);padding: 0; }
+div.@a37568@mul@new_caledonia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2155@wikim-all@emblem_of_new_caledonia {max-width:75px; max-height:75px; }
+.@d2155@wikim-all@emblem_of_new_caledonia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/new_caledonia/0.png/0.png);padding: 0; }
+div.@d2155@wikim-all@emblem_of_new_caledonia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fcbc8e5fa84df2d852647700bbf6897d:1266fe4d86840aad32a6f02d45b14fd9:4ddb42793a59c1b7bfff1539dfc4d068$ */

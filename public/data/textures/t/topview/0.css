@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59364@ian@aquarium-from-top {max-width:75px; max-height:75px; }
+.@a59364@ian@aquarium-from-top::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/topview/0.png/0.png);padding: 0; }
+div.@a59364@ian@aquarium-from-top::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59365@ian@aquarium-from-top2 {max-width:75px; max-height:75px; }
+.@a59365@ian@aquarium-from-top2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/topview/0.png/0.png);padding: 0; }
+div.@a59365@ian@aquarium-from-top2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60266@ian@fish-cages2 {max-width:75px; max-height:75px; }
+.@a60266@ian@fish-cages2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/topview/0.png/0.png);padding: 0; }
+div.@a60266@ian@fish-cages2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6582b82cd0574e3ad6a054e92143d127:280f50058bd586ed35793fbb3d57f31b:4ddb42793a59c1b7bfff1539dfc4d068$ */

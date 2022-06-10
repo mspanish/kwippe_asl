@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59558@ian@burial {max-width:75px; max-height:75px; }
+.@a59558@ian@burial::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/burial/0.png/0.png);padding: 0; }
+div.@a59558@ian@burial::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59636@ian@cemetary {max-width:75px; max-height:75px; }
+.@a59636@ian@cemetary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/burial/0.png/0.png);padding: 0; }
+div.@a59636@ian@cemetary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:74568edc4e52de5848f6692486f7a17e:b5c069d6390542bbafb953e9da6cc9ed:4ddb42793a59c1b7bfff1539dfc4d068$ */

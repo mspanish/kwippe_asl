@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61079@ian@oyster-disease-transmission {max-width:75px; max-height:75px; }
+.@a61079@ian@oyster-disease-transmission::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/sphere/0.png/0.png);padding: 0; }
+div.@a61079@ian@oyster-disease-transmission::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14885@gameicons-lorc@stone-sphere {max-width:75px; max-height:75px; }
+.@b14885@gameicons-lorc@stone-sphere::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/sphere/0.png/0.png);padding: 0; }
+div.@b14885@gameicons-lorc@stone-sphere::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f825f012b98e8b1e9734e5e009cd8116:0bed7481281fe5e5f72656889505bbb0:4ddb42793a59c1b7bfff1539dfc4d068$ */

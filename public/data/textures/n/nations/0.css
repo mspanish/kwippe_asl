@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60263@ian@first-nations-management-canada {max-width:75px; max-height:75px; }
+.@a60263@ian@first-nations-management-canada::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/nations/0.png/0.png);padding: 0; }
+div.@a60263@ian@first-nations-management-canada::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60543@ian@immigration-control {max-width:75px; max-height:75px; }
+.@a60543@ian@immigration-control::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/nations/0.png/0.png);padding: 0; }
+div.@a60543@ian@immigration-control::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60585@ian@international-obligations-treaties {max-width:75px; max-height:75px; }
+.@a60585@ian@international-obligations-treaties::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/nations/0.png/0.png);padding: 0; }
+div.@a60585@ian@international-obligations-treaties::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61813@ian@totem-pole-first-nations {max-width:75px; max-height:75px; }
+.@a61813@ian@totem-pole-first-nations::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/nations/0.png/0.png);padding: 0; }
+div.@a61813@ian@totem-pole-first-nations::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d6135ac77f10bb55d5393e5ab9514522:6c194e12bc5dd0ce39c3074e5ff91cd5:4ddb42793a59c1b7bfff1539dfc4d068$ */

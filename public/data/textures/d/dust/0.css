@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37302@mul@dust-to {max-width:75px; max-height:75px; }
+.@a37302@mul@dust-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dust/0.png/0.png);padding: 0; }
+div.@a37302@mul@dust-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60007@ian@dermatophagoides-pteronyssinus {max-width:75px; max-height:75px; }
+.@a60007@ian@dermatophagoides-pteronyssinus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dust/0.png/0.png);padding: 0; }
+div.@a60007@ian@dermatophagoides-pteronyssinus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14616@gameicons-lorc@pollen-dust {max-width:75px; max-height:75px; }
+.@b14616@gameicons-lorc@pollen-dust::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dust/0.png/0.png);padding: 0; }
+div.@b14616@gameicons-lorc@pollen-dust::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:463c3e54cc33bd6716e2df77f4093e99:af0b4cabff1d4a09abade9e0b3f7e122:4ddb42793a59c1b7bfff1539dfc4d068$ */

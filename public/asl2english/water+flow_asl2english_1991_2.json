@@ -1,0 +1,37 @@
+{
+    "sign": "water+flow",
+    "signer": "asl2english",
+    "uid": 1991,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 78,
+            "nd": 4
+        },
+        "end": {
+            "d": 4,
+            "nd": 46
+        }
+    },
+    "regions": [
+        "chin",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

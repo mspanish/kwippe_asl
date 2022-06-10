@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36542@mul@battery-1 {max-width:75px; max-height:75px; }
+.@a36542@mul@battery-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/battery/0.png/0.png);padding: 0; }
+div.@a36542@mul@battery-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36543@mul@battery-1a {max-width:75px; max-height:75px; }
+.@a36543@mul@battery-1a::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/battery/0.png/0.png);padding: 0; }
+div.@a36543@mul@battery-1a::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36544@mul@battery-2 {max-width:75px; max-height:75px; }
+.@a36544@mul@battery-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/battery/0.png/0.png);padding: 0; }
+div.@a36544@mul@battery-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36545@mul@battery-2a {max-width:75px; max-height:75px; }
+.@a36545@mul@battery-2a::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/battery/0.png/0.png);padding: 0; }
+div.@a36545@mul@battery-2a::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9167ecd81df27666d92ba9616f38f298:27af57188bb03c9e53744d4a70e145e1:4ddb42793a59c1b7bfff1539dfc4d068$ */

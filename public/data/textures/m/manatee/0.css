@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60396@ian@grazing-dugong {max-width:75px; max-height:75px; }
+.@a60396@ian@grazing-dugong::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/manatee/0.png/0.png);padding: 0; }
+div.@a60396@ian@grazing-dugong::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61847@ian@trichechus-spp {max-width:75px; max-height:75px; }
+.@a61847@ian@trichechus-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/manatee/0.png/0.png);padding: 0; }
+div.@a61847@ian@trichechus-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:52ddfcc255fc3b97bd579acc20058c65:bbf6c1c26c2cb3b529196d9667669f76:4ddb42793a59c1b7bfff1539dfc4d068$ */

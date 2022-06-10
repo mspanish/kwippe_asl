@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37777@mul@glass-drinking {max-width:75px; max-height:75px; }
+.@a37777@mul@glass-drinking::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/drinking/0.png/0.png);padding: 0; }
+div.@a37777@mul@glass-drinking::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62185@ian@water-drinking-water-treatment-plant-1 {max-width:75px; max-height:75px; }
+.@a62185@ian@water-drinking-water-treatment-plant-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/drinking/0.png/0.png);padding: 0; }
+div.@a62185@ian@water-drinking-water-treatment-plant-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62190@ian@water-quality {max-width:75px; max-height:75px; }
+.@a62190@ian@water-quality::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/drinking/0.png/0.png);padding: 0; }
+div.@a62190@ian@water-quality::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12520@gameicons-delapouite@drinking {max-width:75px; max-height:75px; }
+.@b12520@gameicons-delapouite@drinking::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/drinking/0.png/0.png);padding: 0; }
+div.@b12520@gameicons-delapouite@drinking::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:38ac725a6569e98841dc7ac5e4f0a614:0b7a34b28dbc713b521975501ba45803:4ddb42793a59c1b7bfff1539dfc4d068$ */

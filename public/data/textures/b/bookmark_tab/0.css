@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14690@em2@bookmark-tabs {max-width:75px; max-height:75px; }
+.@a14690@em2@bookmark-tabs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bookmark_tab/0.png/0.png);padding: 0; }
+div.@a14690@em2@bookmark-tabs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15736@emo@bookmark-tabs {max-width:75px; max-height:75px; }
+.@a15736@emo@bookmark-tabs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bookmark_tab/0.png/0.png);padding: 0; }
+div.@a15736@emo@bookmark-tabs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17604@fir@u1f4d1-bookmarktab {max-width:75px; max-height:75px; }
+.@a17604@fir@u1f4d1-bookmarktab::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bookmark_tab/0.png/0.png);padding: 0; }
+div.@a17604@fir@u1f4d1-bookmarktab::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28218@jqe@bookmark-tabs {max-width:75px; max-height:75px; }
+.@a28218@jqe@bookmark-tabs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bookmark_tab/0.png/0.png);padding: 0; }
+div.@a28218@jqe@bookmark-tabs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39374@noc@bookmark-tabs {max-width:75px; max-height:75px; }
+.@a39374@noc@bookmark-tabs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bookmark_tab/0.png/0.png);padding: 0; }
+div.@a39374@noc@bookmark-tabs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40787@nog@bookmark-tabs-objects {max-width:75px; max-height:75px; }
+.@a40787@nog@bookmark-tabs-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bookmark_tab/0.png/0.png);padding: 0; }
+div.@a40787@nog@bookmark-tabs-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44144@not@bookmark-tabs {max-width:75px; max-height:75px; }
+.@a44144@not@bookmark-tabs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bookmark_tab/0.png/0.png);padding: 0; }
+div.@a44144@not@bookmark-tabs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51113@twe@bookmark-tabs {max-width:75px; max-height:75px; }
+.@a51113@twe@bookmark-tabs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bookmark_tab/0.png/0.png);padding: 0; }
+div.@a51113@twe@bookmark-tabs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b68ce9fdc4b58ca433037f5021af28c7:01a91b82efd2c7bd57d1170719542312:4ddb42793a59c1b7bfff1539dfc4d068$ */

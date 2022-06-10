@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15916@emo@diamonds {max-width:75px; max-height:75px; }
+.@a15916@emo@diamonds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a15916@emo@diamonds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30559@lin@cards-diamonds {max-width:75px; max-height:75px; }
+.@a30559@lin@cards-diamonds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a30559@lin@cards-diamonds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30560@lin@cards-hearts {max-width:75px; max-height:75px; }
+.@a30560@lin@cards-hearts::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a30560@lin@cards-hearts::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32789@mat@cards-outline {max-width:75px; max-height:75px; }
+.@a32789@mat@cards-outline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a32789@mat@cards-outline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32791@mat@cards-playing-outline {max-width:75px; max-height:75px; }
+.@a32791@mat@cards-playing-outline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a32791@mat@cards-playing-outline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32795@mat@cards {max-width:75px; max-height:75px; }
+.@a32795@mat@cards::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a32795@mat@cards::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38463@mul@playing-cards-clubs {max-width:75px; max-height:75px; }
+.@a38463@mul@playing-cards-clubs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a38463@mul@playing-cards-clubs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38464@mul@playing-cards-diamonds {max-width:75px; max-height:75px; }
+.@a38464@mul@playing-cards-diamonds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a38464@mul@playing-cards-diamonds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38466@mul@playing-cards-spades {max-width:75px; max-height:75px; }
+.@a38466@mul@playing-cards-spades::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a38466@mul@playing-cards-spades::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38467@mul@playing-cards {max-width:75px; max-height:75px; }
+.@a38467@mul@playing-cards::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a38467@mul@playing-cards::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58706@baianet@group {max-width:75px; max-height:75px; }
+.@a58706@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a58706@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59319@ian@amphitheater {max-width:75px; max-height:75px; }
+.@a59319@ian@amphitheater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a59319@ian@amphitheater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61225@ian@playing-cards {max-width:75px; max-height:75px; }
+.@a61225@ian@playing-cards::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/e/entertainment/0.png/0.png);padding: 0; }
+div.@a61225@ian@playing-cards::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:93dea35f8cbd4ba340ad56cb1d9729e0:db2f69207034c2422a8369b0733360f7:4ddb42793a59c1b7bfff1539dfc4d068$ */

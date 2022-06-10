@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60655@ian@laminaria-spp {max-width:75px; max-height:75px; }
+.@a60655@ian@laminaria-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laminariaceae/0.png/0.png);padding: 0; }
+div.@a60655@ian@laminaria-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60780@ian@macrocystis-pyrifera-1 {max-width:75px; max-height:75px; }
+.@a60780@ian@macrocystis-pyrifera-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laminariaceae/0.png/0.png);padding: 0; }
+div.@a60780@ian@macrocystis-pyrifera-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60781@ian@macrocystis-pyrifera-2 {max-width:75px; max-height:75px; }
+.@a60781@ian@macrocystis-pyrifera-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laminariaceae/0.png/0.png);padding: 0; }
+div.@a60781@ian@macrocystis-pyrifera-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60782@ian@macrocystis-pyrifera-3 {max-width:75px; max-height:75px; }
+.@a60782@ian@macrocystis-pyrifera-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laminariaceae/0.png/0.png);padding: 0; }
+div.@a60782@ian@macrocystis-pyrifera-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61514@ian@saccharina-latissima {max-width:75px; max-height:75px; }
+.@a61514@ian@saccharina-latissima::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/laminariaceae/0.png/0.png);padding: 0; }
+div.@a61514@ian@saccharina-latissima::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:655d00e1853b1ffa20af130e3aa8e16b:40f3f8be7ce0ddaeb5356bdedf4bb012:4ddb42793a59c1b7bfff1539dfc4d068$ */

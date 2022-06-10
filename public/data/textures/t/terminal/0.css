@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1040@awe@terminal {max-width:75px; max-height:75px; }
+.@a1040@awe@terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a1040@awe@terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1406@bat@terminal {max-width:75px; max-height:75px; }
+.@a1406@bat@terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a1406@bat@terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29233@jqu@terminal {max-width:75px; max-height:75px; }
+.@a29233@jqu@terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a29233@jqu@terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30416@lib@terminal {max-width:75px; max-height:75px; }
+.@a30416@lib@terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a30416@lib@terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47012@pap@utilities-terminal-symbolic {max-width:75px; max-height:75px; }
+.@a47012@pap@utilities-terminal-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a47012@pap@utilities-terminal-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53544@vaa@terminal {max-width:75px; max-height:75px; }
+.@a53544@vaa@terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a53544@vaa@terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56035@web@terminal {max-width:75px; max-height:75px; }
+.@a56035@web@terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a56035@web@terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59427@ian@aviation-airport-terminal {max-width:75px; max-height:75px; }
+.@a59427@ian@aviation-airport-terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a59427@ian@aviation-airport-terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59428@ian@aviation-airport {max-width:75px; max-height:75px; }
+.@a59428@ian@aviation-airport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a59428@ian@aviation-airport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine {max-width:75px; max-height:75px; }
+.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/terminal/0.png/0.png);padding: 0; }
+div.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d1149de9aa1e716b13030d370db973b8:56d301a4256a2cf5f3409ae7c373ca0a:4ddb42793a59c1b7bfff1539dfc4d068$ */

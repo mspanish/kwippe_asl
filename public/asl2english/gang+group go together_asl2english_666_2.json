@@ -1,0 +1,37 @@
+{
+    "sign": "gang+group go together",
+    "signer": "asl2english",
+    "uid": 666,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 12,
+            "nd": 35
+        },
+        "end": {
+            "d": 82,
+            "nd": 30
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

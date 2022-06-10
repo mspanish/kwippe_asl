@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62098@ian@usa-or-coos-bay {max-width:75px; max-height:75px; }
+.@a62098@ian@usa-or-coos-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/coos/0.png/0.png);padding: 0; }
+div.@a62098@ian@usa-or-coos-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:467fa041cc6a0936b46e67f24f99ecf1:19800f2c3a7ec8fdcb347e154c0087a8:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16215@emo@sj {max-width:75px; max-height:75px; }
+.@a16215@emo@sj::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/svalbard_and_jan_mayen/0.png/0.png);padding: 0; }
+div.@a16215@emo@sj::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ca4dec38695467c4271ed37500a7ec03:a5c31285f36c40f3e27764a45ad79511:4ddb42793a59c1b7bfff1539dfc4d068$ */

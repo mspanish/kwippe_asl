@@ -1,0 +1,92 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29141@jqu@map-marker {max-width:75px; max-height:75px; }
+.@a29141@jqu@map-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3225806451612903% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a29141@jqu@map-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34281@mat@map-marker {max-width:75px; max-height:75px; }
+.@a34281@mat@map-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3225806451612903% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a34281@mat@map-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36586@mul@bingo-marker {max-width:75px; max-height:75px; }
+.@a36586@mul@bingo-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3225806451612903% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a36586@mul@bingo-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53356@vaa@map-marker {max-width:75px; max-height:75px; }
+.@a53356@vaa@map-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 12.741935483870968% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a53356@vaa@map-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54465@wav@map-marker {max-width:75px; max-height:75px; }
+.@a54465@wav@map-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 12.741935483870968% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a54465@wav@map-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55274@web@map-marker {max-width:75px; max-height:75px; }
+.@a55274@web@map-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 12.741935483870968% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a55274@web@map-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55277@web@markerdown {max-width:75px; max-height:75px; }
+.@a55277@web@markerdown::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.161290322580644% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a55277@web@markerdown::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55278@web@markerleft {max-width:75px; max-height:75px; }
+.@a55278@web@markerleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.161290322580644% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a55278@web@markerleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55279@web@markerright {max-width:75px; max-height:75px; }
+.@a55279@web@markerright::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.161290322580644% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a55279@web@markerright::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55280@web@markerup {max-width:75px; max-height:75px; }
+.@a55280@web@markerup::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 37.58064516129032% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a55280@web@markerup::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57850@xei@maker-drop-map-marker {max-width:75px; max-height:75px; }
+.@a57850@xei@maker-drop-map-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 37.58064516129032% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a57850@xei@maker-drop-map-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57851@xei@maker-marker-circle {max-width:75px; max-height:75px; }
+.@a57851@xei@maker-marker-circle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 37.58064516129032% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a57851@xei@maker-marker-circle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59609@ian@cardinal-marker-east {max-width:75px; max-height:75px; }
+.@a59609@ian@cardinal-marker-east::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a59609@ian@cardinal-marker-east::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59610@ian@cardinal-marker-north {max-width:75px; max-height:75px; }
+.@a59610@ian@cardinal-marker-north::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a59610@ian@cardinal-marker-north::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59611@ian@cardinal-marker-south {max-width:75px; max-height:75px; }
+.@a59611@ian@cardinal-marker-south::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a59611@ian@cardinal-marker-south::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59612@ian@cardinal-marker-west {max-width:75px; max-height:75px; }
+.@a59612@ian@cardinal-marker-west::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 62.41935483870968% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a59612@ian@cardinal-marker-west::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60551@ian@indonesian_zone_marker {max-width:75px; max-height:75px; }
+.@a60551@ian@indonesian_zone_marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 62.41935483870968% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a60551@ian@indonesian_zone_marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60661@ian@lateral-marker-international-port {max-width:75px; max-height:75px; }
+.@a60661@ian@lateral-marker-international-port::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 62.41935483870968% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a60661@ian@lateral-marker-international-port::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60662@ian@lateral-marker-international-starboard {max-width:75px; max-height:75px; }
+.@a60662@ian@lateral-marker-international-starboard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.83870967741936% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a60662@ian@lateral-marker-international-starboard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60663@ian@lateral-marker-usa-port {max-width:75px; max-height:75px; }
+.@a60663@ian@lateral-marker-usa-port::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.83870967741936% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a60663@ian@lateral-marker-usa-port::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60664@ian@lateral-marker-usa-starboard {max-width:75px; max-height:75px; }
+.@a60664@ian@lateral-marker-usa-starboard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.83870967741936% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a60664@ian@lateral-marker-usa-starboard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61396@ian@regulatory-marker-danger {max-width:75px; max-height:75px; }
+.@a61396@ian@regulatory-marker-danger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 87.25806451612904% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a61396@ian@regulatory-marker-danger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61397@ian@regulatory-marker-keep-out {max-width:75px; max-height:75px; }
+.@a61397@ian@regulatory-marker-keep-out::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 87.25806451612904% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a61397@ian@regulatory-marker-keep-out::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61398@ian@regulatory-marker-speed-limit {max-width:75px; max-height:75px; }
+.@a61398@ian@regulatory-marker-speed-limit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 87.25806451612904% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a61398@ian@regulatory-marker-speed-limit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a880@awe@map-marker {max-width:75px; max-height:75px; }
+.@a880@awe@map-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.6774193548387% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@a880@awe@map-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13153@gameicons-delapouite@position-marker {max-width:75px; max-height:75px; }
+.@b13153@gameicons-delapouite@position-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.6774193548387% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@b13153@gameicons-delapouite@position-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13592@gameicons-delapouite@virtual-marker {max-width:75px; max-height:75px; }
+.@b13592@gameicons-delapouite@virtual-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.6774193548387% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/m/marker/0.png/0.png);padding: 0; }
+div.@b13592@gameicons-delapouite@virtual-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c8774eca8ea2d278619efe64f954ddf5:cd90631bac5f27d2dfe27431ed180f78:4ddb42793a59c1b7bfff1539dfc4d068$ */

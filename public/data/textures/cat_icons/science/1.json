@@ -1,0 +1,73 @@
+
+{
+
+"ian_symbols~human~recreation": { 
+	"vb": "35 31 -0 -70",
+ },
+"ian_symbols~human~science-research": { 
+	"vb": "23 35 -105 -0",
+ },
+"ian_symbols~human~services": { 
+	"vb": "11 35 -116 -118",
+ },
+"ian_symbols~human~transport": { 
+	"vb": "35 27 -70 -70",
+ },
+"ian_symbols~processes": { 
+	"vb": "35 29 -64 -139",
+ },
+"ian_symbols~processes~biological": { 
+	"vb": "35 29 -64 -139",
+ },
+"ian_symbols~processes~chemical": { 
+	"vb": "35 35 -0 -0",
+ },
+"ian_symbols~processes~inputs-flows": { 
+	"vb": "17 35 -105 -69",
+ },
+"ian_symbols~processes~modifiers": { 
+	"vb": "35 35 -35 -0",
+ },
+"ian_symbols~processes~physical": { 
+	"vb": "17 35 -99 -133",
+ },
+"ian_symbols~prokaryotes-viruses": { 
+	"vb": "29 35 -35 -139",
+ },
+"ian_symbols~prokaryotes-viruses~bacteria-cyanobacteria-archaea": { 
+	"vb": "29 35 -35 -139",
+ },
+"ian_symbols~prokaryotes-viruses~viruses": { 
+	"vb": "35 35 -70 -0",
+ },
+"magnet": { 
+	"vb": "35 35 -0 -35",
+ },
+"microbe": { 
+	"vb": "35 35 -35 -35",
+ },
+"petri": { 
+	"vb": "35 31 -35 -70",
+ },
+"robot": { 
+	"vb": "23 34 -105 -35",
+ },
+"robot~head": { 
+	"vb": "35 35 -70 -35",
+ },
+"robot~outline": { 
+	"vb": "35 35 -0 -104",
+ },
+"robot~silhouette": { 
+	"vb": "35 35 -0 -139",
+ },
+"science": { 
+	"vb": "22 14 -105 -104",
+ },
+"test_tube": { 
+	"vb": "35 35 -35 -104",
+ },
+"test_tube~multiple": { 
+	"vb": "35 29 -70 -104",
+ },
+}

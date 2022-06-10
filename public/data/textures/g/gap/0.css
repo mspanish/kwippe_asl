@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60959@ian@mountains-with-saddle {max-width:75px; max-height:75px; }
+.@a60959@ian@mountains-with-saddle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/gap/0.png/0.png);padding: 0; }
+div.@a60959@ian@mountains-with-saddle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7e66c0686db13a251fd700b46dbee0a3:6d164520dc74e114bfb4a5dd0263c424:4ddb42793a59c1b7bfff1539dfc4d068$ */

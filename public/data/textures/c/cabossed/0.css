@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26168@her@badger-head-cabossed {max-width:75px; max-height:75px; }
+.@a26168@her@badger-head-cabossed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cabossed/0.png/0.png);padding: 0; }
+div.@a26168@her@badger-head-cabossed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1e086430b29e730566c5a2aa470d1541:00557c01242a74dd05edd4736d0133fc:4ddb42793a59c1b7bfff1539dfc4d068$ */

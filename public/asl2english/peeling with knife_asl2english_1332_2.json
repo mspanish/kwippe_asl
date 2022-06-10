@@ -1,0 +1,37 @@
+{
+    "sign": "peeling with knife",
+    "signer": "asl2english",
+    "uid": 1332,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 81,
+            "nd": 82
+        },
+        "end": {
+            "d": 81,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "chest-front",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            0,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

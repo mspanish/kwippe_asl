@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48748@solver@1-ranch-girl {max-width:75px; max-height:75px; }
+.@a48748@solver@1-ranch-girl::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/ranch_girl/0.png/0.png);padding: 0; }
+div.@a48748@solver@1-ranch-girl::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a9f20db4c70d2af3d3dea560a8fe78c1:ce677c9f3a185ef9b5cece09828b4a60:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60391@ian@grain-silos-1 {max-width:75px; max-height:75px; }
+.@a60391@ian@grain-silos-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/grain/0.png/0.png);padding: 0; }
+div.@a60391@ian@grain-silos-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60392@ian@grain-silos2 {max-width:75px; max-height:75px; }
+.@a60392@ian@grain-silos2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/grain/0.png/0.png);padding: 0; }
+div.@a60392@ian@grain-silos2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61444@ian@rice-1 {max-width:75px; max-height:75px; }
+.@a61444@ian@rice-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/grain/0.png/0.png);padding: 0; }
+div.@a61444@ian@rice-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62238@ian@wheat-kernels {max-width:75px; max-height:75px; }
+.@a62238@ian@wheat-kernels::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/grain/0.png/0.png);padding: 0; }
+div.@a62238@ian@wheat-kernels::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62239@ian@wheat-sheath {max-width:75px; max-height:75px; }
+.@a62239@ian@wheat-sheath::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/grain/0.png/0.png);padding: 0; }
+div.@a62239@ian@wheat-sheath::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62240@ian@wheat {max-width:75px; max-height:75px; }
+.@a62240@ian@wheat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/grain/0.png/0.png);padding: 0; }
+div.@a62240@ian@wheat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12704@gameicons-delapouite@grain {max-width:75px; max-height:75px; }
+.@b12704@gameicons-delapouite@grain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/grain/0.png/0.png);padding: 0; }
+div.@b12704@gameicons-delapouite@grain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6133f65046fc7ff98827da2b9815770a:aeedcdba44b4edad60fdb74ee4d74843:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59830@ian@concentration-high-phytoplankton {max-width:75px; max-height:75px; }
+.@a59830@ian@concentration-high-phytoplankton::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/phytoplankton/0.png/0.png);padding: 0; }
+div.@a59830@ian@concentration-high-phytoplankton::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59850@ian@concentration-intermittent-phytoplankton {max-width:75px; max-height:75px; }
+.@a59850@ian@concentration-intermittent-phytoplankton::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/phytoplankton/0.png/0.png);padding: 0; }
+div.@a59850@ian@concentration-intermittent-phytoplankton::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59870@ian@concentration-low-phytoplankton {max-width:75px; max-height:75px; }
+.@a59870@ian@concentration-low-phytoplankton::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/phytoplankton/0.png/0.png);padding: 0; }
+div.@a59870@ian@concentration-low-phytoplankton::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60883@ian@mixed-phytoplankton-community-coloured {max-width:75px; max-height:75px; }
+.@a60883@ian@mixed-phytoplankton-community-coloured::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/phytoplankton/0.png/0.png);padding: 0; }
+div.@a60883@ian@mixed-phytoplankton-community-coloured::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61185@ian@phytoplankton-bloom-crash {max-width:75px; max-height:75px; }
+.@a61185@ian@phytoplankton-bloom-crash::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/phytoplankton/0.png/0.png);padding: 0; }
+div.@a61185@ian@phytoplankton-bloom-crash::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61186@ian@phytoplankton-bloom {max-width:75px; max-height:75px; }
+.@a61186@ian@phytoplankton-bloom::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/phytoplankton/0.png/0.png);padding: 0; }
+div.@a61186@ian@phytoplankton-bloom::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dfc2ce7037bc6afab1f2161a097dfa4e:0512c7a9dbc81584f306f7281d753748:4ddb42793a59c1b7bfff1539dfc4d068$ */

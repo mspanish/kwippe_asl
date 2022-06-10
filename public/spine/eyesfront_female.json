@@ -1,0 +1,151 @@
+{"frames": {
+
+"eyesfront_female__0.png":
+{
+	"frame": {"x":1420,"y":1,"w":86,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":120},
+	"sourceSize": {"w":86,"h":120}
+},
+"eyesfront_female__1.png":
+{
+	"frame": {"x":1508,"y":1,"w":86,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":120},
+	"sourceSize": {"w":86,"h":120}
+},
+"eyesfront_female__2.png":
+{
+	"frame": {"x":875,"y":1,"w":90,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":120},
+	"sourceSize": {"w":96,"h":120}
+},
+"eyesfront_female__3.png":
+{
+	"frame": {"x":1240,"y":1,"w":88,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":120},
+	"sourceSize": {"w":94,"h":120}
+},
+"eyesfront_female__4.png":
+{
+	"frame": {"x":1149,"y":1,"w":89,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":120},
+	"sourceSize": {"w":94,"h":120}
+},
+"eyesfront_female__5.png":
+{
+	"frame": {"x":1330,"y":1,"w":88,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":120},
+	"sourceSize": {"w":91,"h":120}
+},
+"eyesfront_female__6.png":
+{
+	"frame": {"x":106,"y":1,"w":99,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":120},
+	"sourceSize": {"w":101,"h":120}
+},
+"eyesfront_female__7.png":
+{
+	"frame": {"x":308,"y":1,"w":95,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":120},
+	"sourceSize": {"w":101,"h":120}
+},
+"eyesfront_female__8.png":
+{
+	"frame": {"x":207,"y":1,"w":99,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":120},
+	"sourceSize": {"w":103,"h":120}
+},
+"eyesfront_female__9.png":
+{
+	"frame": {"x":405,"y":1,"w":94,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":120},
+	"sourceSize": {"w":94,"h":120}
+},
+"eyesfront_female__10.png":
+{
+	"frame": {"x":1,"y":1,"w":103,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":120},
+	"sourceSize": {"w":106,"h":120}
+},
+"eyesfront_female__11.png":
+{
+	"frame": {"x":501,"y":1,"w":93,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":120},
+	"sourceSize": {"w":94,"h":120}
+},
+"eyesfront_female__12.png":
+{
+	"frame": {"x":967,"y":1,"w":89,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":120},
+	"sourceSize": {"w":91,"h":120}
+},
+"eyesfront_female__13.png":
+{
+	"frame": {"x":596,"y":1,"w":91,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":120},
+	"sourceSize": {"w":91,"h":120}
+},
+"eyesfront_female__14.png":
+{
+	"frame": {"x":689,"y":1,"w":91,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":120},
+	"sourceSize": {"w":91,"h":120}
+},
+"eyesfront_female__15.png":
+{
+	"frame": {"x":1058,"y":1,"w":89,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":120},
+	"sourceSize": {"w":91,"h":120}
+},
+"eyesfront_female__16.png":
+{
+	"frame": {"x":782,"y":1,"w":91,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":120},
+	"sourceSize": {"w":91,"h":120}
+}},
+"animations": {
+	"eyesfront_female_": ["eyesfront_female__0.png","eyesfront_female__1.png","eyesfront_female__2.png","eyesfront_female__3.png","eyesfront_female__4.png","eyesfront_female__5.png","eyesfront_female__6.png","eyesfront_female__7.png","eyesfront_female__8.png","eyesfront_female__9.png","eyesfront_female__10.png","eyesfront_female__11.png","eyesfront_female__12.png","eyesfront_female__13.png","eyesfront_female__14.png","eyesfront_female__15.png","eyesfront_female__16.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "eyesfront_female.png",
+	"format": "RGBA8888",
+	"size": {"w":1595,"h":122},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e67f859e41bac9b31c7d0784d3cfd5ce:59216eb1ab908098ba20bf6c64e6f759:7a4e9ec57c72c195ca3d910d6d0b33c3$"
+}
+}

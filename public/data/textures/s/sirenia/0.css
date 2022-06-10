@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60066@ian@dugong-dugon-2 {max-width:75px; max-height:75px; }
+.@a60066@ian@dugong-dugon-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sirenia/0.png/0.png);padding: 0; }
+div.@a60066@ian@dugong-dugon-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60067@ian@dugong-dugon {max-width:75px; max-height:75px; }
+.@a60067@ian@dugong-dugon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sirenia/0.png/0.png);padding: 0; }
+div.@a60067@ian@dugong-dugon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61847@ian@trichechus-spp {max-width:75px; max-height:75px; }
+.@a61847@ian@trichechus-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sirenia/0.png/0.png);padding: 0; }
+div.@a61847@ian@trichechus-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8e991065927f053e20771795f3ba78b0:b4a86e64c03a41693658bd6c9d6eb3ef:4ddb42793a59c1b7bfff1539dfc4d068$ */

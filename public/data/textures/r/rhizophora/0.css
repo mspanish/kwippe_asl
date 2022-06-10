@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59965@ian@dead-rhizophora {max-width:75px; max-height:75px; }
+.@a59965@ian@dead-rhizophora::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rhizophora/0.png/0.png);padding: 0; }
+div.@a59965@ian@dead-rhizophora::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61433@ian@rhizophora-mangle {max-width:75px; max-height:75px; }
+.@a61433@ian@rhizophora-mangle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rhizophora/0.png/0.png);padding: 0; }
+div.@a61433@ian@rhizophora-mangle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61434@ian@rhizophora-mucronata {max-width:75px; max-height:75px; }
+.@a61434@ian@rhizophora-mucronata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rhizophora/0.png/0.png);padding: 0; }
+div.@a61434@ian@rhizophora-mucronata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61435@ian@rhizophora-stylosa-flower {max-width:75px; max-height:75px; }
+.@a61435@ian@rhizophora-stylosa-flower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rhizophora/0.png/0.png);padding: 0; }
+div.@a61435@ian@rhizophora-stylosa-flower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61436@ian@rhizophora-stylosa-fruit {max-width:75px; max-height:75px; }
+.@a61436@ian@rhizophora-stylosa-fruit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rhizophora/0.png/0.png);padding: 0; }
+div.@a61436@ian@rhizophora-stylosa-fruit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61438@ian@rhizophora-stylosa-propagule {max-width:75px; max-height:75px; }
+.@a61438@ian@rhizophora-stylosa-propagule::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rhizophora/0.png/0.png);padding: 0; }
+div.@a61438@ian@rhizophora-stylosa-propagule::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61439@ian@rhizophora-stylosa {max-width:75px; max-height:75px; }
+.@a61439@ian@rhizophora-stylosa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rhizophora/0.png/0.png);padding: 0; }
+div.@a61439@ian@rhizophora-stylosa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:60a43aaa764fe863fd10dce6cd8f0dae:2df90926ffb0894d9aeddca7c2a307c8:4ddb42793a59c1b7bfff1539dfc4d068$ */

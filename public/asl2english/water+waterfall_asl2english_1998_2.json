@@ -1,0 +1,37 @@
+{
+    "sign": "water+waterfall",
+    "signer": "asl2english",
+    "uid": 1998,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 78,
+            "nd": 4
+        },
+        "end": {
+            "d": 4,
+            "nd": 4
+        }
+    },
+    "regions": [
+        "chin",
+        "stomach"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

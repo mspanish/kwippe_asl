@@ -1,0 +1,37 @@
+{
+    "sign": "invest",
+    "signer": "asl2english",
+    "uid": 847,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 84,
+            "nd": 84
+        },
+        "end": {
+            "d": 2,
+            "nd": 2
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "circle",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

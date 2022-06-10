@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59270@ian@acrostichum-speciosum-branch {max-width:75px; max-height:75px; }
+.@a59270@ian@acrostichum-speciosum-branch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/leatherfern/0.png/0.png);padding: 0; }
+div.@a59270@ian@acrostichum-speciosum-branch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59271@ian@acrostichum-speciosum-leaf {max-width:75px; max-height:75px; }
+.@a59271@ian@acrostichum-speciosum-leaf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/leatherfern/0.png/0.png);padding: 0; }
+div.@a59271@ian@acrostichum-speciosum-leaf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59272@ian@acrostichum-speciosum {max-width:75px; max-height:75px; }
+.@a59272@ian@acrostichum-speciosum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/leatherfern/0.png/0.png);padding: 0; }
+div.@a59272@ian@acrostichum-speciosum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e16643343ee7eadeb889de185ae9b341:538a54af18c8ecb8deb590bdbcb7dc18:4ddb42793a59c1b7bfff1539dfc4d068$ */

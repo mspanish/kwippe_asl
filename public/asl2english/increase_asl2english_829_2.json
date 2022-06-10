@@ -1,0 +1,37 @@
+{
+    "sign": "increase",
+    "signer": "asl2english",
+    "uid": 829,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 76,
+            "nd": 76
+        },
+        "end": {
+            "d": null,
+            "nd": 40
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

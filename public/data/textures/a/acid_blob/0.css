@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13694@gameicons-lorc@acid-blob {max-width:75px; max-height:75px; }
+.@b13694@gameicons-lorc@acid-blob::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/acid_blob/0.png/0.png);padding: 0; }
+div.@b13694@gameicons-lorc@acid-blob::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0c064f1ab04ca766e605e7aeb61a70b3:1d4e78b1c98b0a2d8afa9889bdd5a374:4ddb42793a59c1b7bfff1539dfc4d068$ */

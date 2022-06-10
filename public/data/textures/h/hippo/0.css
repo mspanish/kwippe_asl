@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37907@mul@hippopotamus {max-width:75px; max-height:75px; }
+.@a37907@mul@hippopotamus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hippo/0.png/0.png);padding: 0; }
+div.@a37907@mul@hippopotamus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42095@nog@hippopotamus-animals-nature {max-width:75px; max-height:75px; }
+.@a42095@nog@hippopotamus-animals-nature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hippo/0.png/0.png);padding: 0; }
+div.@a42095@nog@hippopotamus-animals-nature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45077@oa1@hippo {max-width:75px; max-height:75px; }
+.@a45077@oa1@hippo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hippo/0.png/0.png);padding: 0; }
+div.@a45077@oa1@hippo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45916@ope@studiofibonacci_cartoon_hippo {max-width:75px; max-height:75px; }
+.@a45916@ope@studiofibonacci_cartoon_hippo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hippo/0.png/0.png);padding: 0; }
+div.@a45916@ope@studiofibonacci_cartoon_hippo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47830@plateau@cuyo {max-width:75px; max-height:75px; }
+.@a47830@plateau@cuyo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hippo/0.png/0.png);padding: 0; }
+div.@a47830@plateau@cuyo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cd985cbec8293beffed28150b9baac87:c19828bef6f08c1fa1f594fa7bf47145:4ddb42793a59c1b7bfff1539dfc4d068$ */

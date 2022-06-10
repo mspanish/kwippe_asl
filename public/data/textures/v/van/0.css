@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38497@mul@post-van {max-width:75px; max-height:75px; }
+.@a38497@mul@post-van::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/van/0.png/0.png);padding: 0; }
+div.@a38497@mul@post-van::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39126@mul@van {max-width:75px; max-height:75px; }
+.@a39126@mul@van::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/van/0.png/0.png);padding: 0; }
+div.@a39126@mul@van::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13573@gameicons-delapouite@van-damme-split {max-width:75px; max-height:75px; }
+.@b13573@gameicons-delapouite@van-damme-split::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/van/0.png/0.png);padding: 0; }
+div.@b13573@gameicons-delapouite@van-damme-split::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c1053ef7e1b4ec88ca2d4aeaa4ca57df:d28c903e1360b315c83ce6abda709e6a:4ddb42793a59c1b7bfff1539dfc4d068$ */

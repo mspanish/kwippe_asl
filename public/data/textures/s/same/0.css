@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2696@bon@workshop-talking-at-the-same-time-8540 {max-width:75px; max-height:75px; }
+.@a2696@bon@workshop-talking-at-the-same-time-8540::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/same/0.png/0.png);padding: 0; }
+div.@a2696@bon@workshop-talking-at-the-same-time-8540::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38635@mul@same {max-width:75px; max-height:75px; }
+.@a38635@mul@same::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/same/0.png/0.png);padding: 0; }
+div.@a38635@mul@same::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59449@ian@balance2 {max-width:75px; max-height:75px; }
+.@a59449@ian@balance2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/same/0.png/0.png);padding: 0; }
+div.@a59449@ian@balance2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:18db2389090a8b311ce0283f1be74ad3:4d3fb02b438ecd01c903192fbd0a2fa4:4ddb42793a59c1b7bfff1539dfc4d068$ */

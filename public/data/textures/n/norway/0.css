@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16181@emo@no {max-width:75px; max-height:75px; }
+.@a16181@emo@no::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/norway/0.png/0.png);padding: 0; }
+div.@a16181@emo@no::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37575@mul@norway {max-width:75px; max-height:75px; }
+.@a37575@mul@norway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/norway/0.png/0.png);padding: 0; }
+div.@a37575@mul@norway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59250@ian@acer-platanoides {max-width:75px; max-height:75px; }
+.@a59250@ian@acer-platanoides::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/norway/0.png/0.png);padding: 0; }
+div.@a59250@ian@acer-platanoides::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61524@ian@salmo-salar-01 {max-width:75px; max-height:75px; }
+.@a61524@ian@salmo-salar-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/norway/0.png/0.png);padding: 0; }
+div.@a61524@ian@salmo-salar-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1672@wikim-all@arms_of_the_kingdom_of_norway {max-width:75px; max-height:75px; }
+.@d1672@wikim-all@arms_of_the_kingdom_of_norway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/norway/0.png/0.png);padding: 0; }
+div.@d1672@wikim-all@arms_of_the_kingdom_of_norway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2020@wikim-all@coat_of_arms_of_norway {max-width:75px; max-height:75px; }
+.@d2020@wikim-all@coat_of_arms_of_norway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/norway/0.png/0.png);padding: 0; }
+div.@d2020@wikim-all@coat_of_arms_of_norway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2618@wikim-all@flag_of_norway {max-width:75px; max-height:75px; }
+.@d2618@wikim-all@flag_of_norway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/norway/0.png/0.png);padding: 0; }
+div.@d2618@wikim-all@flag_of_norway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c7a509aaed766a4cf96f83883cc768d2:f037326d61fa5f20b6a38ae4b19ee9ff:4ddb42793a59c1b7bfff1539dfc4d068$ */

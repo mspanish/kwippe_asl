@@ -1,0 +1,37 @@
+{
+    "sign": "conductor",
+    "signer": "asl2english",
+    "uid": 327,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 53,
+            "nd": null
+        },
+        "end": {
+            "d": 53,
+            "nd": null
+        }
+    },
+    "regions": [
+        "forehead",
+        "temple"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

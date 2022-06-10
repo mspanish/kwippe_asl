@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1430@bat@voicemail {max-width:75px; max-height:75px; }
+.@a1430@bat@voicemail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/voicemail/0.png/0.png);padding: 0; }
+div.@a1430@bat@voicemail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28130@ico@voicemail {max-width:75px; max-height:75px; }
+.@a28130@ico@voicemail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/voicemail/0.png/0.png);padding: 0; }
+div.@a28130@ico@voicemail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35759@mat@voicemail {max-width:75px; max-height:75px; }
+.@a35759@mat@voicemail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/voicemail/0.png/0.png);padding: 0; }
+div.@a35759@mat@voicemail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36389@met@voicemail {max-width:75px; max-height:75px; }
+.@a36389@met@voicemail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/voicemail/0.png/0.png);padding: 0; }
+div.@a36389@met@voicemail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54948@wav@voicemail {max-width:75px; max-height:75px; }
+.@a54948@wav@voicemail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/voicemail/0.png/0.png);padding: 0; }
+div.@a54948@wav@voicemail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58127@xei@voicemail {max-width:75px; max-height:75px; }
+.@a58127@xei@voicemail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/voicemail/0.png/0.png);padding: 0; }
+div.@a58127@xei@voicemail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dbcff3a420e025499ae2fc38e032c85f:8b1a606accd541e45c3b7f75a19b7910:4ddb42793a59c1b7bfff1539dfc4d068$ */

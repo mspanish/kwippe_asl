@@ -1,0 +1,80 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1227@bat@expand {max-width:75px; max-height:75px; }
+.@a1227@bat@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a1227@bat@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27422@icf@expand {max-width:75px; max-height:75px; }
+.@a27422@icf@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a27422@icf@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27584@icf@horizontal-expand {max-width:75px; max-height:75px; }
+.@a27584@icf@horizontal-expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a27584@icf@horizontal-expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27842@icf@vertical-expand {max-width:75px; max-height:75px; }
+.@a27842@icf@vertical-expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a27842@icf@vertical-expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29045@jqu@expand {max-width:75px; max-height:75px; }
+.@a29045@jqu@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a29045@jqu@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30670@lin@expand {max-width:75px; max-height:75px; }
+.@a30670@lin@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a30670@lin@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30980@lin@scale-expand {max-width:75px; max-height:75px; }
+.@a30980@lin@scale-expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a30980@lin@scale-expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31423@lug@expand {max-width:75px; max-height:75px; }
+.@a31423@lug@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a31423@lug@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31425@lug@expand2 {max-width:75px; max-height:75px; }
+.@a31425@lug@expand2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a31425@lug@expand2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32005@map@expand {max-width:75px; max-height:75px; }
+.@a32005@map@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a32005@map@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53214@vaa@expand {max-width:75px; max-height:75px; }
+.@a53214@vaa@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a53214@vaa@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55100@web@horizontal-expand {max-width:75px; max-height:75px; }
+.@a55100@web@horizontal-expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a55100@web@horizontal-expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56780@win@layout-expand-right-variant {max-width:75px; max-height:75px; }
+.@a56780@win@layout-expand-right-variant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a56780@win@layout-expand-right-variant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56781@win@layout-expand-right {max-width:75px; max-height:75px; }
+.@a56781@win@layout-expand-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a56781@win@layout-expand-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57140@win@section-expand-all {max-width:75px; max-height:75px; }
+.@a57140@win@section-expand-all::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a57140@win@section-expand-all::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57141@win@section-expand {max-width:75px; max-height:75px; }
+.@a57141@win@section-expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a57141@win@section-expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57152@win@sidebar-left-expand {max-width:75px; max-height:75px; }
+.@a57152@win@sidebar-left-expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a57152@win@sidebar-left-expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57154@win@sidebar-right-expand {max-width:75px; max-height:75px; }
+.@a57154@win@sidebar-right-expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a57154@win@sidebar-right-expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57663@xei@expand {max-width:75px; max-height:75px; }
+.@a57663@xei@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a57663@xei@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58155@xei@zoom-in-magnifier-expand {max-width:75px; max-height:75px; }
+.@a58155@xei@zoom-in-magnifier-expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a58155@xei@zoom-in-magnifier-expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a748@awe@expand {max-width:75px; max-height:75px; }
+.@a748@awe@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@a748@awe@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12574@gameicons-delapouite@expand {max-width:75px; max-height:75px; }
+.@b12574@gameicons-delapouite@expand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@b12574@gameicons-delapouite@expand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8850@web@handexpand {max-width:75px; max-height:75px; }
+.@b8850@web@handexpand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/e/expand/0.png/0.png);padding: 0; }
+div.@b8850@web@handexpand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:04848d877d0dfca8d54ae77f3332ce67:637b5342ea476ec57d19a091a90b62d0:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60069@ian@dynamite_fishing_explosion {max-width:75px; max-height:75px; }
+.@a60069@ian@dynamite_fishing_explosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/explosion/0.png/0.png);padding: 0; }
+div.@a60069@ian@dynamite_fishing_explosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13850@gameicons-lorc@bright-explosion {max-width:75px; max-height:75px; }
+.@b13850@gameicons-lorc@bright-explosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/explosion/0.png/0.png);padding: 0; }
+div.@b13850@gameicons-lorc@bright-explosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13962@gameicons-lorc@corner-explosion {max-width:75px; max-height:75px; }
+.@b13962@gameicons-lorc@corner-explosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/explosion/0.png/0.png);padding: 0; }
+div.@b13962@gameicons-lorc@corner-explosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13997@gameicons-lorc@crowned-explosion {max-width:75px; max-height:75px; }
+.@b13997@gameicons-lorc@crowned-explosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/explosion/0.png/0.png);padding: 0; }
+div.@b13997@gameicons-lorc@crowned-explosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14138@gameicons-lorc@explosion-rays {max-width:75px; max-height:75px; }
+.@b14138@gameicons-lorc@explosion-rays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/explosion/0.png/0.png);padding: 0; }
+div.@b14138@gameicons-lorc@explosion-rays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14264@gameicons-lorc@goo-explosion {max-width:75px; max-height:75px; }
+.@b14264@gameicons-lorc@goo-explosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/explosion/0.png/0.png);padding: 0; }
+div.@b14264@gameicons-lorc@goo-explosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14505@gameicons-lorc@mine-explosion {max-width:75px; max-height:75px; }
+.@b14505@gameicons-lorc@mine-explosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/explosion/0.png/0.png);padding: 0; }
+div.@b14505@gameicons-lorc@mine-explosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14824@gameicons-lorc@spiky-explosion {max-width:75px; max-height:75px; }
+.@b14824@gameicons-lorc@spiky-explosion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/explosion/0.png/0.png);padding: 0; }
+div.@b14824@gameicons-lorc@spiky-explosion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6b44cb77f520f1015e14e2a11b091f27:280645bb809bc31bda4e8e6844b24101:4ddb42793a59c1b7bfff1539dfc4d068$ */

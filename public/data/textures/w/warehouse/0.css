@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a439@ara@places-warehouse-1 {max-width:75px; max-height:75px; }
+.@a439@ara@places-warehouse-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/warehouse/0.png/0.png);padding: 0; }
+div.@a439@ara@places-warehouse-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60552@ian@industrial-building-1 {max-width:75px; max-height:75px; }
+.@a60552@ian@industrial-building-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/warehouse/0.png/0.png);padding: 0; }
+div.@a60552@ian@industrial-building-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60553@ian@industrial-building-2 {max-width:75px; max-height:75px; }
+.@a60553@ian@industrial-building-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/warehouse/0.png/0.png);padding: 0; }
+div.@a60553@ian@industrial-building-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60554@ian@industrial-building-3 {max-width:75px; max-height:75px; }
+.@a60554@ian@industrial-building-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/warehouse/0.png/0.png);padding: 0; }
+div.@a60554@ian@industrial-building-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60555@ian@industrial-building-4 {max-width:75px; max-height:75px; }
+.@a60555@ian@industrial-building-4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/warehouse/0.png/0.png);padding: 0; }
+div.@a60555@ian@industrial-building-4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60556@ian@industrial-park {max-width:75px; max-height:75px; }
+.@a60556@ian@industrial-park::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/warehouse/0.png/0.png);padding: 0; }
+div.@a60556@ian@industrial-park::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61929@ian@urban-warehouse {max-width:75px; max-height:75px; }
+.@a61929@ian@urban-warehouse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/warehouse/0.png/0.png);padding: 0; }
+div.@a61929@ian@urban-warehouse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:766a6b5d689627fbd266766909191f79:201070e12055c7386b56feb33b9b6b32:4ddb42793a59c1b7bfff1539dfc4d068$ */

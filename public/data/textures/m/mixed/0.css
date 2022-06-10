@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60883@ian@mixed-phytoplankton-community-coloured {max-width:75px; max-height:75px; }
+.@a60883@ian@mixed-phytoplankton-community-coloured::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/mixed/0.png/0.png);padding: 0; }
+div.@a60883@ian@mixed-phytoplankton-community-coloured::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7b4e84de67a05d2ec9ae0eb22245b819:06350d23d7edcf7138092c90b621c60e:4ddb42793a59c1b7bfff1539dfc4d068$ */

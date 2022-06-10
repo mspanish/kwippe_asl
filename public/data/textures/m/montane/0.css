@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60940@ian@mountain-range-3d-foothills-and-stream {max-width:75px; max-height:75px; }
+.@a60940@ian@mountain-range-3d-foothills-and-stream::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montane/0.png/0.png);padding: 0; }
+div.@a60940@ian@mountain-range-3d-foothills-and-stream::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60946@ian@mountain-range-3d-stream {max-width:75px; max-height:75px; }
+.@a60946@ian@mountain-range-3d-stream::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montane/0.png/0.png);padding: 0; }
+div.@a60946@ian@mountain-range-3d-stream::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60949@ian@mountains-3d-high-gradient-stream-to-basalt-lake {max-width:75px; max-height:75px; }
+.@a60949@ian@mountains-3d-high-gradient-stream-to-basalt-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montane/0.png/0.png);padding: 0; }
+div.@a60949@ian@mountains-3d-high-gradient-stream-to-basalt-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60950@ian@mountains-3d-high-gradient-stream-to-sandstone-lake {max-width:75px; max-height:75px; }
+.@a60950@ian@mountains-3d-high-gradient-stream-to-sandstone-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montane/0.png/0.png);padding: 0; }
+div.@a60950@ian@mountains-3d-high-gradient-stream-to-sandstone-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60953@ian@mountains-3d-river-tinajas-marsh {max-width:75px; max-height:75px; }
+.@a60953@ian@mountains-3d-river-tinajas-marsh::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montane/0.png/0.png);padding: 0; }
+div.@a60953@ian@mountains-3d-river-tinajas-marsh::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61455@ian@river-3d-braided-with-mountains {max-width:75px; max-height:75px; }
+.@a61455@ian@river-3d-braided-with-mountains::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/montane/0.png/0.png);padding: 0; }
+div.@a61455@ian@river-3d-braided-with-mountains::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2ad013f80a4caadb580eb71d9716d974:a619b82639c7459bb27e46b61f406d8a:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1863@bon@food-to-avoid-2276 {max-width:75px; max-height:75px; }
+.@a1863@bon@food-to-avoid-2276::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/avoid/0.png/0.png);padding: 0; }
+div.@a1863@bon@food-to-avoid-2276::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b489825a878136eca9671d5f05b67b11:127e49028f8ba1450328e7df3dd4bbd1:4ddb42793a59c1b7bfff1539dfc4d068$ */

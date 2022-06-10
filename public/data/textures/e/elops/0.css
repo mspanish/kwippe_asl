@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60102@ian@elops-saurus {max-width:75px; max-height:75px; }
+.@a60102@ian@elops-saurus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/elops/0.png/0.png);padding: 0; }
+div.@a60102@ian@elops-saurus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6801b249cab2e2c63db96ae28f9e95c1:abb38076288786342f7502e930ea5b89:4ddb42793a59c1b7bfff1539dfc4d068$ */

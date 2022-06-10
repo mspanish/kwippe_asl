@@ -1,0 +1,37 @@
+{
+    "sign": "stomach",
+    "signer": "asl2english",
+    "uid": 1731,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 24,
+            "nd": null
+        },
+        "end": {
+            "d": 24,
+            "nd": null
+        }
+    },
+    "regions": [
+        "stomach",
+        "stomach"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

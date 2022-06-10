@@ -1,0 +1,37 @@
+{
+    "sign": "native",
+    "signer": "asl2english",
+    "uid": 1070,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 93
+        },
+        "end": {
+            "d": 18,
+            "nd": 93
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "circle",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13967@gameicons-lorc@cracked-ball-dunk {max-width:75px; max-height:75px; }
+.@b13967@gameicons-lorc@cracked-ball-dunk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cracked/0.png/0.png);padding: 0; }
+div.@b13967@gameicons-lorc@cracked-ball-dunk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13968@gameicons-lorc@cracked-disc {max-width:75px; max-height:75px; }
+.@b13968@gameicons-lorc@cracked-disc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cracked/0.png/0.png);padding: 0; }
+div.@b13968@gameicons-lorc@cracked-disc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13970@gameicons-lorc@cracked-helm {max-width:75px; max-height:75px; }
+.@b13970@gameicons-lorc@cracked-helm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cracked/0.png/0.png);padding: 0; }
+div.@b13970@gameicons-lorc@cracked-helm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13971@gameicons-lorc@cracked-mask {max-width:75px; max-height:75px; }
+.@b13971@gameicons-lorc@cracked-mask::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cracked/0.png/0.png);padding: 0; }
+div.@b13971@gameicons-lorc@cracked-mask::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13972@gameicons-lorc@cracked-saber {max-width:75px; max-height:75px; }
+.@b13972@gameicons-lorc@cracked-saber::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cracked/0.png/0.png);padding: 0; }
+div.@b13972@gameicons-lorc@cracked-saber::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d47b2e7fa6c9b58135e91eecff218884:b978579d49e5767bdc6e6db7628de1e4:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37249@mul@dog-chew {max-width:75px; max-height:75px; }
+.@a37249@mul@dog-chew::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/chew/0.png/0.png);padding: 0; }
+div.@a37249@mul@dog-chew::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b5b09502efe5eed230c8119123fba95e:fb8d6ebf8b828f9850ab17d7eeea2d93:4ddb42793a59c1b7bfff1539dfc4d068$ */

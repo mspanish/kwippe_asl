@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59371@ian@archaeological-site {max-width:75px; max-height:75px; }
+.@a59371@ian@archaeological-site::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/jewerly/0.png/0.png);padding: 0; }
+div.@a59371@ian@archaeological-site::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59388@ian@artifact-beads {max-width:75px; max-height:75px; }
+.@a59388@ian@artifact-beads::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/jewerly/0.png/0.png);padding: 0; }
+div.@a59388@ian@artifact-beads::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5e87f0634a0d829f36c89577af34dbaa:e713705f8ccab2470b0a655fa8a884ca:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15354@gameicons-skoll@open-treasure-chest {max-width:75px; max-height:75px; }
+.@b15354@gameicons-skoll@open-treasure-chest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/open_treasure_chest/0.png/0.png);padding: 0; }
+div.@b15354@gameicons-skoll@open-treasure-chest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ffe449a84d20099bcf17b80ad0ca8e89:2279243e1f015eef1519d10cb6e28350:4ddb42793a59c1b7bfff1539dfc4d068$ */

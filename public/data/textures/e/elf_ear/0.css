@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12556@gameicons-delapouite@elf-ear {max-width:75px; max-height:75px; }
+.@b12556@gameicons-delapouite@elf-ear::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/elf_ear/0.png/0.png);padding: 0; }
+div.@b12556@gameicons-delapouite@elf-ear::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c02f73b079844291e90563165fbeaf15:d7efd3325530ba5d9a0833af729fbda9:4ddb42793a59c1b7bfff1539dfc4d068$ */

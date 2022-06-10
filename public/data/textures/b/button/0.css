@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1475@bon@alarm-button-1-4000 {max-width:75px; max-height:75px; }
+.@a1475@bon@alarm-button-1-4000::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@a1475@bon@alarm-button-1-4000::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1476@bon@alarm-button-2-4001 {max-width:75px; max-height:75px; }
+.@a1476@bon@alarm-button-2-4001::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@a1476@bon@alarm-button-2-4001::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1477@bon@alarm-button-3-4002 {max-width:75px; max-height:75px; }
+.@a1477@bon@alarm-button-3-4002::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@a1477@bon@alarm-button-3-4002::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25947@gli@teleporter_button {max-width:75px; max-height:75px; }
+.@a25947@gli@teleporter_button::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@a25947@gli@teleporter_button::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36721@mul@button {max-width:75px; max-height:75px; }
+.@a36721@mul@button::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@a36721@mul@button::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61885@ian@umbonium-vestiarum {max-width:75px; max-height:75px; }
+.@a61885@ian@umbonium-vestiarum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@a61885@ian@umbonium-vestiarum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12311@gameicons-delapouite@button-finger {max-width:75px; max-height:75px; }
+.@b12311@gameicons-delapouite@button-finger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@b12311@gameicons-delapouite@button-finger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13681@gameicons-guard13007@play-button {max-width:75px; max-height:75px; }
+.@b13681@gameicons-guard13007@play-button::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@b13681@gameicons-guard13007@play-button::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15122@gameicons-lord-berandas@power-button {max-width:75px; max-height:75px; }
+.@b15122@gameicons-lord-berandas@power-button::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/button/0.png/0.png);padding: 0; }
+div.@b15122@gameicons-lord-berandas@power-button::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ad86590793a9867021a06fc079e2d73:572a77a2a14be1ebf7793f637ff11819:4ddb42793a59c1b7bfff1539dfc4d068$ */

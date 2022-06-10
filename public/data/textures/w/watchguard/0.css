@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61287@ian@prison {max-width:75px; max-height:75px; }
+.@a61287@ian@prison::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/watchguard/0.png/0.png);padding: 0; }
+div.@a61287@ian@prison::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9143fe9168c921b0d130fdf1090dec84:9b8758c45379306d86b5a553f5b71dfb:4ddb42793a59c1b7bfff1539dfc4d068$ */

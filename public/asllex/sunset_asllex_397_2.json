@@ -1,0 +1,45 @@
+{
+    "sign": "sunset",
+    "signer": "aslLex",
+    "uid": 1143,
+    "synonyms": "dusk, evening, gloaming, horizon, natural phenomenon, nightfall, sun, sundown, sunset, twilight",
+    "handshapes": {
+        "begin": {
+            "d": "c",
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Arm",
+        "morph1_specific": "ArmAway",
+        "morph1_specific_second": "ForearmUlnar",
+        "morph1_contact": null,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 2.0,
+    "frequency": 3.44,
+    "category": null
+}

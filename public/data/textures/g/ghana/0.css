@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16095@emo@gh {max-width:75px; max-height:75px; }
+.@a16095@emo@gh::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/ghana/0.png/0.png);padding: 0; }
+div.@a16095@emo@gh::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37043@mul@ghana {max-width:75px; max-height:75px; }
+.@a37043@mul@ghana::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/ghana/0.png/0.png);padding: 0; }
+div.@a37043@mul@ghana::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37520@mul@ghana {max-width:75px; max-height:75px; }
+.@a37520@mul@ghana::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/ghana/0.png/0.png);padding: 0; }
+div.@a37520@mul@ghana::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1974@wikim-all@coat_of_arms_of_ghana {max-width:75px; max-height:75px; }
+.@d1974@wikim-all@coat_of_arms_of_ghana::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/ghana/0.png/0.png);padding: 0; }
+div.@d1974@wikim-all@coat_of_arms_of_ghana::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2269@wikim-all@euroghana {max-width:75px; max-height:75px; }
+.@d2269@wikim-all@euroghana::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/ghana/0.png/0.png);padding: 0; }
+div.@d2269@wikim-all@euroghana::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2489@wikim-all@flag_of_ghana {max-width:75px; max-height:75px; }
+.@d2489@wikim-all@flag_of_ghana::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/ghana/0.png/0.png);padding: 0; }
+div.@d2489@wikim-all@flag_of_ghana::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:50fb7806df65567b59968739a98563dd:d4aafd9dba44e3f25d68408e5487650f:4ddb42793a59c1b7bfff1539dfc4d068$ */

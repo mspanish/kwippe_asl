@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59478@ian@belone-belone {max-width:75px; max-height:75px; }
+.@a59478@ian@belone-belone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pelagic/0.png/0.png);padding: 0; }
+div.@a59478@ian@belone-belone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60843@ian@menidia-menidia {max-width:75px; max-height:75px; }
+.@a60843@ian@menidia-menidia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pelagic/0.png/0.png);padding: 0; }
+div.@a60843@ian@menidia-menidia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60889@ian@mola-mola {max-width:75px; max-height:75px; }
+.@a60889@ian@mola-mola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pelagic/0.png/0.png);padding: 0; }
+div.@a60889@ian@mola-mola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61248@ian@pomatomus-saltatrix {max-width:75px; max-height:75px; }
+.@a61248@ian@pomatomus-saltatrix::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pelagic/0.png/0.png);padding: 0; }
+div.@a61248@ian@pomatomus-saltatrix::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61428@ian@rhincodon-typus {max-width:75px; max-height:75px; }
+.@a61428@ian@rhincodon-typus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pelagic/0.png/0.png);padding: 0; }
+div.@a61428@ian@rhincodon-typus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61801@ian@thunnus-albacares {max-width:75px; max-height:75px; }
+.@a61801@ian@thunnus-albacares::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pelagic/0.png/0.png);padding: 0; }
+div.@a61801@ian@thunnus-albacares::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c8b5a64dc4d318f82ee9b90dcfd1fe9d:4e0e3d37a95d6ae332604185ef0781f0:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,45 @@
+{
+    "sign": "green_beans",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "g",
+            "nd": null
+        },
+        "end": {
+            "d": "g",
+            "nd": "1"
+        }
+    },
+    "regions": {
+        "morph1_general": "Neutral",
+        "morph1_specific": "Neutral",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 1,
+        "morph2_general": "Hand",
+        "morph2_specific": "FingerRadial",
+        "morph2_specific_second": "FingerRadial",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalDifferentHandshape",
+        "morph2_movement": "BackAndForth",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 3.148,
+    "category": null
+}

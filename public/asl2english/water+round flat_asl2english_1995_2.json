@@ -1,0 +1,37 @@
+{
+    "sign": "water+round flat",
+    "signer": "asl2english",
+    "uid": 1995,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 78,
+            "nd": 38
+        },
+        "end": {
+            "d": 85,
+            "nd": 59
+        }
+    },
+    "regions": [
+        "chin",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

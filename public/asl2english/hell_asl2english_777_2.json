@@ -1,0 +1,37 @@
+{
+    "sign": "hell",
+    "signer": "asl2english",
+    "uid": 777,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 76,
+            "nd": null
+        },
+        "end": {
+            "d": 76,
+            "nd": null
+        }
+    },
+    "regions": [
+        "L-shoulder",
+        "waist"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

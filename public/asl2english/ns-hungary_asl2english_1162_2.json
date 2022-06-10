@@ -1,0 +1,35 @@
+{
+    "sign": "ns-hungary",
+    "signer": "asl2english",
+    "uid": 1162,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 5,
+            "nd": 36
+        },
+        "end": {
+            "d": 6,
+            "nd": 5
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            "0, -1, 0"
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

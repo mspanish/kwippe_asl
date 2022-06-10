@@ -1,0 +1,37 @@
+{
+    "sign": "once",
+    "signer": "asl2english",
+    "uid": 1266,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": 18
+        },
+        "end": {
+            "d": 1,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "stomach",
+        "above-right-shoulder"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            1,
+            1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

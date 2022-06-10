@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60656@ian@landfill {max-width:75px; max-height:75px; }
+.@a60656@ian@landfill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/lfill/0.png/0.png);padding: 0; }
+div.@a60656@ian@landfill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61043@ian@old-bottle {max-width:75px; max-height:75px; }
+.@a61043@ian@old-bottle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/lfill/0.png/0.png);padding: 0; }
+div.@a61043@ian@old-bottle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61044@ian@old-tires {max-width:75px; max-height:75px; }
+.@a61044@ian@old-tires::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/lfill/0.png/0.png);padding: 0; }
+div.@a61044@ian@old-tires::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61256@ian@pop-can {max-width:75px; max-height:75px; }
+.@a61256@ian@pop-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/lfill/0.png/0.png);padding: 0; }
+div.@a61256@ian@pop-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62180@ian@waste-management-landfill {max-width:75px; max-height:75px; }
+.@a62180@ian@waste-management-landfill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/lfill/0.png/0.png);padding: 0; }
+div.@a62180@ian@waste-management-landfill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:48f981f7e1952f78e2b29c984d8091f4:8d49f15cf5ac42382459e432ac410a4e:4ddb42793a59c1b7bfff1539dfc4d068$ */

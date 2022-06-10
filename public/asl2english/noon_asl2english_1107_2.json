@@ -1,0 +1,37 @@
+{
+    "sign": "noon",
+    "signer": "asl2english",
+    "uid": 1107,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 46,
+            "nd": 20
+        },
+        "end": {
+            "d": 46,
+            "nd": 20
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "above-right-shoulder"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            -1,
+            1,
+            0
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

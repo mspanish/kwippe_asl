@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61987@ian@usa-ga-fl-st-marys-river-cumberland-sound {max-width:75px; max-height:75px; }
+.@a61987@ian@usa-ga-fl-st-marys-river-cumberland-sound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cumberl/0.png/0.png);padding: 0; }
+div.@a61987@ian@usa-ga-fl-st-marys-river-cumberland-sound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fed9da391dab78d56f111e615229d7a4:60d49d317978b8ef5b6059556cb075f1:4ddb42793a59c1b7bfff1539dfc4d068$ */

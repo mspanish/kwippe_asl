@@ -1,0 +1,37 @@
+{
+    "sign": "friend",
+    "signer": "asl2english",
+    "uid": 649,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": 1
+        },
+        "end": {
+            "d": 79,
+            "nd": 79
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

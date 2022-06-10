@@ -1,0 +1,37 @@
+{
+    "sign": "play-around",
+    "signer": "asl2english",
+    "uid": 1378,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 81,
+            "nd": 81
+        },
+        "end": {
+            "d": 81,
+            "nd": 81
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            1,
+            0,
+            0
+        ]
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59943@ian@cynoscion-nebulosus {max-width:75px; max-height:75px; }
+.@a59943@ian@cynoscion-nebulosus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cynoscion/0.png/0.png);padding: 0; }
+div.@a59943@ian@cynoscion-nebulosus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59944@ian@cynoscion-regalis {max-width:75px; max-height:75px; }
+.@a59944@ian@cynoscion-regalis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cynoscion/0.png/0.png);padding: 0; }
+div.@a59944@ian@cynoscion-regalis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e885bfafa6a6e4ee52f85fe92f534343:1a6cf76035a4b958587db6a43c95559b:4ddb42793a59c1b7bfff1539dfc4d068$ */

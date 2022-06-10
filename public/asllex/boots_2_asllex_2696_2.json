@@ -1,0 +1,45 @@
+{
+    "sign": "boots_2",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "s",
+            "nd": "s"
+        },
+        "end": {
+            "d": "open_b",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Neutral",
+        "morph1_specific": "Neutral",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Arm",
+        "morph2_specific": "ForearmBack",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Straight",
+        "morph2_repeat": 0.0
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": null,
+    "frequency": 2.789,
+    "category": null
+}

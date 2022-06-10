@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16060@emo@cr {max-width:75px; max-height:75px; }
+.@a16060@emo@cr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/costa_rica/0.png/0.png);padding: 0; }
+div.@a16060@emo@cr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37029@mul@costa_rica {max-width:75px; max-height:75px; }
+.@a37029@mul@costa_rica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/costa_rica/0.png/0.png);padding: 0; }
+div.@a37029@mul@costa_rica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37501@mul@costa_rica {max-width:75px; max-height:75px; }
+.@a37501@mul@costa_rica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/costa_rica/0.png/0.png);padding: 0; }
+div.@a37501@mul@costa_rica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1961@wikim-all@coat_of_arms_of_costa_rica {max-width:75px; max-height:75px; }
+.@d1961@wikim-all@coat_of_arms_of_costa_rica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/costa_rica/0.png/0.png);padding: 0; }
+div.@d1961@wikim-all@coat_of_arms_of_costa_rica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2094@wikim-all@costa_rican_coast_guard_racing_stripe {max-width:75px; max-height:75px; }
+.@d2094@wikim-all@costa_rican_coast_guard_racing_stripe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/costa_rica/0.png/0.png);padding: 0; }
+div.@d2094@wikim-all@costa_rican_coast_guard_racing_stripe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2261@wikim-all@eurocosta_rica {max-width:75px; max-height:75px; }
+.@d2261@wikim-all@eurocosta_rica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/costa_rica/0.png/0.png);padding: 0; }
+div.@d2261@wikim-all@eurocosta_rica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2447@wikim-all@flag_of_costa_rica {max-width:75px; max-height:75px; }
+.@d2447@wikim-all@flag_of_costa_rica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/costa_rica/0.png/0.png);padding: 0; }
+div.@d2447@wikim-all@flag_of_costa_rica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bfbd19281526fa386d0612b562177bf0:db3023facfb0e2356d2ba38d92146820:4ddb42793a59c1b7bfff1539dfc4d068$ */

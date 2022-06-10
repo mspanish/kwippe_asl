@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a31968@map@baseball {max-width:75px; max-height:75px; }
+.@a31968@map@baseball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/baseball/0.png/0.png);padding: 0; }
+div.@a31968@map@baseball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36527@mul@baseball-base {max-width:75px; max-height:75px; }
+.@a36527@mul@baseball-base::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/baseball/0.png/0.png);padding: 0; }
+div.@a36527@mul@baseball-base::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36529@mul@baseball-game {max-width:75px; max-height:75px; }
+.@a36529@mul@baseball-game::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/baseball/0.png/0.png);padding: 0; }
+div.@a36529@mul@baseball-game::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36531@mul@baseball-player {max-width:75px; max-height:75px; }
+.@a36531@mul@baseball-player::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/baseball/0.png/0.png);padding: 0; }
+div.@a36531@mul@baseball-player::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48954@ssj@baseball {max-width:75px; max-height:75px; }
+.@a48954@ssj@baseball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/baseball/0.png/0.png);padding: 0; }
+div.@a48954@ssj@baseball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b871e31e4e4bc702881983b62d9d5e31:7e3c944d8aafb7fb1747c00f5e3b0242:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15237@em2@orthodox-cross {max-width:75px; max-height:75px; }
+.@a15237@em2@orthodox-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/orthodox/0.png/0.png);padding: 0; }
+div.@a15237@em2@orthodox-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16572@emo@orthodox-cross {max-width:75px; max-height:75px; }
+.@a16572@emo@orthodox-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/orthodox/0.png/0.png);padding: 0; }
+div.@a16572@emo@orthodox-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39955@noc@orthodox-cross {max-width:75px; max-height:75px; }
+.@a39955@noc@orthodox-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/orthodox/0.png/0.png);padding: 0; }
+div.@a39955@noc@orthodox-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42909@nog@orthodox-cross-symbols {max-width:75px; max-height:75px; }
+.@a42909@nog@orthodox-cross-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/orthodox/0.png/0.png);padding: 0; }
+div.@a42909@nog@orthodox-cross-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46344@osm@religious-christian-orthodox-14 {max-width:75px; max-height:75px; }
+.@a46344@osm@religious-christian-orthodox-14::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/orthodox/0.png/0.png);padding: 0; }
+div.@a46344@osm@religious-christian-orthodox-14::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b80b5e59a8dfe21f870831d9ee9b0c9d:ce52d42f112bb5d5264a61a50da50668:4ddb42793a59c1b7bfff1539dfc4d068$ */

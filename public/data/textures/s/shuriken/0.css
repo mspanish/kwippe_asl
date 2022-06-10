@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12097@gameicons-darkzaitzev@flying-shuriken {max-width:75px; max-height:75px; }
+.@b12097@gameicons-darkzaitzev@flying-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b12097@gameicons-darkzaitzev@flying-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12112@gameicons-darkzaitzev@sharp-shuriken {max-width:75px; max-height:75px; }
+.@b12112@gameicons-darkzaitzev@sharp-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b12112@gameicons-darkzaitzev@sharp-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12113@gameicons-darkzaitzev@shuriken {max-width:75px; max-height:75px; }
+.@b12113@gameicons-darkzaitzev@shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b12113@gameicons-darkzaitzev@shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12118@gameicons-darkzaitzev@three-pointed-shuriken {max-width:75px; max-height:75px; }
+.@b12118@gameicons-darkzaitzev@three-pointed-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b12118@gameicons-darkzaitzev@three-pointed-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12119@gameicons-darkzaitzev@whirlpool-shuriken {max-width:75px; max-height:75px; }
+.@b12119@gameicons-darkzaitzev@whirlpool-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b12119@gameicons-darkzaitzev@whirlpool-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14287@gameicons-lorc@halberd-shuriken {max-width:75px; max-height:75px; }
+.@b14287@gameicons-lorc@halberd-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b14287@gameicons-lorc@halberd-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14751@gameicons-lorc@shuriken-aperture {max-width:75px; max-height:75px; }
+.@b14751@gameicons-lorc@shuriken-aperture::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b14751@gameicons-lorc@shuriken-aperture::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14752@gameicons-lorc@shuriken {max-width:75px; max-height:75px; }
+.@b14752@gameicons-lorc@shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b14752@gameicons-lorc@shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15000@gameicons-lorc@trefoil-shuriken {max-width:75px; max-height:75px; }
+.@b15000@gameicons-lorc@trefoil-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shuriken/0.png/0.png);padding: 0; }
+div.@b15000@gameicons-lorc@trefoil-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b4dce186e18ba114d2501431f5daca5c:58343e401c8629f4130f20b90be064ef:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14954@gameicons-lorc@terror {max-width:75px; max-height:75px; }
+.@b14954@gameicons-lorc@terror::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/terror/0.png/0.png);padding: 0; }
+div.@b14954@gameicons-lorc@terror::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0efecad0e6b21457374d511d06b9d6e7:039caacd926f10458bd6e6962e59a225:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59367@ian@aquarium {max-width:75px; max-height:75px; }
+.@a59367@ian@aquarium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sideview/0.png/0.png);padding: 0; }
+div.@a59367@ian@aquarium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60265@ian@fish-cages {max-width:75px; max-height:75px; }
+.@a60265@ian@fish-cages::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sideview/0.png/0.png);padding: 0; }
+div.@a60265@ian@fish-cages::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60848@ian@mesocosm-cutaway {max-width:75px; max-height:75px; }
+.@a60848@ian@mesocosm-cutaway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sideview/0.png/0.png);padding: 0; }
+div.@a60848@ian@mesocosm-cutaway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60849@ian@mesocosm-cutaway2 {max-width:75px; max-height:75px; }
+.@a60849@ian@mesocosm-cutaway2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sideview/0.png/0.png);padding: 0; }
+div.@a60849@ian@mesocosm-cutaway2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60850@ian@mesocosm-cutaway3 {max-width:75px; max-height:75px; }
+.@a60850@ian@mesocosm-cutaway3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sideview/0.png/0.png);padding: 0; }
+div.@a60850@ian@mesocosm-cutaway3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60851@ian@mesocosm-cutaway4 {max-width:75px; max-height:75px; }
+.@a60851@ian@mesocosm-cutaway4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sideview/0.png/0.png);padding: 0; }
+div.@a60851@ian@mesocosm-cutaway4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e9719f548cd4a7df625dc246dbfa7529:e8783d911fd1b2c494ad2856535e840f:4ddb42793a59c1b7bfff1539dfc4d068$ */

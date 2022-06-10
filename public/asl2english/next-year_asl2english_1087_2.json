@@ -1,0 +1,37 @@
+{
+    "sign": "next-year",
+    "signer": "asl2english",
+    "uid": 1087,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": 82
+        },
+        "end": {
+            "d": 1,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "chest",
+        "chin"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

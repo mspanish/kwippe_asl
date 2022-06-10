@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59752@ian@coastline-2d-sand-dune-system-with-lagoon {max-width:75px; max-height:75px; }
+.@a59752@ian@coastline-2d-sand-dune-system-with-lagoon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/frontal/0.png/0.png);padding: 0; }
+div.@a59752@ian@coastline-2d-sand-dune-system-with-lagoon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59753@ian@coastline-2d-sand-dune-system {max-width:75px; max-height:75px; }
+.@a59753@ian@coastline-2d-sand-dune-system::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/frontal/0.png/0.png);padding: 0; }
+div.@a59753@ian@coastline-2d-sand-dune-system::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14231@gameicons-lorc@frontal-lobe {max-width:75px; max-height:75px; }
+.@b14231@gameicons-lorc@frontal-lobe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/frontal/0.png/0.png);padding: 0; }
+div.@b14231@gameicons-lorc@frontal-lobe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e917f7fc0cb4c34311ac33faace5f6c4:b33c14e5dba7a078036ab6fe18c57881:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1510@bon@bakery-goods-2255 {max-width:75px; max-height:75px; }
+.@a1510@bon@bakery-goods-2255::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/goods/0.png/0.png);padding: 0; }
+div.@a1510@bon@bakery-goods-2255::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2399@bon@storage-bakery-goods-6273- {max-width:75px; max-height:75px; }
+.@a2399@bon@storage-bakery-goods-6273-::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/goods/0.png/0.png);padding: 0; }
+div.@a2399@bon@storage-bakery-goods-6273-::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61263@ian@port-authorities {max-width:75px; max-height:75px; }
+.@a61263@ian@port-authorities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/goods/0.png/0.png);padding: 0; }
+div.@a61263@ian@port-authorities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4711eaa731e08915aa0c2fb977761c08:c601d97e505dfeb592fd99e5d5cc1a2e:4ddb42793a59c1b7bfff1539dfc4d068$ */

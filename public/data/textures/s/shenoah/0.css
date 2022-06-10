@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59249@ian@acer-pensylvanicum {max-width:75px; max-height:75px; }
+.@a59249@ian@acer-pensylvanicum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/shenoah/0.png/0.png);padding: 0; }
+div.@a59249@ian@acer-pensylvanicum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59470@ian@base-mountain-3d-rocky-outcrop-and-stream {max-width:75px; max-height:75px; }
+.@a59470@ian@base-mountain-3d-rocky-outcrop-and-stream::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/shenoah/0.png/0.png);padding: 0; }
+div.@a59470@ian@base-mountain-3d-rocky-outcrop-and-stream::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61171@ian@phlox-buckelyi-wherry {max-width:75px; max-height:75px; }
+.@a61171@ian@phlox-buckelyi-wherry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/shenoah/0.png/0.png);padding: 0; }
+div.@a61171@ian@phlox-buckelyi-wherry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61633@ian@sibbaldiopsis-tridentata {max-width:75px; max-height:75px; }
+.@a61633@ian@sibbaldiopsis-tridentata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/shenoah/0.png/0.png);padding: 0; }
+div.@a61633@ian@sibbaldiopsis-tridentata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62164@ian@volatile-organic-compounds {max-width:75px; max-height:75px; }
+.@a62164@ian@volatile-organic-compounds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/shenoah/0.png/0.png);padding: 0; }
+div.@a62164@ian@volatile-organic-compounds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:57543a2d624b3c9bc8f2fbbf872424bd:909fa44b76cdf48ff9c67b0877006e33:4ddb42793a59c1b7bfff1539dfc4d068$ */

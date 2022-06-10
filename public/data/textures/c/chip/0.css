@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36595@mul@biscuit-chocolate-chip {max-width:75px; max-height:75px; }
+.@a36595@mul@biscuit-chocolate-chip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/chip/0.png/0.png);padding: 0; }
+div.@a36595@mul@biscuit-chocolate-chip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36862@mul@chip-and-pin-device {max-width:75px; max-height:75px; }
+.@a36862@mul@chip-and-pin-device::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/chip/0.png/0.png);padding: 0; }
+div.@a36862@mul@chip-and-pin-device::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0b24aafb8abb4e9f0e0a503a586c8078:5b6e2e01c1b0b752f8956671d0b6982a:4ddb42793a59c1b7bfff1539dfc4d068$ */

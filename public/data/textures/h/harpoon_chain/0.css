@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14297@gameicons-lorc@harpoon-chain {max-width:75px; max-height:75px; }
+.@b14297@gameicons-lorc@harpoon-chain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/harpoon_chain/0.png/0.png);padding: 0; }
+div.@b14297@gameicons-lorc@harpoon-chain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d73600c1604228479dca1809fb061804:f752420b7af3d65d34132adec3f36104:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a56232@wikimedia@republican {max-width:75px; max-height:75px; }
+.@a56232@wikimedia@republican::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/republican/0.png/0.png);padding: 0; }
+div.@a56232@wikimedia@republican::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:894acd832b471dc6a5f76b8fcc1f26b8:6e2b5c6fc56aa4e6d5ae80bf3c9e3f78:4ddb42793a59c1b7bfff1539dfc4d068$ */

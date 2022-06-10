@@ -1,0 +1,37 @@
+{
+    "sign": "blinds",
+    "signer": "asl2english",
+    "uid": 167,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 51,
+            "nd": 4
+        },
+        "end": {
+            "d": 20,
+            "nd": 3
+        }
+    },
+    "regions": [
+        "chest",
+        "chin-area"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "change"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

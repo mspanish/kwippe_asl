@@ -1,0 +1,37 @@
+{
+    "sign": "crack",
+    "signer": "asl2english",
+    "uid": 358,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 18
+        },
+        "end": {
+            "d": 20,
+            "nd": 20
+        }
+    },
+    "regions": [
+        "hand",
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "plural"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

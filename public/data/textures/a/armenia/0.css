@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16015@emo@am {max-width:75px; max-height:75px; }
+.@a16015@emo@am::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/armenia/0.png/0.png);padding: 0; }
+div.@a16015@emo@am::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37005@mul@armenia {max-width:75px; max-height:75px; }
+.@a37005@mul@armenia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/armenia/0.png/0.png);padding: 0; }
+div.@a37005@mul@armenia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1606@wikim-all@arms_of_armenia {max-width:75px; max-height:75px; }
+.@d1606@wikim-all@arms_of_armenia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/armenia/0.png/0.png);padding: 0; }
+div.@d1606@wikim-all@arms_of_armenia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2246@wikim-all@euroarmenia {max-width:75px; max-height:75px; }
+.@d2246@wikim-all@euroarmenia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/armenia/0.png/0.png);padding: 0; }
+div.@d2246@wikim-all@euroarmenia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2383@wikim-all@flag_of_armenia {max-width:75px; max-height:75px; }
+.@d2383@wikim-all@flag_of_armenia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/armenia/0.png/0.png);padding: 0; }
+div.@d2383@wikim-all@flag_of_armenia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8f45b5a6c0232f9d597d4862ac49e257:452b9989b909293cc5f6d8c1c4a655e5:4ddb42793a59c1b7bfff1539dfc4d068$ */

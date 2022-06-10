@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61948@ian@usa-ca-san-francisco-bay {max-width:75px; max-height:75px; }
+.@a61948@ian@usa-ca-san-francisco-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/francisco/0.png/0.png);padding: 0; }
+div.@a61948@ian@usa-ca-san-francisco-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61949@ian@usa-ca-san-francisco-san-pablo-suisan-bays {max-width:75px; max-height:75px; }
+.@a61949@ian@usa-ca-san-francisco-san-pablo-suisan-bays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/francisco/0.png/0.png);padding: 0; }
+div.@a61949@ian@usa-ca-san-francisco-san-pablo-suisan-bays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:450f07c1330175933b2c32b40b4407f9:580687329b600ae6c961cb4555ad1424:4ddb42793a59c1b7bfff1539dfc4d068$ */

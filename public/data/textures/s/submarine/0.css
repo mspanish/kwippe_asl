@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14097@digerati@submarine {max-width:75px; max-height:75px; }
+.@a14097@digerati@submarine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/submarine/0.png/0.png);padding: 0; }
+div.@a14097@digerati@submarine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27781@icf@submarine {max-width:75px; max-height:75px; }
+.@a27781@icf@submarine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/submarine/0.png/0.png);padding: 0; }
+div.@a27781@icf@submarine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55980@web@submarine {max-width:75px; max-height:75px; }
+.@a55980@web@submarine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/submarine/0.png/0.png);padding: 0; }
+div.@a55980@web@submarine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61265@ian@portable-subbottom-profiling-system-sb216s {max-width:75px; max-height:75px; }
+.@a61265@ian@portable-subbottom-profiling-system-sb216s::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/submarine/0.png/0.png);padding: 0; }
+div.@a61265@ian@portable-subbottom-profiling-system-sb216s::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12966@gameicons-delapouite@mini-submarine {max-width:75px; max-height:75px; }
+.@b12966@gameicons-delapouite@mini-submarine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/submarine/0.png/0.png);padding: 0; }
+div.@b12966@gameicons-delapouite@mini-submarine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13431@gameicons-delapouite@submarine {max-width:75px; max-height:75px; }
+.@b13431@gameicons-delapouite@submarine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/submarine/0.png/0.png);padding: 0; }
+div.@b13431@gameicons-delapouite@submarine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8a875a886177d7e3465950bfa0130edf:9db7eb73dac194403b8729e0ff3994ac:4ddb42793a59c1b7bfff1539dfc4d068$ */

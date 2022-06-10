@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60328@ian@fraxinus-americana {max-width:75px; max-height:75px; }
+.@a60328@ian@fraxinus-americana::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/asterids/0.png/0.png);padding: 0; }
+div.@a60328@ian@fraxinus-americana::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60657@ian@lantana-camara {max-width:75px; max-height:75px; }
+.@a60657@ian@lantana-camara::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/asterids/0.png/0.png);padding: 0; }
+div.@a60657@ian@lantana-camara::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60847@ian@merremia-peltata {max-width:75px; max-height:75px; }
+.@a60847@ian@merremia-peltata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/asterids/0.png/0.png);padding: 0; }
+div.@a60847@ian@merremia-peltata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61544@ian@scaevola-coriacea {max-width:75px; max-height:75px; }
+.@a61544@ian@scaevola-coriacea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/asterids/0.png/0.png);padding: 0; }
+div.@a61544@ian@scaevola-coriacea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3a1c402a28d1e776f8f703e5e1446317:6e8359b6104bd08d911b33a6a56205a5:4ddb42793a59c1b7bfff1539dfc4d068$ */

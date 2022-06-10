@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59761@ian@coastline-2d-steep-45degree-slope {max-width:75px; max-height:75px; }
+.@a59761@ian@coastline-2d-steep-45degree-slope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/steep/0.png/0.png);padding: 0; }
+div.@a59761@ian@coastline-2d-steep-45degree-slope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59762@ian@coastline-2d-steep-shoreline {max-width:75px; max-height:75px; }
+.@a59762@ian@coastline-2d-steep-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/steep/0.png/0.png);padding: 0; }
+div.@a59762@ian@coastline-2d-steep-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60604@ian@island-steep-with-rocky-shore {max-width:75px; max-height:75px; }
+.@a60604@ian@island-steep-with-rocky-shore::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/steep/0.png/0.png);padding: 0; }
+div.@a60604@ian@island-steep-with-rocky-shore::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61487@ian@river-valley-2d-steep-shallow-slope {max-width:75px; max-height:75px; }
+.@a61487@ian@river-valley-2d-steep-shallow-slope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/steep/0.png/0.png);padding: 0; }
+div.@a61487@ian@river-valley-2d-steep-shallow-slope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61489@ian@river-valley-3d-steep-slope {max-width:75px; max-height:75px; }
+.@a61489@ian@river-valley-3d-steep-slope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/steep/0.png/0.png);padding: 0; }
+div.@a61489@ian@river-valley-3d-steep-slope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61708@ian@stream-3d-aquiclude-and-spring {max-width:75px; max-height:75px; }
+.@a61708@ian@stream-3d-aquiclude-and-spring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/steep/0.png/0.png);padding: 0; }
+div.@a61708@ian@stream-3d-aquiclude-and-spring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61714@ian@stream-3d-springs-perched-water-table {max-width:75px; max-height:75px; }
+.@a61714@ian@stream-3d-springs-perched-water-table::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/steep/0.png/0.png);padding: 0; }
+div.@a61714@ian@stream-3d-springs-perched-water-table::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:41dbfbc0b41d016ed8649323c6302a86:ace4231b9d09d1564007c10d97f23c03:4ddb42793a59c1b7bfff1539dfc4d068$ */

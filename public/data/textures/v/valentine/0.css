@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a7863@df-giftsicons@braceleft {max-width:75px; max-height:75px; }
+.@a7863@df-giftsicons@braceleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/valentine/0.png/0.png);padding: 0; }
+div.@a7863@df-giftsicons@braceleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a7868@df-giftsicons@bracketleft {max-width:75px; max-height:75px; }
+.@a7868@df-giftsicons@bracketleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/valentine/0.png/0.png);padding: 0; }
+div.@a7868@df-giftsicons@bracketleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a7878@df-giftsicons@colon {max-width:75px; max-height:75px; }
+.@a7878@df-giftsicons@colon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/valentine/0.png/0.png);padding: 0; }
+div.@a7878@df-giftsicons@colon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a7999@df-giftsicons@plus {max-width:75px; max-height:75px; }
+.@a7999@df-giftsicons@plus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/valentine/0.png/0.png);padding: 0; }
+div.@a7999@df-giftsicons@plus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:46dae2ed9c2b4645e1b3e401aebfc4d4:c28625ed90ce2852dddfd019cf14bf2e:4ddb42793a59c1b7bfff1539dfc4d068$ */

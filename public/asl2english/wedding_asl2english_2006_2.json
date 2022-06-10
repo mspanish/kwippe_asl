@@ -1,0 +1,37 @@
+{
+    "sign": "wedding",
+    "signer": "asl2english",
+    "uid": 2006,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 39,
+            "nd": 39
+        },
+        "end": {
+            "d": 51,
+            "nd": 51
+        }
+    },
+    "regions": [
+        "right",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            -1,
+            0,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

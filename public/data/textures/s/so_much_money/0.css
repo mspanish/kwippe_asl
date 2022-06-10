@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48910@solver@7-so-much-money {max-width:75px; max-height:75px; }
+.@a48910@solver@7-so-much-money::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/so_much_money/0.png/0.png);padding: 0; }
+div.@a48910@solver@7-so-much-money::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:af9709f5a7a0bdaeda22e8da187547d8:de8161ea62a7962126e2f6adbbec4462:4ddb42793a59c1b7bfff1539dfc4d068$ */

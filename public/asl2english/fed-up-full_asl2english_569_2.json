@@ -1,0 +1,37 @@
+{
+    "sign": "fed-up-full",
+    "signer": "asl2english",
+    "uid": 569,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 20,
+            "nd": null
+        },
+        "end": {
+            "d": 20,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

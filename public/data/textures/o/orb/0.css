@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12514@gameicons-delapouite@dragon-orb {max-width:75px; max-height:75px; }
+.@b12514@gameicons-delapouite@dragon-orb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b12514@gameicons-delapouite@dragon-orb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13955@gameicons-lorc@concentration-orb {max-width:75px; max-height:75px; }
+.@b13955@gameicons-lorc@concentration-orb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b13955@gameicons-lorc@concentration-orb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14067@gameicons-lorc@double-ringed-orb {max-width:75px; max-height:75px; }
+.@b14067@gameicons-lorc@double-ringed-orb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b14067@gameicons-lorc@double-ringed-orb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14142@gameicons-lorc@extraction-orb {max-width:75px; max-height:75px; }
+.@b14142@gameicons-lorc@extraction-orb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b14142@gameicons-lorc@extraction-orb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14235@gameicons-lorc@frozen-orb {max-width:75px; max-height:75px; }
+.@b14235@gameicons-lorc@frozen-orb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b14235@gameicons-lorc@frozen-orb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14562@gameicons-lorc@orb-direction {max-width:75px; max-height:75px; }
+.@b14562@gameicons-lorc@orb-direction::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b14562@gameicons-lorc@orb-direction::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14782@gameicons-lorc@smoking-orb {max-width:75px; max-height:75px; }
+.@b14782@gameicons-lorc@smoking-orb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b14782@gameicons-lorc@smoking-orb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15040@gameicons-lorc@unstable-orb {max-width:75px; max-height:75px; }
+.@b15040@gameicons-lorc@unstable-orb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b15040@gameicons-lorc@unstable-orb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15546@gameicons-willdabeast@orb-wand {max-width:75px; max-height:75px; }
+.@b15546@gameicons-willdabeast@orb-wand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/orb/0.png/0.png);padding: 0; }
+div.@b15546@gameicons-willdabeast@orb-wand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6b602afe747edf0d2f6f4d3f9cd01db8:959922464bc5c58b1c5ed945253a5cff:4ddb42793a59c1b7bfff1539dfc4d068$ */

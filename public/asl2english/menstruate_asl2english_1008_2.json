@@ -1,0 +1,37 @@
+{
+    "sign": "menstruate",
+    "signer": "asl2english",
+    "uid": 1008,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 14,
+            "nd": null
+        },
+        "end": {
+            "d": 14,
+            "nd": null
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "R-cheek"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

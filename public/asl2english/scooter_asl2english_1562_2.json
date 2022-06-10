@@ -1,0 +1,37 @@
+{
+    "sign": "scooter",
+    "signer": "asl2english",
+    "uid": 1562,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 18
+        },
+        "end": {
+            "d": 18,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "stomach",
+        "stomach"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

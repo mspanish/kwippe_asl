@@ -1,0 +1,37 @@
+{
+    "sign": "gamble",
+    "signer": "asl2english",
+    "uid": 663,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": 4
+        },
+        "end": {
+            "d": 14,
+            "nd": null
+        }
+    },
+    "regions": [
+        "right",
+        "chest-front"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            0,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

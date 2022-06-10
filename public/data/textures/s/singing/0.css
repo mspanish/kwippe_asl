@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2100@bon@music-singing-1055 {max-width:75px; max-height:75px; }
+.@a2100@bon@music-singing-1055::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/singing/0.png/0.png);padding: 0; }
+div.@a2100@bon@music-singing-1055::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48752@solver@1-singing {max-width:75px; max-height:75px; }
+.@a48752@solver@1-singing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/singing/0.png/0.png);padding: 0; }
+div.@a48752@solver@1-singing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48832@solver@3-singing-guy {max-width:75px; max-height:75px; }
+.@a48832@solver@3-singing-guy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/singing/0.png/0.png);padding: 0; }
+div.@a48832@solver@3-singing-guy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48850@solver@4-guy-singing {max-width:75px; max-height:75px; }
+.@a48850@solver@4-guy-singing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/singing/0.png/0.png);padding: 0; }
+div.@a48850@solver@4-guy-singing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61095@ian@palau-storyboard-1 {max-width:75px; max-height:75px; }
+.@a61095@ian@palau-storyboard-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/singing/0.png/0.png);padding: 0; }
+div.@a61095@ian@palau-storyboard-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:783bfd92f502bca9b302ae288823dca6:00da5d3401ce724293871572eddf5e74:4ddb42793a59c1b7bfff1539dfc4d068$ */

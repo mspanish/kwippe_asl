@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16651@emo@race-car {max-width:75px; max-height:75px; }
+.@a16651@emo@race-car::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/racecar/0.png/0.png);padding: 0; }
+div.@a16651@emo@race-car::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17362@fir@u1f3ce-racecar {max-width:75px; max-height:75px; }
+.@a17362@fir@u1f3ce-racecar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/racecar/0.png/0.png);padding: 0; }
+div.@a17362@fir@u1f3ce-racecar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29555@knl@car-racecar-1 {max-width:75px; max-height:75px; }
+.@a29555@knl@car-racecar-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/racecar/0.png/0.png);padding: 0; }
+div.@a29555@knl@car-racecar-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29556@knl@car-racecar-2 {max-width:75px; max-height:75px; }
+.@a29556@knl@car-racecar-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/racecar/0.png/0.png);padding: 0; }
+div.@a29556@knl@car-racecar-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29557@knl@car-racecar-3 {max-width:75px; max-height:75px; }
+.@a29557@knl@car-racecar-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/racecar/0.png/0.png);padding: 0; }
+div.@a29557@knl@car-racecar-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29558@knl@car-racecar-4 {max-width:75px; max-height:75px; }
+.@a29558@knl@car-racecar-4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/racecar/0.png/0.png);padding: 0; }
+div.@a29558@knl@car-racecar-4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29559@knl@car-racecar-5 {max-width:75px; max-height:75px; }
+.@a29559@knl@car-racecar-5::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/racecar/0.png/0.png);padding: 0; }
+div.@a29559@knl@car-racecar-5::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15367@gameicons-skoll@race-car {max-width:75px; max-height:75px; }
+.@b15367@gameicons-skoll@race-car::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/racecar/0.png/0.png);padding: 0; }
+div.@b15367@gameicons-skoll@race-car::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:14934e08859bb2a9da45a19d329cd076:7c20fae775ff09f322f34731f1d5fdef:4ddb42793a59c1b7bfff1539dfc4d068$ */

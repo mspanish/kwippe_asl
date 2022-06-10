@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16053@emo@ci {max-width:75px; max-height:75px; }
+.@a16053@emo@ci::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/i/ivory_coast/0.png/0.png);padding: 0; }
+div.@a16053@emo@ci::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1986@wikim-all@coat_of_arms_of_ivory_coast {max-width:75px; max-height:75px; }
+.@d1986@wikim-all@coat_of_arms_of_ivory_coast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/i/ivory_coast/0.png/0.png);padding: 0; }
+div.@d1986@wikim-all@coat_of_arms_of_ivory_coast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:db4081436a5b76ffdfc89ec9a8bf0f7a:ab66fb73b302f8503e92fcea6d508c9c:4ddb42793a59c1b7bfff1539dfc4d068$ */

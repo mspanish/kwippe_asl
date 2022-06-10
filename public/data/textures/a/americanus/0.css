@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59551@ian@bufo-americanus-adult {max-width:75px; max-height:75px; }
+.@a59551@ian@bufo-americanus-adult::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/americanus/0.png/0.png);padding: 0; }
+div.@a59551@ian@bufo-americanus-adult::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61557@ian@scirpus-americanus {max-width:75px; max-height:75px; }
+.@a61557@ian@scirpus-americanus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/americanus/0.png/0.png);padding: 0; }
+div.@a61557@ian@scirpus-americanus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:367b48b2e7a5fa7338b7245610f0e498:6601c4a071ede9d6dd9e70760e2cc48a:4ddb42793a59c1b7bfff1539dfc4d068$ */

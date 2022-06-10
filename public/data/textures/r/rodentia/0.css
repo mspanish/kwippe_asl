@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59621@ian@castor-canadensis-dam {max-width:75px; max-height:75px; }
+.@a59621@ian@castor-canadensis-dam::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rodentia/0.png/0.png);padding: 0; }
+div.@a59621@ian@castor-canadensis-dam::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59622@ian@castor-canadensis-hut {max-width:75px; max-height:75px; }
+.@a59622@ian@castor-canadensis-hut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rodentia/0.png/0.png);padding: 0; }
+div.@a59622@ian@castor-canadensis-hut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59623@ian@castor-canadensis {max-width:75px; max-height:75px; }
+.@a59623@ian@castor-canadensis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rodentia/0.png/0.png);padding: 0; }
+div.@a59623@ian@castor-canadensis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60370@ian@geomys-bursarius {max-width:75px; max-height:75px; }
+.@a60370@ian@geomys-bursarius::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rodentia/0.png/0.png);padding: 0; }
+div.@a60370@ian@geomys-bursarius::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60813@ian@marmota-flaviventris {max-width:75px; max-height:75px; }
+.@a60813@ian@marmota-flaviventris::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rodentia/0.png/0.png);padding: 0; }
+div.@a60813@ian@marmota-flaviventris::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60974@ian@myocastor-coypus {max-width:75px; max-height:75px; }
+.@a60974@ian@myocastor-coypus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rodentia/0.png/0.png);padding: 0; }
+div.@a60974@ian@myocastor-coypus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61667@ian@spermophilus-richardsonii {max-width:75px; max-height:75px; }
+.@a61667@ian@spermophilus-richardsonii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rodentia/0.png/0.png);padding: 0; }
+div.@a61667@ian@spermophilus-richardsonii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bb828346091c17b3f5493d75d34896a9:ca1a03a6138b977fa8eafb557217c39a:4ddb42793a59c1b7bfff1539dfc4d068$ */

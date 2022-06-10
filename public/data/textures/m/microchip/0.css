@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14500@gameicons-lorc@microchip {max-width:75px; max-height:75px; }
+.@b14500@gameicons-lorc@microchip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/microchip/0.png/0.png);padding: 0; }
+div.@b14500@gameicons-lorc@microchip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5a48b6b8313478737fcb0f0cf9ef4f19:1c452c7ed42155053b252228b8c8d69a:4ddb42793a59c1b7bfff1539dfc4d068$ */

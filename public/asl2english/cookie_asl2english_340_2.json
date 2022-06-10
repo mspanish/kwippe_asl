@@ -1,0 +1,37 @@
+{
+    "sign": "cookie",
+    "signer": "asl2english",
+    "uid": 340,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 5,
+            "nd": 18
+        },
+        "end": {
+            "d": 5,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "hand",
+        "hand"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

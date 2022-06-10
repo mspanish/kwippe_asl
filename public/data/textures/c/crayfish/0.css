@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59567@ian@callianassa-spp {max-width:75px; max-height:75px; }
+.@a59567@ian@callianassa-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crayfish/0.png/0.png);padding: 0; }
+div.@a59567@ian@callianassa-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59912@ian@crayfish {max-width:75px; max-height:75px; }
+.@a59912@ian@crayfish::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crayfish/0.png/0.png);padding: 0; }
+div.@a59912@ian@crayfish::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61110@ian@panulirus-argus-phyllosoma {max-width:75px; max-height:75px; }
+.@a61110@ian@panulirus-argus-phyllosoma::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crayfish/0.png/0.png);padding: 0; }
+div.@a61110@ian@panulirus-argus-phyllosoma::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61111@ian@panulirus-argus-puerulus {max-width:75px; max-height:75px; }
+.@a61111@ian@panulirus-argus-puerulus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crayfish/0.png/0.png);padding: 0; }
+div.@a61111@ian@panulirus-argus-puerulus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61112@ian@panulirus-argus-side {max-width:75px; max-height:75px; }
+.@a61112@ian@panulirus-argus-side::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crayfish/0.png/0.png);padding: 0; }
+div.@a61112@ian@panulirus-argus-side::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ae30a7633d8dc91cc15092757f3722b0:35a890b1b67665c82fcd498b0e7db359:4ddb42793a59c1b7bfff1539dfc4d068$ */

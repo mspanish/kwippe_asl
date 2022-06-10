@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39227@mul@winter {max-width:75px; max-height:75px; }
+.@a39227@mul@winter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/winter/0.png/0.png);padding: 0; }
+div.@a39227@mul@winter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60245@ian@field-winter-crop {max-width:75px; max-height:75px; }
+.@a60245@ian@field-winter-crop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/winter/0.png/0.png);padding: 0; }
+div.@a60245@ian@field-winter-crop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60365@ian@generic-tree-winter {max-width:75px; max-height:75px; }
+.@a60365@ian@generic-tree-winter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/winter/0.png/0.png);padding: 0; }
+div.@a60365@ian@generic-tree-winter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61650@ian@snowmobile-with-rider {max-width:75px; max-height:75px; }
+.@a61650@ian@snowmobile-with-rider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/winter/0.png/0.png);padding: 0; }
+div.@a61650@ian@snowmobile-with-rider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62244@ian@winter-crop {max-width:75px; max-height:75px; }
+.@a62244@ian@winter-crop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/winter/0.png/0.png);padding: 0; }
+div.@a62244@ian@winter-crop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9bb227d23da0bc7dd110550f861a9772:a8e7b0705f84290e07d15403f9253681:4ddb42793a59c1b7bfff1539dfc4d068$ */

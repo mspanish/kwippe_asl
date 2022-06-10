@@ -1,0 +1,45 @@
+{
+    "sign": "teacher",
+    "signer": "aslLex",
+    "uid": 792,
+    "synonyms": "educator, instructor, professor, teacher",
+    "handshapes": {
+        "begin": {
+            "d": "o",
+            "nd": "o"
+        },
+        "end": {
+            "d": "open_b",
+            "nd": "open_b"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "HeadAway",
+        "morph1_specific_second": "HeadAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 6.074,
+    "category": "People"
+}

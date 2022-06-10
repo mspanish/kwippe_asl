@@ -1,0 +1,45 @@
+{
+    "sign": "envelope",
+    "signer": "aslLex",
+    "uid": 2890,
+    "synonyms": "card, envelope, letter, mail",
+    "handshapes": {
+        "begin": {
+            "d": "open_b",
+            "nd": null
+        },
+        "end": {
+            "d": "l",
+            "nd": "l"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "HeadAway",
+        "morph1_specific_second": "HeadAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Circular",
+        "morph1_repeat": 1,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Other",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 1.913,
+    "category": null
+}

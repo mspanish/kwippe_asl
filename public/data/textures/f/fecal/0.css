@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60226@ian@feces-dog {max-width:75px; max-height:75px; }
+.@a60226@ian@feces-dog::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/fecal/0.png/0.png);padding: 0; }
+div.@a60226@ian@feces-dog::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60227@ian@feces-horse {max-width:75px; max-height:75px; }
+.@a60227@ian@feces-horse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/fecal/0.png/0.png);padding: 0; }
+div.@a60227@ian@feces-horse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:942db6c99a1293ec16d5758e5bdc53c4:b192eb28cf914fa957a384cc0dd7a81b:4ddb42793a59c1b7bfff1539dfc4d068$ */

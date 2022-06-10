@@ -1,0 +1,45 @@
+{
+    "sign": "light_candle",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": "B"
+        },
+        "end": {
+            "d": "stacked_5",
+            "nd": "1"
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "Palm",
+        "morph1_specific_second": "HandAway",
+        "morph1_contact": 1.0,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "FingerTip",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalDifferentHandshape",
+        "morph2_movement": "None",
+        "morph2_repeat": 1.0
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": null,
+    "frequency": 4.44,
+    "category": null
+}

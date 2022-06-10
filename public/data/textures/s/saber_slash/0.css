@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14688@gameicons-lorc@saber-slash {max-width:75px; max-height:75px; }
+.@b14688@gameicons-lorc@saber-slash::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/saber_slash/0.png/0.png);padding: 0; }
+div.@b14688@gameicons-lorc@saber-slash::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:879099b344c779ce3cc1183a7233a495:eeb63c18f30558a4ac4c76066f544f9a:4ddb42793a59c1b7bfff1539dfc4d068$ */

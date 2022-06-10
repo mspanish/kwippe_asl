@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61276@ian@potamogeton-perfoliatus {max-width:75px; max-height:75px; }
+.@a61276@ian@potamogeton-perfoliatus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/perfoliatus/0.png/0.png);padding: 0; }
+div.@a61276@ian@potamogeton-perfoliatus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fc3f1ab502ab3ecb0b722088685f3574:5815a59b04a6366d90df758599f9ee9b:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60507@ian@hospitality-casino {max-width:75px; max-height:75px; }
+.@a60507@ian@hospitality-casino::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/poker/0.png/0.png);padding: 0; }
+div.@a60507@ian@hospitality-casino::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14615@gameicons-lorc@poker-hand {max-width:75px; max-height:75px; }
+.@b14615@gameicons-lorc@poker-hand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/poker/0.png/0.png);padding: 0; }
+div.@b14615@gameicons-lorc@poker-hand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:87c55dd35a1e267b9aeecd1855bd311e:7c1da94a3d4478cbdad4fc2351f5afd4:4ddb42793a59c1b7bfff1539dfc4d068$ */

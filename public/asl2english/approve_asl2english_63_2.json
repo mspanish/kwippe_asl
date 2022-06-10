@@ -1,0 +1,37 @@
+{
+    "sign": "approve",
+    "signer": "asl2english",
+    "uid": 63,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": 18
+        },
+        "end": {
+            "d": 58,
+            "nd": 36
+        }
+    },
+    "regions": [
+        0,
+        "hand"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

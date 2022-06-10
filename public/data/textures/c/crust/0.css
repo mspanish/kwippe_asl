@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37313@mul@earth-crust {max-width:75px; max-height:75px; }
+.@a37313@mul@earth-crust::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/crust/0.png/0.png);padding: 0; }
+div.@a37313@mul@earth-crust::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60935@ian@mountain-range-3d-fault-block {max-width:75px; max-height:75px; }
+.@a60935@ian@mountain-range-3d-fault-block::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/crust/0.png/0.png);padding: 0; }
+div.@a60935@ian@mountain-range-3d-fault-block::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0255dda78b5fd7a3c14e5dd4cb13df2d:e140cfe79775982c6b6cace06c03afb3:4ddb42793a59c1b7bfff1539dfc4d068$ */

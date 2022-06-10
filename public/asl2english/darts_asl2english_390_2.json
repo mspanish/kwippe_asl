@@ -1,0 +1,37 @@
+{
+    "sign": "darts",
+    "signer": "asl2english",
+    "uid": 390,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 21,
+            "nd": 60
+        },
+        "end": {
+            "d": 80,
+            "nd": 1
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "chin-area"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "change"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

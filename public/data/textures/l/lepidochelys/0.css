@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60678@ian@lepidochelys-kempii-hatchling {max-width:75px; max-height:75px; }
+.@a60678@ian@lepidochelys-kempii-hatchling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lepidochelys/0.png/0.png);padding: 0; }
+div.@a60678@ian@lepidochelys-kempii-hatchling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60679@ian@lepidochelys-kempii {max-width:75px; max-height:75px; }
+.@a60679@ian@lepidochelys-kempii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lepidochelys/0.png/0.png);padding: 0; }
+div.@a60679@ian@lepidochelys-kempii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60680@ian@lepidochelys-olivacea-hatchling {max-width:75px; max-height:75px; }
+.@a60680@ian@lepidochelys-olivacea-hatchling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lepidochelys/0.png/0.png);padding: 0; }
+div.@a60680@ian@lepidochelys-olivacea-hatchling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60681@ian@lepidochelys-olivacea {max-width:75px; max-height:75px; }
+.@a60681@ian@lepidochelys-olivacea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lepidochelys/0.png/0.png);padding: 0; }
+div.@a60681@ian@lepidochelys-olivacea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:77a035698519210c974c0911e8b6b0e1:443ebe99f4882eb8c54aa8cbc1bc0a31:4ddb42793a59c1b7bfff1539dfc4d068$ */

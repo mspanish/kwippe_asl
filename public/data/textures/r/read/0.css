@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1299@bat@newspaper-2 {max-width:75px; max-height:75px; }
+.@a1299@bat@newspaper-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/read/0.png/0.png);padding: 0; }
+div.@a1299@bat@newspaper-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1300@bat@newspaper {max-width:75px; max-height:75px; }
+.@a1300@bat@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/read/0.png/0.png);padding: 0; }
+div.@a1300@bat@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a155@aac@read-2 {max-width:75px; max-height:75px; }
+.@a155@aac@read-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/read/0.png/0.png);padding: 0; }
+div.@a155@aac@read-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a156@aac@read {max-width:75px; max-height:75px; }
+.@a156@aac@read::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/read/0.png/0.png);padding: 0; }
+div.@a156@aac@read::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2247@bon@reading-1064 {max-width:75px; max-height:75px; }
+.@a2247@bon@reading-1064::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/read/0.png/0.png);padding: 0; }
+div.@a2247@bon@reading-1064::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47843@plateau@easy-ebook-viewer {max-width:75px; max-height:75px; }
+.@a47843@plateau@easy-ebook-viewer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/read/0.png/0.png);padding: 0; }
+div.@a47843@plateau@easy-ebook-viewer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49113@ssj@reading {max-width:75px; max-height:75px; }
+.@a49113@ssj@reading::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/read/0.png/0.png);padding: 0; }
+div.@a49113@ssj@reading::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15373@gameicons-skoll@read {max-width:75px; max-height:75px; }
+.@b15373@gameicons-skoll@read::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/read/0.png/0.png);padding: 0; }
+div.@b15373@gameicons-skoll@read::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d165130d7e886a10146d03726aede5fa:d11d77791ee183954daae21fddaa5da1:4ddb42793a59c1b7bfff1539dfc4d068$ */

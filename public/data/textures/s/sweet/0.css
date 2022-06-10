@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38917@mul@sweet {max-width:75px; max-height:75px; }
+.@a38917@mul@sweet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/sweet/0.png/0.png);padding: 0; }
+div.@a38917@mul@sweet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61754@ian@sweet-potato-plantation {max-width:75px; max-height:75px; }
+.@a61754@ian@sweet-potato-plantation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/sweet/0.png/0.png);padding: 0; }
+div.@a61754@ian@sweet-potato-plantation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61755@ian@sweet-potato-plot {max-width:75px; max-height:75px; }
+.@a61755@ian@sweet-potato-plot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/sweet/0.png/0.png);padding: 0; }
+div.@a61755@ian@sweet-potato-plot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15103@gameicons-lorc@wrapped-sweet {max-width:75px; max-height:75px; }
+.@b15103@gameicons-lorc@wrapped-sweet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/sweet/0.png/0.png);padding: 0; }
+div.@b15103@gameicons-lorc@wrapped-sweet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:435a1ed889309fbdd75dc717a10af62b:e12c9cfae10ea2b3abb4dd1e02ff8f34:4ddb42793a59c1b7bfff1539dfc4d068$ */

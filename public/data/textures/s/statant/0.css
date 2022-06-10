@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26435@her@lynx-statant {max-width:75px; max-height:75px; }
+.@a26435@her@lynx-statant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/statant/0.png/0.png);padding: 0; }
+div.@a26435@her@lynx-statant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26510@her@salamander-statant {max-width:75px; max-height:75px; }
+.@a26510@her@salamander-statant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/statant/0.png/0.png);padding: 0; }
+div.@a26510@her@salamander-statant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26572@her@tyger-statant {max-width:75px; max-height:75px; }
+.@a26572@her@tyger-statant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/statant/0.png/0.png);padding: 0; }
+div.@a26572@her@tyger-statant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fd28274dc523c9fee32210211c112601:e6df13b97342ab67fcf8b65de149c614:4ddb42793a59c1b7bfff1539dfc4d068$ */

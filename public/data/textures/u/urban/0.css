@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59354@ian@apartment-buildings {max-width:75px; max-height:75px; }
+.@a59354@ian@apartment-buildings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/urban/0.png/0.png);padding: 0; }
+div.@a59354@ian@apartment-buildings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60400@ian@green-roof {max-width:75px; max-height:75px; }
+.@a60400@ian@green-roof::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/urban/0.png/0.png);padding: 0; }
+div.@a60400@ian@green-roof::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61644@ian@small-village {max-width:75px; max-height:75px; }
+.@a61644@ian@small-village::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/urban/0.png/0.png);padding: 0; }
+div.@a61644@ian@small-village::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61899@ian@urban-cafe {max-width:75px; max-height:75px; }
+.@a61899@ian@urban-cafe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/urban/0.png/0.png);padding: 0; }
+div.@a61899@ian@urban-cafe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61926@ian@urban-sprawl {max-width:75px; max-height:75px; }
+.@a61926@ian@urban-sprawl::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/urban/0.png/0.png);padding: 0; }
+div.@a61926@ian@urban-sprawl::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61927@ian@urban-stadium {max-width:75px; max-height:75px; }
+.@a61927@ian@urban-stadium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/urban/0.png/0.png);padding: 0; }
+div.@a61927@ian@urban-stadium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2a061ee08fd7ea84aebd45f046761c74:c51d12872f10e90101187e04c7c984ba:4ddb42793a59c1b7bfff1539dfc4d068$ */

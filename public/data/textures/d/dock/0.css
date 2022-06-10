@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a45654@ope@nicubunu_rpg_map_symbols_docks {max-width:75px; max-height:75px; }
+.@a45654@ope@nicubunu_rpg_map_symbols_docks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a45654@ope@nicubunu_rpg_map_symbols_docks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59599@ian@canopy-crane {max-width:75px; max-height:75px; }
+.@a59599@ian@canopy-crane::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a59599@ian@canopy-crane::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60611@ian@jetty-2 {max-width:75px; max-height:75px; }
+.@a60611@ian@jetty-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a60611@ian@jetty-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60612@ian@jetty-3 {max-width:75px; max-height:75px; }
+.@a60612@ian@jetty-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a60612@ian@jetty-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60613@ian@jetty {max-width:75px; max-height:75px; }
+.@a60613@ian@jetty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a60613@ian@jetty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60810@ian@marina-1 {max-width:75px; max-height:75px; }
+.@a60810@ian@marina-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a60810@ian@marina-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60811@ian@marina-2 {max-width:75px; max-height:75px; }
+.@a60811@ian@marina-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a60811@ian@marina-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60914@ian@mooring {max-width:75px; max-height:75px; }
+.@a60914@ian@mooring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a60914@ian@mooring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61192@ian@piling-with-solar-powered-light {max-width:75px; max-height:75px; }
+.@a61192@ian@piling-with-solar-powered-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dock/0.png/0.png);padding: 0; }
+div.@a61192@ian@piling-with-solar-powered-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fa5bccfa1a5d2140b35138754d48c566:16aa24dd501ec90c4412c091941c5b08:4ddb42793a59c1b7bfff1539dfc4d068$ */

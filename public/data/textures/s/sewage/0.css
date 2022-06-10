@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59489@ian@biodigestor {max-width:75px; max-height:75px; }
+.@a59489@ian@biodigestor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sewage/0.png/0.png);padding: 0; }
+div.@a59489@ian@biodigestor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60580@ian@inputs-sewage {max-width:75px; max-height:75px; }
+.@a60580@ian@inputs-sewage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sewage/0.png/0.png);padding: 0; }
+div.@a60580@ian@inputs-sewage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62195@ian@water-sewage-treatment-plant-1 {max-width:75px; max-height:75px; }
+.@a62195@ian@water-sewage-treatment-plant-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sewage/0.png/0.png);padding: 0; }
+div.@a62195@ian@water-sewage-treatment-plant-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62196@ian@water-sewage-treatment-plant-2 {max-width:75px; max-height:75px; }
+.@a62196@ian@water-sewage-treatment-plant-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sewage/0.png/0.png);padding: 0; }
+div.@a62196@ian@water-sewage-treatment-plant-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62197@ian@water-sewage-treatment-plant-primary {max-width:75px; max-height:75px; }
+.@a62197@ian@water-sewage-treatment-plant-primary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sewage/0.png/0.png);padding: 0; }
+div.@a62197@ian@water-sewage-treatment-plant-primary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62198@ian@water-sewage-treatment-plant-tertiary {max-width:75px; max-height:75px; }
+.@a62198@ian@water-sewage-treatment-plant-tertiary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sewage/0.png/0.png);padding: 0; }
+div.@a62198@ian@water-sewage-treatment-plant-tertiary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:62e89d9e9d7bfdc9326c9dc2689693a1:323d373f385e65ad50bd981c4ee5bf21:4ddb42793a59c1b7bfff1539dfc4d068$ */

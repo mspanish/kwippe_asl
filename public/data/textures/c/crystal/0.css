@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12461@gameicons-delapouite@crystal-shrine {max-width:75px; max-height:75px; }
+.@b12461@gameicons-delapouite@crystal-shrine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crystal/0.png/0.png);padding: 0; }
+div.@b12461@gameicons-delapouite@crystal-shrine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14002@gameicons-lorc@crystal-bars {max-width:75px; max-height:75px; }
+.@b14002@gameicons-lorc@crystal-bars::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crystal/0.png/0.png);padding: 0; }
+div.@b14002@gameicons-lorc@crystal-bars::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14003@gameicons-lorc@crystal-cluster {max-width:75px; max-height:75px; }
+.@b14003@gameicons-lorc@crystal-cluster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crystal/0.png/0.png);padding: 0; }
+div.@b14003@gameicons-lorc@crystal-cluster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14005@gameicons-lorc@crystal-growth {max-width:75px; max-height:75px; }
+.@b14005@gameicons-lorc@crystal-growth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crystal/0.png/0.png);padding: 0; }
+div.@b14005@gameicons-lorc@crystal-growth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14006@gameicons-lorc@crystal-shine {max-width:75px; max-height:75px; }
+.@b14006@gameicons-lorc@crystal-shine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crystal/0.png/0.png);padding: 0; }
+div.@b14006@gameicons-lorc@crystal-shine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14007@gameicons-lorc@crystal-wand {max-width:75px; max-height:75px; }
+.@b14007@gameicons-lorc@crystal-wand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crystal/0.png/0.png);padding: 0; }
+div.@b14007@gameicons-lorc@crystal-wand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14200@gameicons-lorc@floating-crystal {max-width:75px; max-height:75px; }
+.@b14200@gameicons-lorc@floating-crystal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crystal/0.png/0.png);padding: 0; }
+div.@b14200@gameicons-lorc@floating-crystal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2c370dfa32aae4e9fb3d210812be006b:40788006c2bbe07056565adb2e61a23c:4ddb42793a59c1b7bfff1539dfc4d068$ */

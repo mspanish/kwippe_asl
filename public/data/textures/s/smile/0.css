@@ -1,0 +1,92 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a270@ara@chat-bubble-square-smiley {max-width:75px; max-height:75px; }
+.@a270@ara@chat-bubble-square-smiley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3225806451612903% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a270@ara@chat-bubble-square-smiley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31803@lug@smiley {max-width:75px; max-height:75px; }
+.@a31803@lug@smiley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3225806451612903% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a31803@lug@smiley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31805@lug@smiley2 {max-width:75px; max-height:75px; }
+.@a31805@lug@smiley2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3225806451612903% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a31805@lug@smiley2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40302@noc@white-smiling-face {max-width:75px; max-height:75px; }
+.@a40302@noc@white-smiling-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 12.741935483870968% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a40302@noc@white-smiling-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42787@nog@nerd-face-smileys-people {max-width:75px; max-height:75px; }
+.@a42787@nog@nerd-face-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 12.741935483870968% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a42787@nog@nerd-face-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43934@nog@white-smiling-face-smileys-people {max-width:75px; max-height:75px; }
+.@a43934@nog@white-smiling-face-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 12.741935483870968% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a43934@nog@white-smiling-face-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44708@not@smileface {max-width:75px; max-height:75px; }
+.@a44708@not@smileface::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.161290322580644% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a44708@not@smileface::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44716@not@smiling-face-with-open-mouth-and-tightly-closed-eyes {max-width:75px; max-height:75px; }
+.@a44716@not@smiling-face-with-open-mouth-and-tightly-closed-eyes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.161290322580644% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a44716@not@smiling-face-with-open-mouth-and-tightly-closed-eyes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49909@the@comments-smiley {max-width:75px; max-height:75px; }
+.@a49909@the@comments-smiley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.161290322580644% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a49909@the@comments-smiley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49938@the@face-smile {max-width:75px; max-height:75px; }
+.@a49938@the@face-smile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 37.58064516129032% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a49938@the@face-smile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53496@vaa@smiley-o {max-width:75px; max-height:75px; }
+.@a53496@vaa@smiley-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 37.58064516129032% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a53496@vaa@smiley-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54778@wav@smiley-happy {max-width:75px; max-height:75px; }
+.@a54778@wav@smiley-happy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 37.58064516129032% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a54778@wav@smiley-happy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56871@win@message-smiley {max-width:75px; max-height:75px; }
+.@a56871@win@message-smiley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a56871@win@message-smiley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57649@xei@emoticon-smiley-o {max-width:75px; max-height:75px; }
+.@a57649@xei@emoticon-smiley-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a57649@xei@emoticon-smiley-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57650@xei@emoticon-smiley-smiley-face {max-width:75px; max-height:75px; }
+.@a57650@xei@emoticon-smiley-smiley-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a57650@xei@emoticon-smiley-smiley-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58485@baianet@group {max-width:75px; max-height:75px; }
+.@a58485@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 62.41935483870968% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a58485@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58783@baianet@group {max-width:75px; max-height:75px; }
+.@a58783@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 62.41935483870968% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a58783@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58857@baianet@group {max-width:75px; max-height:75px; }
+.@a58857@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 62.41935483870968% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a58857@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58997@baianet@group {max-width:75px; max-height:75px; }
+.@a58997@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.83870967741936% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a58997@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a994@awe@smile-o {max-width:75px; max-height:75px; }
+.@a994@awe@smile-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.83870967741936% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@a994@awe@smile-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b10038@em2@white-smiling-face {max-width:75px; max-height:75px; }
+.@b10038@em2@white-smiling-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.83870967741936% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@b10038@em2@white-smiling-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4243@wikim-ladyofhats@smiley {max-width:75px; max-height:75px; }
+.@d4243@wikim-ladyofhats@smiley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 87.25806451612904% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@d4243@wikim-ladyofhats@smiley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4244@wikim-ladyofhats@aaah {max-width:75px; max-height:75px; }
+.@d4244@wikim-ladyofhats@aaah::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 87.25806451612904% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@d4244@wikim-ladyofhats@aaah::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4257@wikim-ladyofhats@doof {max-width:75px; max-height:75px; }
+.@d4257@wikim-ladyofhats@doof::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 87.25806451612904% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@d4257@wikim-ladyofhats@doof::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4276@wikim-ladyofhats@lipbite {max-width:75px; max-height:75px; }
+.@d4276@wikim-ladyofhats@lipbite::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.6774193548387% 1.2658227848101267%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@d4276@wikim-ladyofhats@lipbite::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4281@wikim-ladyofhats@naah {max-width:75px; max-height:75px; }
+.@d4281@wikim-ladyofhats@naah::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.6774193548387% 50%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@d4281@wikim-ladyofhats@naah::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4286@wikim-ladyofhats@satisfied {max-width:75px; max-height:75px; }
+.@d4286@wikim-ladyofhats@satisfied::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.6774193548387% 98.73417721518987%;background-size: 926.6666666666666% 310.6666666666667%;background-image: url(./textures/s/smile/0.png/0.png);padding: 0; }
+div.@d4286@wikim-ladyofhats@satisfied::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:794c8c14784e108e4398abf9e8e2af8a:db7d048ad75c26f578d55179231e0a47:4ddb42793a59c1b7bfff1539dfc4d068$ */

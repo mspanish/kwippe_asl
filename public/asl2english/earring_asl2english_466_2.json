@@ -1,0 +1,37 @@
+{
+    "sign": "earring",
+    "signer": "asl2english",
+    "uid": 466,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 38,
+            "nd": 79
+        },
+        "end": {
+            "d": 21,
+            "nd": 21
+        }
+    },
+    "regions": [
+        "R-ear",
+        "R-ear"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

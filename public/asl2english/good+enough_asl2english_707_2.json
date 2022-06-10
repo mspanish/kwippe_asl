@@ -1,0 +1,37 @@
+{
+    "sign": "good+enough",
+    "signer": "asl2english",
+    "uid": 707,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": null
+        },
+        "end": {
+            "d": 18,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "mouth",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48750@solver@1-shouting {max-width:75px; max-height:75px; }
+.@a48750@solver@1-shouting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/shouting/0.png/0.png);padding: 0; }
+div.@a48750@solver@1-shouting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48920@solver@cielito-shouting {max-width:75px; max-height:75px; }
+.@a48920@solver@cielito-shouting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/shouting/0.png/0.png);padding: 0; }
+div.@a48920@solver@cielito-shouting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14750@gameicons-lorc@shouting {max-width:75px; max-height:75px; }
+.@b14750@gameicons-lorc@shouting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/shouting/0.png/0.png);padding: 0; }
+div.@b14750@gameicons-lorc@shouting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c43d6f7c36015de16fc4e4ea255f9077:0b792835a95b3840abab4fa77324c827:4ddb42793a59c1b7bfff1539dfc4d068$ */

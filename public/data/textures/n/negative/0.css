@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60415@ian@habitat-2d-good-versus-bad {max-width:75px; max-height:75px; }
+.@a60415@ian@habitat-2d-good-versus-bad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/negative/0.png/0.png);padding: 0; }
+div.@a60415@ian@habitat-2d-good-versus-bad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60988@ian@negative {max-width:75px; max-height:75px; }
+.@a60988@ian@negative::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/negative/0.png/0.png);padding: 0; }
+div.@a60988@ian@negative::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61278@ian@potentially-negative {max-width:75px; max-height:75px; }
+.@a61278@ian@potentially-negative::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/negative/0.png/0.png);padding: 0; }
+div.@a61278@ian@potentially-negative::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b90a12c01c554e247f5c848a2b1ca783:f21e148d1e4bc3ef95c90d0d9e986ccf:4ddb42793a59c1b7bfff1539dfc4d068$ */

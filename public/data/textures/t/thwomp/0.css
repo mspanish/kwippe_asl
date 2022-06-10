@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13488@gameicons-delapouite@thwomp {max-width:75px; max-height:75px; }
+.@b13488@gameicons-delapouite@thwomp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/thwomp/0.png/0.png);padding: 0; }
+div.@b13488@gameicons-delapouite@thwomp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c7553dd9c0439f756b3f08855d70af3a:35c1efea2bbbe25f05a788b9883c72f0:4ddb42793a59c1b7bfff1539dfc4d068$ */

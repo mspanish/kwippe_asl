@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12254@gameicons-delapouite@boat-horizon {max-width:75px; max-height:75px; }
+.@b12254@gameicons-delapouite@boat-horizon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/boat_horizon/0.png/0.png);padding: 0; }
+div.@b12254@gameicons-delapouite@boat-horizon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2fc2b53deb2ba05d5cda128cf29f8147:b96e5f022e4a907a92a04ead26b78e31:4ddb42793a59c1b7bfff1539dfc4d068$ */

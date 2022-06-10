@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a49068@ssj@minature-golf {max-width:75px; max-height:75px; }
+.@a49068@ssj@minature-golf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/miniature_golf/0.png/0.png);padding: 0; }
+div.@a49068@ssj@minature-golf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4af3c4f1f83e92e8c17516a5319c5c58:e5afd9712ecc4fb2c03b099149b30ad4:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39827@noc@man-boy-boy {max-width:75px; max-height:75px; }
+.@a39827@noc@man-boy-boy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a39827@noc@man-boy-boy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39833@noc@man-girl-boy {max-width:75px; max-height:75px; }
+.@a39833@noc@man-girl-boy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a39833@noc@man-girl-boy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39834@noc@man-girl-girl {max-width:75px; max-height:75px; }
+.@a39834@noc@man-girl-girl::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a39834@noc@man-girl-girl::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49419@str@330-family-man-boy-boy-2 {max-width:75px; max-height:75px; }
+.@a49419@str@330-family-man-boy-boy-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a49419@str@330-family-man-boy-boy-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49421@str@334-family-man-girl-boy-2 {max-width:75px; max-height:75px; }
+.@a49421@str@334-family-man-girl-boy-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a49421@str@334-family-man-girl-boy-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49422@str@336-family-man-girl-girl-2 {max-width:75px; max-height:75px; }
+.@a49422@str@336-family-man-girl-girl-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a49422@str@336-family-man-girl-girl-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49424@str@340-family-woman-boy-boy-2 {max-width:75px; max-height:75px; }
+.@a49424@str@340-family-woman-boy-boy-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a49424@str@340-family-woman-boy-boy-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49426@str@344-family-woman-girl-boy-2 {max-width:75px; max-height:75px; }
+.@a49426@str@344-family-woman-girl-boy-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a49426@str@344-family-woman-girl-boy-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49427@str@346-family-woman-girl-girl-2 {max-width:75px; max-height:75px; }
+.@a49427@str@346-family-woman-girl-girl-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/single_parent/0.png/0.png);padding: 0; }
+div.@a49427@str@346-family-woman-girl-girl-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5bed45799cc0776df5c48cd17adb3e7b:c19ebe1b0436c364ff2b6a84635c2f4f:4ddb42793a59c1b7bfff1539dfc4d068$ */

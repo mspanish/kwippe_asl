@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a10701@df-police@1789 {max-width:75px; max-height:75px; }
+.@a10701@df-police@1789::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/criminal/0.png/0.png);padding: 0; }
+div.@a10701@df-police@1789::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10707@df-police@1926 {max-width:75px; max-height:75px; }
+.@a10707@df-police@1926::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/criminal/0.png/0.png);padding: 0; }
+div.@a10707@df-police@1926::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10724@df-police@250 {max-width:75px; max-height:75px; }
+.@a10724@df-police@250::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/criminal/0.png/0.png);padding: 0; }
+div.@a10724@df-police@250::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10757@df-police@797 {max-width:75px; max-height:75px; }
+.@a10757@df-police@797::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/criminal/0.png/0.png);padding: 0; }
+div.@a10757@df-police@797::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a13825@digerati@bad-guy_criminal {max-width:75px; max-height:75px; }
+.@a13825@digerati@bad-guy_criminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/criminal/0.png/0.png);padding: 0; }
+div.@a13825@digerati@bad-guy_criminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6f19817579d482ac9ce780363c4775bb:7097e98a2d16d7051aec5bea9c57c20c:4ddb42793a59c1b7bfff1539dfc4d068$ */

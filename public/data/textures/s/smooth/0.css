@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38786@mul@smooth {max-width:75px; max-height:75px; }
+.@a38786@mul@smooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/smooth/0.png/0.png);padding: 0; }
+div.@a38786@mul@smooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61237@ian@poa-pratensis {max-width:75px; max-height:75px; }
+.@a61237@ian@poa-pratensis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/smooth/0.png/0.png);padding: 0; }
+div.@a61237@ian@poa-pratensis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61660@ian@spartina-alterniflora-singular {max-width:75px; max-height:75px; }
+.@a61660@ian@spartina-alterniflora-singular::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/smooth/0.png/0.png);padding: 0; }
+div.@a61660@ian@spartina-alterniflora-singular::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61661@ian@spartina-alterniflora {max-width:75px; max-height:75px; }
+.@a61661@ian@spartina-alterniflora::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/smooth/0.png/0.png);padding: 0; }
+div.@a61661@ian@spartina-alterniflora::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ea6b0ddbc26827754be18c8c169e107c:ec124453e67131491a7ba9da689b2809:4ddb42793a59c1b7bfff1539dfc4d068$ */

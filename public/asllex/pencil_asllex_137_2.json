@@ -1,0 +1,45 @@
+{
+    "sign": "pencil",
+    "signer": "aslLex",
+    "uid": 2388,
+    "synonyms": "pencil",
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": null
+        },
+        "end": {
+            "d": "f",
+            "nd": "B"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Mouth",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "Palm",
+        "morph2_specific_second": "HandAway",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalDifferentHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 4.296,
+    "category": "Small Household Items"
+}

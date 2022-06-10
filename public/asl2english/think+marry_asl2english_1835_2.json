@@ -1,0 +1,37 @@
+{
+    "sign": "think+marry",
+    "signer": "asl2english",
+    "uid": 1835,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": null
+        },
+        "end": {
+            "d": 60,
+            "nd": 36
+        }
+    },
+    "regions": [
+        "temple",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

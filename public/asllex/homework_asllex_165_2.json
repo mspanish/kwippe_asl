@@ -1,0 +1,45 @@
+{
+    "sign": "homework",
+    "signer": "aslLex",
+    "uid": 2937,
+    "synonyms": "assignment, homework",
+    "handshapes": {
+        "begin": {
+            "d": "o",
+            "nd": null
+        },
+        "end": {
+            "d": "s",
+            "nd": "s"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Chin",
+        "morph1_specific_second": "CheekNose",
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "PalmBack",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 5.44,
+    "category": null
+}

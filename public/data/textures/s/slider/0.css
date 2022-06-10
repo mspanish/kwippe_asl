@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15109@em2@level-slider {max-width:75px; max-height:75px; }
+.@a15109@em2@level-slider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a15109@em2@level-slider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16430@emo@level-slider {max-width:75px; max-height:75px; }
+.@a16430@emo@level-slider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a16430@emo@level-slider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17311@fir@levelslider {max-width:75px; max-height:75px; }
+.@a17311@fir@levelslider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a17311@fir@levelslider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27420@icf@equalizer-with-slider {max-width:75px; max-height:75px; }
+.@a27420@icf@equalizer-with-slider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a27420@icf@equalizer-with-slider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28536@jqe@level-slider {max-width:75px; max-height:75px; }
+.@a28536@jqe@level-slider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a28536@jqe@level-slider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39803@noc@level-slider {max-width:75px; max-height:75px; }
+.@a39803@noc@level-slider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a39803@noc@level-slider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42433@nog@level-slider-objects {max-width:75px; max-height:75px; }
+.@a42433@nog@level-slider-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a42433@nog@level-slider-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50585@tw2@level-slider {max-width:75px; max-height:75px; }
+.@a50585@tw2@level-slider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a50585@tw2@level-slider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53494@vaa@slider {max-width:75px; max-height:75px; }
+.@a53494@vaa@slider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/slider/0.png/0.png);padding: 0; }
+div.@a53494@vaa@slider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e3f0ad5fe31591ab54f8741ee4102536:9e8946ae4ea2e8de7a96175b54ccd3a4:4ddb42793a59c1b7bfff1539dfc4d068$ */

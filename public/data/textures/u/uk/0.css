@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60691@ian@lifeguard_uk_swim_in_designated_areas {max-width:75px; max-height:75px; }
+.@a60691@ian@lifeguard_uk_swim_in_designated_areas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/u/uk/0.png/0.png);padding: 0; }
+div.@a60691@ian@lifeguard_uk_swim_in_designated_areas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:07e7f61166cbdb7d46f67f4ce8e9a896:db9d6539c01c394bc68752f61c2f15b6:4ddb42793a59c1b7bfff1539dfc4d068$ */

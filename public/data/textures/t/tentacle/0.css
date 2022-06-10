@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12862@gameicons-delapouite@kraken-tentacle {max-width:75px; max-height:75px; }
+.@b12862@gameicons-delapouite@kraken-tentacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tentacle/0.png/0.png);padding: 0; }
+div.@b12862@gameicons-delapouite@kraken-tentacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13176@gameicons-delapouite@purple-tentacle {max-width:75px; max-height:75px; }
+.@b13176@gameicons-delapouite@purple-tentacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tentacle/0.png/0.png);padding: 0; }
+div.@b13176@gameicons-delapouite@purple-tentacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14014@gameicons-lorc@curled-tentacle {max-width:75px; max-height:75px; }
+.@b14014@gameicons-lorc@curled-tentacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tentacle/0.png/0.png);padding: 0; }
+div.@b14014@gameicons-lorc@curled-tentacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14822@gameicons-lorc@spiked-tentacle {max-width:75px; max-height:75px; }
+.@b14822@gameicons-lorc@spiked-tentacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tentacle/0.png/0.png);padding: 0; }
+div.@b14822@gameicons-lorc@spiked-tentacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14836@gameicons-lorc@spiral-tentacle {max-width:75px; max-height:75px; }
+.@b14836@gameicons-lorc@spiral-tentacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tentacle/0.png/0.png);padding: 0; }
+div.@b14836@gameicons-lorc@spiral-tentacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14899@gameicons-lorc@suckered-tentacle {max-width:75px; max-height:75px; }
+.@b14899@gameicons-lorc@suckered-tentacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tentacle/0.png/0.png);padding: 0; }
+div.@b14899@gameicons-lorc@suckered-tentacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14951@gameicons-lorc@tentacle-strike {max-width:75px; max-height:75px; }
+.@b14951@gameicons-lorc@tentacle-strike::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tentacle/0.png/0.png);padding: 0; }
+div.@b14951@gameicons-lorc@tentacle-strike::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14963@gameicons-lorc@thorny-tentacle {max-width:75px; max-height:75px; }
+.@b14963@gameicons-lorc@thorny-tentacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tentacle/0.png/0.png);padding: 0; }
+div.@b14963@gameicons-lorc@thorny-tentacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4fd6dda6d4df15ff20e30044e95d2f7b:ce3740e327eb8fee0890f10091aca948:4ddb42793a59c1b7bfff1539dfc4d068$ */

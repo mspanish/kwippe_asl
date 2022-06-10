@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36986@mul@corner-cabinet-2 {max-width:75px; max-height:75px; }
+.@a36986@mul@corner-cabinet-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/corner_cabinet/0.png/0.png);padding: 0; }
+div.@a36986@mul@corner-cabinet-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36987@mul@corner-cabinet {max-width:75px; max-height:75px; }
+.@a36987@mul@corner-cabinet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/corner_cabinet/0.png/0.png);padding: 0; }
+div.@a36987@mul@corner-cabinet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c2a9d629026b102cc743605f7c417194:aa961892f90b0ac4d4a91c55d63ca9a1:4ddb42793a59c1b7bfff1539dfc4d068$ */

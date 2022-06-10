@@ -1,0 +1,37 @@
+{
+    "sign": "grow",
+    "signer": "asl2english",
+    "uid": 731,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 51,
+            "nd": null
+        },
+        "end": {
+            "d": 82,
+            "nd": 4
+        }
+    },
+    "regions": [
+        "chest",
+        "neck"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

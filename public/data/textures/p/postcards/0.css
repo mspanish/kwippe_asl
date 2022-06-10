@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60515@ian@hospitality-visitor-center {max-width:75px; max-height:75px; }
+.@a60515@ian@hospitality-visitor-center::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/postcards/0.png/0.png);padding: 0; }
+div.@a60515@ian@hospitality-visitor-center::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:93f8484f6782f408ea7919439c45b65e:44e4a3fc73d077c0b8f6fec6e1cbbdb6:4ddb42793a59c1b7bfff1539dfc4d068$ */

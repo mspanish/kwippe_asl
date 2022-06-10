@@ -1,0 +1,159 @@
+{"frames": {
+
+"faceshape_female_0.png":
+{
+	"frame": {"x":1306,"y":336,"w":225,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":0,"w":225,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_1.png":
+{
+	"frame": {"x":1306,"y":1,"w":231,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":0,"w":231,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_2.png":
+{
+	"frame": {"x":1304,"y":671,"w":239,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":0,"w":239,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_3.png":
+{
+	"frame": {"x":523,"y":671,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_4.png":
+{
+	"frame": {"x":1045,"y":671,"w":257,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":0,"w":257,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_5.png":
+{
+	"frame": {"x":784,"y":336,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_6.png":
+{
+	"frame": {"x":786,"y":1,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_7.png":
+{
+	"frame": {"x":784,"y":671,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_8.png":
+{
+	"frame": {"x":1,"y":1,"w":261,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":0,"w":261,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_9.png":
+{
+	"frame": {"x":1045,"y":336,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_10.png":
+{
+	"frame": {"x":1,"y":336,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_11.png":
+{
+	"frame": {"x":1,"y":671,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_12.png":
+{
+	"frame": {"x":262,"y":336,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_13.png":
+{
+	"frame": {"x":264,"y":1,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_14.png":
+{
+	"frame": {"x":262,"y":671,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_15.png":
+{
+	"frame": {"x":1047,"y":1,"w":257,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":0,"w":257,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_16.png":
+{
+	"frame": {"x":523,"y":336,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+},
+"faceshape_female_17.png":
+{
+	"frame": {"x":525,"y":1,"w":259,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":259,"h":333},
+	"sourceSize": {"w":333,"h":333}
+}},
+"animations": {
+	"faceshape_female": ["faceshape_female_0.png","faceshape_female_1.png","faceshape_female_2.png","faceshape_female_3.png","faceshape_female_4.png","faceshape_female_5.png","faceshape_female_6.png","faceshape_female_7.png","faceshape_female_8.png","faceshape_female_9.png","faceshape_female_10.png","faceshape_female_11.png","faceshape_female_12.png","faceshape_female_13.png","faceshape_female_14.png","faceshape_female_15.png","faceshape_female_16.png","faceshape_female_17.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "faceshape.png",
+	"format": "RGBA8888",
+	"size": {"w":1544,"h":1005},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1273eea7a46210ed09307788e45630ba:c02ab5d5a8044b183514e92512e51d96:63e329eb39760f8ed21bbbfda3c19c47$"
+}
+}

@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27812@icf@text-paste {max-width:75px; max-height:75px; }
+.@a27812@icf@text-paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a27812@icf@text-paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28056@ico@past {max-width:75px; max-height:75px; }
+.@a28056@ico@past::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a28056@ico@past::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30306@lib@paste {max-width:75px; max-height:75px; }
+.@a30306@lib@paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a30306@lib@paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31689@lug@paste {max-width:75px; max-height:75px; }
+.@a31689@lug@paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a31689@lug@paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31691@lug@paste2 {max-width:75px; max-height:75px; }
+.@a31691@lug@paste2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a31691@lug@paste2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31693@lug@paste3 {max-width:75px; max-height:75px; }
+.@a31693@lug@paste3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a31693@lug@paste3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33119@mat@content-paste {max-width:75px; max-height:75px; }
+.@a33119@mat@content-paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a33119@mat@content-paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37177@mul@cut-and-paste {max-width:75px; max-height:75px; }
+.@a37177@mul@cut-and-paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a37177@mul@cut-and-paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38370@mul@paste {max-width:75px; max-height:75px; }
+.@a38370@mul@paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a38370@mul@paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47628@pic@paste {max-width:75px; max-height:75px; }
+.@a47628@pic@paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a47628@pic@paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53413@vaa@paste {max-width:75px; max-height:75px; }
+.@a53413@vaa@paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a53413@vaa@paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54093@wav@content-paste {max-width:75px; max-height:75px; }
+.@a54093@wav@content-paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a54093@wav@content-paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54551@wav@paste {max-width:75px; max-height:75px; }
+.@a54551@wav@paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/p/paste/0.png/0.png);padding: 0; }
+div.@a54551@wav@paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c50f027f57a1a7dccdb4481d9b035220:91253d047bb4e11b0e68f7f07a2ebdd2:4ddb42793a59c1b7bfff1539dfc4d068$ */

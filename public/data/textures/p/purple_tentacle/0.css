@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13176@gameicons-delapouite@purple-tentacle {max-width:75px; max-height:75px; }
+.@b13176@gameicons-delapouite@purple-tentacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/purple_tentacle/0.png/0.png);padding: 0; }
+div.@b13176@gameicons-delapouite@purple-tentacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8872a7cac310ead6b6a6074ceecd0fa9:936d734a4760227cb3c3fe09355a9eb6:4ddb42793a59c1b7bfff1539dfc4d068$ */

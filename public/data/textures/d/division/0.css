@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16343@emo@heavy-division-sign {max-width:75px; max-height:75px; }
+.@a16343@emo@heavy-division-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/division/0.png/0.png);padding: 0; }
+div.@a16343@emo@heavy-division-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a18119@fir@u2797-heavydivisionsign {max-width:75px; max-height:75px; }
+.@a18119@fir@u2797-heavydivisionsign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/division/0.png/0.png);padding: 0; }
+div.@a18119@fir@u2797-heavydivisionsign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42026@nog@heavy-division-sign-symbols {max-width:75px; max-height:75px; }
+.@a42026@nog@heavy-division-sign-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/division/0.png/0.png);padding: 0; }
+div.@a42026@nog@heavy-division-sign-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42028@nog@heavy-division-sign_symbols_ip47q {max-width:75px; max-height:75px; }
+.@a42028@nog@heavy-division-sign_symbols_ip47q::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/division/0.png/0.png);padding: 0; }
+div.@a42028@nog@heavy-division-sign_symbols_ip47q::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44407@not@heavy-division-sign {max-width:75px; max-height:75px; }
+.@a44407@not@heavy-division-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/division/0.png/0.png);padding: 0; }
+div.@a44407@not@heavy-division-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60959@ian@mountains-with-saddle {max-width:75px; max-height:75px; }
+.@a60959@ian@mountains-with-saddle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/division/0.png/0.png);padding: 0; }
+div.@a60959@ian@mountains-with-saddle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e0be57a412d2a747c3ffa3c440e1133b:a19c287c7e22614542cacccdb7bcd8a6:4ddb42793a59c1b7bfff1539dfc4d068$ */

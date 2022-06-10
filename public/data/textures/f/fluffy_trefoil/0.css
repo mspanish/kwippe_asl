@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14207@gameicons-lorc@fluffy-trefoil {max-width:75px; max-height:75px; }
+.@b14207@gameicons-lorc@fluffy-trefoil::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/fluffy_trefoil/0.png/0.png);padding: 0; }
+div.@b14207@gameicons-lorc@fluffy-trefoil::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3ed92ad9d50bde125989b6e2963bff59:ffdd46ddd7b3dcc294655d70b487ed7e:4ddb42793a59c1b7bfff1539dfc4d068$ */

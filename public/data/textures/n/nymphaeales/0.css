@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59651@ian@ceratophyllum-demersum {max-width:75px; max-height:75px; }
+.@a59651@ian@ceratophyllum-demersum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nymphaeales/0.png/0.png);padding: 0; }
+div.@a59651@ian@ceratophyllum-demersum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61022@ian@nuphar-spp {max-width:75px; max-height:75px; }
+.@a61022@ian@nuphar-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nymphaeales/0.png/0.png);padding: 0; }
+div.@a61022@ian@nuphar-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61024@ian@nymphaea-odorata-flower {max-width:75px; max-height:75px; }
+.@a61024@ian@nymphaea-odorata-flower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nymphaeales/0.png/0.png);padding: 0; }
+div.@a61024@ian@nymphaea-odorata-flower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61025@ian@nymphaea-odorata-pad {max-width:75px; max-height:75px; }
+.@a61025@ian@nymphaea-odorata-pad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nymphaeales/0.png/0.png);padding: 0; }
+div.@a61025@ian@nymphaea-odorata-pad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62186@ian@water-lily-1 {max-width:75px; max-height:75px; }
+.@a62186@ian@water-lily-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nymphaeales/0.png/0.png);padding: 0; }
+div.@a62186@ian@water-lily-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62187@ian@water-lily-2 {max-width:75px; max-height:75px; }
+.@a62187@ian@water-lily-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nymphaeales/0.png/0.png);padding: 0; }
+div.@a62187@ian@water-lily-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f5fe7811127d50149a0e0c88eb7eba62:1533371b4305cf34f10286d9fe1d92da:4ddb42793a59c1b7bfff1539dfc4d068$ */

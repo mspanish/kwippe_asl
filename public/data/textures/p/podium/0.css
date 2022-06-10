@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a55604@web@podium {max-width:75px; max-height:75px; }
+.@a55604@web@podium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/podium/0.png/0.png);padding: 0; }
+div.@a55604@web@podium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13140@gameicons-delapouite@podium-second {max-width:75px; max-height:75px; }
+.@b13140@gameicons-delapouite@podium-second::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/podium/0.png/0.png);padding: 0; }
+div.@b13140@gameicons-delapouite@podium-second::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13141@gameicons-delapouite@podium-third {max-width:75px; max-height:75px; }
+.@b13141@gameicons-delapouite@podium-third::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/podium/0.png/0.png);padding: 0; }
+div.@b13141@gameicons-delapouite@podium-third::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13142@gameicons-delapouite@podium-winner {max-width:75px; max-height:75px; }
+.@b13142@gameicons-delapouite@podium-winner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/podium/0.png/0.png);padding: 0; }
+div.@b13142@gameicons-delapouite@podium-winner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13143@gameicons-delapouite@podium {max-width:75px; max-height:75px; }
+.@b13143@gameicons-delapouite@podium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/podium/0.png/0.png);padding: 0; }
+div.@b13143@gameicons-delapouite@podium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1ed1285c9de0c439639cab28a4b40e7f:22cf78e8e1f0df810017d7c1f0c779c8:4ddb42793a59c1b7bfff1539dfc4d068$ */

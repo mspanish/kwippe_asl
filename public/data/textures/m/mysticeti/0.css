@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59446@ian@balaena-mysticetus {max-width:75px; max-height:75px; }
+.@a59446@ian@balaena-mysticetus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mysticeti/0.png/0.png);padding: 0; }
+div.@a59446@ian@balaena-mysticetus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59447@ian@balaenoptera-borealis {max-width:75px; max-height:75px; }
+.@a59447@ian@balaenoptera-borealis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mysticeti/0.png/0.png);padding: 0; }
+div.@a59447@ian@balaenoptera-borealis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60147@ian@eschrichtius-robustus {max-width:75px; max-height:75px; }
+.@a60147@ian@eschrichtius-robustus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mysticeti/0.png/0.png);padding: 0; }
+div.@a60147@ian@eschrichtius-robustus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60833@ian@megaptera-novaeangliae-1 {max-width:75px; max-height:75px; }
+.@a60833@ian@megaptera-novaeangliae-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mysticeti/0.png/0.png);padding: 0; }
+div.@a60833@ian@megaptera-novaeangliae-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60834@ian@megaptera-novaeangliae-2 {max-width:75px; max-height:75px; }
+.@a60834@ian@megaptera-novaeangliae-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mysticeti/0.png/0.png);padding: 0; }
+div.@a60834@ian@megaptera-novaeangliae-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60835@ian@megaptera-novaeangliae-breach {max-width:75px; max-height:75px; }
+.@a60835@ian@megaptera-novaeangliae-breach::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mysticeti/0.png/0.png);padding: 0; }
+div.@a60835@ian@megaptera-novaeangliae-breach::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60836@ian@megaptera-novaeangliae-tail {max-width:75px; max-height:75px; }
+.@a60836@ian@megaptera-novaeangliae-tail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mysticeti/0.png/0.png);padding: 0; }
+div.@a60836@ian@megaptera-novaeangliae-tail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1ada19905d3ae69ecd85414d8ae3d02e:7d8d3c80e9f372540cd1a21a4dcde50f:4ddb42793a59c1b7bfff1539dfc4d068$ */

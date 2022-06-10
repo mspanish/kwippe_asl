@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14363@ele@calendar {max-width:75px; max-height:75px; }
+.@a14363@ele@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a14363@ele@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27329@icf@datetime-calendar-02 {max-width:75px; max-height:75px; }
+.@a27329@icf@datetime-calendar-02::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a27329@icf@datetime-calendar-02::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2785@bri@calendar-2 {max-width:75px; max-height:75px; }
+.@a2785@bri@calendar-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a2785@bri@calendar-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2786@bri@calendar-3 {max-width:75px; max-height:75px; }
+.@a2786@bri@calendar-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a2786@bri@calendar-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2787@bri@calendar-4 {max-width:75px; max-height:75px; }
+.@a2787@bri@calendar-4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a2787@bri@calendar-4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28984@jqu@calendar-o {max-width:75px; max-height:75px; }
+.@a28984@jqu@calendar-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a28984@jqu@calendar-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30542@lin@calendar-empty {max-width:75px; max-height:75px; }
+.@a30542@lin@calendar-empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a30542@lin@calendar-empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32699@mat@calendar-blank {max-width:75px; max-height:75px; }
+.@a32699@mat@calendar-blank::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a32699@mat@calendar-blank::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37478@mul@blank {max-width:75px; max-height:75px; }
+.@a37478@mul@blank::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a37478@mul@blank::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47059@pap@x-office-calendar-symbolic {max-width:75px; max-height:75px; }
+.@a47059@pap@x-office-calendar-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a47059@pap@x-office-calendar-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49896@the@calendar {max-width:75px; max-height:75px; }
+.@a49896@the@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a49896@the@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51856@typ@calendar-outline {max-width:75px; max-height:75px; }
+.@a51856@typ@calendar-outline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a51856@typ@calendar-outline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51858@typ@calendar {max-width:75px; max-height:75px; }
+.@a51858@typ@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a51858@typ@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53059@vaa@calendar-o {max-width:75px; max-height:75px; }
+.@a53059@vaa@calendar-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a53059@vaa@calendar-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54007@wav@calendar {max-width:75px; max-height:75px; }
+.@a54007@wav@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a54007@wav@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57505@xei@calendar {max-width:75px; max-height:75px; }
+.@a57505@xei@calendar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a57505@xei@calendar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a651@awe@calendar-o {max-width:75px; max-height:75px; }
+.@a651@awe@calendar-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/blank/0.png/0.png);padding: 0; }
+div.@a651@awe@calendar-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:99967103056831bab891c269a65ed592:1be9e221cdffd85b641680601a3e8480:4ddb42793a59c1b7bfff1539dfc4d068$ */

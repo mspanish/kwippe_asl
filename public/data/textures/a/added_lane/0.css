@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d128@mutcd@australia_262 {max-width:75px; max-height:75px; }
+.@d128@mutcd@australia_262::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/added_lane/0.png/0.png);padding: 0; }
+div.@d128@mutcd@australia_262::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1352@mutcd@united_states_265 {max-width:75px; max-height:75px; }
+.@d1352@mutcd@united_states_265::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/added_lane/0.png/0.png);padding: 0; }
+div.@d1352@mutcd@united_states_265::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d462@mutcd@canada_quebec_263 {max-width:75px; max-height:75px; }
+.@d462@mutcd@canada_quebec_263::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/added_lane/0.png/0.png);padding: 0; }
+div.@d462@mutcd@canada_quebec_263::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d989@mutcd@new_zealand_264 {max-width:75px; max-height:75px; }
+.@d989@mutcd@new_zealand_264::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/added_lane/0.png/0.png);padding: 0; }
+div.@d989@mutcd@new_zealand_264::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8425094d4520f7ee824b1bbb50b6d131:b13031de979d6ffd08db47347bf397db:4ddb42793a59c1b7bfff1539dfc4d068$ */

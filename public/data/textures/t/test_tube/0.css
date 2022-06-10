@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27800@icf@test-tube-and-molecule {max-width:75px; max-height:75px; }
+.@a27800@icf@test-tube-and-molecule::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/test_tube/0.png/0.png);padding: 0; }
+div.@a27800@icf@test-tube-and-molecule::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27801@icf@test-tube {max-width:75px; max-height:75px; }
+.@a27801@icf@test-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/test_tube/0.png/0.png);padding: 0; }
+div.@a27801@icf@test-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35481@mat@test-tube {max-width:75px; max-height:75px; }
+.@a35481@mat@test-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/test_tube/0.png/0.png);padding: 0; }
+div.@a35481@mat@test-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38980@mul@test-tube {max-width:75px; max-height:75px; }
+.@a38980@mul@test-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/test_tube/0.png/0.png);padding: 0; }
+div.@a38980@mul@test-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43712@nog@test-tube-objects {max-width:75px; max-height:75px; }
+.@a43712@nog@test-tube-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/test_tube/0.png/0.png);padding: 0; }
+div.@a43712@nog@test-tube-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53795@videoplasty@professor_holding_test_tubes_cartoon {max-width:75px; max-height:75px; }
+.@a53795@videoplasty@professor_holding_test_tubes_cartoon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/test_tube/0.png/0.png);padding: 0; }
+div.@a53795@videoplasty@professor_holding_test_tubes_cartoon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13961@gameicons-lorc@corked-tube {max-width:75px; max-height:75px; }
+.@b13961@gameicons-lorc@corked-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/test_tube/0.png/0.png);padding: 0; }
+div.@b13961@gameicons-lorc@corked-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14087@gameicons-lorc@dripping-tube {max-width:75px; max-height:75px; }
+.@b14087@gameicons-lorc@dripping-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/test_tube/0.png/0.png);padding: 0; }
+div.@b14087@gameicons-lorc@dripping-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:167e01823f55c0a6e67e5858e05ceabd:16b0a16a409fdf35d6886d1c3548ebc0:4ddb42793a59c1b7bfff1539dfc4d068$ */

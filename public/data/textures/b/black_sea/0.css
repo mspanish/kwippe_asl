@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12248@gameicons-delapouite@black-sea {max-width:75px; max-height:75px; }
+.@b12248@gameicons-delapouite@black-sea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/black_sea/0.png/0.png);padding: 0; }
+div.@b12248@gameicons-delapouite@black-sea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ae72b7f45762350e92802f416275f938:c01c275145fdec18e3ac152c671ca9a1:4ddb42793a59c1b7bfff1539dfc4d068$ */

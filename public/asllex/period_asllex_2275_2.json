@@ -1,0 +1,45 @@
+{
+    "sign": "period",
+    "signer": "aslLex",
+    "uid": 887,
+    "synonyms": "and that's final, end of discussion, period, that's all, that's it",
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": null
+        },
+        "end": {
+            "d": "baby_o",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Mouth",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 3.833,
+    "category": null
+}

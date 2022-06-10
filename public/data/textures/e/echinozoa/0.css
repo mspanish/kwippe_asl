@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60502@ian@holothurian-1 {max-width:75px; max-height:75px; }
+.@a60502@ian@holothurian-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/echinozoa/0.png/0.png);padding: 0; }
+div.@a60502@ian@holothurian-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60503@ian@holothurian-2 {max-width:75px; max-height:75px; }
+.@a60503@ian@holothurian-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/echinozoa/0.png/0.png);padding: 0; }
+div.@a60503@ian@holothurian-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e0472ea688785fdddfc8c33feafaf372:aea4a8fd2bbb63355e0d1be91f2026a2:4ddb42793a59c1b7bfff1539dfc4d068$ */

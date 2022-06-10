@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a42920@nog@overheated-face-smileys-people {max-width:75px; max-height:75px; }
+.@a42920@nog@overheated-face-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/ill/0.png/0.png);padding: 0; }
+div.@a42920@nog@overheated-face-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4289@wikim-ladyofhats@sick {max-width:75px; max-height:75px; }
+.@d4289@wikim-ladyofhats@sick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/ill/0.png/0.png);padding: 0; }
+div.@d4289@wikim-ladyofhats@sick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4291@wikim-ladyofhats@sickoff {max-width:75px; max-height:75px; }
+.@d4291@wikim-ladyofhats@sickoff::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/ill/0.png/0.png);padding: 0; }
+div.@d4291@wikim-ladyofhats@sickoff::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1799c5a945ce793a1868709010439aae:1db36a9ec15ae22a056d38140d3d7821:4ddb42793a59c1b7bfff1539dfc4d068$ */

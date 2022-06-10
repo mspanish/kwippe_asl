@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48794@solver@2-musical-squirrel {max-width:75px; max-height:75px; }
+.@a48794@solver@2-musical-squirrel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/musical_squirrel/0.png/0.png);padding: 0; }
+div.@a48794@solver@2-musical-squirrel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d67bc80e7681e683cc87b92c4e1e6e87:1f97d5fe088c9db4c616f18f62615d32:4ddb42793a59c1b7bfff1539dfc4d068$ */

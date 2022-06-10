@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14127@gameicons-lorc@eskimo {max-width:75px; max-height:75px; }
+.@b14127@gameicons-lorc@eskimo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/eskimo/0.png/0.png);padding: 0; }
+div.@b14127@gameicons-lorc@eskimo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4df6bd5eb26365c6fa77e1d9bc7533a9:f7f6be8bcbab6985ddcf68aa23cf54d5:4ddb42793a59c1b7bfff1539dfc4d068$ */

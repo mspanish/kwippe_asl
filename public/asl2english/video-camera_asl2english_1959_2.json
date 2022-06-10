@@ -1,0 +1,37 @@
+{
+    "sign": "video-camera",
+    "signer": "asl2english",
+    "uid": 1959,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 35,
+            "nd": 35
+        },
+        "end": {
+            "d": 39,
+            "nd": 39
+        }
+    },
+    "regions": [
+        "chest-front",
+        "chest-front"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

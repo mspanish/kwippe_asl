@@ -1,0 +1,37 @@
+{
+    "sign": "suspect",
+    "signer": "asl2english",
+    "uid": 1766,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": null
+        },
+        "end": {
+            "d": 79,
+            "nd": null
+        }
+    },
+    "regions": [
+        "temple",
+        "temple"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

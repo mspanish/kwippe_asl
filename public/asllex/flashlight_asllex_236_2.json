@@ -1,0 +1,45 @@
+{
+    "sign": "flashlight",
+    "signer": "aslLex",
+    "uid": 2918,
+    "synonyms": "flashlight, light, torch",
+    "handshapes": {
+        "begin": {
+            "d": "1",
+            "nd": null
+        },
+        "end": {
+            "d": "bent_l",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "UnderChin",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Curved",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 2.92,
+    "category": null
+}

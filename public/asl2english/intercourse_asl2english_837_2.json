@@ -1,0 +1,37 @@
+{
+    "sign": "intercourse",
+    "signer": "asl2english",
+    "uid": 837,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 77,
+            "nd": 77
+        },
+        "end": {
+            "d": 77,
+            "nd": 41
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

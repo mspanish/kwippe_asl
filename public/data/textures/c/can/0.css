@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a20@aac@can {max-width:75px; max-height:75px; }
+.@a20@aac@can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a20@aac@can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36747@mul@can-opener-electric {max-width:75px; max-height:75px; }
+.@a36747@mul@can-opener-electric::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a36747@mul@can-opener-electric::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36748@mul@can-opener {max-width:75px; max-height:75px; }
+.@a36748@mul@can-opener::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a36748@mul@can-opener::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39010@mul@tin-can {max-width:75px; max-height:75px; }
+.@a39010@mul@tin-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a39010@mul@tin-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39180@mul@watering-can {max-width:75px; max-height:75px; }
+.@a39180@mul@watering-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a39180@mul@watering-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40899@nog@canned-food-food-drink {max-width:75px; max-height:75px; }
+.@a40899@nog@canned-food-food-drink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a40899@nog@canned-food-food-drink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50273@tw2@can-food {max-width:75px; max-height:75px; }
+.@a50273@tw2@can-food::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a50273@tw2@can-food::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59592@ian@can-buoy-port {max-width:75px; max-height:75px; }
+.@a59592@ian@can-buoy-port::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a59592@ian@can-buoy-port::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59593@ian@can-buoy-starboard {max-width:75px; max-height:75px; }
+.@a59593@ian@can-buoy-starboard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a59593@ian@can-buoy-starboard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61256@ian@pop-can {max-width:75px; max-height:75px; }
+.@a61256@ian@pop-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@a61256@ian@pop-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13036@gameicons-delapouite@opened-food-can {max-width:75px; max-height:75px; }
+.@b13036@gameicons-delapouite@opened-food-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@b13036@gameicons-delapouite@opened-food-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13520@gameicons-delapouite@trash-can {max-width:75px; max-height:75px; }
+.@b13520@gameicons-delapouite@trash-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@b13520@gameicons-delapouite@trash-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13621@gameicons-delapouite@watering-can {max-width:75px; max-height:75px; }
+.@b13621@gameicons-delapouite@watering-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@b13621@gameicons-delapouite@watering-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13682@gameicons-guard13007@soda-can {max-width:75px; max-height:75px; }
+.@b13682@gameicons-guard13007@soda-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/can/0.png/0.png);padding: 0; }
+div.@b13682@gameicons-guard13007@soda-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0b488ea45891cdc48d09ead313142186:6a65fb399a11911add8e359d6819f758:4ddb42793a59c1b7bfff1539dfc4d068$ */

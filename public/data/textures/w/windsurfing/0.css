@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62243@ian@wind-surfing {max-width:75px; max-height:75px; }
+.@a62243@ian@wind-surfing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/windsurfing/0.png/0.png);padding: 0; }
+div.@a62243@ian@wind-surfing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d64736684b34df4666c0d20d76790dab:992c219b98cded18401b1d9b4e98c9b6:4ddb42793a59c1b7bfff1539dfc4d068$ */

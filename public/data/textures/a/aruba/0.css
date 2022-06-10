@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37006@mul@aruba {max-width:75px; max-height:75px; }
+.@a37006@mul@aruba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aruba/0.png/0.png);padding: 0; }
+div.@a37006@mul@aruba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37468@mul@aruba {max-width:75px; max-height:75px; }
+.@a37468@mul@aruba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aruba/0.png/0.png);padding: 0; }
+div.@a37468@mul@aruba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1941@wikim-all@coat_of_arms_of_aruba {max-width:75px; max-height:75px; }
+.@d1941@wikim-all@coat_of_arms_of_aruba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aruba/0.png/0.png);padding: 0; }
+div.@d1941@wikim-all@coat_of_arms_of_aruba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2385@wikim-all@flag_of_aruba {max-width:75px; max-height:75px; }
+.@d2385@wikim-all@flag_of_aruba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aruba/0.png/0.png);padding: 0; }
+div.@d2385@wikim-all@flag_of_aruba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ff7bf8febf11be3dbe03dbc33d138132:ad5e04ad572b15e39b50de107eed7739:4ddb42793a59c1b7bfff1539dfc4d068$ */

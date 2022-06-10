@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13287@gameicons-delapouite@sextant {max-width:75px; max-height:75px; }
+.@b13287@gameicons-delapouite@sextant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sextant/0.png/0.png);padding: 0; }
+div.@b13287@gameicons-delapouite@sextant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dfade99d0bdb638489a2ca5454efe856:a148a760f5b439f3e1cb9e5949dea406:4ddb42793a59c1b7bfff1539dfc4d068$ */

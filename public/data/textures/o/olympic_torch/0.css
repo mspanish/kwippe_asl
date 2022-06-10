@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38299@mul@olympic-torch-2 {max-width:75px; max-height:75px; }
+.@a38299@mul@olympic-torch-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/o/olympic_torch/0.png/0.png);padding: 0; }
+div.@a38299@mul@olympic-torch-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38300@mul@olympic-torch {max-width:75px; max-height:75px; }
+.@a38300@mul@olympic-torch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/o/olympic_torch/0.png/0.png);padding: 0; }
+div.@a38300@mul@olympic-torch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3d60060b2a1edbe248fd42e17a301ea7:a8160b94c9c873590b99e99052ba88e8:4ddb42793a59c1b7bfff1539dfc4d068$ */

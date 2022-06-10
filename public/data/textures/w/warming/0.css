@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59722@ian@climate-change-above-average-temperatures {max-width:75px; max-height:75px; }
+.@a59722@ian@climate-change-above-average-temperatures::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/warming/0.png/0.png);padding: 0; }
+div.@a59722@ian@climate-change-above-average-temperatures::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59725@ian@climate-change-ghost-forest {max-width:75px; max-height:75px; }
+.@a59725@ian@climate-change-ghost-forest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/warming/0.png/0.png);padding: 0; }
+div.@a59725@ian@climate-change-ghost-forest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59727@ian@climate-change-sea-level-rise {max-width:75px; max-height:75px; }
+.@a59727@ian@climate-change-sea-level-rise::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/warming/0.png/0.png);padding: 0; }
+div.@a59727@ian@climate-change-sea-level-rise::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:83b306cb84a67b55b57cc37b1d9a28fc:3b01d2c2e855e38732e8a3599ef9f3ea:4ddb42793a59c1b7bfff1539dfc4d068$ */

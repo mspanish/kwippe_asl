@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12125@gameicons-delapouite@achilles-heel {max-width:75px; max-height:75px; }
+.@b12125@gameicons-delapouite@achilles-heel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/achilles_heel/0.png/0.png);padding: 0; }
+div.@b12125@gameicons-delapouite@achilles-heel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:500d8944f49be3d7a91604301c4667ab:a37b2e1ad2478ec967be64120c3ce543:4ddb42793a59c1b7bfff1539dfc4d068$ */

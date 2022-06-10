@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36945@mul@comb-animal-to {max-width:75px; max-height:75px; }
+.@a36945@mul@comb-animal-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/comb_animal_to/0.png/0.png);padding: 0; }
+div.@a36945@mul@comb-animal-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f4894ce821debbab424880fcac6bfd77:126d125233d8388ed76576c748c45dd4:4ddb42793a59c1b7bfff1539dfc4d068$ */

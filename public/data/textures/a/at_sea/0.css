@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13739@gameicons-lorc@at-sea {max-width:75px; max-height:75px; }
+.@b13739@gameicons-lorc@at-sea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/at_sea/0.png/0.png);padding: 0; }
+div.@b13739@gameicons-lorc@at-sea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:72929b9fc1e2e27f16d5c089854374be:c8383c6ab2871a4edf7acb7eb795bc28:4ddb42793a59c1b7bfff1539dfc4d068$ */

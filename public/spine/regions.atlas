@@ -1,0 +1,272 @@
+
+regions.png
+size: 1274, 532
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+above-left-shoulder
+  rotate: true
+  xy: 2, 3
+  size: 100, 411
+  orig: 100, 411
+  offset: 0, 0
+  index: -1
+above-right-shoulder
+  rotate: false
+  xy: 390, 119
+  size: 109, 411
+  orig: 109, 411
+  offset: 0, 0
+  index: -1
+arm
+  rotate: true
+  xy: 960, 420
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+arm_flip
+  rotate: false
+  xy: 1122, 370
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 631, 296
+  size: 234, 172
+  orig: 234, 172
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 1104, 173
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+elbow
+  rotate: false
+  xy: 1187, 110
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+elbow_flip
+  rotate: false
+  xy: 1187, 110
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+forehead
+  rotate: false
+  xy: 849, 98
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 966, 149
+  size: 136, 129
+  orig: 136, 129
+  offset: 0, 0
+  index: -1
+hand_flip
+  rotate: true
+  xy: 966, 11
+  size: 136, 129
+  orig: 136, 129
+  offset: 0, 0
+  index: -1
+high-left
+  rotate: false
+  xy: 2, 105
+  size: 200, 425
+  orig: 200, 425
+  offset: 0, 0
+  index: -1
+high-right
+  rotate: false
+  xy: 204, 105
+  size: 184, 425
+  orig: 184, 425
+  offset: 0, 0
+  index: -1
+l-cheek
+  rotate: false
+  xy: 631, 250
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+r-cheek
+  rotate: false
+  xy: 631, 250
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+l-ear
+  rotate: false
+  xy: 933, 179
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+r-ear
+  rotate: false
+  xy: 933, 179
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+l-eye
+  rotate: true
+  xy: 933, 139
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+r-eye
+  rotate: true
+  xy: 933, 139
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+l-shoulder
+  rotate: false
+  xy: 672, 7
+  size: 145, 85
+  orig: 145, 85
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 672, 94
+  size: 175, 200
+  orig: 175, 200
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 672, 94
+  size: 175, 200
+  orig: 175, 200
+  offset: 0, 0
+  index: -1
+low-left
+  rotate: true
+  xy: 805, 355
+  size: 175, 153
+  orig: 175, 153
+  offset: 0, 0
+  index: -1
+low-right
+  rotate: true
+  xy: 805, 355
+  size: 175, 153
+  orig: 175, 153
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1187, 5
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 415, 4
+  size: 113, 50
+  orig: 113, 50
+  offset: 0, 0
+  index: -1
+nose-front
+  rotate: true
+  xy: 1234, 428
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+r-shoulder
+  rotate: false
+  xy: 819, 7
+  size: 145, 85
+  orig: 145, 85
+  offset: 0, 0
+  index: -1
+stomach
+  rotate: true
+  xy: 501, 2
+  size: 238, 169
+  orig: 238, 169
+  offset: 0, 0
+  index: -1
+temple
+  rotate: false
+  xy: 805, 297
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+temple_flip
+  rotate: false
+  xy: 1234, 474
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: true
+  xy: 960, 280
+  size: 138, 159
+  orig: 138, 159
+  offset: 0, 0
+  index: -1
+thigh_flip
+  rotate: false
+  xy: 1121, 209
+  size: 138, 159
+  orig: 138, 159
+  offset: 0, 0
+  index: -1
+upper-arm
+  rotate: false
+  xy: 1097, 19
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+upper-arm_flip
+  rotate: false
+  xy: 849, 225
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 501, 242
+  size: 288, 128
+  orig: 288, 128
+  offset: 0, 0
+  index: -1
+wrist
+  rotate: true
+  xy: 1187, 35
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+wrist_flip
+  rotate: true
+  xy: 849, 150
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,45 @@
+{
+    "sign": "pharmacist",
+    "signer": "aslLex",
+    "uid": 3267,
+    "synonyms": "doctor, medicine, pharmacist",
+    "handshapes": {
+        "begin": {
+            "d": "open_8",
+            "nd": "B"
+        },
+        "end": {
+            "d": "a",
+            "nd": "a"
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "Palm",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 1,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 3,
+    "complexity": 3.0,
+    "frequency": 2.061,
+    "category": null
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "know",
+    "signer": "asl2english",
+    "uid": 884,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 24,
+            "nd": 24
+        },
+        "end": {
+            "d": 23,
+            "nd": 23
+        }
+    },
+    "regions": [
+        "temple",
+        "temple"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

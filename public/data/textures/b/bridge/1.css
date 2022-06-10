@@ -1,0 +1,113 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59539@ian@bridge-arched {max-width:75px; max-height:75px; }
+.@a59539@ian@bridge-arched::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@a59539@ian@bridge-arched::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59540@ian@bridge-sydney-harbour {max-width:75px; max-height:75px; }
+.@a59540@ian@bridge-sydney-harbour::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@a59540@ian@bridge-sydney-harbour::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59541@ian@bridge {max-width:75px; max-height:75px; }
+.@a59541@ian@bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@a59541@ian@bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62003@ian@usa-la-manchac-swamp-bridge {max-width:75px; max-height:75px; }
+.@a62003@ian@usa-la-manchac-swamp-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@a62003@ian@usa-la-manchac-swamp-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12246@gameicons-delapouite@black-bridge {max-width:75px; max-height:75px; }
+.@b12246@gameicons-delapouite@black-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@b12246@gameicons-delapouite@black-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12314@gameicons-delapouite@cable-stayed-bridge {max-width:75px; max-height:75px; }
+.@b12314@gameicons-delapouite@cable-stayed-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@b12314@gameicons-delapouite@cable-stayed-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13202@gameicons-delapouite@rialto-bridge {max-width:75px; max-height:75px; }
+.@b13202@gameicons-delapouite@rialto-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@b13202@gameicons-delapouite@rialto-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13227@gameicons-delapouite@rope-bridge {max-width:75px; max-height:75px; }
+.@b13227@gameicons-delapouite@rope-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@b13227@gameicons-delapouite@rope-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13416@gameicons-delapouite@stone-bridge {max-width:75px; max-height:75px; }
+.@b13416@gameicons-delapouite@stone-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@b13416@gameicons-delapouite@stone-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13442@gameicons-delapouite@suspension-bridge {max-width:75px; max-height:75px; }
+.@b13442@gameicons-delapouite@suspension-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@b13442@gameicons-delapouite@suspension-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13461@gameicons-delapouite@tall-bridge {max-width:75px; max-height:75px; }
+.@b13461@gameicons-delapouite@tall-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@b13461@gameicons-delapouite@tall-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13849@gameicons-lorc@bridge {max-width:75px; max-height:75px; }
+.@b13849@gameicons-lorc@bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@b13849@gameicons-lorc@bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3560@wikim-all@pont_uuuc3uuua0_3_arches {max-width:75px; max-height:75px; }
+.@d3560@wikim-all@pont_uuuc3uuua0_3_arches::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3560@wikim-all@pont_uuuc3uuua0_3_arches::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3561@wikim-all@pont_uuuc3uuua0_buuuc3uuua9quilles_verticale {max-width:75px; max-height:75px; }
+.@d3561@wikim-all@pont_uuuc3uuua0_buuuc3uuua9quilles_verticale::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3561@wikim-all@pont_uuuc3uuua0_buuuc3uuua9quilles_verticale::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3563@wikim-all@portique_double {max-width:75px; max-height:75px; }
+.@d3563@wikim-all@portique_double::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3563@wikim-all@portique_double::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3564@wikim-all@poutres-caissons-buuuc3uuua9ton-pruuuc3uuua9contraint {max-width:75px; max-height:75px; }
+.@d3564@wikim-all@poutres-caissons-buuuc3uuua9ton-pruuuc3uuua9contraint::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3564@wikim-all@poutres-caissons-buuuc3uuua9ton-pruuuc3uuua9contraint::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3573@wikim-all@puente_de_tres_ojos {max-width:75px; max-height:75px; }
+.@d3573@wikim-all@puente_de_tres_ojos::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3573@wikim-all@puente_de_tres_ojos::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3575@wikim-all@puente_y_torre-mueble_heraldico {max-width:75px; max-height:75px; }
+.@d3575@wikim-all@puente_y_torre-mueble_heraldico::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3575@wikim-all@puente_y_torre-mueble_heraldico::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3576@wikim-all@pylone-1-nappe {max-width:75px; max-height:75px; }
+.@d3576@wikim-all@pylone-1-nappe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3576@wikim-all@pylone-1-nappe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3577@wikim-all@pylones-uuuc3uuua0-2-nappes {max-width:75px; max-height:75px; }
+.@d3577@wikim-all@pylones-uuuc3uuua0-2-nappes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3577@wikim-all@pylones-uuuc3uuua0-2-nappes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3650@wikim-all@schuuuc3uuua9ma-pont-caisson2 {max-width:75px; max-height:75px; }
+.@d3650@wikim-all@schuuuc3uuua9ma-pont-caisson2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3650@wikim-all@schuuuc3uuua9ma-pont-caisson2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3651@wikim-all@schuuuc3uuua9ma-pont-dalle-buuuc3uuua9tonarmuuuc3uuua93 {max-width:75px; max-height:75px; }
+.@d3651@wikim-all@schuuuc3uuua9ma-pont-dalle-buuuc3uuua9tonarmuuuc3uuua93::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3651@wikim-all@schuuuc3uuua9ma-pont-dalle-buuuc3uuua9tonarmuuuc3uuua93::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3652@wikim-all@schuuuc3uuua9ma-pont-dalle-pruuuc3uuua9contraint {max-width:75px; max-height:75px; }
+.@d3652@wikim-all@schuuuc3uuua9ma-pont-dalle-pruuuc3uuua9contraint::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3652@wikim-all@schuuuc3uuua9ma-pont-dalle-pruuuc3uuua9contraint::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3653@wikim-all@schuuuc3uuua9ma-pont-nervures-pruuuc3uuua9contraint {max-width:75px; max-height:75px; }
+.@d3653@wikim-all@schuuuc3uuua9ma-pont-nervures-pruuuc3uuua9contraint::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3653@wikim-all@schuuuc3uuua9ma-pont-nervures-pruuuc3uuua9contraint::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3654@wikim-all@schuuuc3uuua9ma-pont-poutres-sous-chaussuuuc3uuua9e {max-width:75px; max-height:75px; }
+.@d3654@wikim-all@schuuuc3uuua9ma-pont-poutres-sous-chaussuuuc3uuua9e::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3654@wikim-all@schuuuc3uuua9ma-pont-poutres-sous-chaussuuuc3uuua9e::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3655@wikim-all@schuuuc3uuua9ma-pont-prad {max-width:75px; max-height:75px; }
+.@d3655@wikim-all@schuuuc3uuua9ma-pont-prad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3655@wikim-all@schuuuc3uuua9ma-pont-prad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3656@wikim-all@schuuuc3uuua9ma-pont-vipp {max-width:75px; max-height:75px; }
+.@d3656@wikim-all@schuuuc3uuua9ma-pont-vipp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3656@wikim-all@schuuuc3uuua9ma-pont-vipp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3657@wikim-all@schruuuc3uuua4gseilbruuuc3uuubccke_harfenform_schema {max-width:75px; max-height:75px; }
+.@d3657@wikim-all@schruuuc3uuua4gseilbruuuc3uuubccke_harfenform_schema::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3657@wikim-all@schruuuc3uuua4gseilbruuuc3uuubccke_harfenform_schema::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3825@wikim-all@structure_de_pont_bow-string_uuuc3uuua0_arc_central-vierge {max-width:75px; max-height:75px; }
+.@d3825@wikim-all@structure_de_pont_bow-string_uuuc3uuua0_arc_central-vierge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3825@wikim-all@structure_de_pont_bow-string_uuuc3uuua0_arc_central-vierge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3826@wikim-all@structure_de_pont_bow-string_uuuc3uuua0_arc_central-vierge_buuuc3uuua9ton_armuuuc3uuua9 {max-width:75px; max-height:75px; }
+.@d3826@wikim-all@structure_de_pont_bow-string_uuuc3uuua0_arc_central-vierge_buuuc3uuua9ton_armuuuc3uuua9::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3826@wikim-all@structure_de_pont_bow-string_uuuc3uuua0_arc_central-vierge_buuuc3uuua9ton_armuuuc3uuua9::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3831@wikim-all@suspension_bridge_icon {max-width:75px; max-height:75px; }
+.@d3831@wikim-all@suspension_bridge_icon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3831@wikim-all@suspension_bridge_icon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3832@wikim-all@suspensionbridge-diagram {max-width:75px; max-height:75px; }
+.@d3832@wikim-all@suspensionbridge-diagram::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3832@wikim-all@suspensionbridge-diagram::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3852@wikim-all@tiedarchbridge-diagram {max-width:75px; max-height:75px; }
+.@d3852@wikim-all@tiedarchbridge-diagram::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3852@wikim-all@tiedarchbridge-diagram::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3870@wikim-all@trajan_bridge {max-width:75px; max-height:75px; }
+.@d3870@wikim-all@trajan_bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/bridge/1.png/1.png);padding: 0; }
+div.@d3870@wikim-all@trajan_bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ad81591b286d55325917416f18db75c6:d4fa35bfb4d9b441a261f7e9e5e62f70:8f961ce18cf321a204892ea60f8c861d$ */

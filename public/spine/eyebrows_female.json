@@ -1,0 +1,159 @@
+{"frames": {
+
+"eyebrows_female_0.png":
+{
+	"frame": {"x":1,"y":1,"w":100,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":100,"h":39},
+	"sourceSize": {"w":100,"h":40}
+},
+"eyebrows_female_1.png":
+{
+	"frame": {"x":1,"y":201,"w":99,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":99,"h":35},
+	"sourceSize": {"w":100,"h":37}
+},
+"eyebrows_female_2.png":
+{
+	"frame": {"x":103,"y":1,"w":99,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":99,"h":24},
+	"sourceSize": {"w":100,"h":27}
+},
+"eyebrows_female_3.png":
+{
+	"frame": {"x":1,"y":42,"w":100,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":100,"h":28},
+	"sourceSize": {"w":100,"h":30}
+},
+"eyebrows_female_4.png":
+{
+	"frame": {"x":103,"y":193,"w":91,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":91,"h":23},
+	"sourceSize": {"w":100,"h":49}
+},
+"eyebrows_female_5.png":
+{
+	"frame": {"x":1,"y":324,"w":94,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":27},
+	"sourceSize": {"w":100,"h":27}
+},
+"eyebrows_female_6.png":
+{
+	"frame": {"x":1,"y":157,"w":100,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":100,"h":20},
+	"sourceSize": {"w":100,"h":31}
+},
+"eyebrows_female_7.png":
+{
+	"frame": {"x":1,"y":179,"w":100,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":100,"h":20},
+	"sourceSize": {"w":100,"h":24}
+},
+"eyebrows_female_8.png":
+{
+	"frame": {"x":1,"y":309,"w":98,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":98,"h":13},
+	"sourceSize": {"w":100,"h":17}
+},
+"eyebrows_female_9.png":
+{
+	"frame": {"x":1,"y":353,"w":89,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":11,"w":89,"h":32},
+	"sourceSize": {"w":100,"h":43}
+},
+"eyebrows_female_10.png":
+{
+	"frame": {"x":1,"y":72,"w":100,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":100,"h":27},
+	"sourceSize": {"w":100,"h":56}
+},
+"eyebrows_female_11.png":
+{
+	"frame": {"x":1,"y":260,"w":98,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":98,"h":32},
+	"sourceSize": {"w":100,"h":35}
+},
+"eyebrows_female_12.png":
+{
+	"frame": {"x":1,"y":101,"w":100,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":100,"h":27},
+	"sourceSize": {"w":100,"h":30}
+},
+"eyebrows_female_13.png":
+{
+	"frame": {"x":1,"y":294,"w":98,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":98,"h":13},
+	"sourceSize": {"w":100,"h":21}
+},
+"eyebrows_female_14.png":
+{
+	"frame": {"x":103,"y":102,"w":89,"h":24},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":89,"h":24},
+	"sourceSize": {"w":100,"h":48}
+},
+"eyebrows_female_15.png":
+{
+	"frame": {"x":1,"y":238,"w":99,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":99,"h":20},
+	"sourceSize": {"w":100,"h":24}
+},
+"eyebrows_female_16.png":
+{
+	"frame": {"x":101,"y":286,"w":96,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":96,"h":17},
+	"sourceSize": {"w":100,"h":27}
+},
+"eyebrows_female_17.png":
+{
+	"frame": {"x":1,"y":130,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+}},
+"animations": {
+	"eyebrows_female": ["eyebrows_female_0.png","eyebrows_female_1.png","eyebrows_female_2.png","eyebrows_female_3.png","eyebrows_female_4.png","eyebrows_female_5.png","eyebrows_female_6.png","eyebrows_female_7.png","eyebrows_female_8.png","eyebrows_female_9.png","eyebrows_female_10.png","eyebrows_female_11.png","eyebrows_female_12.png","eyebrows_female_13.png","eyebrows_female_14.png","eyebrows_female_15.png","eyebrows_female_16.png","eyebrows_female_17.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "eyebrows_female.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":386},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:c240f08268682c95a601ff7b8a210b88:4bf8aab997d465ef79e8d9d940233957:d55fb5e32d0d58c5b64d714340f2c1ca$"
+}
+}

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26510@her@salamander-statant {max-width:75px; max-height:75px; }
+.@a26510@her@salamander-statant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/salamander_statant/0.png/0.png);padding: 0; }
+div.@a26510@her@salamander-statant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8f5a9b5b8c0caa9a7f4426d567d42ca9:bfa43f9c7e529c34185758f688c4d80b:4ddb42793a59c1b7bfff1539dfc4d068$ */

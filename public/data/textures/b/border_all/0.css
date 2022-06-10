@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a30084@lib@border-all {max-width:75px; max-height:75px; }
+.@a30084@lib@border-all::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/border_all/0.png/0.png);padding: 0; }
+div.@a30084@lib@border-all::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30288@lib@order {max-width:75px; max-height:75px; }
+.@a30288@lib@order::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/border_all/0.png/0.png);padding: 0; }
+div.@a30288@lib@order::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32601@mat@border-all {max-width:75px; max-height:75px; }
+.@a32601@mat@border-all::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/border_all/0.png/0.png);padding: 0; }
+div.@a32601@mat@border-all::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53976@wav@border-all {max-width:75px; max-height:75px; }
+.@a53976@wav@border-all::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/border_all/0.png/0.png);padding: 0; }
+div.@a53976@wav@border-all::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56315@win@border-all {max-width:75px; max-height:75px; }
+.@a56315@win@border-all::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/border_all/0.png/0.png);padding: 0; }
+div.@a56315@win@border-all::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57409@xei@all {max-width:75px; max-height:75px; }
+.@a57409@xei@all::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/border_all/0.png/0.png);padding: 0; }
+div.@a57409@xei@all::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57475@xei@border-all {max-width:75px; max-height:75px; }
+.@a57475@xei@border-all::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/border_all/0.png/0.png);padding: 0; }
+div.@a57475@xei@border-all::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12252@gameicons-delapouite@bo {max-width:75px; max-height:75px; }
+.@b12252@gameicons-delapouite@bo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/border_all/0.png/0.png);padding: 0; }
+div.@b12252@gameicons-delapouite@bo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:92f46dd393c127d8c5a751b2ae2c167f:6010617b51b317ca09614bd8dcbb3f92:4ddb42793a59c1b7bfff1539dfc4d068$ */

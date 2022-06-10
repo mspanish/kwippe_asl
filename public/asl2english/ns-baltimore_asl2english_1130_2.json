@@ -1,0 +1,37 @@
+{
+    "sign": "ns-baltimore",
+    "signer": "asl2english",
+    "uid": 1130,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 37,
+            "nd": 20
+        },
+        "end": {
+            "d": 19,
+            "nd": 37
+        }
+    },
+    "regions": [
+        "R-shoulder",
+        "R-shoulder"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

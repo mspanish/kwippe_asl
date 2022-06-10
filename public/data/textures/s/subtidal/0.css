@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60421@ian@habitat-2d-subtidal-mud {max-width:75px; max-height:75px; }
+.@a60421@ian@habitat-2d-subtidal-mud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/subtidal/0.png/0.png);padding: 0; }
+div.@a60421@ian@habitat-2d-subtidal-mud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61580@ian@seagrass-habitat-subtidal {max-width:75px; max-height:75px; }
+.@a61580@ian@seagrass-habitat-subtidal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/subtidal/0.png/0.png);padding: 0; }
+div.@a61580@ian@seagrass-habitat-subtidal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c264b97b56edfd2ba7416116d52a8fbc:ef5b6655af69903c3e9907b971006a2f:4ddb42793a59c1b7bfff1539dfc4d068$ */

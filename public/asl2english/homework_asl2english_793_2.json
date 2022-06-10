@@ -1,0 +1,37 @@
+{
+    "sign": "homework",
+    "signer": "asl2english",
+    "uid": 793,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 4,
+            "nd": 93
+        },
+        "end": {
+            "d": 82,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "chin",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

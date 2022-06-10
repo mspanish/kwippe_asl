@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1941@bon@group-healthy-living-group-1035 {max-width:75px; max-height:75px; }
+.@a1941@bon@group-healthy-living-group-1035::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/l/living/0.png/0.png);padding: 0; }
+div.@a1941@bon@group-healthy-living-group-1035::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2047@bon@living-safely-8042 {max-width:75px; max-height:75px; }
+.@a2047@bon@living-safely-8042::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/l/living/0.png/0.png);padding: 0; }
+div.@a2047@bon@living-safely-8042::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7d9dce60c656bd99c4a646d931c9ae3f:f9065f8ce694a86c47115d611f24a701:4ddb42793a59c1b7bfff1539dfc4d068$ */

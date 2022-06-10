@@ -1,0 +1,74 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1135@bat@battery-charge-2 {max-width:75px; max-height:75px; }
+.@a1135@bat@battery-charge-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a1135@bat@battery-charge-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a240@ara@battery-charging-1 {max-width:75px; max-height:75px; }
+.@a240@ara@battery-charging-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a240@ara@battery-charging-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27249@icf@battery-charged {max-width:75px; max-height:75px; }
+.@a27249@icf@battery-charged::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a27249@icf@battery-charged::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27250@icf@battery-charging {max-width:75px; max-height:75px; }
+.@a27250@icf@battery-charging::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a27250@icf@battery-charging::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27924@ico@charge-battery {max-width:75px; max-height:75px; }
+.@a27924@ico@charge-battery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a27924@ico@charge-battery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30496@lin@battery-charge {max-width:75px; max-height:75px; }
+.@a30496@lin@battery-charge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a30496@lin@battery-charge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32463@mat@battery-charging-100 {max-width:75px; max-height:75px; }
+.@a32463@mat@battery-charging-100::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a32463@mat@battery-charging-100::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32477@mat@battery-charging {max-width:75px; max-height:75px; }
+.@a32477@mat@battery-charging::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a32477@mat@battery-charging::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a447@ara@rechargable-battery {max-width:75px; max-height:75px; }
+.@a447@ara@rechargable-battery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a447@ara@rechargable-battery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46567@pap@battery-caution-charging-symbolic {max-width:75px; max-height:75px; }
+.@a46567@pap@battery-caution-charging-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a46567@pap@battery-caution-charging-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46574@pap@battery-good-charging-symbolic {max-width:75px; max-height:75px; }
+.@a46574@pap@battery-good-charging-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a46574@pap@battery-good-charging-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47300@pic@battery-plugged {max-width:75px; max-height:75px; }
+.@a47300@pic@battery-plugged::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a47300@pic@battery-plugged::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51828@typ@battery-charge {max-width:75px; max-height:75px; }
+.@a51828@typ@battery-charge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a51828@typ@battery-charge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56297@win@battery-charging {max-width:75px; max-height:75px; }
+.@a56297@win@battery-charging::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@a56297@win@battery-charging::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12366@gameicons-delapouite@charging-bull {max-width:75px; max-height:75px; }
+.@b12366@gameicons-delapouite@charging-bull::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@b12366@gameicons-delapouite@charging-bull::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12367@gameicons-delapouite@charging {max-width:75px; max-height:75px; }
+.@b12367@gameicons-delapouite@charging::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@b12367@gameicons-delapouite@charging::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15154@gameicons-sbed@battery-pack-alt {max-width:75px; max-height:75px; }
+.@b15154@gameicons-sbed@battery-pack-alt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@b15154@gameicons-sbed@battery-pack-alt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15155@gameicons-sbed@battery-pack {max-width:75px; max-height:75px; }
+.@b15155@gameicons-sbed@battery-pack::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@b15155@gameicons-sbed@battery-pack::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8136@web@battery-1charging {max-width:75px; max-height:75px; }
+.@b8136@web@battery-1charging::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@b8136@web@battery-1charging::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8140@web@battery-charged {max-width:75px; max-height:75px; }
+.@b8140@web@battery-charged::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@b8140@web@battery-charged::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8141@web@battery-charging {max-width:75px; max-height:75px; }
+.@b8141@web@battery-charging::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/charging/0.png/0.png);padding: 0; }
+div.@b8141@web@battery-charging::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:77bf4ecd410239ca688ab84adb57073a:2b6c5f3160fb5b586176acb293df2e6c:4ddb42793a59c1b7bfff1539dfc4d068$ */

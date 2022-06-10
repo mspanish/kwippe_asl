@@ -1,0 +1,47 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15073@em2@joystick {max-width:75px; max-height:75px; }
+.@a15073@em2@joystick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a15073@em2@joystick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16395@emo@joystick {max-width:75px; max-height:75px; }
+.@a16395@emo@joystick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a16395@emo@joystick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28514@jqe@joystick {max-width:75px; max-height:75px; }
+.@a28514@jqe@joystick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a28514@jqe@joystick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29656@knl@joystick-3 {max-width:75px; max-height:75px; }
+.@a29656@knl@joystick-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a29656@knl@joystick-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29657@knl@joystick-4 {max-width:75px; max-height:75px; }
+.@a29657@knl@joystick-4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a29657@knl@joystick-4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37992@mul@joystick-pennygiles {max-width:75px; max-height:75px; }
+.@a37992@mul@joystick-pennygiles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a37992@mul@joystick-pennygiles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39769@noc@joystick {max-width:75px; max-height:75px; }
+.@a39769@noc@joystick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a39769@noc@joystick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42290@nog@joystick-activities {max-width:75px; max-height:75px; }
+.@a42290@nog@joystick-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a42290@nog@joystick-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50563@tw2@joystick {max-width:75px; max-height:75px; }
+.@a50563@tw2@joystick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a50563@tw2@joystick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55175@web@joystickarcade {max-width:75px; max-height:75px; }
+.@a55175@web@joystickarcade::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a55175@web@joystickarcade::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55176@web@joystickatari {max-width:75px; max-height:75px; }
+.@a55176@web@joystickatari::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@a55176@web@joystickatari::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12836@gameicons-delapouite@joystick {max-width:75px; max-height:75px; }
+.@b12836@gameicons-delapouite@joystick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/j/joystick/0.png/0.png);padding: 0; }
+div.@b12836@gameicons-delapouite@joystick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1be082bc9d04568797ee87f448ed2b6a:bcb1e43249f28f5b62afee9e5947e680:4ddb42793a59c1b7bfff1539dfc4d068$ */

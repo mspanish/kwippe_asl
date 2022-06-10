@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60655@ian@laminaria-spp {max-width:75px; max-height:75px; }
+.@a60655@ian@laminaria-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/laminaria/0.png/0.png);padding: 0; }
+div.@a60655@ian@laminaria-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:140b8b61fa4e9314bcaddc8635a291da:4966729c9e7be33511ecc92fc42996d6:4ddb42793a59c1b7bfff1539dfc4d068$ */

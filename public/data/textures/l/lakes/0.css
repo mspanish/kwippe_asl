@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60148@ian@esox-lucius {max-width:75px; max-height:75px; }
+.@a60148@ian@esox-lucius::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lakes/0.png/0.png);padding: 0; }
+div.@a60148@ian@esox-lucius::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60652@ian@lake-freighter {max-width:75px; max-height:75px; }
+.@a60652@ian@lake-freighter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lakes/0.png/0.png);padding: 0; }
+div.@a60652@ian@lake-freighter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60943@ian@mountain-range-3d-plain-rivers-lakes {max-width:75px; max-height:75px; }
+.@a60943@ian@mountain-range-3d-plain-rivers-lakes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lakes/0.png/0.png);padding: 0; }
+div.@a60943@ian@mountain-range-3d-plain-rivers-lakes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61935@ian@us-coast-to-coast {max-width:75px; max-height:75px; }
+.@a61935@ian@us-coast-to-coast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lakes/0.png/0.png);padding: 0; }
+div.@a61935@ian@us-coast-to-coast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8cb166e97c0b080eabeefe1613a0b09b:9866580cb6cdddd80cba9eab5b7cce26:4ddb42793a59c1b7bfff1539dfc4d068$ */

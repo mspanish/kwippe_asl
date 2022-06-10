@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15250@em2@party-popper {max-width:75px; max-height:75px; }
+.@a15250@em2@party-popper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/popper/0.png/0.png);padding: 0; }
+div.@a15250@em2@party-popper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17294@fir@u1f389-partypopper {max-width:75px; max-height:75px; }
+.@a17294@fir@u1f389-partypopper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/popper/0.png/0.png);padding: 0; }
+div.@a17294@fir@u1f389-partypopper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28653@jqe@party-popper {max-width:75px; max-height:75px; }
+.@a28653@jqe@party-popper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/popper/0.png/0.png);padding: 0; }
+div.@a28653@jqe@party-popper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39968@noc@party-popper {max-width:75px; max-height:75px; }
+.@a39968@noc@party-popper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/popper/0.png/0.png);padding: 0; }
+div.@a39968@noc@party-popper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42967@nog@party-popper-activities {max-width:75px; max-height:75px; }
+.@a42967@nog@party-popper-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/popper/0.png/0.png);padding: 0; }
+div.@a42967@nog@party-popper-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44599@not@party-popper {max-width:75px; max-height:75px; }
+.@a44599@not@party-popper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/popper/0.png/0.png);padding: 0; }
+div.@a44599@not@party-popper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50737@tw2@party-popper {max-width:75px; max-height:75px; }
+.@a50737@tw2@party-popper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/popper/0.png/0.png);padding: 0; }
+div.@a50737@tw2@party-popper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:19a4c999d7976730da8b126c5dc95941:ef13b77966c81abe22f93ded868d81bf:4ddb42793a59c1b7bfff1539dfc4d068$ */

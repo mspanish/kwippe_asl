@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14630@em2@ballot-box-with-ballot {max-width:75px; max-height:75px; }
+.@a14630@em2@ballot-box-with-ballot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a14630@em2@ballot-box-with-ballot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15685@emo@ballot-box {max-width:75px; max-height:75px; }
+.@a15685@emo@ballot-box::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a15685@emo@ballot-box::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17863@fir@u1f5f3-ballottboxwithballott {max-width:75px; max-height:75px; }
+.@a17863@fir@u1f5f3-ballottboxwithballott::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a17863@fir@u1f5f3-ballottboxwithballott::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2690@bon@workshop-my-vote-8534 {max-width:75px; max-height:75px; }
+.@a2690@bon@workshop-my-vote-8534::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a2690@bon@workshop-my-vote-8534::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28172@jqe@ballot-box-with-ballot {max-width:75px; max-height:75px; }
+.@a28172@jqe@ballot-box-with-ballot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a28172@jqe@ballot-box-with-ballot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39312@noc@ballot-box-w-ballot {max-width:75px; max-height:75px; }
+.@a39312@noc@ballot-box-w-ballot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a39312@noc@ballot-box-w-ballot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40527@nog@ballot-box-with-ballot-objects {max-width:75px; max-height:75px; }
+.@a40527@nog@ballot-box-with-ballot-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a40527@nog@ballot-box-with-ballot-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50196@tw2@ballot-box-with-ballot {max-width:75px; max-height:75px; }
+.@a50196@tw2@ballot-box-with-ballot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a50196@tw2@ballot-box-with-ballot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60675@ian@legislation-01 {max-width:75px; max-height:75px; }
+.@a60675@ian@legislation-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@a60675@ian@legislation-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13595@gameicons-delapouite@vote {max-width:75px; max-height:75px; }
+.@b13595@gameicons-delapouite@vote::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vote/0.png/0.png);padding: 0; }
+div.@b13595@gameicons-delapouite@vote::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c73e8b5bdbebbb9edb2274747ea75c02:dc9a9215934c24b14c79f96443f7af8b:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,45 @@
+{
+    "sign": "california",
+    "signer": "aslLex",
+    "uid": 2147,
+    "synonyms": "California, gold, place, state",
+    "handshapes": {
+        "begin": {
+            "d": "flat_ily",
+            "nd": null
+        },
+        "end": {
+            "d": "y",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Other",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Curved",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        1.0
+    ],
+    "morphemes": 2,
+    "complexity": 2.0,
+    "frequency": 5.107,
+    "category": null
+}

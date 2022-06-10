@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59738@ian@coastline-2d-barrier-island-microtidal {max-width:75px; max-height:75px; }
+.@a59738@ian@coastline-2d-barrier-island-microtidal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltmarsh/0.png/0.png);padding: 0; }
+div.@a59738@ian@coastline-2d-barrier-island-microtidal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59739@ian@coastline-2d-barrier-island-mixed-energy {max-width:75px; max-height:75px; }
+.@a59739@ian@coastline-2d-barrier-island-mixed-energy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltmarsh/0.png/0.png);padding: 0; }
+div.@a59739@ian@coastline-2d-barrier-island-mixed-energy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60172@ian@estuary-3d-braided-river-mudflat {max-width:75px; max-height:75px; }
+.@a60172@ian@estuary-3d-braided-river-mudflat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltmarsh/0.png/0.png);padding: 0; }
+div.@a60172@ian@estuary-3d-braided-river-mudflat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60627@ian@kosteletzkya-virginica-1 {max-width:75px; max-height:75px; }
+.@a60627@ian@kosteletzkya-virginica-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltmarsh/0.png/0.png);padding: 0; }
+div.@a60627@ian@kosteletzkya-virginica-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60628@ian@kosteletzkya-virginica-2 {max-width:75px; max-height:75px; }
+.@a60628@ian@kosteletzkya-virginica-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltmarsh/0.png/0.png);padding: 0; }
+div.@a60628@ian@kosteletzkya-virginica-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61660@ian@spartina-alterniflora-singular {max-width:75px; max-height:75px; }
+.@a61660@ian@spartina-alterniflora-singular::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltmarsh/0.png/0.png);padding: 0; }
+div.@a61660@ian@spartina-alterniflora-singular::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61661@ian@spartina-alterniflora {max-width:75px; max-height:75px; }
+.@a61661@ian@spartina-alterniflora::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/saltmarsh/0.png/0.png);padding: 0; }
+div.@a61661@ian@spartina-alterniflora::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:aa13656baa03185ab056dd41605d4b81:0e33ec7ee68cfed801a28778d14675ac:4ddb42793a59c1b7bfff1539dfc4d068$ */

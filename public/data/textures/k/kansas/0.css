@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d3678@wikim-all@seal_of_kansas {max-width:75px; max-height:75px; }
+.@d3678@wikim-all@seal_of_kansas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/k/kansas/0.png/0.png);padding: 0; }
+div.@d3678@wikim-all@seal_of_kansas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b56eaf6b3b7ca3f850d22839e5ed9a64:f87ca85b61a178b8e01802fc471b70b2:4ddb42793a59c1b7bfff1539dfc4d068$ */

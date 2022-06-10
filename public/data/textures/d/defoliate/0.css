@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60082@ian@effects-insect-damage {max-width:75px; max-height:75px; }
+.@a60082@ian@effects-insect-damage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/defoliate/0.png/0.png);padding: 0; }
+div.@a60082@ian@effects-insect-damage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:541c666c41ca95b41bb1214af2a1113c:e727045a7232cf4bc2fb5b6a0c02bf6d:4ddb42793a59c1b7bfff1539dfc4d068$ */

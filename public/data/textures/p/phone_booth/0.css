@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27687@icf@phone-booth {max-width:75px; max-height:75px; }
+.@a27687@icf@phone-booth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/phone_booth/0.png/0.png);padding: 0; }
+div.@a27687@icf@phone-booth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58180@ope@phone_booth {max-width:75px; max-height:75px; }
+.@a58180@ope@phone_booth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/phone_booth/0.png/0.png);padding: 0; }
+div.@a58180@ope@phone_booth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:77b8db1a2fd20cd85a0b64671406a9bc:5379267d6bcd0a50fd0b5840442f5d6d:4ddb42793a59c1b7bfff1539dfc4d068$ */

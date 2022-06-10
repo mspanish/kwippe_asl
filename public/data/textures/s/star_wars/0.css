@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a45553@ope@nicubunu_comic_characters_darth {max-width:75px; max-height:75px; }
+.@a45553@ope@nicubunu_comic_characters_darth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/star_wars/0.png/0.png);padding: 0; }
+div.@a45553@ope@nicubunu_comic_characters_darth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45554@ope@nicubunu_comic_characters_stormtrooper {max-width:75px; max-height:75px; }
+.@a45554@ope@nicubunu_comic_characters_stormtrooper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/star_wars/0.png/0.png);padding: 0; }
+div.@a45554@ope@nicubunu_comic_characters_stormtrooper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a9493@df-militaria@1964 {max-width:75px; max-height:75px; }
+.@a9493@df-militaria@1964::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/star_wars/0.png/0.png);padding: 0; }
+div.@a9493@df-militaria@1964::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ea8bf690862e0d775766b3975ac2b081:c0cbe01a21b5b4bfa4adf4ff88224dc5:4ddb42793a59c1b7bfff1539dfc4d068$ */

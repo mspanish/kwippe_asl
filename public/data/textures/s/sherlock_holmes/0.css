@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13298@gameicons-delapouite@sherlock-holmes {max-width:75px; max-height:75px; }
+.@b13298@gameicons-delapouite@sherlock-holmes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sherlock_holmes/0.png/0.png);padding: 0; }
+div.@b13298@gameicons-delapouite@sherlock-holmes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f5eb6b5bb4d64beadade1e20c73c1acf:9efa3dbc76f292f5d1c1235bcd3977ce:4ddb42793a59c1b7bfff1539dfc4d068$ */

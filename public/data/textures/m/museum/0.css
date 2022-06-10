@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1915@bon@going-out-visit-a-house-of-historical-or-architectural-inter {max-width:75px; max-height:75px; }
+.@a1915@bon@going-out-visit-a-house-of-historical-or-architectural-inter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/museum/0.png/0.png);padding: 0; }
+div.@a1915@bon@going-out-visit-a-house-of-historical-or-architectural-inter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dcef498d0d349ec3a6136405d535af74:e1c3aee74f8225ec005ce6afae567971:4ddb42793a59c1b7bfff1539dfc4d068$ */

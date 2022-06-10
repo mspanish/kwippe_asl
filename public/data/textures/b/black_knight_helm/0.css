@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12247@gameicons-delapouite@black-knight-helm {max-width:75px; max-height:75px; }
+.@b12247@gameicons-delapouite@black-knight-helm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/black_knight_helm/0.png/0.png);padding: 0; }
+div.@b12247@gameicons-delapouite@black-knight-helm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:254c59ecdffa68c1907d2562ab4a4a03:6a836de04d472abc24d67ca359b54881:4ddb42793a59c1b7bfff1539dfc4d068$ */

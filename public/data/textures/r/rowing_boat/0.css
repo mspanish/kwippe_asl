@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38616@mul@rowing-boat {max-width:75px; max-height:75px; }
+.@a38616@mul@rowing-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/rowing_boat/0.png/0.png);padding: 0; }
+div.@a38616@mul@rowing-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4727af786bd6bedd00122820e2a8669e:59f4d50b9f498a28cf454a26e6f455fe:4ddb42793a59c1b7bfff1539dfc4d068$ */

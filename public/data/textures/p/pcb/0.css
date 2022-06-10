@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61820@ian@toxicants-organo-chlorine {max-width:75px; max-height:75px; }
+.@a61820@ian@toxicants-organo-chlorine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/pcb/0.png/0.png);padding: 0; }
+div.@a61820@ian@toxicants-organo-chlorine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2ad57a4bf273b0656af1c7f95ca33581:6f2de5518c28485c1fd0c5a26844ebed:4ddb42793a59c1b7bfff1539dfc4d068$ */

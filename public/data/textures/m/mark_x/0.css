@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a17864@fir@u1f5f4-ballottscriptx {max-width:75px; max-height:75px; }
+.@a17864@fir@u1f5f4-ballottscriptx::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mark_x/0.png/0.png);padding: 0; }
+div.@a17864@fir@u1f5f4-ballottscriptx::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17865@fir@u1f5f5-ballottboxwithscriptx {max-width:75px; max-height:75px; }
+.@a17865@fir@u1f5f5-ballottboxwithscriptx::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mark_x/0.png/0.png);padding: 0; }
+div.@a17865@fir@u1f5f5-ballottboxwithscriptx::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17866@fir@u1f5f6-ballotboldscriptx {max-width:75px; max-height:75px; }
+.@a17866@fir@u1f5f6-ballotboldscriptx::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mark_x/0.png/0.png);padding: 0; }
+div.@a17866@fir@u1f5f6-ballotboldscriptx::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:de473c62e22a073f9ba25963d38247e9:7c0f2d37b7a9f22b46cf0b30bf887c35:4ddb42793a59c1b7bfff1539dfc4d068$ */

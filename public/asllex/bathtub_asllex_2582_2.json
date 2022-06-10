@@ -1,0 +1,45 @@
+{
+    "sign": "bathtub",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "a",
+            "nd": "a"
+        },
+        "end": {
+            "d": "c",
+            "nd": "c"
+        }
+    },
+    "regions": {
+        "morph1_general": "Body",
+        "morph1_specific": "TorsoTop",
+        "morph1_specific_second": "TorsoMid",
+        "morph1_contact": 1.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 1,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Curved",
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        1.0
+    ],
+    "morphemes": 2,
+    "complexity": null,
+    "frequency": 3.955,
+    "category": null
+}

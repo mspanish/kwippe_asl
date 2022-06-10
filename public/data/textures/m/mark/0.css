@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60493@ian@high-uncertainty {max-width:75px; max-height:75px; }
+.@a60493@ian@high-uncertainty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mark/0.png/0.png);padding: 0; }
+div.@a60493@ian@high-uncertainty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61274@ian@positive {max-width:75px; max-height:75px; }
+.@a61274@ian@positive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mark/0.png/0.png);padding: 0; }
+div.@a61274@ian@positive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61279@ian@potentially-positive {max-width:75px; max-height:75px; }
+.@a61279@ian@potentially-positive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mark/0.png/0.png);padding: 0; }
+div.@a61279@ian@potentially-positive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61886@ian@uncertainty {max-width:75px; max-height:75px; }
+.@a61886@ian@uncertainty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mark/0.png/0.png);padding: 0; }
+div.@a61886@ian@uncertainty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61887@ian@uncertainty2 {max-width:75px; max-height:75px; }
+.@a61887@ian@uncertainty2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mark/0.png/0.png);padding: 0; }
+div.@a61887@ian@uncertainty2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13982@gameicons-lorc@cross-mark {max-width:75px; max-height:75px; }
+.@b13982@gameicons-lorc@cross-mark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mark/0.png/0.png);padding: 0; }
+div.@b13982@gameicons-lorc@cross-mark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14761@gameicons-lorc@skid-mark {max-width:75px; max-height:75px; }
+.@b14761@gameicons-lorc@skid-mark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mark/0.png/0.png);padding: 0; }
+div.@b14761@gameicons-lorc@skid-mark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:188bc5ef587ba12e6e786bff6a1932c7:b3c1cded8c006546a83f5f9c0f9bc0f9:4ddb42793a59c1b7bfff1539dfc4d068$ */

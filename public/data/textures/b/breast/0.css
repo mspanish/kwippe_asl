@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1550@bon@breast-examination-5752 {max-width:75px; max-height:75px; }
+.@a1550@bon@breast-examination-5752::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/breast/0.png/0.png);padding: 0; }
+div.@a1550@bon@breast-examination-5752::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36846@mul@chicken-breast {max-width:75px; max-height:75px; }
+.@a36846@mul@chicken-breast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/breast/0.png/0.png);padding: 0; }
+div.@a36846@mul@chicken-breast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50252@tw2@breast-feeding-nursing {max-width:75px; max-height:75px; }
+.@a50252@tw2@breast-feeding-nursing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/breast/0.png/0.png);padding: 0; }
+div.@a50252@tw2@breast-feeding-nursing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fea59107f1dc28d3dcdac913c0c51752:0995e380b14db816bb7613cacae5ffc2:4ddb42793a59c1b7bfff1539dfc4d068$ */

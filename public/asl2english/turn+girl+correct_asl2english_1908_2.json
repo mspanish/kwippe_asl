@@ -1,0 +1,37 @@
+{
+    "sign": "turn+girl+correct",
+    "signer": "asl2english",
+    "uid": 1908,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 26,
+            "nd": null
+        },
+        "end": {
+            "d": 60,
+            "nd": 1
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

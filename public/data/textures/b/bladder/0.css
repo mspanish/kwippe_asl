@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36601@mul@bladder-kidneys {max-width:75px; max-height:75px; }
+.@a36601@mul@bladder-kidneys::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bladder/0.png/0.png);padding: 0; }
+div.@a36601@mul@bladder-kidneys::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36602@mul@bladder {max-width:75px; max-height:75px; }
+.@a36602@mul@bladder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bladder/0.png/0.png);padding: 0; }
+div.@a36602@mul@bladder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60780@ian@macrocystis-pyrifera-1 {max-width:75px; max-height:75px; }
+.@a60780@ian@macrocystis-pyrifera-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bladder/0.png/0.png);padding: 0; }
+div.@a60780@ian@macrocystis-pyrifera-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60781@ian@macrocystis-pyrifera-2 {max-width:75px; max-height:75px; }
+.@a60781@ian@macrocystis-pyrifera-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bladder/0.png/0.png);padding: 0; }
+div.@a60781@ian@macrocystis-pyrifera-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60782@ian@macrocystis-pyrifera-3 {max-width:75px; max-height:75px; }
+.@a60782@ian@macrocystis-pyrifera-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bladder/0.png/0.png);padding: 0; }
+div.@a60782@ian@macrocystis-pyrifera-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:080c5e1933ac0548f2c1868182d016dd:14534ea9d88327c4f6e4a62275b05206:4ddb42793a59c1b7bfff1539dfc4d068$ */

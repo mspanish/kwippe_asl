@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59720@ian@clammer {max-width:75px; max-height:75px; }
+.@a59720@ian@clammer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fisherman/0.png/0.png);padding: 0; }
+div.@a59720@ian@clammer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59990@ian@dema-fisher {max-width:75px; max-height:75px; }
+.@a59990@ian@dema-fisher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fisherman/0.png/0.png);padding: 0; }
+div.@a59990@ian@dema-fisher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60275@ian@fisher {max-width:75px; max-height:75px; }
+.@a60275@ian@fisher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fisherman/0.png/0.png);padding: 0; }
+div.@a60275@ian@fisher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61631@ian@shore-fishing {max-width:75px; max-height:75px; }
+.@a61631@ian@shore-fishing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fisherman/0.png/0.png);padding: 0; }
+div.@a61631@ian@shore-fishing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61750@ian@surf-fishing {max-width:75px; max-height:75px; }
+.@a61750@ian@surf-fishing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fisherman/0.png/0.png);padding: 0; }
+div.@a61750@ian@surf-fishing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62207@ian@waterman {max-width:75px; max-height:75px; }
+.@a62207@ian@waterman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fisherman/0.png/0.png);padding: 0; }
+div.@a62207@ian@waterman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12913@gameicons-delapouite@lucky-fisherman {max-width:75px; max-height:75px; }
+.@b12913@gameicons-delapouite@lucky-fisherman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fisherman/0.png/0.png);padding: 0; }
+div.@b12913@gameicons-delapouite@lucky-fisherman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e1a2bbb956d4f17e8b841f100040834e:a3c44481d9ed338909cac35610398412:4ddb42793a59c1b7bfff1539dfc4d068$ */

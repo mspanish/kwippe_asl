@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36581@mul@big-mac-switch {max-width:75px; max-height:75px; }
+.@a36581@mul@big-mac-switch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.25839793281653745% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a36581@mul@big-mac-switch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38085@mul@little-mac-switch {max-width:75px; max-height:75px; }
+.@a38085@mul@little-mac-switch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 10.20671834625323% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a38085@mul@little-mac-switch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38508@mul@power-switch {max-width:75px; max-height:75px; }
+.@a38508@mul@power-switch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.155038759689923% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a38508@mul@power-switch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38926@mul@switch-access {max-width:75px; max-height:75px; }
+.@a38926@mul@switch-access::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 30.103359173126616% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a38926@mul@switch-access::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38927@mul@switch-low-profile-1 {max-width:75px; max-height:75px; }
+.@a38927@mul@switch-low-profile-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.05167958656331% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a38927@mul@switch-low-profile-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38928@mul@switch-low-profile-2 {max-width:75px; max-height:75px; }
+.@a38928@mul@switch-low-profile-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a38928@mul@switch-low-profile-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38929@mul@switch-low-profile-3 {max-width:75px; max-height:75px; }
+.@a38929@mul@switch-low-profile-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.94832041343669% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a38929@mul@switch-low-profile-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38930@mul@switch-mount {max-width:75px; max-height:75px; }
+.@a38930@mul@switch-mount::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 69.89664082687338% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a38930@mul@switch-mount::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39090@mul@turn-off-light-switch-to {max-width:75px; max-height:75px; }
+.@a39090@mul@turn-off-light-switch-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.84496124031008% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a39090@mul@turn-off-light-switch-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39091@mul@turn-on-light-switch-to {max-width:75px; max-height:75px; }
+.@a39091@mul@turn-on-light-switch-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 89.79328165374677% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@a39091@mul@turn-on-light-switch-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13450@gameicons-delapouite@switch-weapon {max-width:75px; max-height:75px; }
+.@b13450@gameicons-delapouite@switch-weapon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.74160206718346% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/switch/0.png/0.png);padding: 0; }
+div.@b13450@gameicons-delapouite@switch-weapon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ee95768c95e6eda826324575fe5cda61:2121af845484d26daba116e6e181a4d6:4ddb42793a59c1b7bfff1539dfc4d068$ */

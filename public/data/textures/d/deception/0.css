@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59404@ian@australia-qld-deception-bay {max-width:75px; max-height:75px; }
+.@a59404@ian@australia-qld-deception-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/deception/0.png/0.png);padding: 0; }
+div.@a59404@ian@australia-qld-deception-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59414@ian@australia-qld-pumicestone-passage {max-width:75px; max-height:75px; }
+.@a59414@ian@australia-qld-pumicestone-passage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/deception/0.png/0.png);padding: 0; }
+div.@a59414@ian@australia-qld-pumicestone-passage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62139@ian@usa-wa-puget-sound {max-width:75px; max-height:75px; }
+.@a62139@ian@usa-wa-puget-sound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/deception/0.png/0.png);padding: 0; }
+div.@a62139@ian@usa-wa-puget-sound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62141@ian@usa-wa-skagit-bay-whidbey-basin {max-width:75px; max-height:75px; }
+.@a62141@ian@usa-wa-skagit-bay-whidbey-basin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/deception/0.png/0.png);padding: 0; }
+div.@a62141@ian@usa-wa-skagit-bay-whidbey-basin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:32449a43bd8d9f95f837e6edea252b95:cc336c7e7a85a993dd6eff1ed60f3b5f:4ddb42793a59c1b7bfff1539dfc4d068$ */

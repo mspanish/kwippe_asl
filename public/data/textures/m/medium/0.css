@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36923@mul@clothes-medium {max-width:75px; max-height:75px; }
+.@a36923@mul@clothes-medium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/medium/0.png/0.png);padding: 0; }
+div.@a36923@mul@clothes-medium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37286@mul@drink-medium {max-width:75px; max-height:75px; }
+.@a37286@mul@drink-medium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/medium/0.png/0.png);padding: 0; }
+div.@a37286@mul@drink-medium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59291@ian@air-quality-medium {max-width:75px; max-height:75px; }
+.@a59291@ian@air-quality-medium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/medium/0.png/0.png);padding: 0; }
+div.@a59291@ian@air-quality-medium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bd1c18feacc7ac21b4a3ec96c8fab491:8e4fdc9f7f143a15bc5b921ed7ec8a83:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60458@ian@halophila-stipulacea-seeds {max-width:75px; max-height:75px; }
+.@a60458@ian@halophila-stipulacea-seeds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/stipulacea/0.png/0.png);padding: 0; }
+div.@a60458@ian@halophila-stipulacea-seeds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60459@ian@halophila-stipulacea {max-width:75px; max-height:75px; }
+.@a60459@ian@halophila-stipulacea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/stipulacea/0.png/0.png);padding: 0; }
+div.@a60459@ian@halophila-stipulacea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:23e5380662c6efe1e6a24279cbfb2816:de5416674bfaec75bc64c46f6241a239:4ddb42793a59c1b7bfff1539dfc4d068$ */

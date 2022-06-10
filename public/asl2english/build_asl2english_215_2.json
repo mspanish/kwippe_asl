@@ -1,0 +1,37 @@
+{
+    "sign": "build",
+    "signer": "asl2english",
+    "uid": 215,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": 24
+        }
+    },
+    "regions": [
+        "hand",
+        "hand"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "plural"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

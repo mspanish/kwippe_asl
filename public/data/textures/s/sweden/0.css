@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16211@emo@se {max-width:75px; max-height:75px; }
+.@a16211@emo@se::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sweden/0.png/0.png);padding: 0; }
+div.@a16211@emo@se::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37112@mul@sweden {max-width:75px; max-height:75px; }
+.@a37112@mul@sweden::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sweden/0.png/0.png);padding: 0; }
+div.@a37112@mul@sweden::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37616@mul@sweden {max-width:75px; max-height:75px; }
+.@a37616@mul@sweden::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sweden/0.png/0.png);padding: 0; }
+div.@a37616@mul@sweden::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2316@wikim-all@eurovision_song_contest_heart_sweden_white {max-width:75px; max-height:75px; }
+.@d2316@wikim-all@eurovision_song_contest_heart_sweden_white::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sweden/0.png/0.png);padding: 0; }
+div.@d2316@wikim-all@eurovision_song_contest_heart_sweden_white::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2702@wikim-all@flag_of_sweden {max-width:75px; max-height:75px; }
+.@d2702@wikim-all@flag_of_sweden::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sweden/0.png/0.png);padding: 0; }
+div.@d2702@wikim-all@flag_of_sweden::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4656@wikim-sodacan@shield_of_arms_of_sweden {max-width:75px; max-height:75px; }
+.@d4656@wikim-sodacan@shield_of_arms_of_sweden::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sweden/0.png/0.png);padding: 0; }
+div.@d4656@wikim-sodacan@shield_of_arms_of_sweden::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:24ad70752d49b130af2f2cabb96527d7:dffcbfee850de23511895fb16a9d7cb3:4ddb42793a59c1b7bfff1539dfc4d068$ */

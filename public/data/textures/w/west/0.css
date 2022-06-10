@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38273@mul@north-west {max-width:75px; max-height:75px; }
+.@a38273@mul@north-west::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a38273@mul@north-west::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38812@mul@south-west {max-width:75px; max-height:75px; }
+.@a38812@mul@south-west::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a38812@mul@south-west::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39194@mul@west {max-width:75px; max-height:75px; }
+.@a39194@mul@west::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a39194@mul@west::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59612@ian@cardinal-marker-west {max-width:75px; max-height:75px; }
+.@a59612@ian@cardinal-marker-west::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a59612@ian@cardinal-marker-west::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60657@ian@lantana-camara {max-width:75px; max-height:75px; }
+.@a60657@ian@lantana-camara::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a60657@ian@lantana-camara::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61697@ian@stilt-house-west-papua {max-width:75px; max-height:75px; }
+.@a61697@ian@stilt-house-west-papua::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a61697@ian@stilt-house-west-papua::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61953@ian@usa-chesapeake-bay-watershed {max-width:75px; max-height:75px; }
+.@a61953@ian@usa-chesapeake-bay-watershed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a61953@ian@usa-chesapeake-bay-watershed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61966@ian@usa-fl-apalachicola-bay {max-width:75px; max-height:75px; }
+.@a61966@ian@usa-fl-apalachicola-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a61966@ian@usa-fl-apalachicola-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62113@ian@usa-tx-galveston-bay {max-width:75px; max-height:75px; }
+.@a62113@ian@usa-tx-galveston-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/west/0.png/0.png);padding: 0; }
+div.@a62113@ian@usa-tx-galveston-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fcd7d18f4d15496a6d8f5608727e110f:7d04fa1a1af218629304f61179fc5a9c:4ddb42793a59c1b7bfff1539dfc4d068$ */

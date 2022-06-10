@@ -1,0 +1,45 @@
+{
+    "sign": "stethoscope",
+    "signer": "aslLex",
+    "uid": 2933,
+    "synonyms": "medical, stethoscope, STETHOSCOPEearch",
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": "baby_o"
+        },
+        "end": {
+            "d": "o",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Other",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Body",
+        "morph2_specific": "Clavicle",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "None",
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 3,
+    "complexity": 1.0,
+    "frequency": 1.333,
+    "category": null
+}

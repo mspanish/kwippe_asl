@@ -1,0 +1,45 @@
+{
+    "sign": "train",
+    "signer": "aslLex",
+    "uid": 368,
+    "synonyms": "rail, railroad, track, train, transport, transportation, vehicle",
+    "handshapes": {
+        "begin": {
+            "d": "flat_h",
+            "nd": "DominanceConditionViolation"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "FingerBack",
+        "morph1_specific_second": "FingerBack",
+        "morph1_contact": null,
+        "morph1_signtype": "DominanceViolation",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 1,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "DominanceViolation",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 2.0,
+    "frequency": 4.6,
+    "category": "Vehicles"
+}

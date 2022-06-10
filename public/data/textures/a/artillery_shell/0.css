@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15135@gameicons-quoting@artillery-shell {max-width:75px; max-height:75px; }
+.@b15135@gameicons-quoting@artillery-shell::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/artillery_shell/0.png/0.png);padding: 0; }
+div.@b15135@gameicons-quoting@artillery-shell::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b962b1eb553715b276a68904106abf8e:69f233b67ddbd601c7f532fb77f72f19:4ddb42793a59c1b7bfff1539dfc4d068$ */

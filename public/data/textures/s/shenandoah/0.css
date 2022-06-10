@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61234@ian@plethodon-shenandoah {max-width:75px; max-height:75px; }
+.@a61234@ian@plethodon-shenandoah::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/shenandoah/0.png/0.png);padding: 0; }
+div.@a61234@ian@plethodon-shenandoah::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1d14b7406695ab7ed07d865a0b8f3c7b:79849979e0d66808828a728aa9e5f558:4ddb42793a59c1b7bfff1539dfc4d068$ */

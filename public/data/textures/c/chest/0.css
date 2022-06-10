@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36603@mul@blanket-chest {max-width:75px; max-height:75px; }
+.@a36603@mul@blanket-chest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@a36603@mul@blanket-chest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36839@mul@chest-female {max-width:75px; max-height:75px; }
+.@a36839@mul@chest-female::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@a36839@mul@chest-female::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36840@mul@chest-male {max-width:75px; max-height:75px; }
+.@a36840@mul@chest-male::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@a36840@mul@chest-male::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36841@mul@chest-of-drawers {max-width:75px; max-height:75px; }
+.@a36841@mul@chest-of-drawers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@a36841@mul@chest-of-drawers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59891@ian@cooler-2 {max-width:75px; max-height:75px; }
+.@a59891@ian@cooler-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@a59891@ian@cooler-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12377@gameicons-delapouite@chest-armor {max-width:75px; max-height:75px; }
+.@b12377@gameicons-delapouite@chest-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@b12377@gameicons-delapouite@chest-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12378@gameicons-delapouite@chest {max-width:75px; max-height:75px; }
+.@b12378@gameicons-delapouite@chest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@b12378@gameicons-delapouite@chest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12962@gameicons-delapouite@mimic-chest {max-width:75px; max-height:75px; }
+.@b12962@gameicons-delapouite@mimic-chest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@b12962@gameicons-delapouite@mimic-chest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15352@gameicons-skoll@open-chest {max-width:75px; max-height:75px; }
+.@b15352@gameicons-skoll@open-chest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@b15352@gameicons-skoll@open-chest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15354@gameicons-skoll@open-treasure-chest {max-width:75px; max-height:75px; }
+.@b15354@gameicons-skoll@open-treasure-chest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chest/0.png/0.png);padding: 0; }
+div.@b15354@gameicons-skoll@open-treasure-chest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ecf01d07ad6df8e29da42f543c0f4d52:7a8803ee8c634b5b4fdb9034b35b95fd:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "clever",
+    "signer": "asl2english",
+    "uid": 294,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 13,
+            "nd": null
+        },
+        "end": {
+            "d": 13,
+            "nd": null
+        }
+    },
+    "regions": [
+        "forehead",
+        "chin-area"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

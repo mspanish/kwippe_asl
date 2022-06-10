@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37422@mul@finger-puppet {max-width:75px; max-height:75px; }
+.@a37422@mul@finger-puppet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/puppet/0.png/0.png);padding: 0; }
+div.@a37422@mul@finger-puppet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38528@mul@puppet {max-width:75px; max-height:75px; }
+.@a38528@mul@puppet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/puppet/0.png/0.png);padding: 0; }
+div.@a38528@mul@puppet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14633@gameicons-lorc@puppet {max-width:75px; max-height:75px; }
+.@b14633@gameicons-lorc@puppet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/puppet/0.png/0.png);padding: 0; }
+div.@b14633@gameicons-lorc@puppet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:05dba8d8b06d03332403ca21021c7a3b:ccd87e22985d51cda69fd533adb5d206:4ddb42793a59c1b7bfff1539dfc4d068$ */

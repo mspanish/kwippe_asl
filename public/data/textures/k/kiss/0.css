@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a100@aac@kiss {max-width:75px; max-height:75px; }
+.@a100@aac@kiss::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/k/kiss/0.png/0.png);padding: 0; }
+div.@a100@aac@kiss::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15081@em2@kiss {max-width:75px; max-height:75px; }
+.@a15081@em2@kiss::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/k/kiss/0.png/0.png);padding: 0; }
+div.@a15081@em2@kiss::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28519@jqe@kiss {max-width:75px; max-height:75px; }
+.@a28519@jqe@kiss::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/k/kiss/0.png/0.png);padding: 0; }
+div.@a28519@jqe@kiss::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44463@not@kiss {max-width:75px; max-height:75px; }
+.@a44463@not@kiss::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/k/kiss/0.png/0.png);padding: 0; }
+div.@a44463@not@kiss::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49397@str@286-kiss-woman-man-2 {max-width:75px; max-height:75px; }
+.@a49397@str@286-kiss-woman-man-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/k/kiss/0.png/0.png);padding: 0; }
+div.@a49397@str@286-kiss-woman-man-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ab0d0d47dfefddbeb8f4137d8cea479b:8cfcd2322b6f0622aadc7eb68a25c964:4ddb42793a59c1b7bfff1539dfc4d068$ */

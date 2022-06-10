@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59658@ian@cervus-elaphus-buck {max-width:75px; max-height:75px; }
+.@a59658@ian@cervus-elaphus-buck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cervinae/0.png/0.png);padding: 0; }
+div.@a59658@ian@cervus-elaphus-buck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59659@ian@cervus-elaphus-doe {max-width:75px; max-height:75px; }
+.@a59659@ian@cervus-elaphus-doe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cervinae/0.png/0.png);padding: 0; }
+div.@a59659@ian@cervus-elaphus-doe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59660@ian@cervus-nippon-buck {max-width:75px; max-height:75px; }
+.@a59660@ian@cervus-nippon-buck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cervinae/0.png/0.png);padding: 0; }
+div.@a59660@ian@cervus-nippon-buck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59661@ian@cervus-nippon-doe {max-width:75px; max-height:75px; }
+.@a59661@ian@cervus-nippon-doe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cervinae/0.png/0.png);padding: 0; }
+div.@a59661@ian@cervus-nippon-doe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:735ee6a84ccdd2792ad3ee55c80e1ecc:f2fe7130bf63d0db54f5d08094a1c064:4ddb42793a59c1b7bfff1539dfc4d068$ */

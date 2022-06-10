@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12362@gameicons-delapouite@ceremonial-mask {max-width:75px; max-height:75px; }
+.@b12362@gameicons-delapouite@ceremonial-mask::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/ceremonial/0.png/0.png);padding: 0; }
+div.@b12362@gameicons-delapouite@ceremonial-mask::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1fa00de244aada7abc7ea83819be2c36:288df364079fd3c58b1a7225e5cf3402:4ddb42793a59c1b7bfff1539dfc4d068$ */

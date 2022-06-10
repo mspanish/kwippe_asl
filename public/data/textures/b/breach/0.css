@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60147@ian@eschrichtius-robustus {max-width:75px; max-height:75px; }
+.@a60147@ian@eschrichtius-robustus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/breach/0.png/0.png);padding: 0; }
+div.@a60147@ian@eschrichtius-robustus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60833@ian@megaptera-novaeangliae-1 {max-width:75px; max-height:75px; }
+.@a60833@ian@megaptera-novaeangliae-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/breach/0.png/0.png);padding: 0; }
+div.@a60833@ian@megaptera-novaeangliae-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60834@ian@megaptera-novaeangliae-2 {max-width:75px; max-height:75px; }
+.@a60834@ian@megaptera-novaeangliae-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/breach/0.png/0.png);padding: 0; }
+div.@a60834@ian@megaptera-novaeangliae-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60835@ian@megaptera-novaeangliae-breach {max-width:75px; max-height:75px; }
+.@a60835@ian@megaptera-novaeangliae-breach::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/breach/0.png/0.png);padding: 0; }
+div.@a60835@ian@megaptera-novaeangliae-breach::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a0e4b1175b0092438d9b52e43461ab4d:e1eb20b1383ab4439e96ebb0231e091f:4ddb42793a59c1b7bfff1539dfc4d068$ */

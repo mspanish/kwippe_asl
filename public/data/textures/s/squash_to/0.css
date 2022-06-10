@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38840@mul@squash-to {max-width:75px; max-height:75px; }
+.@a38840@mul@squash-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/squash_to/0.png/0.png);padding: 0; }
+div.@a38840@mul@squash-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:506556fb6eacd5e9b9a23c9471ccc565:146a01e97a0762abf57e2efa5d393201:4ddb42793a59c1b7bfff1539dfc4d068$ */

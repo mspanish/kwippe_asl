@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62103@ian@usa-sc-broad-river {max-width:75px; max-height:75px; }
+.@a62103@ian@usa-sc-broad-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/r/royal/0.png/0.png);padding: 0; }
+div.@a62103@ian@usa-sc-broad-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14683@gameicons-lorc@royal-love {max-width:75px; max-height:75px; }
+.@b14683@gameicons-lorc@royal-love::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/r/royal/0.png/0.png);padding: 0; }
+div.@b14683@gameicons-lorc@royal-love::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cb6de25a93c2d6cc3fefc169713175f9:50fbd1f6dd4d8ecc1e92fd7eb68e406b:4ddb42793a59c1b7bfff1539dfc4d068$ */

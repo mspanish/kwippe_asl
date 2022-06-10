@@ -1,0 +1,37 @@
+{
+    "sign": "hairbrush",
+    "signer": "asl2english",
+    "uid": 742,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 80,
+            "nd": 80
+        },
+        "end": {
+            "d": 82,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "ear",
+        "neck"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59312@ian@amphibolis-antarctica {max-width:75px; max-height:75px; }
+.@a59312@ian@amphibolis-antarctica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/nymph/0.png/0.png);padding: 0; }
+div.@a59312@ian@amphibolis-antarctica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60054@ian@dragonfly-nymph {max-width:75px; max-height:75px; }
+.@a60054@ian@dragonfly-nymph::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/nymph/0.png/0.png);padding: 0; }
+div.@a60054@ian@dragonfly-nymph::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60982@ian@najas-guadalupensis {max-width:75px; max-height:75px; }
+.@a60982@ian@najas-guadalupensis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/nymph/0.png/0.png);padding: 0; }
+div.@a60982@ian@najas-guadalupensis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61702@ian@stonefly-larva {max-width:75px; max-height:75px; }
+.@a61702@ian@stonefly-larva::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/n/nymph/0.png/0.png);padding: 0; }
+div.@a61702@ian@stonefly-larva::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8ddea6ffd0c77de0af0e94998da03d64:0cf10d7dedbd5f13d193cf76dc32621c:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36661@mul@breafkfast-continental-1 {max-width:75px; max-height:75px; }
+.@a36661@mul@breafkfast-continental-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/breafkfast/0.png/0.png);padding: 0; }
+div.@a36661@mul@breafkfast-continental-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36662@mul@breafkfast-continental-2 {max-width:75px; max-height:75px; }
+.@a36662@mul@breafkfast-continental-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/breafkfast/0.png/0.png);padding: 0; }
+div.@a36662@mul@breafkfast-continental-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36663@mul@breafkfast-fried {max-width:75px; max-height:75px; }
+.@a36663@mul@breafkfast-fried::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/breafkfast/0.png/0.png);padding: 0; }
+div.@a36663@mul@breafkfast-fried::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:078ffcb61ac29d586bb8b0265cf67f09:7bdd3a8d4e36c0dff284d60684e068f1:4ddb42793a59c1b7bfff1539dfc4d068$ */

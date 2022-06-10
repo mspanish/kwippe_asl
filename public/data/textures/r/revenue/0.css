@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60076@ian@ecotourism {max-width:75px; max-height:75px; }
+.@a60076@ian@ecotourism::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/revenue/0.png/0.png);padding: 0; }
+div.@a60076@ian@ecotourism::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60807@ian@manufacturing-plant {max-width:75px; max-height:75px; }
+.@a60807@ian@manufacturing-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/revenue/0.png/0.png);padding: 0; }
+div.@a60807@ian@manufacturing-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61815@ian@tourism {max-width:75px; max-height:75px; }
+.@a61815@ian@tourism::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/revenue/0.png/0.png);padding: 0; }
+div.@a61815@ian@tourism::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:02627fa434bb388f28b2d8acce21cf9f:3669bce301bebfdb3269471206e57640:4ddb42793a59c1b7bfff1539dfc4d068$ */

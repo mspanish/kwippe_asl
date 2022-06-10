@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62199@ian@water-skiing {max-width:75px; max-height:75px; }
+.@a62199@ian@water-skiing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/skiier/0.png/0.png);padding: 0; }
+div.@a62199@ian@water-skiing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:75fa1218eeb7a2ed3cc66451877cdf9b:906381828c3c2ed977b9816e0d196f37:4ddb42793a59c1b7bfff1539dfc4d068$ */

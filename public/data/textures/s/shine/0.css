@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14006@gameicons-lorc@crystal-shine {max-width:75px; max-height:75px; }
+.@b14006@gameicons-lorc@crystal-shine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/shine/0.png/0.png);padding: 0; }
+div.@b14006@gameicons-lorc@crystal-shine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8988a7b9b5b706ce1b9028da96f0a1dd:6b0ae3e5481ec94c084fccc466f61078:4ddb42793a59c1b7bfff1539dfc4d068$ */

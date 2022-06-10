@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1715@bon@danger-fire-6253 {max-width:75px; max-height:75px; }
+.@a1715@bon@danger-fire-6253::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a1715@bon@danger-fire-6253::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1716@bon@danger-gas-6254 {max-width:75px; max-height:75px; }
+.@a1716@bon@danger-gas-6254::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a1716@bon@danger-gas-6254::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1717@bon@danger-of-falling-or-slipping-4029 {max-width:75px; max-height:75px; }
+.@a1717@bon@danger-of-falling-or-slipping-4029::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a1717@bon@danger-of-falling-or-slipping-4029::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59425@ian@avalanche-control {max-width:75px; max-height:75px; }
+.@a59425@ian@avalanche-control::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a59425@ian@avalanche-control::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60573@ian@inputs-nutrients-toxins-sediment {max-width:75px; max-height:75px; }
+.@a60573@ian@inputs-nutrients-toxins-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a60573@ian@inputs-nutrients-toxins-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60581@ian@inputs-toxicants {max-width:75px; max-height:75px; }
+.@a60581@ian@inputs-toxicants::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a60581@ian@inputs-toxicants::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60582@ian@inputs-toxics {max-width:75px; max-height:75px; }
+.@a60582@ian@inputs-toxics::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a60582@ian@inputs-toxics::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61396@ian@regulatory-marker-danger {max-width:75px; max-height:75px; }
+.@a61396@ian@regulatory-marker-danger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a61396@ian@regulatory-marker-danger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61817@ian@toxic-sign {max-width:75px; max-height:75px; }
+.@a61817@ian@toxic-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a61817@ian@toxic-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62177@ian@warning-buoy {max-width:75px; max-height:75px; }
+.@a62177@ian@warning-buoy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/d/danger/0.png/0.png);padding: 0; }
+div.@a62177@ian@warning-buoy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fd69e8796d1552ff1f36b731749cddd7:1de5e773fadbf29e2fde76ab3a52f86e:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a28099@ico@sim-card-chip {max-width:75px; max-height:75px; }
+.@a28099@ico@sim-card-chip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sim_card/0.png/0.png);padding: 0; }
+div.@a28099@ico@sim-card-chip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35217@mat@sim {max-width:75px; max-height:75px; }
+.@a35217@mat@sim::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sim_card/0.png/0.png);padding: 0; }
+div.@a35217@mat@sim::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46968@pap@sim-card-symbolic {max-width:75px; max-height:75px; }
+.@a46968@pap@sim-card-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sim_card/0.png/0.png);padding: 0; }
+div.@a46968@pap@sim-card-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54770@wav@sim-card-alert {max-width:75px; max-height:75px; }
+.@a54770@wav@sim-card-alert::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sim_card/0.png/0.png);padding: 0; }
+div.@a54770@wav@sim-card-alert::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54771@wav@sim-card {max-width:75px; max-height:75px; }
+.@a54771@wav@sim-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sim_card/0.png/0.png);padding: 0; }
+div.@a54771@wav@sim-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55834@web@sim {max-width:75px; max-height:75px; }
+.@a55834@web@sim::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sim_card/0.png/0.png);padding: 0; }
+div.@a55834@web@sim::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56376@win@card {max-width:75px; max-height:75px; }
+.@a56376@win@card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sim_card/0.png/0.png);padding: 0; }
+div.@a56376@win@card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:867e7b1841821b45d4363bad5ac8ef53:cf617444821cf9d687600dd38cced565:4ddb42793a59c1b7bfff1539dfc4d068$ */

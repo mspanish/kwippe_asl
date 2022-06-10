@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a40813@nog@broccoli_food-drink_7ugfv {max-width:75px; max-height:75px; }
+.@a40813@nog@broccoli_food-drink_7ugfv::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/stalk/0.png/0.png);padding: 0; }
+div.@a40813@nog@broccoli_food-drink_7ugfv::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42136@nog@hot_pepper_food-drink_ltzt3 {max-width:75px; max-height:75px; }
+.@a42136@nog@hot_pepper_food-drink_ltzt3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/stalk/0.png/0.png);padding: 0; }
+div.@a42136@nog@hot_pepper_food-drink_ltzt3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61748@ian@sugarcane {max-width:75px; max-height:75px; }
+.@a61748@ian@sugarcane::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/stalk/0.png/0.png);padding: 0; }
+div.@a61748@ian@sugarcane::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a692cdc15f590b96130b72b60560b434:32ca013931542277c9e768090e8ae08d:4ddb42793a59c1b7bfff1539dfc4d068$ */

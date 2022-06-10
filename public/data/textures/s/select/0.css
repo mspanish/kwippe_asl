@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60960@ian@mouse-click {max-width:75px; max-height:75px; }
+.@a60960@ian@mouse-click::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/select/0.png/0.png);padding: 0; }
+div.@a60960@ian@mouse-click::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15217@gameicons-sbed@select {max-width:75px; max-height:75px; }
+.@b15217@gameicons-sbed@select::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/select/0.png/0.png);padding: 0; }
+div.@b15217@gameicons-sbed@select::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8c8273b15209f2c4b315c37eddd552ca:192618016c361c2352f2303e87239bf0:4ddb42793a59c1b7bfff1539dfc4d068$ */

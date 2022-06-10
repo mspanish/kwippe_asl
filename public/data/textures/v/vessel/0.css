@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59504@ian@boat-dinghy {max-width:75px; max-height:75px; }
+.@a59504@ian@boat-dinghy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/vessel/0.png/0.png);padding: 0; }
+div.@a59504@ian@boat-dinghy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59972@ian@deep-sea-mining-support-vessel {max-width:75px; max-height:75px; }
+.@a59972@ian@deep-sea-mining-support-vessel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/vessel/0.png/0.png);padding: 0; }
+div.@a59972@ian@deep-sea-mining-support-vessel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60042@ian@dive-boat {max-width:75px; max-height:75px; }
+.@a60042@ian@dive-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/vessel/0.png/0.png);padding: 0; }
+div.@a60042@ian@dive-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60077@ian@education-boat-indonesian {max-width:75px; max-height:75px; }
+.@a60077@ian@education-boat-indonesian::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/vessel/0.png/0.png);padding: 0; }
+div.@a60077@ian@education-boat-indonesian::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61401@ian@research-vessel {max-width:75px; max-height:75px; }
+.@a61401@ian@research-vessel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/vessel/0.png/0.png);padding: 0; }
+div.@a61401@ian@research-vessel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61402@ian@research-vessel2 {max-width:75px; max-height:75px; }
+.@a61402@ian@research-vessel2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/v/vessel/0.png/0.png);padding: 0; }
+div.@a61402@ian@research-vessel2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7e956b5ead4270562033ee02ed71b476:731fc8ea632ccec055cd956a4eb0012e:4ddb42793a59c1b7bfff1539dfc4d068$ */

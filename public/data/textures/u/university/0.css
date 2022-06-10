@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1073@awe@university {max-width:75px; max-height:75px; }
+.@a1073@awe@university::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/university/0.png/0.png);padding: 0; }
+div.@a1073@awe@university::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32108@map@university {max-width:75px; max-height:75px; }
+.@a32108@map@university::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/university/0.png/0.png);padding: 0; }
+div.@a32108@map@university::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49183@ssj@university {max-width:75px; max-height:75px; }
+.@a49183@ssj@university::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/university/0.png/0.png);padding: 0; }
+div.@a49183@ssj@university::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61891@ian@university {max-width:75px; max-height:75px; }
+.@a61891@ian@university::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/u/university/0.png/0.png);padding: 0; }
+div.@a61891@ian@university::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:aece2179fa4b044e3327670de3269d16:1b48de80507a5868f8228bf559b3805c:4ddb42793a59c1b7bfff1539dfc4d068$ */

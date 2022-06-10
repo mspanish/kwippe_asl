@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36799@mul@ceiling-light {max-width:75px; max-height:75px; }
+.@a36799@mul@ceiling-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/ceiling/0.png/0.png);padding: 0; }
+div.@a36799@mul@ceiling-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36800@mul@ceiling {max-width:75px; max-height:75px; }
+.@a36800@mul@ceiling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/ceiling/0.png/0.png);padding: 0; }
+div.@a36800@mul@ceiling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12359@gameicons-delapouite@ceiling-barnacle {max-width:75px; max-height:75px; }
+.@b12359@gameicons-delapouite@ceiling-barnacle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/ceiling/0.png/0.png);padding: 0; }
+div.@b12359@gameicons-delapouite@ceiling-barnacle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12360@gameicons-delapouite@ceiling-light {max-width:75px; max-height:75px; }
+.@b12360@gameicons-delapouite@ceiling-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/ceiling/0.png/0.png);padding: 0; }
+div.@b12360@gameicons-delapouite@ceiling-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a37126567b91aac129f0d9e097313102:34c4ac994ef7662ab0a6eee0280667fd:4ddb42793a59c1b7bfff1539dfc4d068$ */

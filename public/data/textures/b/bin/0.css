@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36584@mul@bin-bag {max-width:75px; max-height:75px; }
+.@a36584@mul@bin-bag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bin/0.png/0.png);padding: 0; }
+div.@a36584@mul@bin-bag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36585@mul@bin-bags {max-width:75px; max-height:75px; }
+.@a36585@mul@bin-bags::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bin/0.png/0.png);padding: 0; }
+div.@a36585@mul@bin-bags::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38533@mul@put-in-bin-to {max-width:75px; max-height:75px; }
+.@a38533@mul@put-in-bin-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bin/0.png/0.png);padding: 0; }
+div.@a38533@mul@put-in-bin-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39172@mul@waste-paper-bin {max-width:75px; max-height:75px; }
+.@a39172@mul@waste-paper-bin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bin/0.png/0.png);padding: 0; }
+div.@a39172@mul@waste-paper-bin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59891@ian@cooler-2 {max-width:75px; max-height:75px; }
+.@a59891@ian@cooler-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bin/0.png/0.png);padding: 0; }
+div.@a59891@ian@cooler-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5ade845d7314805d16e15b0d338d618f:50d742f1acd1abf7d8d0828d855dd200:4ddb42793a59c1b7bfff1539dfc4d068$ */

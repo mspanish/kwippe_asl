@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38354@mul@parallelogram {max-width:75px; max-height:75px; }
+.@a38354@mul@parallelogram::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/parallelogram/0.png/0.png);padding: 0; }
+div.@a38354@mul@parallelogram::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b18f21778a37a31ad02af0deda60c1a1:2137d5b1a901844664f60583aff3e036:4ddb42793a59c1b7bfff1539dfc4d068$ */

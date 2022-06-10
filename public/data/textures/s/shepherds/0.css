@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13679@gameicons-generalace135@shepherds-crook {max-width:75px; max-height:75px; }
+.@b13679@gameicons-generalace135@shepherds-crook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/shepherds/0.png/0.png);padding: 0; }
+div.@b13679@gameicons-generalace135@shepherds-crook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:87b04bb82afe0e5214475499234c8fcb:bba7c27d369a17d189f61f23ee4aa3e1:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "steps",
+    "signer": "asl2english",
+    "uid": 1724,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 46,
+            "nd": 46
+        },
+        "end": {
+            "d": 18,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "chest",
+        "chin"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "plural",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

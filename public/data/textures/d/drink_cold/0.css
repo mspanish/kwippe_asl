@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37278@mul@drink-cold-2 {max-width:75px; max-height:75px; }
+.@a37278@mul@drink-cold-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/drink_cold/0.png/0.png);padding: 0; }
+div.@a37278@mul@drink-cold-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37279@mul@drink-cold {max-width:75px; max-height:75px; }
+.@a37279@mul@drink-cold::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/drink_cold/0.png/0.png);padding: 0; }
+div.@a37279@mul@drink-cold::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c0323c1c64cd496cee729d8523b32d6a:42c453608b4e309bda26bedd839cf254:4ddb42793a59c1b7bfff1539dfc4d068$ */

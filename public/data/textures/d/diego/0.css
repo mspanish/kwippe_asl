@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61947@ian@usa-ca-san-diego-bay {max-width:75px; max-height:75px; }
+.@a61947@ian@usa-ca-san-diego-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/diego/0.png/0.png);padding: 0; }
+div.@a61947@ian@usa-ca-san-diego-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b924d43e510b3c9b6341ce2af9281da8:8c40a46e15832676a0023a2b25dde78f:4ddb42793a59c1b7bfff1539dfc4d068$ */

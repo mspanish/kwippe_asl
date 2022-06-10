@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38923@mul@swing-to {max-width:75px; max-height:75px; }
+.@a38923@mul@swing-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/swing/0.png/0.png);padding: 0; }
+div.@a38923@mul@swing-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38924@mul@swing {max-width:75px; max-height:75px; }
+.@a38924@mul@swing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/swing/0.png/0.png);padding: 0; }
+div.@a38924@mul@swing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a3894@df-amusementpark@asciitilde {max-width:75px; max-height:75px; }
+.@a3894@df-amusementpark@asciitilde::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/swing/0.png/0.png);padding: 0; }
+div.@a3894@df-amusementpark@asciitilde::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61130@ian@park-swing-set {max-width:75px; max-height:75px; }
+.@a61130@ian@park-swing-set::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/swing/0.png/0.png);padding: 0; }
+div.@a61130@ian@park-swing-set::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13080@gameicons-delapouite@pendulum-swing {max-width:75px; max-height:75px; }
+.@b13080@gameicons-delapouite@pendulum-swing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/swing/0.png/0.png);padding: 0; }
+div.@b13080@gameicons-delapouite@pendulum-swing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13525@gameicons-delapouite@tree-swing {max-width:75px; max-height:75px; }
+.@b13525@gameicons-delapouite@tree-swing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/swing/0.png/0.png);padding: 0; }
+div.@b13525@gameicons-delapouite@tree-swing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13748@gameicons-lorc@axe-swing {max-width:75px; max-height:75px; }
+.@b13748@gameicons-lorc@axe-swing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/swing/0.png/0.png);padding: 0; }
+div.@b13748@gameicons-lorc@axe-swing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0d8ddcbab1a3b2c383997f13fe273a16:c098314c84d11c7070439cc4b4eeafaf:4ddb42793a59c1b7bfff1539dfc4d068$ */

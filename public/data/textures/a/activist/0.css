@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61149@ian@people-01 {max-width:75px; max-height:75px; }
+.@a61149@ian@people-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/activist/0.png/0.png);padding: 0; }
+div.@a61149@ian@people-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62173@ian@volunteer {max-width:75px; max-height:75px; }
+.@a62173@ian@volunteer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/activist/0.png/0.png);padding: 0; }
+div.@a62173@ian@volunteer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:eb9173e06bd84e282e41db64b397eba2:c7f3c27fb9770f1c2e267a05bc8321de:4ddb42793a59c1b7bfff1539dfc4d068$ */

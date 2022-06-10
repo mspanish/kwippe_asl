@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14081@gameicons-lorc@dripping-goo {max-width:75px; max-height:75px; }
+.@b14081@gameicons-lorc@dripping-goo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/dripping_goo/0.png/0.png);padding: 0; }
+div.@b14081@gameicons-lorc@dripping-goo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d1e8bc700da17af4e1ab8acd6b88e1f9:e5ae3d355f72e0a5409273da5fcee9e2:4ddb42793a59c1b7bfff1539dfc4d068$ */

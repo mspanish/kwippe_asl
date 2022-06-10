@@ -1,0 +1,37 @@
+{
+    "sign": "fool-doll+day",
+    "signer": "asl2english",
+    "uid": 622,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 79,
+            "nd": 93
+        },
+        "end": {
+            "d": 42,
+            "nd": 93
+        }
+    },
+    "regions": [
+        "nose",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

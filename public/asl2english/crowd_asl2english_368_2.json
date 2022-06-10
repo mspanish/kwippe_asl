@@ -1,0 +1,37 @@
+{
+    "sign": "crowd",
+    "signer": "asl2english",
+    "uid": 368,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 6,
+            "nd": 6
+        },
+        "end": {
+            "d": 6,
+            "nd": 6
+        }
+    },
+    "regions": [
+        0,
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

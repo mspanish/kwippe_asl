@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a235@ara@banking-debit-machine {max-width:75px; max-height:75px; }
+.@a235@ara@banking-debit-machine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/banking/0.png/0.png);padding: 0; }
+div.@a235@ara@banking-debit-machine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a236@ara@banking-donation-2 {max-width:75px; max-height:75px; }
+.@a236@ara@banking-donation-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/banking/0.png/0.png);padding: 0; }
+div.@a236@ara@banking-donation-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a237@ara@banking-spendings-1 {max-width:75px; max-height:75px; }
+.@a237@ara@banking-spendings-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/banking/0.png/0.png);padding: 0; }
+div.@a237@ara@banking-spendings-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a238@ara@banking-spendings-2 {max-width:75px; max-height:75px; }
+.@a238@ara@banking-spendings-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/banking/0.png/0.png);padding: 0; }
+div.@a238@ara@banking-spendings-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a239@ara@banking-spendings-3 {max-width:75px; max-height:75px; }
+.@a239@ara@banking-spendings-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/banking/0.png/0.png);padding: 0; }
+div.@a239@ara@banking-spendings-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ce9c9223cf73060152c754ee8b67c338:e268954de4b65437fc33a45e784850cd:4ddb42793a59c1b7bfff1539dfc4d068$ */

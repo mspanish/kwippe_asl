@@ -1,0 +1,45 @@
+{
+    "sign": "pancake",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "open_b",
+            "nd": "open_b"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "Palm",
+        "morph1_specific_second": "Palm",
+        "morph1_contact": null,
+        "morph1_signtype": "AsymmetricalSameHandshape",
+        "morph1_movement": "Other",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalSameHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 3.0,
+    "frequency": 4.577,
+    "category": null
+}

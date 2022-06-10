@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14919@em2@face-with-thermometer {max-width:75px; max-height:75px; }
+.@a14919@em2@face-with-thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fever/0.png/0.png);padding: 0; }
+div.@a14919@em2@face-with-thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16872@emo@thermometer-face {max-width:75px; max-height:75px; }
+.@a16872@emo@thermometer-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fever/0.png/0.png);padding: 0; }
+div.@a16872@emo@thermometer-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39618@noc@face-w-thermometer {max-width:75px; max-height:75px; }
+.@a39618@noc@face-w-thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fever/0.png/0.png);padding: 0; }
+div.@a39618@noc@face-w-thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41650@nog@face-thermometer-smileys-people {max-width:75px; max-height:75px; }
+.@a41650@nog@face-thermometer-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fever/0.png/0.png);padding: 0; }
+div.@a41650@nog@face-thermometer-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49269@str@071-face-with-thermometer {max-width:75px; max-height:75px; }
+.@a49269@str@071-face-with-thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fever/0.png/0.png);padding: 0; }
+div.@a49269@str@071-face-with-thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50420@tw2@face-with-thermometer {max-width:75px; max-height:75px; }
+.@a50420@tw2@face-with-thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fever/0.png/0.png);padding: 0; }
+div.@a50420@tw2@face-with-thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4270@wikim-ladyofhats@hot_fever {max-width:75px; max-height:75px; }
+.@d4270@wikim-ladyofhats@hot_fever::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fever/0.png/0.png);padding: 0; }
+div.@d4270@wikim-ladyofhats@hot_fever::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2b425a0563f557b642eb949f5358621a:8b6fce367fb4024ed0895b03f63d2181:4ddb42793a59c1b7bfff1539dfc4d068$ */

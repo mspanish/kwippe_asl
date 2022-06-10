@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26226@her@celtic {max-width:75px; max-height:75px; }
+.@a26226@her@celtic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/celtic/0.png/0.png);padding: 0; }
+div.@a26226@her@celtic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8721@df-kufipattern@77 {max-width:75px; max-height:75px; }
+.@a8721@df-kufipattern@77::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/celtic/0.png/0.png);padding: 0; }
+div.@a8721@df-kufipattern@77::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8722@df-kufipattern@78 {max-width:75px; max-height:75px; }
+.@a8722@df-kufipattern@78::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/celtic/0.png/0.png);padding: 0; }
+div.@a8722@df-kufipattern@78::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8724@df-kufipattern@7a {max-width:75px; max-height:75px; }
+.@a8724@df-kufipattern@7a::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/celtic/0.png/0.png);padding: 0; }
+div.@a8724@df-kufipattern@7a::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1713d681e9dafcb9a63cd68bcff91a23:490d0a6039c27d9e5ab281084221bdcd:4ddb42793a59c1b7bfff1539dfc4d068$ */

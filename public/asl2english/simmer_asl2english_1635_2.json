@@ -1,0 +1,37 @@
+{
+    "sign": "simmer",
+    "signer": "asl2english",
+    "uid": 1635,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 35,
+            "nd": 93
+        },
+        "end": {
+            "d": 35,
+            "nd": 93
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

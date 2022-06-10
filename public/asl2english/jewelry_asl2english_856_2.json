@@ -1,0 +1,37 @@
+{
+    "sign": "jewelry",
+    "signer": "asl2english",
+    "uid": 856,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 3,
+            "nd": 3
+        },
+        "end": {
+            "d": 3,
+            "nd": 3
+        }
+    },
+    "regions": [
+        "chest",
+        "right"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

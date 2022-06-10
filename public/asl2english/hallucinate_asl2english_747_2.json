@@ -1,0 +1,37 @@
+{
+    "sign": "hallucinate",
+    "signer": "asl2english",
+    "uid": 747,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 76,
+            "nd": 76
+        },
+        "end": {
+            "d": 76,
+            "nd": 76
+        }
+    },
+    "regions": [
+        "temple",
+        "high-right"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

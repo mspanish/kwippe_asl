@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15191@gameicons-sbed@kevlar {max-width:75px; max-height:75px; }
+.@b15191@gameicons-sbed@kevlar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/k/kevlar/0.png/0.png);padding: 0; }
+div.@b15191@gameicons-sbed@kevlar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15333@gameicons-skoll@kevlar-vest {max-width:75px; max-height:75px; }
+.@b15333@gameicons-skoll@kevlar-vest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/k/kevlar/0.png/0.png);padding: 0; }
+div.@b15333@gameicons-skoll@kevlar-vest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:aae22ea3139e5f39e7ca5969412b03b9:7e8b6a937ef009038ec776ca1fce0091:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1525@bon@beauty-therapy-3002 {max-width:75px; max-height:75px; }
+.@a1525@bon@beauty-therapy-3002::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/beauty/0.png/0.png);padding: 0; }
+div.@a1525@bon@beauty-therapy-3002::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1935@bon@group-beauty-group-1031 {max-width:75px; max-height:75px; }
+.@a1935@bon@group-beauty-group-1031::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/beauty/0.png/0.png);padding: 0; }
+div.@a1935@bon@group-beauty-group-1031::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d33bbd401d2b5dc7c1476fc27879aee5:446877e684155474e1b73f53d20d3d13:4ddb42793a59c1b7bfff1539dfc4d068$ */

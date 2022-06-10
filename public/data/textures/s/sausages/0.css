@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38659@mul@sausages-2 {max-width:75px; max-height:75px; }
+.@a38659@mul@sausages-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sausages/0.png/0.png);padding: 0; }
+div.@a38659@mul@sausages-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38660@mul@sausages {max-width:75px; max-height:75px; }
+.@a38660@mul@sausages::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sausages/0.png/0.png);padding: 0; }
+div.@a38660@mul@sausages::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13263@gameicons-delapouite@sausages-ribbon {max-width:75px; max-height:75px; }
+.@b13263@gameicons-delapouite@sausages-ribbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sausages/0.png/0.png);padding: 0; }
+div.@b13263@gameicons-delapouite@sausages-ribbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e8009b6106286d2617792dfafdcf7188:a9959ccff87d30752893b534669f8988:4ddb42793a59c1b7bfff1539dfc4d068$ */

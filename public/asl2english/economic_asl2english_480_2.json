@@ -1,0 +1,37 @@
+{
+    "sign": "economic",
+    "signer": "asl2english",
+    "uid": 480,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 43,
+            "nd": 44
+        },
+        "end": {
+            "d": 61,
+            "nd": 43
+        }
+    },
+    "regions": [
+        0,
+        "hand"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a42709@nog@mosquito-animals-nature {max-width:75px; max-height:75px; }
+.@a42709@nog@mosquito-animals-nature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mosquito/0.png/0.png);padding: 0; }
+div.@a42709@nog@mosquito-animals-nature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46158@opg@mosquito {max-width:75px; max-height:75px; }
+.@a46158@opg@mosquito::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mosquito/0.png/0.png);padding: 0; }
+div.@a46158@opg@mosquito::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59716@ian@civil-engineering-mosquito-ditches {max-width:75px; max-height:75px; }
+.@a59716@ian@civil-engineering-mosquito-ditches::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mosquito/0.png/0.png);padding: 0; }
+div.@a59716@ian@civil-engineering-mosquito-ditches::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60926@ian@mosquito-1 {max-width:75px; max-height:75px; }
+.@a60926@ian@mosquito-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mosquito/0.png/0.png);padding: 0; }
+div.@a60926@ian@mosquito-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60927@ian@mosquito-2 {max-width:75px; max-height:75px; }
+.@a60927@ian@mosquito-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mosquito/0.png/0.png);padding: 0; }
+div.@a60927@ian@mosquito-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12139@gameicons-delapouite@amber-mosquito {max-width:75px; max-height:75px; }
+.@b12139@gameicons-delapouite@amber-mosquito::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mosquito/0.png/0.png);padding: 0; }
+div.@b12139@gameicons-delapouite@amber-mosquito::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:185068af254d83d54bb510b965b4b4b3:7071881207e2816d0292b681ef3acc5f:4ddb42793a59c1b7bfff1539dfc4d068$ */

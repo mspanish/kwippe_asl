@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27761@icf@skateboarder {max-width:75px; max-height:75px; }
+.@a27761@icf@skateboarder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/skateboard/0.png/0.png);padding: 0; }
+div.@a27761@icf@skateboarder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32082@map@skateboarding {max-width:75px; max-height:75px; }
+.@a32082@map@skateboarding::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/skateboard/0.png/0.png);padding: 0; }
+div.@a32082@map@skateboarding::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38767@mul@skate-park {max-width:75px; max-height:75px; }
+.@a38767@mul@skate-park::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/skateboard/0.png/0.png);padding: 0; }
+div.@a38767@mul@skate-park::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38768@mul@skateboard {max-width:75px; max-height:75px; }
+.@a38768@mul@skateboard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/skateboard/0.png/0.png);padding: 0; }
+div.@a38768@mul@skateboard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43417@nog@skateboard-travel-places {max-width:75px; max-height:75px; }
+.@a43417@nog@skateboard-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/skateboard/0.png/0.png);padding: 0; }
+div.@a43417@nog@skateboard-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a971ff8e8db8890abba400ec9b450f22:085c05912d5fe440b55a9023b4d2e9d5:4ddb42793a59c1b7bfff1539dfc4d068$ */

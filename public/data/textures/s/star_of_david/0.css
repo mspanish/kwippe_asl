@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15461@em2@star-of-david {max-width:75px; max-height:75px; }
+.@a15461@em2@star-of-david::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a15461@em2@star-of-david::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16827@emo@star-of-david {max-width:75px; max-height:75px; }
+.@a16827@emo@star-of-david::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a16827@emo@star-of-david::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26545@her@star-of-david {max-width:75px; max-height:75px; }
+.@a26545@her@star-of-david::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a26545@her@star-of-david::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32100@map@synagogue {max-width:75px; max-height:75px; }
+.@a32100@map@synagogue::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a32100@map@synagogue::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35331@mat@star-of-david {max-width:75px; max-height:75px; }
+.@a35331@mat@star-of-david::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a35331@mat@star-of-david::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40180@noc@star-of-david {max-width:75px; max-height:75px; }
+.@a40180@noc@star-of-david::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a40180@noc@star-of-david::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43608@nog@star-of-david-symbols {max-width:75px; max-height:75px; }
+.@a43608@nog@star-of-david-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a43608@nog@star-of-david-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45866@ope@star-david {max-width:75px; max-height:75px; }
+.@a45866@ope@star-david::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a45866@ope@star-david::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50915@tw2@star-of-david {max-width:75px; max-height:75px; }
+.@a50915@tw2@star-of-david::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/star_of_david/0.png/0.png);padding: 0; }
+div.@a50915@tw2@star-of-david::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ac7b22adf40291eccb294953f08de404:02fbe43bfb1c4d424214b2a49da0faef:4ddb42793a59c1b7bfff1539dfc4d068$ */

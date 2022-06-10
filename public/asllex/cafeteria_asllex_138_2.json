@@ -1,0 +1,45 @@
+{
+    "sign": "cafeteria",
+    "signer": "aslLex",
+    "uid": 2145,
+    "synonyms": "cafeteria, food, food service",
+    "handshapes": {
+        "begin": {
+            "d": "c",
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Chin",
+        "morph1_specific_second": "Chin",
+        "morph1_contact": null,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Z-shaped",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 3.0,
+    "frequency": 4.519,
+    "category": null
+}

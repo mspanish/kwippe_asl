@@ -1,0 +1,80 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15400@em2@slice-of-pizza {max-width:75px; max-height:75px; }
+.@a15400@em2@slice-of-pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a15400@em2@slice-of-pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16615@emo@pizza {max-width:75px; max-height:75px; }
+.@a16615@emo@pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a16615@emo@pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17244@fir@u1f355-sliceofpizza {max-width:75px; max-height:75px; }
+.@a17244@fir@u1f355-sliceofpizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a17244@fir@u1f355-sliceofpizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2364@bon@slice-1-2559 {max-width:75px; max-height:75px; }
+.@a2364@bon@slice-1-2559::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a2364@bon@slice-1-2559::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2365@bon@slice-2-2560 {max-width:75px; max-height:75px; }
+.@a2365@bon@slice-2-2560::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a2365@bon@slice-2-2560::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27695@icf@pizza-slice {max-width:75px; max-height:75px; }
+.@a27695@icf@pizza-slice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a27695@icf@pizza-slice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28768@jqe@slice-of-pizza {max-width:75px; max-height:75px; }
+.@a28768@jqe@slice-of-pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a28768@jqe@slice-of-pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34769@mat@pizza {max-width:75px; max-height:75px; }
+.@a34769@mat@pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a34769@mat@pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38779@mul@slice {max-width:75px; max-height:75px; }
+.@a38779@mul@slice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a38779@mul@slice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40119@noc@slice-of-pizza {max-width:75px; max-height:75px; }
+.@a40119@noc@slice-of-pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a40119@noc@slice-of-pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43441@nog@slice-of-pizza-food-drink {max-width:75px; max-height:75px; }
+.@a43441@nog@slice-of-pizza-food-drink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a43441@nog@slice-of-pizza-food-drink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44704@not@slice-of-pizza {max-width:75px; max-height:75px; }
+.@a44704@not@slice-of-pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a44704@not@slice-of-pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49017@ssj@fast-food-pizza {max-width:75px; max-height:75px; }
+.@a49017@ssj@fast-food-pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a49017@ssj@fast-food-pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49600@str@543-pizza-1 {max-width:75px; max-height:75px; }
+.@a49600@str@543-pizza-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a49600@str@543-pizza-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49601@str@544-pizza-2 {max-width:75px; max-height:75px; }
+.@a49601@str@544-pizza-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a49601@str@544-pizza-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54433@wav@local-pizza {max-width:75px; max-height:75px; }
+.@a54433@wav@local-pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a54433@wav@local-pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55575@web@pizza {max-width:75px; max-height:75px; }
+.@a55575@web@pizza::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a55575@web@pizza::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58906@baianet@group {max-width:75px; max-height:75px; }
+.@a58906@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a58906@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6852@df-fastfoodicons@guillemotright {max-width:75px; max-height:75px; }
+.@a6852@df-fastfoodicons@guillemotright::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a6852@df-fastfoodicons@guillemotright::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6872@df-fastfoodicons@o {max-width:75px; max-height:75px; }
+.@a6872@df-fastfoodicons@o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a6872@df-fastfoodicons@o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6906@df-fastfoodicons@two {max-width:75px; max-height:75px; }
+.@a6906@df-fastfoodicons@two::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@a6906@df-fastfoodicons@two::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13125@gameicons-delapouite@pizza-slice {max-width:75px; max-height:75px; }
+.@b13125@gameicons-delapouite@pizza-slice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@b13125@gameicons-delapouite@pizza-slice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14926@gameicons-lorc@sword-slice {max-width:75px; max-height:75px; }
+.@b14926@gameicons-lorc@sword-slice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/slice/0.png/0.png);padding: 0; }
+div.@b14926@gameicons-lorc@sword-slice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:560e8311391fe5d36c5a4572f41afa20:4f744e71e2f9edd6133b035d37302f52:4ddb42793a59c1b7bfff1539dfc4d068$ */

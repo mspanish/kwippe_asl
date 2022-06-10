@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13296@gameicons-delapouite@sharp-halberd {max-width:75px; max-height:75px; }
+.@b13296@gameicons-delapouite@sharp-halberd::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/halberd/0.png/0.png);padding: 0; }
+div.@b13296@gameicons-delapouite@sharp-halberd::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14287@gameicons-lorc@halberd-shuriken {max-width:75px; max-height:75px; }
+.@b14287@gameicons-lorc@halberd-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/halberd/0.png/0.png);padding: 0; }
+div.@b14287@gameicons-lorc@halberd-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14288@gameicons-lorc@halberd {max-width:75px; max-height:75px; }
+.@b14288@gameicons-lorc@halberd::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/halberd/0.png/0.png);padding: 0; }
+div.@b14288@gameicons-lorc@halberd::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:48899d934511ac3c7ed64d6c59bc06b4:fc79a0c2586ab0d2adf4583aa4c61835:4ddb42793a59c1b7bfff1539dfc4d068$ */

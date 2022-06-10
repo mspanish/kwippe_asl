@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13858@gameicons-lorc@broken-ribbon {max-width:75px; max-height:75px; }
+.@b13858@gameicons-lorc@broken-ribbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/broken_ribbon/0.png/0.png);padding: 0; }
+div.@b13858@gameicons-lorc@broken-ribbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:36cb474fcbb873bd646365046c127dae:054e8a0df811876087c8021814cfc8e8:4ddb42793a59c1b7bfff1539dfc4d068$ */

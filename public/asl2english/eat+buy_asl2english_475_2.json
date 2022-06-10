@@ -1,0 +1,37 @@
+{
+    "sign": "eat+buy",
+    "signer": "asl2english",
+    "uid": 475,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 51,
+            "nd": 18
+        },
+        "end": {
+            "d": 51,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "mouth",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

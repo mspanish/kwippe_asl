@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38720@mul@shave-underarm-to {max-width:75px; max-height:75px; }
+.@a38720@mul@shave-underarm-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/shave_underarm_to/0.png/0.png);padding: 0; }
+div.@a38720@mul@shave-underarm-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bb1278b6249ca7ee76e5dcff7b515fdd:79e3d86445b98bdb74296106e2c2a8fa:4ddb42793a59c1b7bfff1539dfc4d068$ */

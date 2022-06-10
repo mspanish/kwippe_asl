@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26157@her@alphyn-rampant {max-width:75px; max-height:75px; }
+.@a26157@her@alphyn-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/alphyn/0.png/0.png);padding: 0; }
+div.@a26157@her@alphyn-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2bcc731358373d52f3d7d8f386ba2912:bc32e72d913857011014554ddeb52ef9:4ddb42793a59c1b7bfff1539dfc4d068$ */

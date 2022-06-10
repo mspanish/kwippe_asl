@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14823@gameicons-lorc@spiky-eclipse {max-width:75px; max-height:75px; }
+.@b14823@gameicons-lorc@spiky-eclipse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/spiky_eclipse/0.png/0.png);padding: 0; }
+div.@b14823@gameicons-lorc@spiky-eclipse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2edc0c362a9ae693b30bb73ddd771ae3:89e4416ba6842ab5c158140b0d453f48:4ddb42793a59c1b7bfff1539dfc4d068$ */

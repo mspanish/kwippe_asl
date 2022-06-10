@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2255@bon@relationships-getting-along-6046 {max-width:75px; max-height:75px; }
+.@a2255@bon@relationships-getting-along-6046::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/relationships_getting_along/0.png/0.png);padding: 0; }
+div.@a2255@bon@relationships-getting-along-6046::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9fd3efb31cedbaa06dffacedacfebbc6:9f8f65e789dceec20eedf777b5e4958f:4ddb42793a59c1b7bfff1539dfc4d068$ */

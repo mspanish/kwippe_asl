@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36482@mul@aunt-paternal {max-width:75px; max-height:75px; }
+.@a36482@mul@aunt-paternal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/paternal/0.png/0.png);padding: 0; }
+div.@a36482@mul@aunt-paternal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39107@mul@uncle-paternal {max-width:75px; max-height:75px; }
+.@a39107@mul@uncle-paternal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/paternal/0.png/0.png);padding: 0; }
+div.@a39107@mul@uncle-paternal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c397b797776cbc4d92a9c619271ca5e8:e3a2f21a29faba7570fdb96a0dc9d1c4:4ddb42793a59c1b7bfff1539dfc4d068$ */

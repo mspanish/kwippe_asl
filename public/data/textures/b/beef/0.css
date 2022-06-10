@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36561@mul@beef {max-width:75px; max-height:75px; }
+.@a36561@mul@beef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/beef/0.png/0.png);padding: 0; }
+div.@a36561@mul@beef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36985@mul@corned-beef {max-width:75px; max-height:75px; }
+.@a36985@mul@corned-beef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/beef/0.png/0.png);padding: 0; }
+div.@a36985@mul@corned-beef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59476@ian@beef-dairy-farming2 {max-width:75px; max-height:75px; }
+.@a59476@ian@beef-dairy-farming2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/beef/0.png/0.png);padding: 0; }
+div.@a59476@ian@beef-dairy-farming2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61642@ian@slaughterhouse-abattoir {max-width:75px; max-height:75px; }
+.@a61642@ian@slaughterhouse-abattoir::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/beef/0.png/0.png);padding: 0; }
+div.@a61642@ian@slaughterhouse-abattoir::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:77b24d215d34d78899942b1fdf101a18:c4add80377b8e4069a6ff251ae0f04b6:4ddb42793a59c1b7bfff1539dfc4d068$ */

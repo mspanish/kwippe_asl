@@ -1,0 +1,37 @@
+{
+    "sign": "all-right",
+    "signer": "asl2english",
+    "uid": 39,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 18
+        },
+        "end": {
+            "d": 36,
+            "nd": 36
+        }
+    },
+    "regions": [
+        0,
+        "hand"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

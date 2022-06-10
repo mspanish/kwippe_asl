@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37379@mul@eyes-green {max-width:75px; max-height:75px; }
+.@a37379@mul@eyes-green::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/eyes_green/0.png/0.png);padding: 0; }
+div.@a37379@mul@eyes-green::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2e6b6819c4db5cdff23e59be276351ba:9edf60900afc28a803b7b349bcdd71f2:4ddb42793a59c1b7bfff1539dfc4d068$ */

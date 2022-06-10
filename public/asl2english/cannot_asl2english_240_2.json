@@ -1,0 +1,37 @@
+{
+    "sign": "cannot",
+    "signer": "asl2english",
+    "uid": 240,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": 1
+        },
+        "end": {
+            "d": 1,
+            "nd": 1
+        }
+    },
+    "regions": [
+        "hand",
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

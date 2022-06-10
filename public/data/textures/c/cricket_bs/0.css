@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1700@bon@cricket-bs-8501-9011 {max-width:75px; max-height:75px; }
+.@a1700@bon@cricket-bs-8501-9011::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cricket_bs/0.png/0.png);padding: 0; }
+div.@a1700@bon@cricket-bs-8501-9011::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dc1dd5e8af6d41888713e4e58e728f92:8e1faf2dbc6d1822eaf2b3aba4720abc:4ddb42793a59c1b7bfff1539dfc4d068$ */

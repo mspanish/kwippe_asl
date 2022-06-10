@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48819@solver@3-idea-guy {max-width:75px; max-height:75px; }
+.@a48819@solver@3-idea-guy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/i/idea_guy/0.png/0.png);padding: 0; }
+div.@a48819@solver@3-idea-guy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48879@solver@5-idea-guy {max-width:75px; max-height:75px; }
+.@a48879@solver@5-idea-guy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/i/idea_guy/0.png/0.png);padding: 0; }
+div.@a48879@solver@5-idea-guy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c9478337cfc2d6a5bc39801d738369d1:bc170dadb0cc8aa4a286537cda8dafb2:4ddb42793a59c1b7bfff1539dfc4d068$ */

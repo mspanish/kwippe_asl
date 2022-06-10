@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59630@ian@caulerpa-filiformis {max-width:75px; max-height:75px; }
+.@a59630@ian@caulerpa-filiformis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/caulerpa/0.png/0.png);padding: 0; }
+div.@a59630@ian@caulerpa-filiformis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59631@ian@caulerpa-racemosa-1 {max-width:75px; max-height:75px; }
+.@a59631@ian@caulerpa-racemosa-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/caulerpa/0.png/0.png);padding: 0; }
+div.@a59631@ian@caulerpa-racemosa-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59632@ian@caulerpa-racemosa-2 {max-width:75px; max-height:75px; }
+.@a59632@ian@caulerpa-racemosa-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/caulerpa/0.png/0.png);padding: 0; }
+div.@a59632@ian@caulerpa-racemosa-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59633@ian@caulerpa-taxifolia {max-width:75px; max-height:75px; }
+.@a59633@ian@caulerpa-taxifolia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/caulerpa/0.png/0.png);padding: 0; }
+div.@a59633@ian@caulerpa-taxifolia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7451485bf906f8655f44d4c9979d9457:5230febfe1b8b93a4e599ecd301448d4:4ddb42793a59c1b7bfff1539dfc4d068$ */

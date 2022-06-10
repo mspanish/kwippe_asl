@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38136@mul@mash-potato-1 {max-width:75px; max-height:75px; }
+.@a38136@mul@mash-potato-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mashed/0.png/0.png);padding: 0; }
+div.@a38136@mul@mash-potato-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38137@mul@mash-potato-2 {max-width:75px; max-height:75px; }
+.@a38137@mul@mash-potato-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mashed/0.png/0.png);padding: 0; }
+div.@a38137@mul@mash-potato-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38138@mul@mash-potato-to {max-width:75px; max-height:75px; }
+.@a38138@mul@mash-potato-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mashed/0.png/0.png);padding: 0; }
+div.@a38138@mul@mash-potato-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bdec7c91e695fb8af5dfa446e79ed281:83d912a8420430ec0cb46d5f72d1e9cc:4ddb42793a59c1b7bfff1539dfc4d068$ */

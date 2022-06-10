@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15050@gameicons-lorc@viola {max-width:75px; max-height:75px; }
+.@b15050@gameicons-lorc@viola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/v/viola/0.png/0.png);padding: 0; }
+div.@b15050@gameicons-lorc@viola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a0ca2225698af308a1105e7231a1fe2c:a9362a1d32e2f9cc5dd392956382a95b:4ddb42793a59c1b7bfff1539dfc4d068$ */

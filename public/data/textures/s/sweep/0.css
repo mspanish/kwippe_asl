@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2443@bon@sweep-the-floor-2563 {max-width:75px; max-height:75px; }
+.@a2443@bon@sweep-the-floor-2563::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sweep/0.png/0.png);padding: 0; }
+div.@a2443@bon@sweep-the-floor-2563::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2479@bon@task-sweep-the-floor-6087 {max-width:75px; max-height:75px; }
+.@a2479@bon@task-sweep-the-floor-6087::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sweep/0.png/0.png);padding: 0; }
+div.@a2479@bon@task-sweep-the-floor-6087::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14642@gameicons-lorc@radar-sweep {max-width:75px; max-height:75px; }
+.@b14642@gameicons-lorc@radar-sweep::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sweep/0.png/0.png);padding: 0; }
+div.@b14642@gameicons-lorc@radar-sweep::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ba95e9e504b88f69a3e459e77dfdc0f:dfc03b7b08a10d3dce23ac053386e8f4:4ddb42793a59c1b7bfff1539dfc4d068$ */

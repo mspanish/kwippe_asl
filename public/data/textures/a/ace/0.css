@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38465@mul@playing-cards-hearts {max-width:75px; max-height:75px; }
+.@a38465@mul@playing-cards-hearts::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a38465@mul@playing-cards-hearts::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45626@ope@nicubunu_ornamental_deck_ace_of_clubs {max-width:75px; max-height:75px; }
+.@a45626@ope@nicubunu_ornamental_deck_ace_of_clubs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a45626@ope@nicubunu_ornamental_deck_ace_of_clubs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45627@ope@nicubunu_ornamental_deck_ace_of_diamonds {max-width:75px; max-height:75px; }
+.@a45627@ope@nicubunu_ornamental_deck_ace_of_diamonds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a45627@ope@nicubunu_ornamental_deck_ace_of_diamonds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45628@ope@nicubunu_ornamental_deck_ace_of_hearts {max-width:75px; max-height:75px; }
+.@a45628@ope@nicubunu_ornamental_deck_ace_of_hearts::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a45628@ope@nicubunu_ornamental_deck_ace_of_hearts::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45629@ope@nicubunu_ornamental_deck_ace_of_spades {max-width:75px; max-height:75px; }
+.@a45629@ope@nicubunu_ornamental_deck_ace_of_spades::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a45629@ope@nicubunu_ornamental_deck_ace_of_spades::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45740@ope@nicubunu_white_deck_ace_of_clubs {max-width:75px; max-height:75px; }
+.@a45740@ope@nicubunu_white_deck_ace_of_clubs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a45740@ope@nicubunu_white_deck_ace_of_clubs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45741@ope@nicubunu_white_deck_ace_of_diamonds {max-width:75px; max-height:75px; }
+.@a45741@ope@nicubunu_white_deck_ace_of_diamonds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a45741@ope@nicubunu_white_deck_ace_of_diamonds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45742@ope@nicubunu_white_deck_ace_of_hearts {max-width:75px; max-height:75px; }
+.@a45742@ope@nicubunu_white_deck_ace_of_hearts::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a45742@ope@nicubunu_white_deck_ace_of_hearts::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45743@ope@nicubunu_white_deck_ace_of_spades {max-width:75px; max-height:75px; }
+.@a45743@ope@nicubunu_white_deck_ace_of_spades::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@a45743@ope@nicubunu_white_deck_ace_of_spades::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12037@gameicons-aussiesim@card-ace-clubs {max-width:75px; max-height:75px; }
+.@b12037@gameicons-aussiesim@card-ace-clubs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@b12037@gameicons-aussiesim@card-ace-clubs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12038@gameicons-aussiesim@card-ace-diamonds {max-width:75px; max-height:75px; }
+.@b12038@gameicons-aussiesim@card-ace-diamonds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@b12038@gameicons-aussiesim@card-ace-diamonds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12039@gameicons-aussiesim@card-ace-hearts {max-width:75px; max-height:75px; }
+.@b12039@gameicons-aussiesim@card-ace-hearts::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@b12039@gameicons-aussiesim@card-ace-hearts::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12040@gameicons-aussiesim@card-ace-spades {max-width:75px; max-height:75px; }
+.@b12040@gameicons-aussiesim@card-ace-spades::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@b12040@gameicons-aussiesim@card-ace-spades::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13693@gameicons-lorc@ace {max-width:75px; max-height:75px; }
+.@b13693@gameicons-lorc@ace::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@b13693@gameicons-lorc@ace::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14162@gameicons-lorc@fire-ace {max-width:75px; max-height:75px; }
+.@b14162@gameicons-lorc@fire-ace::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/a/ace/0.png/0.png);padding: 0; }
+div.@b14162@gameicons-lorc@fire-ace::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:18bf42a892a73384f72663e107781ad3:68779736939c0b96528f3cd3778edc93:4ddb42793a59c1b7bfff1539dfc4d068$ */

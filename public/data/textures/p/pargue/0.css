@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60764@ian@lutjanus-jocu {max-width:75px; max-height:75px; }
+.@a60764@ian@lutjanus-jocu::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/pargue/0.png/0.png);padding: 0; }
+div.@a60764@ian@lutjanus-jocu::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5afc012d910c39c5e84c93b40a270891:5302d8da4d39e813979cc1c98be3cb00:4ddb42793a59c1b7bfff1539dfc4d068$ */

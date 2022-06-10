@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25741@gli@parsnip {max-width:75px; max-height:75px; }
+.@a25741@gli@parsnip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/parsnip/0.png/0.png);padding: 0; }
+div.@a25741@gli@parsnip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38359@mul@parsnip {max-width:75px; max-height:75px; }
+.@a38359@mul@parsnip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/parsnip/0.png/0.png);padding: 0; }
+div.@a38359@mul@parsnip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46209@opg@parsnips {max-width:75px; max-height:75px; }
+.@a46209@opg@parsnips::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/parsnip/0.png/0.png);padding: 0; }
+div.@a46209@opg@parsnips::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4c972417228a56358c050848b42ac9a9:7b6e1cecb8d655e241a120b5b3d93b60:4ddb42793a59c1b7bfff1539dfc4d068$ */

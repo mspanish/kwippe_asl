@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61817@ian@toxic-sign {max-width:75px; max-height:75px; }
+.@a61817@ian@toxic-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/deadly/0.png/0.png);padding: 0; }
+div.@a61817@ian@toxic-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14030@gameicons-lorc@deadly-strike {max-width:75px; max-height:75px; }
+.@b14030@gameicons-lorc@deadly-strike::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/deadly/0.png/0.png);padding: 0; }
+div.@b14030@gameicons-lorc@deadly-strike::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1182051bb80b7299629bff09799cea2c:5a6f557c15c4dd734930948a71660aab:4ddb42793a59c1b7bfff1539dfc4d068$ */

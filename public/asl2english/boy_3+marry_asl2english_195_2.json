@@ -1,0 +1,37 @@
+{
+    "sign": "boy_3+marry",
+    "signer": "asl2english",
+    "uid": 195,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 60,
+            "nd": 36
+        },
+        "end": {
+            "d": 1,
+            "nd": null
+        }
+    },
+    "regions": [
+        "temple",
+        "chest-front"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

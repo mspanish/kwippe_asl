@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a13823@digerati@arquiterura0009 {max-width:75px; max-height:75px; }
+.@a13823@digerati@arquiterura0009::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/london_tower/0.png/0.png);padding: 0; }
+div.@a13823@digerati@arquiterura0009::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a13824@digerati@arquiterura0010 {max-width:75px; max-height:75px; }
+.@a13824@digerati@arquiterura0010::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/london_tower/0.png/0.png);padding: 0; }
+div.@a13824@digerati@arquiterura0010::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45449@ope@monument_ee90y {max-width:75px; max-height:75px; }
+.@a45449@ope@monument_ee90y::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/london_tower/0.png/0.png);padding: 0; }
+div.@a45449@ope@monument_ee90y::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:da52be01970671d1954885332e7c482b:7b281fba25dbe85b651b3ce1e93f776d:4ddb42793a59c1b7bfff1539dfc4d068$ */

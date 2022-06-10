@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59380@ian@arecaceae-1 {max-width:75px; max-height:75px; }
+.@a59380@ian@arecaceae-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rainforest/0.png/0.png);padding: 0; }
+div.@a59380@ian@arecaceae-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59381@ian@arecaceae2 {max-width:75px; max-height:75px; }
+.@a59381@ian@arecaceae2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rainforest/0.png/0.png);padding: 0; }
+div.@a59381@ian@arecaceae2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60360@ian@generic-tree-rainforest-1 {max-width:75px; max-height:75px; }
+.@a60360@ian@generic-tree-rainforest-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rainforest/0.png/0.png);padding: 0; }
+div.@a60360@ian@generic-tree-rainforest-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60361@ian@generic-tree-rainforest-2 {max-width:75px; max-height:75px; }
+.@a60361@ian@generic-tree-rainforest-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rainforest/0.png/0.png);padding: 0; }
+div.@a60361@ian@generic-tree-rainforest-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60362@ian@generic-tree-rainforest-3 {max-width:75px; max-height:75px; }
+.@a60362@ian@generic-tree-rainforest-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rainforest/0.png/0.png);padding: 0; }
+div.@a60362@ian@generic-tree-rainforest-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61150@ian@peperomia-spp {max-width:75px; max-height:75px; }
+.@a61150@ian@peperomia-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rainforest/0.png/0.png);padding: 0; }
+div.@a61150@ian@peperomia-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e5ee787b03350cc035aafc1c4076f619:af59fe28302043dd989d526173a224ca:4ddb42793a59c1b7bfff1539dfc4d068$ */

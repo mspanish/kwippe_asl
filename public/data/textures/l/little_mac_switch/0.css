@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38085@mul@little-mac-switch {max-width:75px; max-height:75px; }
+.@a38085@mul@little-mac-switch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/little_mac_switch/0.png/0.png);padding: 0; }
+div.@a38085@mul@little-mac-switch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f649863b3aec041a0bd9bf038843abfd:569f1f58060aacafe96e20fb354d9513:4ddb42793a59c1b7bfff1539dfc4d068$ */

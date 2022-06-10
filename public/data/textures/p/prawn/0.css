@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38509@mul@prawn {max-width:75px; max-height:75px; }
+.@a38509@mul@prawn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/prawn/0.png/0.png);padding: 0; }
+div.@a38509@mul@prawn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60779@ian@macrobrachium-jelskii {max-width:75px; max-height:75px; }
+.@a60779@ian@macrobrachium-jelskii::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/prawn/0.png/0.png);padding: 0; }
+div.@a60779@ian@macrobrachium-jelskii::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61143@ian@penaeus-monodon {max-width:75px; max-height:75px; }
+.@a61143@ian@penaeus-monodon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/prawn/0.png/0.png);padding: 0; }
+div.@a61143@ian@penaeus-monodon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61282@ian@prawn_trawler {max-width:75px; max-height:75px; }
+.@a61282@ian@prawn_trawler::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/prawn/0.png/0.png);padding: 0; }
+div.@a61282@ian@prawn_trawler::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61700@ian@stomatopod {max-width:75px; max-height:75px; }
+.@a61700@ian@stomatopod::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/prawn/0.png/0.png);padding: 0; }
+div.@a61700@ian@stomatopod::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c8068a53659035654c11af720d78dcee:38954dfc0b5fc0b88cdf45179e290b85:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,101 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14638@em2@bar-chart {max-width:75px; max-height:75px; }
+.@a14638@em2@bar-chart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a14638@em2@bar-chart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1514@bon@bar-4018 {max-width:75px; max-height:75px; }
+.@a1514@bon@bar-4018::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a1514@bon@bar-4018::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15690@emo@bar-chart {max-width:75px; max-height:75px; }
+.@a15690@emo@bar-chart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a15690@emo@bar-chart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17597@fir@u1f4ca-barchart {max-width:75px; max-height:75px; }
+.@a17597@fir@u1f4ca-barchart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a17597@fir@u1f4ca-barchart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26647@ibm@bar-chart-r {max-width:75px; max-height:75px; }
+.@a26647@ibm@bar-chart-r::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a26647@ibm@bar-chart-r::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26648@ibm@bar-chart-t {max-width:75px; max-height:75px; }
+.@a26648@ibm@bar-chart-t::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a26648@ibm@bar-chart-t::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27295@icf@clipboard-chart-bar {max-width:75px; max-height:75px; }
+.@a27295@icf@clipboard-chart-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a27295@icf@clipboard-chart-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28179@jqe@bar-chart {max-width:75px; max-height:75px; }
+.@a28179@jqe@bar-chart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a28179@jqe@bar-chart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36003@met@chart-bars2 {max-width:75px; max-height:75px; }
+.@a36003@met@chart-bars2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a36003@met@chart-bars2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36730@mul@cake-bar {max-width:75px; max-height:75px; }
+.@a36730@mul@cake-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a36730@mul@cake-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37788@mul@gold-bar {max-width:75px; max-height:75px; }
+.@a37788@mul@gold-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a37788@mul@gold-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38814@mul@space-bar {max-width:75px; max-height:75px; }
+.@a38814@mul@space-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a38814@mul@space-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39320@noc@bar-chart {max-width:75px; max-height:75px; }
+.@a39320@noc@bar-chart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a39320@noc@bar-chart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40554@nog@bar-chart-objects {max-width:75px; max-height:75px; }
+.@a40554@nog@bar-chart-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a40554@nog@bar-chart-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49789@str@732-bar-chart {max-width:75px; max-height:75px; }
+.@a49789@str@732-bar-chart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a49789@str@732-bar-chart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50204@tw2@bar-chart {max-width:75px; max-height:75px; }
+.@a50204@tw2@bar-chart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a50204@tw2@bar-chart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53075@vaa@chart-3d {max-width:75px; max-height:75px; }
+.@a53075@vaa@chart-3d::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a53075@vaa@chart-3d::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53337@vaa@line_bar {max-width:75px; max-height:75px; }
+.@a53337@vaa@line_bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a53337@vaa@line_bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53419@vaa@pie_bar {max-width:75px; max-height:75px; }
+.@a53419@vaa@pie_bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a53419@vaa@pie_bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54353@wav@insert-chart {max-width:75px; max-height:75px; }
+.@a54353@wav@insert-chart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a54353@wav@insert-chart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55145@web@insert-bar-chart {max-width:75px; max-height:75px; }
+.@a55145@web@insert-bar-chart::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a55145@web@insert-bar-chart::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59764@ian@coastline-3d-barrier-island-bar {max-width:75px; max-height:75px; }
+.@a59764@ian@coastline-3d-barrier-island-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a59764@ian@coastline-3d-barrier-island-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60161@ian@estuary-2d-open-with-sand-bar {max-width:75px; max-height:75px; }
+.@a60161@ian@estuary-2d-open-with-sand-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a60161@ian@estuary-2d-open-with-sand-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60166@ian@estuary-2d-sand-bar {max-width:75px; max-height:75px; }
+.@a60166@ian@estuary-2d-sand-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a60166@ian@estuary-2d-sand-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61545@ian@scale-bar-km-vs-miles {max-width:75px; max-height:75px; }
+.@a61545@ian@scale-bar-km-vs-miles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a61545@ian@scale-bar-km-vs-miles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61546@ian@scale-bar {max-width:75px; max-height:75px; }
+.@a61546@ian@scale-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@a61546@ian@scale-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12885@gameicons-delapouite@life-bar {max-width:75px; max-height:75px; }
+.@b12885@gameicons-delapouite@life-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@b12885@gameicons-delapouite@life-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13795@gameicons-lorc@black-bar {max-width:75px; max-height:75px; }
+.@b13795@gameicons-lorc@black-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@b13795@gameicons-lorc@black-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14495@gameicons-lorc@metal-bar {max-width:75px; max-height:75px; }
+.@b14495@gameicons-lorc@metal-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@b14495@gameicons-lorc@metal-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15545@gameicons-willdabeast@gold-bar {max-width:75px; max-height:75px; }
+.@b15545@gameicons-willdabeast@gold-bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/b/bar/0.png/0.png);padding: 0; }
+div.@b15545@gameicons-willdabeast@gold-bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:255189776c48d535bb4a9137392040aa:6cb76b8c9407b8fa3c9336649994ea6f:4ddb42793a59c1b7bfff1539dfc4d068$ */

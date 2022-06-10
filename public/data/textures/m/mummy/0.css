@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61643@ian@sleeping-bag {max-width:75px; max-height:75px; }
+.@a61643@ian@sleeping-bag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mummy/0.png/0.png);padding: 0; }
+div.@a61643@ian@sleeping-bag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12991@gameicons-delapouite@mummy-head {max-width:75px; max-height:75px; }
+.@b12991@gameicons-delapouite@mummy-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mummy/0.png/0.png);padding: 0; }
+div.@b12991@gameicons-delapouite@mummy-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:68b35a61d3b849b61bfdc8e60561e2a6:f6e51934dfe61fc89658735e3a5e9bf8:4ddb42793a59c1b7bfff1539dfc4d068$ */

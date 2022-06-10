@@ -1,0 +1,37 @@
+{
+    "sign": "can+open can",
+    "signer": "asl2english",
+    "uid": 236,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 30,
+            "nd": 30
+        },
+        "end": {
+            "d": 14,
+            "nd": 30
+        }
+    },
+    "regions": [
+        "chest",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

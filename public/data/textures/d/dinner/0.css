@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15290@em2@pot-of-food {max-width:75px; max-height:75px; }
+.@a15290@em2@pot-of-food::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a15290@em2@pot-of-food::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17273@fir@u1f372-potoffood {max-width:75px; max-height:75px; }
+.@a17273@fir@u1f372-potoffood::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a17273@fir@u1f372-potoffood::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25806@gli@potians-feast {max-width:75px; max-height:75px; }
+.@a25806@gli@potians-feast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a25806@gli@potians-feast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28687@jqe@pot-of-food {max-width:75px; max-height:75px; }
+.@a28687@jqe@pot-of-food::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a28687@jqe@pot-of-food::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37220@mul@dinner-2-people {max-width:75px; max-height:75px; }
+.@a37220@mul@dinner-2-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a37220@mul@dinner-2-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37221@mul@dinner-3-people {max-width:75px; max-height:75px; }
+.@a37221@mul@dinner-3-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a37221@mul@dinner-3-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37222@mul@dinner-cold {max-width:75px; max-height:75px; }
+.@a37222@mul@dinner-cold::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a37222@mul@dinner-cold::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37223@mul@dinner-hot {max-width:75px; max-height:75px; }
+.@a37223@mul@dinner-hot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a37223@mul@dinner-hot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37224@mul@dinner-lady-1a {max-width:75px; max-height:75px; }
+.@a37224@mul@dinner-lady-1a::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a37224@mul@dinner-lady-1a::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37225@mul@dinner-time-1 {max-width:75px; max-height:75px; }
+.@a37225@mul@dinner-time-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a37225@mul@dinner-time-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37226@mul@dinner-time {max-width:75px; max-height:75px; }
+.@a37226@mul@dinner-time::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a37226@mul@dinner-time::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37227@mul@dinner {max-width:75px; max-height:75px; }
+.@a37227@mul@dinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a37227@mul@dinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38118@mul@main-course {max-width:75px; max-height:75px; }
+.@a38118@mul@main-course::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a38118@mul@main-course::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38600@mul@roast-dinner {max-width:75px; max-height:75px; }
+.@a38600@mul@roast-dinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a38600@mul@roast-dinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40011@noc@pot-of-food {max-width:75px; max-height:75px; }
+.@a40011@noc@pot-of-food::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a40011@noc@pot-of-food::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44633@not@pot-of-food {max-width:75px; max-height:75px; }
+.@a44633@not@pot-of-food::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a44633@not@pot-of-food::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50773@tw2@pot-of-food {max-width:75px; max-height:75px; }
+.@a50773@tw2@pot-of-food::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dinner/0.png/0.png);padding: 0; }
+div.@a50773@tw2@pot-of-food::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bb73423f67d7543cf19d73e4643e5661:4e2ae7da5fad6f9595458c384935e9b1:4ddb42793a59c1b7bfff1539dfc4d068$ */

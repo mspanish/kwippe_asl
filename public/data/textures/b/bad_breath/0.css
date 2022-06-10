@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12197@gameicons-delapouite@bad-breath {max-width:75px; max-height:75px; }
+.@b12197@gameicons-delapouite@bad-breath::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/bad_breath/0.png/0.png);padding: 0; }
+div.@b12197@gameicons-delapouite@bad-breath::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:28022a1c3af8eeb5deb82fb2a3eabcb4:42eac30b8eca55d958f4444cf3005692:4ddb42793a59c1b7bfff1539dfc4d068$ */

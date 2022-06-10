@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1599@bon@clear-dishes-2513 {max-width:75px; max-height:75px; }
+.@a1599@bon@clear-dishes-2513::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/clear_dishes/0.png/0.png);padding: 0; }
+div.@a1599@bon@clear-dishes-2513::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0dd5dd766776c056e875a0a0941dc70e:a446f156a323ca75d681a76bf918a8c7:4ddb42793a59c1b7bfff1539dfc4d068$ */

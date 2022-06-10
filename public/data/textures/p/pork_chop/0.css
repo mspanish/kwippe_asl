@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38490@mul@pork-chop {max-width:75px; max-height:75px; }
+.@a38490@mul@pork-chop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/pork_chop/0.png/0.png);padding: 0; }
+div.@a38490@mul@pork-chop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e57e6fbd50a770b2023f00e43a0a2d66:6868cd0e26b89a3c176ba8695bc0e124:4ddb42793a59c1b7bfff1539dfc4d068$ */

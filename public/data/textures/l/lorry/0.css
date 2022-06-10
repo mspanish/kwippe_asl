@@ -1,0 +1,95 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14608@em2@articulated-lorry {max-width:75px; max-height:75px; }
+.@a14608@em2@articulated-lorry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a14608@em2@articulated-lorry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14827@em2@delivery-truck {max-width:75px; max-height:75px; }
+.@a14827@em2@delivery-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a14827@em2@delivery-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17978@fir@deliverytruck {max-width:75px; max-height:75px; }
+.@a17978@fir@deliverytruck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a17978@fir@deliverytruck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17979@fir@articulatedlorry {max-width:75px; max-height:75px; }
+.@a17979@fir@articulatedlorry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a17979@fir@articulatedlorry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28156@jqe@articulated-lorry {max-width:75px; max-height:75px; }
+.@a28156@jqe@articulated-lorry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a28156@jqe@articulated-lorry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28322@jqe@delivery-truck {max-width:75px; max-height:75px; }
+.@a28322@jqe@delivery-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a28322@jqe@delivery-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37301@mul@dumper-truck {max-width:75px; max-height:75px; }
+.@a37301@mul@dumper-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a37301@mul@dumper-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37729@mul@fork-lift-truck {max-width:75px; max-height:75px; }
+.@a37729@mul@fork-lift-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a37729@mul@fork-lift-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38095@mul@lorry-2 {max-width:75px; max-height:75px; }
+.@a38095@mul@lorry-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a38095@mul@lorry-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38096@mul@lorry {max-width:75px; max-height:75px; }
+.@a38096@mul@lorry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a38096@mul@lorry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38577@mul@refuse-lorry {max-width:75px; max-height:75px; }
+.@a38577@mul@refuse-lorry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a38577@mul@refuse-lorry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39291@noc@articulated-lorry {max-width:75px; max-height:75px; }
+.@a39291@noc@articulated-lorry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a39291@noc@articulated-lorry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39526@noc@delivery-truck {max-width:75px; max-height:75px; }
+.@a39526@noc@delivery-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a39526@noc@delivery-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40433@nog@articulated-lorry-travel-places {max-width:75px; max-height:75px; }
+.@a40433@nog@articulated-lorry-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a40433@nog@articulated-lorry-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40447@nog@auto-rickshaw-travel-places-transport-ground {max-width:75px; max-height:75px; }
+.@a40447@nog@auto-rickshaw-travel-places-transport-ground::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a40447@nog@auto-rickshaw-travel-places-transport-ground::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41329@nog@delivery-truck-travel-places {max-width:75px; max-height:75px; }
+.@a41329@nog@delivery-truck-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a41329@nog@delivery-truck-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49670@str@613-delivery-truck {max-width:75px; max-height:75px; }
+.@a49670@str@613-delivery-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a49670@str@613-delivery-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50180@tw2@articulated-lorry {max-width:75px; max-height:75px; }
+.@a50180@tw2@articulated-lorry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a50180@tw2@articulated-lorry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50360@tw2@delivery-truck {max-width:75px; max-height:75px; }
+.@a50360@tw2@delivery-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a50360@tw2@delivery-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53657@videoplasty@delivery_truck_flat_icon_vector {max-width:75px; max-height:75px; }
+.@a53657@videoplasty@delivery_truck_flat_icon_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a53657@videoplasty@delivery_truck_flat_icon_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60340@ian@freight-semi-trailer-truck {max-width:75px; max-height:75px; }
+.@a60340@ian@freight-semi-trailer-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a60340@ian@freight-semi-trailer-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60741@ian@logging-truck {max-width:75px; max-height:75px; }
+.@a60741@ian@logging-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a60741@ian@logging-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61157@ian@petroleum-industry-mining-truck {max-width:75px; max-height:75px; }
+.@a61157@ian@petroleum-industry-mining-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a61157@ian@petroleum-industry-mining-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61188@ian@pickup-truck {max-width:75px; max-height:75px; }
+.@a61188@ian@pickup-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a61188@ian@pickup-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61492@ian@road-salt-truck {max-width:75px; max-height:75px; }
+.@a61492@ian@road-salt-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a61492@ian@road-salt-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61620@ian@septic-truck-01 {max-width:75px; max-height:75px; }
+.@a61620@ian@septic-truck-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a61620@ian@septic-truck-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62151@ian@vehicle-dump-truck {max-width:75px; max-height:75px; }
+.@a62151@ian@vehicle-dump-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@a62151@ian@vehicle-dump-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12648@gameicons-delapouite@food-truck {max-width:75px; max-height:75px; }
+.@b12648@gameicons-delapouite@food-truck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/l/lorry/0.png/0.png);padding: 0; }
+div.@b12648@gameicons-delapouite@food-truck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7431bfd910933bdf2e8a3cc02749e48e:d83d22977b3d50ed66e5338c2df9b2e9:4ddb42793a59c1b7bfff1539dfc4d068$ */

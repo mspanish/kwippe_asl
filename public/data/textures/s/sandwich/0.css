@@ -1,0 +1,65 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a13786@digerati@alimento0101 {max-width:75px; max-height:75px; }
+.@a13786@digerati@alimento0101::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a13786@digerati@alimento0101::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2288@bon@sandwich-1273 {max-width:75px; max-height:75px; }
+.@a2288@bon@sandwich-1273::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a2288@bon@sandwich-1273::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2289@bon@sandwich-2297 {max-width:75px; max-height:75px; }
+.@a2289@bon@sandwich-2297::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a2289@bon@sandwich-2297::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2290@bon@sandwich-tin-2551 {max-width:75px; max-height:75px; }
+.@a2290@bon@sandwich-tin-2551::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a2290@bon@sandwich-tin-2551::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25740@gli@panini-sandwich {max-width:75px; max-height:75px; }
+.@a25740@gli@panini-sandwich::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a25740@gli@panini-sandwich::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36833@mul@cheese-on-toast-melted {max-width:75px; max-height:75px; }
+.@a36833@mul@cheese-on-toast-melted::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a36833@mul@cheese-on-toast-melted::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37590@mul@flag-s-georgia-sandwich-isles {max-width:75px; max-height:75px; }
+.@a37590@mul@flag-s-georgia-sandwich-isles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a37590@mul@flag-s-georgia-sandwich-isles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38639@mul@sandwich-cheese {max-width:75px; max-height:75px; }
+.@a38639@mul@sandwich-cheese::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a38639@mul@sandwich-cheese::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38640@mul@sandwich-chicken {max-width:75px; max-height:75px; }
+.@a38640@mul@sandwich-chicken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a38640@mul@sandwich-chicken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38641@mul@sandwich-ham {max-width:75px; max-height:75px; }
+.@a38641@mul@sandwich-ham::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a38641@mul@sandwich-ham::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38642@mul@sandwich-sausage {max-width:75px; max-height:75px; }
+.@a38642@mul@sandwich-sausage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a38642@mul@sandwich-sausage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38643@mul@sandwich-toasted {max-width:75px; max-height:75px; }
+.@a38643@mul@sandwich-toasted::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a38643@mul@sandwich-toasted::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38644@mul@sandwich {max-width:75px; max-height:75px; }
+.@a38644@mul@sandwich::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a38644@mul@sandwich::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43317@nog@sandwich-food-drink {max-width:75px; max-height:75px; }
+.@a43317@nog@sandwich-food-drink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a43317@nog@sandwich-food-drink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50835@tw2@sandwich-sammy {max-width:75px; max-height:75px; }
+.@a50835@tw2@sandwich-sammy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a50835@tw2@sandwich-sammy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6817@df-fastfoodicons@bracketleft {max-width:75px; max-height:75px; }
+.@a6817@df-fastfoodicons@bracketleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a6817@df-fastfoodicons@bracketleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6822@df-fastfoodicons@cent {max-width:75px; max-height:75px; }
+.@a6822@df-fastfoodicons@cent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@a6822@df-fastfoodicons@cent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13257@gameicons-delapouite@sandwich {max-width:75px; max-height:75px; }
+.@b13257@gameicons-delapouite@sandwich::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/s/sandwich/0.png/0.png);padding: 0; }
+div.@b13257@gameicons-delapouite@sandwich::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:22eb23df05083a902424ca5fff44c1fa:753f3e200ecd4644729c9114bb216660:4ddb42793a59c1b7bfff1539dfc4d068$ */

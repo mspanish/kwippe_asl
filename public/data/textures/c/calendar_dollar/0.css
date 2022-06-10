@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a56345@win@calendar_dollar {max-width:75px; max-height:75px; }
+.@a56345@win@calendar_dollar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/calendar_dollar/0.png/0.png);padding: 0; }
+div.@a56345@win@calendar_dollar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3038f5044967c706ed71b9dc45c012d5:7993014dfed72952d8bc6b3f3d7bac0a:4ddb42793a59c1b7bfff1539dfc4d068$ */

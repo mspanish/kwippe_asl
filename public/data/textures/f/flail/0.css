@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12452@gameicons-delapouite@crook-flail {max-width:75px; max-height:75px; }
+.@b12452@gameicons-delapouite@crook-flail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/flail/0.png/0.png);padding: 0; }
+div.@b12452@gameicons-delapouite@crook-flail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12624@gameicons-delapouite@flail {max-width:75px; max-height:75px; }
+.@b12624@gameicons-delapouite@flail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/flail/0.png/0.png);padding: 0; }
+div.@b12624@gameicons-delapouite@flail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:48760d9ce8386e5a6053a33b1c656be0:35796efd6b83617f190953d90ca0b970:4ddb42793a59c1b7bfff1539dfc4d068$ */

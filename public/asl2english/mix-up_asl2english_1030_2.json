@@ -1,0 +1,37 @@
+{
+    "sign": "mix-up",
+    "signer": "asl2english",
+    "uid": 1030,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 35,
+            "nd": 35
+        },
+        "end": {
+            "d": 4,
+            "nd": null
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

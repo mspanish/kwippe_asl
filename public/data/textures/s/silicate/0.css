@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59832@ian@concentration-high-silicate {max-width:75px; max-height:75px; }
+.@a59832@ian@concentration-high-silicate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/silicate/0.png/0.png);padding: 0; }
+div.@a59832@ian@concentration-high-silicate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59852@ian@concentration-intermittent-silicate {max-width:75px; max-height:75px; }
+.@a59852@ian@concentration-intermittent-silicate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/silicate/0.png/0.png);padding: 0; }
+div.@a59852@ian@concentration-intermittent-silicate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59872@ian@concentration-low-silicate {max-width:75px; max-height:75px; }
+.@a59872@ian@concentration-low-silicate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/silicate/0.png/0.png);padding: 0; }
+div.@a59872@ian@concentration-low-silicate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1e4644f2968f21bfe93fe3be68b4d58d:4b668a3a2e200d1cc3f95f366e834ed9:4ddb42793a59c1b7bfff1539dfc4d068$ */

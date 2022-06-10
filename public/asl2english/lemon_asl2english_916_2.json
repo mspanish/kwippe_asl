@@ -1,0 +1,37 @@
+{
+    "sign": "lemon",
+    "signer": "asl2english",
+    "uid": 916,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 60,
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": 26
+        }
+    },
+    "regions": [
+        "R-cheek",
+        "above-right-shoulder"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

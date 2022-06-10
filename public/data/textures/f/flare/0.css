@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13981@gameicons-lorc@cross-flare {max-width:75px; max-height:75px; }
+.@b13981@gameicons-lorc@cross-flare::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/flare/0.png/0.png);padding: 0; }
+div.@b13981@gameicons-lorc@cross-flare::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14100@gameicons-lorc@eclipse-flare {max-width:75px; max-height:75px; }
+.@b14100@gameicons-lorc@eclipse-flare::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/flare/0.png/0.png);padding: 0; }
+div.@b14100@gameicons-lorc@eclipse-flare::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3ecd9a024980f6d4bf7282fe846e970f:d462cd58486234e83676530599bebc39:4ddb42793a59c1b7bfff1539dfc4d068$ */

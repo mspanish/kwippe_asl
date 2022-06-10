@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60481@ian@helix-aspersa {max-width:75px; max-height:75px; }
+.@a60481@ian@helix-aspersa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/aspersa/0.png/0.png);padding: 0; }
+div.@a60481@ian@helix-aspersa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4eeb1271f06305d4ca19e67f01a01dfe:6da13cb41df1184b441c7490cea9cd35:4ddb42793a59c1b7bfff1539dfc4d068$ */

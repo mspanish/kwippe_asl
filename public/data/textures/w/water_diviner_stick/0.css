@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13615@gameicons-delapouite@water-diviner-stick {max-width:75px; max-height:75px; }
+.@b13615@gameicons-delapouite@water-diviner-stick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/water_diviner_stick/0.png/0.png);padding: 0; }
+div.@b13615@gameicons-delapouite@water-diviner-stick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d8859ddc7ef1b5ce6c2ffc3a0d3e784a:a57e595cd2ec3f273fcac80e24bac4e8:4ddb42793a59c1b7bfff1539dfc4d068$ */

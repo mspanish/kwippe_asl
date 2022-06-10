@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60301@ian@flux-freshwater {max-width:75px; max-height:75px; }
+.@a60301@ian@flux-freshwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a60301@ian@flux-freshwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60302@ian@flux-gas {max-width:75px; max-height:75px; }
+.@a60302@ian@flux-gas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a60302@ian@flux-gas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60303@ian@flux-humic-stained-water {max-width:75px; max-height:75px; }
+.@a60303@ian@flux-humic-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a60303@ian@flux-humic-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60304@ian@flux-iron-stained-water {max-width:75px; max-height:75px; }
+.@a60304@ian@flux-iron-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a60304@ian@flux-iron-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60305@ian@flux-nutrients {max-width:75px; max-height:75px; }
+.@a60305@ian@flux-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a60305@ian@flux-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60306@ian@flux-saltwater {max-width:75px; max-height:75px; }
+.@a60306@ian@flux-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a60306@ian@flux-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60307@ian@flux-sediments-nutrients {max-width:75px; max-height:75px; }
+.@a60307@ian@flux-sediments-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a60307@ian@flux-sediments-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60308@ian@flux-sediments {max-width:75px; max-height:75px; }
+.@a60308@ian@flux-sediments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a60308@ian@flux-sediments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61358@ian@radiometer {max-width:75px; max-height:75px; }
+.@a61358@ian@radiometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/flux/0.png/0.png);padding: 0; }
+div.@a61358@ian@radiometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:51226890a96573cbea74880241e06cc3:1334f0c85c410b7f083e4920a612743c:4ddb42793a59c1b7bfff1539dfc4d068$ */

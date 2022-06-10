@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59947@ian@cypselurus-callopterus {max-width:75px; max-height:75px; }
+.@a59947@ian@cypselurus-callopterus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/flying/0.png/0.png);padding: 0; }
+div.@a59947@ian@cypselurus-callopterus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12070@gameicons-cathelineau@flying-trout {max-width:75px; max-height:75px; }
+.@b12070@gameicons-cathelineau@flying-trout::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/flying/0.png/0.png);padding: 0; }
+div.@b12070@gameicons-cathelineau@flying-trout::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12097@gameicons-darkzaitzev@flying-shuriken {max-width:75px; max-height:75px; }
+.@b12097@gameicons-darkzaitzev@flying-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/flying/0.png/0.png);padding: 0; }
+div.@b12097@gameicons-darkzaitzev@flying-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12645@gameicons-delapouite@flying-fox {max-width:75px; max-height:75px; }
+.@b12645@gameicons-delapouite@flying-fox::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/flying/0.png/0.png);padding: 0; }
+div.@b12645@gameicons-delapouite@flying-fox::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12646@gameicons-delapouite@flying-target {max-width:75px; max-height:75px; }
+.@b12646@gameicons-delapouite@flying-target::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/flying/0.png/0.png);padding: 0; }
+div.@b12646@gameicons-delapouite@flying-target::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:52f860db10e8b0e41c704d83574ba9cb:1c938e4ec1a1ac93792ab2f8570b9b88:4ddb42793a59c1b7bfff1539dfc4d068$ */

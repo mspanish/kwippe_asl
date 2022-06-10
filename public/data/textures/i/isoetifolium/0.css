@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61765@ian@syringodium-isoetifolium-1 {max-width:75px; max-height:75px; }
+.@a61765@ian@syringodium-isoetifolium-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/isoetifolium/0.png/0.png);padding: 0; }
+div.@a61765@ian@syringodium-isoetifolium-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61766@ian@syringodium-isoetifolium-2 {max-width:75px; max-height:75px; }
+.@a61766@ian@syringodium-isoetifolium-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/isoetifolium/0.png/0.png);padding: 0; }
+div.@a61766@ian@syringodium-isoetifolium-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61767@ian@syringodium-isoetifolium-seeds {max-width:75px; max-height:75px; }
+.@a61767@ian@syringodium-isoetifolium-seeds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/isoetifolium/0.png/0.png);padding: 0; }
+div.@a61767@ian@syringodium-isoetifolium-seeds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1cf45a90abe3f48d9f905fc538e6784d:49b814e99394ac36d4d76ef7b8a41bdf:4ddb42793a59c1b7bfff1539dfc4d068$ */

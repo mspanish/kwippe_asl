@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38242@mul@nativity {max-width:75px; max-height:75px; }
+.@a38242@mul@nativity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/n/nativity/0.png/0.png);padding: 0; }
+div.@a38242@mul@nativity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5b98b19d7a83f6dbfc1e1c6c8ef6f916:d28b7697cfff1d35f5cd54760392147b:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "tease",
+    "signer": "asl2english",
+    "uid": 1805,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 79,
+            "nd": 79
+        },
+        "end": {
+            "d": 79,
+            "nd": 79
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

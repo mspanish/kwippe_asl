@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60169@ian@estuary-2d-tidally-restricted {max-width:75px; max-height:75px; }
+.@a60169@ian@estuary-2d-tidally-restricted::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/tidally/0.png/0.png);padding: 0; }
+div.@a60169@ian@estuary-2d-tidally-restricted::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e985ab03e0f0e7de27c5b565febd436e:d8b8ad480c938ecb91af6f1f0d4ae4c6:4ddb42793a59c1b7bfff1539dfc4d068$ */

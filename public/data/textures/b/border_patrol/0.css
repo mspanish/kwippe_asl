@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d3162@wikim-all@logo_of_the_united_states_border_patrol {max-width:75px; max-height:75px; }
+.@d3162@wikim-all@logo_of_the_united_states_border_patrol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/border_patrol/0.png/0.png);padding: 0; }
+div.@d3162@wikim-all@logo_of_the_united_states_border_patrol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3467@wikim-all@patch_of_the_u.s._customs_and_border_protection {max-width:75px; max-height:75px; }
+.@d3467@wikim-all@patch_of_the_u.s._customs_and_border_protection::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/border_patrol/0.png/0.png);padding: 0; }
+div.@d3467@wikim-all@patch_of_the_u.s._customs_and_border_protection::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3468@wikim-all@patch_of_the_united_states_border_patrol_right_sleeve {max-width:75px; max-height:75px; }
+.@d3468@wikim-all@patch_of_the_united_states_border_patrol_right_sleeve::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/border_patrol/0.png/0.png);padding: 0; }
+div.@d3468@wikim-all@patch_of_the_united_states_border_patrol_right_sleeve::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3933@wikim-all@united_states_customs_and_border_protection_racing_stripe {max-width:75px; max-height:75px; }
+.@d3933@wikim-all@united_states_customs_and_border_protection_racing_stripe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/border_patrol/0.png/0.png);padding: 0; }
+div.@d3933@wikim-all@united_states_customs_and_border_protection_racing_stripe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5fc35637869104378367ab09d5b56784:7222ccbc1f560b8cb3d131ed2a2656f2:4ddb42793a59c1b7bfff1539dfc4d068$ */

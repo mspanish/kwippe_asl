@@ -1,0 +1,37 @@
+{
+    "sign": "banana",
+    "signer": "asl2english",
+    "uid": 103,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 14,
+            "nd": 80
+        },
+        "end": {
+            "d": 21,
+            "nd": 14
+        }
+    },
+    "regions": [
+        "hand",
+        "hand"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "plural"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

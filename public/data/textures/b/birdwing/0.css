@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61059@ian@ornithoptera-priamus {max-width:75px; max-height:75px; }
+.@a61059@ian@ornithoptera-priamus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/birdwing/0.png/0.png);padding: 0; }
+div.@a61059@ian@ornithoptera-priamus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a8279ee771808510532f3b8db5d7e893:667a391edbb6d8cd493248c341f1d67a:4ddb42793a59c1b7bfff1539dfc4d068$ */

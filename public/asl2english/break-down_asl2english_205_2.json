@@ -1,0 +1,37 @@
+{
+    "sign": "break-down",
+    "signer": "asl2english",
+    "uid": 205,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 35,
+            "nd": 35
+        },
+        "end": {
+            "d": 6,
+            "nd": 24
+        }
+    },
+    "regions": [
+        "chin-area",
+        "hand"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a43670@nog@swim-brief-objects-clothing {max-width:75px; max-height:75px; }
+.@a43670@nog@swim-brief-objects-clothing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/briefs/0.png/0.png);padding: 0; }
+div.@a43670@nog@swim-brief-objects-clothing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ac982f7f00b0f6f5a504437f984d240e:ff79027d17fff7388935c4b67c3ed174:4ddb42793a59c1b7bfff1539dfc4d068$ */

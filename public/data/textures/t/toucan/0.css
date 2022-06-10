@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13508@gameicons-delapouite@toucan {max-width:75px; max-height:75px; }
+.@b13508@gameicons-delapouite@toucan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/toucan/0.png/0.png);padding: 0; }
+div.@b13508@gameicons-delapouite@toucan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:237230ac64df630a886c1b17029cb948:2b418e75bbfee681081f2e5ea797a311:4ddb42793a59c1b7bfff1539dfc4d068$ */

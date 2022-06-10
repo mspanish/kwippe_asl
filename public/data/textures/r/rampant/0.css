@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26157@her@alphyn-rampant {max-width:75px; max-height:75px; }
+.@a26157@her@alphyn-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26157@her@alphyn-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26162@her@anteater-rampant {max-width:75px; max-height:75px; }
+.@a26162@her@anteater-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26162@her@anteater-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26170@her@bagwyn-rampant-guardant {max-width:75px; max-height:75px; }
+.@a26170@her@bagwyn-rampant-guardant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26170@her@bagwyn-rampant-guardant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26388@her@hare-rampant {max-width:75px; max-height:75px; }
+.@a26388@her@hare-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26388@her@hare-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26451@her@natural-salamander-rampant {max-width:75px; max-height:75px; }
+.@a26451@her@natural-salamander-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26451@her@natural-salamander-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26464@her@ounce-rampant {max-width:75px; max-height:75px; }
+.@a26464@her@ounce-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26464@her@ounce-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26468@her@panther-rampant {max-width:75px; max-height:75px; }
+.@a26468@her@panther-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26468@her@panther-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26509@her@salamander-natural-rampant {max-width:75px; max-height:75px; }
+.@a26509@her@salamander-natural-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26509@her@salamander-natural-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26543@her@stag-rampant {max-width:75px; max-height:75px; }
+.@a26543@her@stag-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26543@her@stag-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26560@her@tortoise-rampant {max-width:75px; max-height:75px; }
+.@a26560@her@tortoise-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rampant/0.png/0.png);padding: 0; }
+div.@a26560@her@tortoise-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:517d2bc645dce5d65540eac87e4e2131:2252c7dce5f3afd63b07d8e74c448008:4ddb42793a59c1b7bfff1539dfc4d068$ */

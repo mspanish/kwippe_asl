@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13902@gameicons-lorc@carrion {max-width:75px; max-height:75px; }
+.@b13902@gameicons-lorc@carrion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/carrion/0.png/0.png);padding: 0; }
+div.@b13902@gameicons-lorc@carrion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:341b9b1009fe09580b8c76107ceb38d3:edee333434036fd3e68f6eba2f700f77:4ddb42793a59c1b7bfff1539dfc4d068$ */

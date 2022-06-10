@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38872@mul@sting-bee {max-width:75px; max-height:75px; }
+.@a38872@mul@sting-bee::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sting_bee/0.png/0.png);padding: 0; }
+div.@a38872@mul@sting-bee::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:83239d57366e1ff1b9512d6a7e7c29b6:bcf4119f830ac4d2e45b96bcdf54fa8e:4ddb42793a59c1b7bfff1539dfc4d068$ */

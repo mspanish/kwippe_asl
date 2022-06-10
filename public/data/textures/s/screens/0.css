@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a283@ara@computer-personal-1 {max-width:75px; max-height:75px; }
+.@a283@ara@computer-personal-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/screens/0.png/0.png);padding: 0; }
+div.@a283@ara@computer-personal-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39531@noc@desktop-computer {max-width:75px; max-height:75px; }
+.@a39531@noc@desktop-computer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/screens/0.png/0.png);padding: 0; }
+div.@a39531@noc@desktop-computer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39992@noc@personal-computer {max-width:75px; max-height:75px; }
+.@a39992@noc@personal-computer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/screens/0.png/0.png);padding: 0; }
+div.@a39992@noc@personal-computer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41348-1@nog@desktop-computer-objects {max-width:75px; max-height:75px; }
+.@a41348-1@nog@desktop-computer-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/screens/0.png/0.png);padding: 0; }
+div.@a41348-1@nog@desktop-computer-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41348-2@nog@desktop-computer-objects {max-width:75px; max-height:75px; }
+.@a41348-2@nog@desktop-computer-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/screens/0.png/0.png);padding: 0; }
+div.@a41348-2@nog@desktop-computer-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44616@not@personal-computer {max-width:75px; max-height:75px; }
+.@a44616@not@personal-computer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/screens/0.png/0.png);padding: 0; }
+div.@a44616@not@personal-computer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47002@pap@user-desktop-symbolic {max-width:75px; max-height:75px; }
+.@a47002@pap@user-desktop-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/screens/0.png/0.png);padding: 0; }
+div.@a47002@pap@user-desktop-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51518@twe@personal-computer {max-width:75px; max-height:75px; }
+.@a51518@twe@personal-computer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/screens/0.png/0.png);padding: 0; }
+div.@a51518@twe@personal-computer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:44c4adc67e0ade8c8cbdf43f0d706969:c3d1330ccee9df269a77ce9333f49477:4ddb42793a59c1b7bfff1539dfc4d068$ */

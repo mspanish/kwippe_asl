@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14782@em2@collision-symbol {max-width:75px; max-height:75px; }
+.@a14782@em2@collision-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a14782@em2@collision-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17560@fir@u1f4a5-collision {max-width:75px; max-height:75px; }
+.@a17560@fir@u1f4a5-collision::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a17560@fir@u1f4a5-collision::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28288@jqe@collision-symbol {max-width:75px; max-height:75px; }
+.@a28288@jqe@collision-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a28288@jqe@collision-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39484@noc@collision-symbol {max-width:75px; max-height:75px; }
+.@a39484@noc@collision-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a39484@noc@collision-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41168@nog@collision-symbol-smileys-people {max-width:75px; max-height:75px; }
+.@a41168@nog@collision-symbol-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a41168@nog@collision-symbol-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44233@not@collision-symbol {max-width:75px; max-height:75px; }
+.@a44233@not@collision-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a44233@not@collision-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49467@str@410-collision {max-width:75px; max-height:75px; }
+.@a49467@str@410-collision::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a49467@str@410-collision::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50326@tw2@collision-symbol {max-width:75px; max-height:75px; }
+.@a50326@tw2@collision-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a50326@tw2@collision-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51171@twe@collision-symbol {max-width:75px; max-height:75px; }
+.@a51171@twe@collision-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/collision/0.png/0.png);padding: 0; }
+div.@a51171@twe@collision-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0478a385ccb98b0251f727d7821a7777:a319aed8bc550402daad6a628c4aec1e:4ddb42793a59c1b7bfff1539dfc4d068$ */

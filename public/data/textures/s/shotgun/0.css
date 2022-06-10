@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a13772@df-zombiesalad@850 {max-width:75px; max-height:75px; }
+.@a13772@df-zombiesalad@850::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shotgun/0.png/0.png);padding: 0; }
+div.@a13772@df-zombiesalad@850::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46476@outgunned@48 {max-width:75px; max-height:75px; }
+.@a46476@outgunned@48::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shotgun/0.png/0.png);padding: 0; }
+div.@a46476@outgunned@48::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46483@outgunned@4f {max-width:75px; max-height:75px; }
+.@a46483@outgunned@4f::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shotgun/0.png/0.png);padding: 0; }
+div.@a46483@outgunned@4f::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46491@outgunned@57 {max-width:75px; max-height:75px; }
+.@a46491@outgunned@57::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shotgun/0.png/0.png);padding: 0; }
+div.@a46491@outgunned@57::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46494@outgunned@5a {max-width:75px; max-height:75px; }
+.@a46494@outgunned@5a::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shotgun/0.png/0.png);padding: 0; }
+div.@a46494@outgunned@5a::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13309@gameicons-delapouite@shotgun-rounds {max-width:75px; max-height:75px; }
+.@b13309@gameicons-delapouite@shotgun-rounds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shotgun/0.png/0.png);padding: 0; }
+div.@b13309@gameicons-delapouite@shotgun-rounds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14286@gameicons-lorc@gunshot {max-width:75px; max-height:75px; }
+.@b14286@gameicons-lorc@gunshot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shotgun/0.png/0.png);padding: 0; }
+div.@b14286@gameicons-lorc@gunshot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15219@gameicons-sbed@shotgun {max-width:75px; max-height:75px; }
+.@b15219@gameicons-sbed@shotgun::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/shotgun/0.png/0.png);padding: 0; }
+div.@b15219@gameicons-sbed@shotgun::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e97fa6ae610e1c1e2af0d6568c04ee33:6ad60779b2df275fa19cb7a74ace2d9b:4ddb42793a59c1b7bfff1539dfc4d068$ */

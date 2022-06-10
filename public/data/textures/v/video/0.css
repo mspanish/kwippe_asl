@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1838@bon@film-and-television-3019 {max-width:75px; max-height:75px; }
+.@a1838@bon@film-and-television-3019::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/video/0.png/0.png);padding: 0; }
+div.@a1838@bon@film-and-television-3019::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38419@mul@phone-picture-video {max-width:75px; max-height:75px; }
+.@a38419@mul@phone-picture-video::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/video/0.png/0.png);padding: 0; }
+div.@a38419@mul@phone-picture-video::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39134@mul@video-player {max-width:75px; max-height:75px; }
+.@a39134@mul@video-player::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/video/0.png/0.png);padding: 0; }
+div.@a39134@mul@video-player::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39135@mul@video-tape {max-width:75px; max-height:75px; }
+.@a39135@mul@video-tape::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/video/0.png/0.png);padding: 0; }
+div.@a39135@mul@video-tape::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13584@gameicons-delapouite@video-conference {max-width:75px; max-height:75px; }
+.@b13584@gameicons-delapouite@video-conference::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/video/0.png/0.png);padding: 0; }
+div.@b13584@gameicons-delapouite@video-conference::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0ba7e5e73ebe4633fa8e871951621768:5942926be1109e19d61e4c1c0abce9d7:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12087@gameicons-cathelineau@witch-face {max-width:75px; max-height:75px; }
+.@b12087@gameicons-cathelineau@witch-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/witch_face/0.png/0.png);padding: 0; }
+div.@b12087@gameicons-cathelineau@witch-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:756e2f7b5c117da705d971eff7174c0e:8ea36aa7b463d974afd628116c84bab7:4ddb42793a59c1b7bfff1539dfc4d068$ */

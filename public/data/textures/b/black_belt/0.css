@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12245@gameicons-delapouite@black-belt {max-width:75px; max-height:75px; }
+.@b12245@gameicons-delapouite@black-belt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/black_belt/0.png/0.png);padding: 0; }
+div.@b12245@gameicons-delapouite@black-belt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e8c7e1a16e66cfe973bd70f774878b64:5084fdb9c02ddbfa511ca33189abec98:4ddb42793a59c1b7bfff1539dfc4d068$ */

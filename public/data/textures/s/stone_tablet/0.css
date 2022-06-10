@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14886@gameicons-lorc@stone-tablet {max-width:75px; max-height:75px; }
+.@b14886@gameicons-lorc@stone-tablet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/stone_tablet/0.png/0.png);padding: 0; }
+div.@b14886@gameicons-lorc@stone-tablet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c53c5c8e179f75330115e8839e4ce538:972251ae4db918e1c0146269b14bc91c:4ddb42793a59c1b7bfff1539dfc4d068$ */

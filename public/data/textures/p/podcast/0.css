@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1330@bat@podcast {max-width:75px; max-height:75px; }
+.@a1330@bat@podcast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/podcast/0.png/0.png);padding: 0; }
+div.@a1330@bat@podcast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31727@lug@podcast {max-width:75px; max-height:75px; }
+.@a31727@lug@podcast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/podcast/0.png/0.png);padding: 0; }
+div.@a31727@lug@podcast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32819@mat@cast {max-width:75px; max-height:75px; }
+.@a32819@mat@cast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/podcast/0.png/0.png);padding: 0; }
+div.@a32819@mat@cast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48291@roc@podcast {max-width:75px; max-height:75px; }
+.@a48291@roc@podcast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/podcast/0.png/0.png);padding: 0; }
+div.@a48291@roc@podcast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54035@wav@cast {max-width:75px; max-height:75px; }
+.@a54035@wav@cast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/podcast/0.png/0.png);padding: 0; }
+div.@a54035@wav@cast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55603@web@podcast {max-width:75px; max-height:75px; }
+.@a55603@web@podcast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/podcast/0.png/0.png);padding: 0; }
+div.@a55603@web@podcast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e28c0f907328b17ea2c5e9e2e98a668f:2942df5ab777ec342f088653e6d3a45f:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a45275@ope@bishop {max-width:75px; max-height:75px; }
+.@a45275@ope@bishop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bishop/0.png/0.png);padding: 0; }
+div.@a45275@ope@bishop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45786@ope@priest-1 {max-width:75px; max-height:75px; }
+.@a45786@ope@priest-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bishop/0.png/0.png);padding: 0; }
+div.@a45786@ope@priest-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1734@wikim-all@bishop_-_choir_dress {max-width:75px; max-height:75px; }
+.@d1734@wikim-all@bishop_-_choir_dress::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bishop/0.png/0.png);padding: 0; }
+div.@d1734@wikim-all@bishop_-_choir_dress::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1821@wikim-all@cassock_uuu28bishopuuu29 {max-width:75px; max-height:75px; }
+.@d1821@wikim-all@cassock_uuu28bishopuuu29::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bishop/0.png/0.png);padding: 0; }
+div.@d1821@wikim-all@cassock_uuu28bishopuuu29::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3475@wikim-all@pellegrina_uuu28bishopuuu29 {max-width:75px; max-height:75px; }
+.@d3475@wikim-all@pellegrina_uuu28bishopuuu29::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bishop/0.png/0.png);padding: 0; }
+div.@d3475@wikim-all@pellegrina_uuu28bishopuuu29::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3602@wikim-all@roman_rite_mass_stole_and_maniple_-_bishop {max-width:75px; max-height:75px; }
+.@d3602@wikim-all@roman_rite_mass_stole_and_maniple_-_bishop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bishop/0.png/0.png);padding: 0; }
+div.@d3602@wikim-all@roman_rite_mass_stole_and_maniple_-_bishop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3607@wikim-all@roman_rite_mass_vestments_-_bishop {max-width:75px; max-height:75px; }
+.@d3607@wikim-all@roman_rite_mass_vestments_-_bishop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bishop/0.png/0.png);padding: 0; }
+div.@d3607@wikim-all@roman_rite_mass_vestments_-_bishop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:77695d5b0174c4098b2c87ca78b5ab54:aad32fcaf59f114f0452a00502ae0315:4ddb42793a59c1b7bfff1539dfc4d068$ */

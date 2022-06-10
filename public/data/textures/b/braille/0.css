@@ -1,0 +1,113 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27270@icf@braille {max-width:75px; max-height:75px; }
+.@a27270@icf@braille::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@a27270@icf@braille::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31976@map@braille {max-width:75px; max-height:75px; }
+.@a31976@map@braille::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@a31976@map@braille::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55863@web@solarbraille {max-width:75px; max-height:75px; }
+.@a55863@web@solarbraille::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@a55863@web@solarbraille::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8194@web@braille-1 {max-width:75px; max-height:75px; }
+.@b8194@web@braille-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8194@web@braille-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8195@web@braille-2 {max-width:75px; max-height:75px; }
+.@b8195@web@braille-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8195@web@braille-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8196@web@braille-3 {max-width:75px; max-height:75px; }
+.@b8196@web@braille-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8196@web@braille-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8197@web@braille-a {max-width:75px; max-height:75px; }
+.@b8197@web@braille-a::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8197@web@braille-a::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8198@web@braille-b {max-width:75px; max-height:75px; }
+.@b8198@web@braille-b::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8198@web@braille-b::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8199@web@braille-c {max-width:75px; max-height:75px; }
+.@b8199@web@braille-c::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8199@web@braille-c::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8200@web@braille-d {max-width:75px; max-height:75px; }
+.@b8200@web@braille-d::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8200@web@braille-d::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8201@web@braille-e {max-width:75px; max-height:75px; }
+.@b8201@web@braille-e::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8201@web@braille-e::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8203@web@braille-f {max-width:75px; max-height:75px; }
+.@b8203@web@braille-f::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8203@web@braille-f::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8206@web@braille-g {max-width:75px; max-height:75px; }
+.@b8206@web@braille-g::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8206@web@braille-g::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8207@web@braille-h {max-width:75px; max-height:75px; }
+.@b8207@web@braille-h::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8207@web@braille-h::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8208@web@braille-i {max-width:75px; max-height:75px; }
+.@b8208@web@braille-i::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8208@web@braille-i::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8209@web@braille-j {max-width:75px; max-height:75px; }
+.@b8209@web@braille-j::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8209@web@braille-j::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8210@web@braille-k {max-width:75px; max-height:75px; }
+.@b8210@web@braille-k::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8210@web@braille-k::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8211@web@braille-l {max-width:75px; max-height:75px; }
+.@b8211@web@braille-l::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8211@web@braille-l::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8212@web@braille-m {max-width:75px; max-height:75px; }
+.@b8212@web@braille-m::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8212@web@braille-m::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8213@web@braille-n {max-width:75px; max-height:75px; }
+.@b8213@web@braille-n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8213@web@braille-n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8215@web@braille-o {max-width:75px; max-height:75px; }
+.@b8215@web@braille-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8215@web@braille-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8216@web@braille-p {max-width:75px; max-height:75px; }
+.@b8216@web@braille-p::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8216@web@braille-p::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8217@web@braille-q {max-width:75px; max-height:75px; }
+.@b8217@web@braille-q::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8217@web@braille-q::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8218@web@braille-r {max-width:75px; max-height:75px; }
+.@b8218@web@braille-r::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8218@web@braille-r::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8219@web@braille-s {max-width:75px; max-height:75px; }
+.@b8219@web@braille-s::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8219@web@braille-s::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8222@web@braille-space {max-width:75px; max-height:75px; }
+.@b8222@web@braille-space::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8222@web@braille-space::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8223@web@braille-t {max-width:75px; max-height:75px; }
+.@b8223@web@braille-t::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8223@web@braille-t::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8224@web@braille-u {max-width:75px; max-height:75px; }
+.@b8224@web@braille-u::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8224@web@braille-u::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8225@web@braille-v {max-width:75px; max-height:75px; }
+.@b8225@web@braille-v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8225@web@braille-v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8226@web@braille-w {max-width:75px; max-height:75px; }
+.@b8226@web@braille-w::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8226@web@braille-w::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8227@web@braille-x {max-width:75px; max-height:75px; }
+.@b8227@web@braille-x::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8227@web@braille-x::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8228@web@braille-y {max-width:75px; max-height:75px; }
+.@b8228@web@braille-y::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8228@web@braille-y::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8229@web@braille-z {max-width:75px; max-height:75px; }
+.@b8229@web@braille-z::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8229@web@braille-z::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8270@web@c-braille {max-width:75px; max-height:75px; }
+.@b8270@web@c-braille::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/braille/0.png/0.png);padding: 0; }
+div.@b8270@web@c-braille::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3d5ca93c879b5ee89825238a8c2dab81:352e17810dd78984661bcba507077f83:4ddb42793a59c1b7bfff1539dfc4d068$ */

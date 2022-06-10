@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48798@solver@2-rancher2-1 {max-width:75px; max-height:75px; }
+.@a48798@solver@2-rancher2-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rancher/0.png/0.png);padding: 0; }
+div.@a48798@solver@2-rancher2-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61742@ian@suburban-rancher-1 {max-width:75px; max-height:75px; }
+.@a61742@ian@suburban-rancher-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rancher/0.png/0.png);padding: 0; }
+div.@a61742@ian@suburban-rancher-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61743@ian@suburban-rancher-2 {max-width:75px; max-height:75px; }
+.@a61743@ian@suburban-rancher-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rancher/0.png/0.png);padding: 0; }
+div.@a61743@ian@suburban-rancher-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:021fa1dfd5441fc82486c61944a36820:63796590a441789ee9a200c228f0f6ac:4ddb42793a59c1b7bfff1539dfc4d068$ */

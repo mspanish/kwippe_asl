@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a45062@oa1@fish {max-width:75px; max-height:75px; }
+.@a45062@oa1@fish::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/angelfish/0.png/0.png);padding: 0; }
+div.@a45062@oa1@fish::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59355@ian@apolemichthys-trimaculatus {max-width:75px; max-height:75px; }
+.@a59355@ian@apolemichthys-trimaculatus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/angelfish/0.png/0.png);padding: 0; }
+div.@a59355@ian@apolemichthys-trimaculatus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61247@ian@pomacanthus-imperator {max-width:75px; max-height:75px; }
+.@a61247@ian@pomacanthus-imperator::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/angelfish/0.png/0.png);padding: 0; }
+div.@a61247@ian@pomacanthus-imperator::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:283e35b8541a857ae87b92511d15f58f:3dd17310e1ea49e3d8ba180612aabc68:4ddb42793a59c1b7bfff1539dfc4d068$ */

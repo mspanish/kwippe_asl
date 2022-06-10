@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37862@mul@happy-lady {max-width:75px; max-height:75px; }
+.@a37862@mul@happy-lady::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/happy_lady/0.png/0.png);padding: 0; }
+div.@a37862@mul@happy-lady::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5b75f6c729734662d39491ea1c291c1a:2154c07bdf0a036c8ec127a4f5f76491:4ddb42793a59c1b7bfff1539dfc4d068$ */

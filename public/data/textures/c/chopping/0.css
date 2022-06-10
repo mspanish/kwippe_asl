@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1594@bon@chopping-board-2510 {max-width:75px; max-height:75px; }
+.@a1594@bon@chopping-board-2510::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/chopping/0.png/0.png);padding: 0; }
+div.@a1594@bon@chopping-board-2510::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1595@bon@chopping-vegetables-2511 {max-width:75px; max-height:75px; }
+.@a1595@bon@chopping-vegetables-2511::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/chopping/0.png/0.png);padding: 0; }
+div.@a1595@bon@chopping-vegetables-2511::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36875@mul@chopping-board {max-width:75px; max-height:75px; }
+.@a36875@mul@chopping-board::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/chopping/0.png/0.png);padding: 0; }
+div.@a36875@mul@chopping-board::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5609e558a4a1202d8dcc8b8021fe4dd4:7d3361e5433d56c3e3dd7523564908cd:4ddb42793a59c1b7bfff1539dfc4d068$ */

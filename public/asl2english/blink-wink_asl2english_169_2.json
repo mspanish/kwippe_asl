@@ -1,0 +1,37 @@
+{
+    "sign": "blink-wink",
+    "signer": "asl2english",
+    "uid": 169,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 60,
+            "nd": null
+        },
+        "end": {
+            "d": 60,
+            "nd": null
+        }
+    },
+    "regions": [
+        "R-cheek",
+        "R-cheek"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "change"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

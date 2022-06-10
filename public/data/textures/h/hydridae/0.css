@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60525@ian@hydra-budding {max-width:75px; max-height:75px; }
+.@a60525@ian@hydra-budding::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/hydridae/0.png/0.png);padding: 0; }
+div.@a60525@ian@hydra-budding::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60526@ian@hydra {max-width:75px; max-height:75px; }
+.@a60526@ian@hydra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/hydridae/0.png/0.png);padding: 0; }
+div.@a60526@ian@hydra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:467db133a5c05e9d25dd36015d8d966b:e1152c006d3998d2fd17e58aa56586c7:4ddb42793a59c1b7bfff1539dfc4d068$ */

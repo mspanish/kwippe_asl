@@ -1,0 +1,37 @@
+{
+    "sign": "very-fast",
+    "signer": "asl2english",
+    "uid": 1955,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 4,
+            "nd": 4
+        },
+        "end": {
+            "d": 82,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "chest-front",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

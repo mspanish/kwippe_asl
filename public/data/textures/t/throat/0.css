@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1610@bon@clinic-ear-nose-and-throat-5010 {max-width:75px; max-height:75px; }
+.@a1610@bon@clinic-ear-nose-and-throat-5010::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/throat/0.png/0.png);padding: 0; }
+div.@a1610@bon@clinic-ear-nose-and-throat-5010::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38998@mul@throat {max-width:75px; max-height:75px; }
+.@a38998@mul@throat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/throat/0.png/0.png);padding: 0; }
+div.@a38998@mul@throat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ba9f0974d19d1c52273933e920424bef:6931787fd17f74d6905519bf2076233b:4ddb42793a59c1b7bfff1539dfc4d068$ */

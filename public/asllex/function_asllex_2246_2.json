@@ -1,0 +1,45 @@
+{
+    "sign": "function",
+    "signer": "aslLex",
+    "uid": 1507,
+    "synonyms": "function, purpose",
+    "handshapes": {
+        "begin": {
+            "d": "f",
+            "nd": "B"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "PalmBack",
+        "morph1_specific_second": "PalmBack",
+        "morph1_contact": null,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "BackAndForth",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 4.0,
+    "frequency": 3.966,
+    "category": null
+}

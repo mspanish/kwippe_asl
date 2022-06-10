@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60627@ian@kosteletzkya-virginica-1 {max-width:75px; max-height:75px; }
+.@a60627@ian@kosteletzkya-virginica-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mallow/0.png/0.png);padding: 0; }
+div.@a60627@ian@kosteletzkya-virginica-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60628@ian@kosteletzkya-virginica-2 {max-width:75px; max-height:75px; }
+.@a60628@ian@kosteletzkya-virginica-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mallow/0.png/0.png);padding: 0; }
+div.@a60628@ian@kosteletzkya-virginica-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61634@ian@sida-fallax {max-width:75px; max-height:75px; }
+.@a61634@ian@sida-fallax::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mallow/0.png/0.png);padding: 0; }
+div.@a61634@ian@sida-fallax::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b1e88d48462e590df91d95af6b63a23d:89a97b33dff38ab5d2b732137a3577ee:4ddb42793a59c1b7bfff1539dfc4d068$ */

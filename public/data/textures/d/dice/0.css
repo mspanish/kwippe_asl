@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14970@em2@game-die {max-width:75px; max-height:75px; }
+.@a14970@em2@game-die::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a14970@em2@game-die::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16294@emo@game-die {max-width:75px; max-height:75px; }
+.@a16294@emo@game-die::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a16294@emo@game-die::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17335@fir@u1f3b2-gamedie {max-width:75px; max-height:75px; }
+.@a17335@fir@u1f3b2-gamedie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a17335@fir@u1f3b2-gamedie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26264@her@die {max-width:75px; max-height:75px; }
+.@a26264@her@die::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a26264@her@die::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28428@jqe@game-die {max-width:75px; max-height:75px; }
+.@a28428@jqe@game-die::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a28428@jqe@game-die::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33287@mat@dice-d10 {max-width:75px; max-height:75px; }
+.@a33287@mat@dice-d10::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a33287@mat@dice-d10::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33289@mat@dice-d20 {max-width:75px; max-height:75px; }
+.@a33289@mat@dice-d20::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a33289@mat@dice-d20::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33291@mat@dice-d4 {max-width:75px; max-height:75px; }
+.@a33291@mat@dice-d4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a33291@mat@dice-d4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33293@mat@dice-d6 {max-width:75px; max-height:75px; }
+.@a33293@mat@dice-d6::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a33293@mat@dice-d6::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33295@mat@dice-d8 {max-width:75px; max-height:75px; }
+.@a33295@mat@dice-d8::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a33295@mat@dice-d8::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37217@mul@dice-to {max-width:75px; max-height:75px; }
+.@a37217@mul@dice-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a37217@mul@dice-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39668@noc@game-die {max-width:75px; max-height:75px; }
+.@a39668@noc@game-die::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a39668@noc@game-die::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41863@nog@game-die-activities {max-width:75px; max-height:75px; }
+.@a41863@nog@game-die-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a41863@nog@game-die-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44370@not@game-die {max-width:75px; max-height:75px; }
+.@a44370@not@game-die::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a44370@not@game-die::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49735@str@678-game-dice {max-width:75px; max-height:75px; }
+.@a49735@str@678-game-dice::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a49735@str@678-game-dice::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50471@tw2@game-die {max-width:75px; max-height:75px; }
+.@a50471@tw2@game-die::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a50471@tw2@game-die::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51292@twe@game-die {max-width:75px; max-height:75px; }
+.@a51292@twe@game-die::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@a51292@twe@game-die::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12486@gameicons-delapouite@dice-eight-face_gameicons-eight {max-width:75px; max-height:75px; }
+.@b12486@gameicons-delapouite@dice-eight-face_gameicons-eight::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@b12486@gameicons-delapouite@dice-eight-face_gameicons-eight::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12493@gameicons-delapouite@dice-twenty-face_gameicons-twenty {max-width:75px; max-height:75px; }
+.@b12493@gameicons-delapouite@dice-twenty-face_gameicons-twenty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/d/dice/0.png/0.png);padding: 0; }
+div.@b12493@gameicons-delapouite@dice-twenty-face_gameicons-twenty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0c5d61fa8f40f164f3d23cef234802d1:99e17ce571893f549a4aad27526b41d1:4ddb42793a59c1b7bfff1539dfc4d068$ */

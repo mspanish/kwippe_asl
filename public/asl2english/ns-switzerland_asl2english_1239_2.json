@@ -1,0 +1,37 @@
+{
+    "sign": "ns-switzerland",
+    "signer": "asl2english",
+    "uid": 1239,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 30,
+            "nd": null
+        },
+        "end": {
+            "d": 30,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            1,
+            -1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

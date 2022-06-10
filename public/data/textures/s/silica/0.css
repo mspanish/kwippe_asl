@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59760@ian@coastline-2d-sheltered-versus-exposed-siliceous {max-width:75px; max-height:75px; }
+.@a59760@ian@coastline-2d-sheltered-versus-exposed-siliceous::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/silica/0.png/0.png);padding: 0; }
+div.@a59760@ian@coastline-2d-sheltered-versus-exposed-siliceous::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3fb7279e36ca11189c1c0198e4467980:40f56bf8e81be4a953f3fcce9c5f981b:4ddb42793a59c1b7bfff1539dfc4d068$ */

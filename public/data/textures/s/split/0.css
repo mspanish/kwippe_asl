@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13573@gameicons-delapouite@van-damme-split {max-width:75px; max-height:75px; }
+.@b13573@gameicons-delapouite@van-damme-split::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/split/0.png/0.png);padding: 0; }
+div.@b13573@gameicons-delapouite@van-damme-split::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14840@gameicons-lorc@split-body {max-width:75px; max-height:75px; }
+.@b14840@gameicons-lorc@split-body::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/split/0.png/0.png);padding: 0; }
+div.@b14840@gameicons-lorc@split-body::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14841@gameicons-lorc@split-cross {max-width:75px; max-height:75px; }
+.@b14841@gameicons-lorc@split-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/split/0.png/0.png);padding: 0; }
+div.@b14841@gameicons-lorc@split-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f83c0a1627b9d16e3dda599e7ab2cf45:2f6c5e91c316439d3c672ea07d9db31e:4ddb42793a59c1b7bfff1539dfc4d068$ */

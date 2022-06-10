@@ -1,0 +1,45 @@
+{
+    "sign": "cover_up",
+    "signer": "aslLex",
+    "uid": 2644,
+    "synonyms": "blur, blurry, cover up, lie, obscure, obfuscate",
+    "handshapes": {
+        "begin": {
+            "d": "open_b",
+            "nd": "open_b"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "FingerFront",
+        "morph1_specific_second": "Palm",
+        "morph1_contact": null,
+        "morph1_signtype": "AsymmetricalSameHandshape",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalSameHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 2.0,
+    "frequency": 3.429,
+    "category": null
+}

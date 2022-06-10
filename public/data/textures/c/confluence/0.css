@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61479@ian@river-3d-two-river-confluence {max-width:75px; max-height:75px; }
+.@a61479@ian@river-3d-two-river-confluence::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/confluence/0.png/0.png);padding: 0; }
+div.@a61479@ian@river-3d-two-river-confluence::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61484@ian@river-3d-with-stream {max-width:75px; max-height:75px; }
+.@a61484@ian@river-3d-with-stream::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/confluence/0.png/0.png);padding: 0; }
+div.@a61484@ian@river-3d-with-stream::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:96fc83fb1f69d6eacd9528d912857e3e:fe81be45d484146e326e948faefefa8f:4ddb42793a59c1b7bfff1539dfc4d068$ */

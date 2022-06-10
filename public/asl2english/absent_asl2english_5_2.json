@@ -1,0 +1,37 @@
+{
+    "sign": "absent",
+    "signer": "asl2english",
+    "uid": 5,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": 13
+        },
+        "end": {
+            "d": 1,
+            "nd": 13
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "patient",
+    "signer": "asl2english",
+    "uid": 1318,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 14,
+            "nd": null
+        },
+        "end": {
+            "d": 14,
+            "nd": null
+        }
+    },
+    "regions": [
+        "mouth",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

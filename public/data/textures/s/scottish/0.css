@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2302@bon@scottish-executive-publication-8068 {max-width:75px; max-height:75px; }
+.@a2302@bon@scottish-executive-publication-8068::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/scottish/0.png/0.png);padding: 0; }
+div.@a2302@bon@scottish-executive-publication-8068::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2303@bon@scottish-studies-3043 {max-width:75px; max-height:75px; }
+.@a2303@bon@scottish-studies-3043::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/scottish/0.png/0.png);padding: 0; }
+div.@a2303@bon@scottish-studies-3043::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4f10f407b1e485dd4f117ed19f19da12:390579705c3686ac906e7606c0d6d29d:4ddb42793a59c1b7bfff1539dfc4d068$ */

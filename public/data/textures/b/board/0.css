@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1594@bon@chopping-board-2510 {max-width:75px; max-height:75px; }
+.@a1594@bon@chopping-board-2510::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@a1594@bon@chopping-board-2510::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25341@gli@board {max-width:75px; max-height:75px; }
+.@a25341@gli@board::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@a25341@gli@board::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29598@knl@cutting-board {max-width:75px; max-height:75px; }
+.@a29598@knl@cutting-board::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@a29598@knl@cutting-board::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36875@mul@chopping-board {max-width:75px; max-height:75px; }
+.@a36875@mul@chopping-board::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@a36875@mul@chopping-board::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36954@mul@communication-board {max-width:75px; max-height:75px; }
+.@a36954@mul@communication-board::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@a36954@mul@communication-board::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37266@mul@draining-board {max-width:75px; max-height:75px; }
+.@a37266@mul@draining-board::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@a37266@mul@draining-board::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37347@mul@emery-board {max-width:75px; max-height:75px; }
+.@a37347@mul@emery-board::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@a37347@mul@emery-board::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37960@mul@ironing-board {max-width:75px; max-height:75px; }
+.@a37960@mul@ironing-board::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@a37960@mul@ironing-board::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12558@gameicons-delapouite@empty-chessboard {max-width:75px; max-height:75px; }
+.@b12558@gameicons-delapouite@empty-chessboard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/board/0.png/0.png);padding: 0; }
+div.@b12558@gameicons-delapouite@empty-chessboard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e21a6d4b8f4d53547a533804fec8194b:171bca1444bcbf56643fbae98286789e:4ddb42793a59c1b7bfff1539dfc4d068$ */

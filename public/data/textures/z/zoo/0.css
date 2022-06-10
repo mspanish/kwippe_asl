@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1918@bon@going-out-visit-the-the-zoo-bs-8051-8019 {max-width:75px; max-height:75px; }
+.@a1918@bon@going-out-visit-the-the-zoo-bs-8051-8019::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/z/zoo/0.png/0.png);padding: 0; }
+div.@a1918@bon@going-out-visit-the-the-zoo-bs-8051-8019::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2721@bon@zoo-bs-8501-8019 {max-width:75px; max-height:75px; }
+.@a2721@bon@zoo-bs-8501-8019::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/z/zoo/0.png/0.png);padding: 0; }
+div.@a2721@bon@zoo-bs-8501-8019::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:037b81c502a6b6b42189dcd93235eb20:06bfcb48e42ccd74286db07d1a137c21:4ddb42793a59c1b7bfff1539dfc4d068$ */

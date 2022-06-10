@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60602@ian@island-mud-banks {max-width:75px; max-height:75px; }
+.@a60602@ian@island-mud-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/i/islmud/0.png/0.png);padding: 0; }
+div.@a60602@ian@island-mud-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9b4aced0ca7a1f0d1c904ff27a1db421:ccb5864d062410d537fa38d0b340c813:4ddb42793a59c1b7bfff1539dfc4d068$ */

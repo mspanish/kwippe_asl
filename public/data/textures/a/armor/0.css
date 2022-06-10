@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12170@gameicons-delapouite@armor-downgrade {max-width:75px; max-height:75px; }
+.@b12170@gameicons-delapouite@armor-downgrade::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b12170@gameicons-delapouite@armor-downgrade::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12171@gameicons-delapouite@armor-punch {max-width:75px; max-height:75px; }
+.@b12171@gameicons-delapouite@armor-punch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b12171@gameicons-delapouite@armor-punch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12172@gameicons-delapouite@armor-upgrade {max-width:75px; max-height:75px; }
+.@b12172@gameicons-delapouite@armor-upgrade::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b12172@gameicons-delapouite@armor-upgrade::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12237@gameicons-delapouite@belt-armor {max-width:75px; max-height:75px; }
+.@b12237@gameicons-delapouite@belt-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b12237@gameicons-delapouite@belt-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12377@gameicons-delapouite@chest-armor {max-width:75px; max-height:75px; }
+.@b12377@gameicons-delapouite@chest-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b12377@gameicons-delapouite@chest-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12876@gameicons-delapouite@leather-armor {max-width:75px; max-height:75px; }
+.@b12876@gameicons-delapouite@leather-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b12876@gameicons-delapouite@leather-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12878@gameicons-delapouite@leg-armor {max-width:75px; max-height:75px; }
+.@b12878@gameicons-delapouite@leg-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b12878@gameicons-delapouite@leg-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13010@gameicons-delapouite@ninja-armor {max-width:75px; max-height:75px; }
+.@b13010@gameicons-delapouite@ninja-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b13010@gameicons-delapouite@ninja-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13310@gameicons-delapouite@shoulder-armor {max-width:75px; max-height:75px; }
+.@b13310@gameicons-delapouite@shoulder-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b13310@gameicons-delapouite@shoulder-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13377@gameicons-delapouite@spiked-shoulder-armor {max-width:75px; max-height:75px; }
+.@b13377@gameicons-delapouite@spiked-shoulder-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b13377@gameicons-delapouite@spiked-shoulder-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13727@gameicons-lorc@armor-vest {max-width:75px; max-height:75px; }
+.@b13727@gameicons-lorc@armor-vest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b13727@gameicons-lorc@armor-vest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14408@gameicons-lorc@layered-armor {max-width:75px; max-height:75px; }
+.@b14408@gameicons-lorc@layered-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b14408@gameicons-lorc@layered-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14814@gameicons-lorc@spiked-armor {max-width:75px; max-height:75px; }
+.@b14814@gameicons-lorc@spiked-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b14814@gameicons-lorc@spiked-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15409@gameicons-skoll@trench-body-armor {max-width:75px; max-height:75px; }
+.@b15409@gameicons-skoll@trench-body-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/armor/0.png/0.png);padding: 0; }
+div.@b15409@gameicons-skoll@trench-body-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ba7b3d848723eefa5e87ecec125cd421:2b6a0805af6f4c0121adda3a9c6364b1:4ddb42793a59c1b7bfff1539dfc4d068$ */

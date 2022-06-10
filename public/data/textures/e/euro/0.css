@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29040@jqu@euro {max-width:75px; max-height:75px; }
+.@a29040@jqu@euro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/euro/0.png/0.png);padding: 0; }
+div.@a29040@jqu@euro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33193@mat@currency-eur {max-width:75px; max-height:75px; }
+.@a33193@mat@currency-eur::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/euro/0.png/0.png);padding: 0; }
+div.@a33193@mat@currency-eur::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53205@vaa@euro {max-width:75px; max-height:75px; }
+.@a53205@vaa@euro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/euro/0.png/0.png);padding: 0; }
+div.@a53205@vaa@euro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54176@wav@euro-symbol {max-width:75px; max-height:75px; }
+.@a54176@wav@euro-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/euro/0.png/0.png);padding: 0; }
+div.@a54176@wav@euro-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56503@win@currency-euro {max-width:75px; max-height:75px; }
+.@a56503@win@currency-euro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/euro/0.png/0.png);padding: 0; }
+div.@a56503@win@currency-euro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57659@xei@euro {max-width:75px; max-height:75px; }
+.@a57659@xei@euro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/euro/0.png/0.png);padding: 0; }
+div.@a57659@xei@euro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8666@web@euro {max-width:75px; max-height:75px; }
+.@b8666@web@euro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/euro/0.png/0.png);padding: 0; }
+div.@b8666@web@euro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:91725420b8bf86e17fcad26d1abab559:5fdd83d0e3c10feb0efd1d6bea7af8af:4ddb42793a59c1b7bfff1539dfc4d068$ */

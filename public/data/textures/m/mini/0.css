@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15154@em2@minidisc {max-width:75px; max-height:75px; }
+.@a15154@em2@minidisc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mini/0.png/0.png);padding: 0; }
+div.@a15154@em2@minidisc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16485@emo@minidisc {max-width:75px; max-height:75px; }
+.@a16485@emo@minidisc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mini/0.png/0.png);padding: 0; }
+div.@a16485@emo@minidisc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17584@fir@u1f4bd-minidisc {max-width:75px; max-height:75px; }
+.@a17584@fir@u1f4bd-minidisc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mini/0.png/0.png);padding: 0; }
+div.@a17584@fir@u1f4bd-minidisc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39874@noc@minidisc {max-width:75px; max-height:75px; }
+.@a39874@noc@minidisc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mini/0.png/0.png);padding: 0; }
+div.@a39874@noc@minidisc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44515@not@minidisc {max-width:75px; max-height:75px; }
+.@a44515@not@minidisc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mini/0.png/0.png);padding: 0; }
+div.@a44515@not@minidisc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12966@gameicons-delapouite@mini-submarine {max-width:75px; max-height:75px; }
+.@b12966@gameicons-delapouite@mini-submarine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mini/0.png/0.png);padding: 0; }
+div.@b12966@gameicons-delapouite@mini-submarine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6bc1481912b7a5df38c1a3efdf58abde:529e049b39441dbada66b7316d04e0c8:4ddb42793a59c1b7bfff1539dfc4d068$ */

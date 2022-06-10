@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60093@ian@eichhornia-crassipes {max-width:75px; max-height:75px; }
+.@a60093@ian@eichhornia-crassipes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/eichhornia/0.png/0.png);padding: 0; }
+div.@a60093@ian@eichhornia-crassipes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:96d39bf6d0a9ade4980cc392d593cde9:03f503bdea682e8b632e3b647f94de5e:4ddb42793a59c1b7bfff1539dfc4d068$ */

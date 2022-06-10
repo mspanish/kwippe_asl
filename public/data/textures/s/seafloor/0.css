@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59970@ian@deep-sea-mining-bulk-cutter {max-width:75px; max-height:75px; }
+.@a59970@ian@deep-sea-mining-bulk-cutter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/seafloor/0.png/0.png);padding: 0; }
+div.@a59970@ian@deep-sea-mining-bulk-cutter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool {max-width:75px; max-height:75px; }
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/seafloor/0.png/0.png);padding: 0; }
+div.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59972@ian@deep-sea-mining-support-vessel {max-width:75px; max-height:75px; }
+.@a59972@ian@deep-sea-mining-support-vessel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/seafloor/0.png/0.png);padding: 0; }
+div.@a59972@ian@deep-sea-mining-support-vessel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61606@ian@sediment-grab {max-width:75px; max-height:75px; }
+.@a61606@ian@sediment-grab::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/seafloor/0.png/0.png);padding: 0; }
+div.@a61606@ian@sediment-grab::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61725@ian@submersible-glider-thermally-powered {max-width:75px; max-height:75px; }
+.@a61725@ian@submersible-glider-thermally-powered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/seafloor/0.png/0.png);padding: 0; }
+div.@a61725@ian@submersible-glider-thermally-powered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62160@ian@vims-fetch-autonomous-underwater-vehicle {max-width:75px; max-height:75px; }
+.@a62160@ian@vims-fetch-autonomous-underwater-vehicle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/seafloor/0.png/0.png);padding: 0; }
+div.@a62160@ian@vims-fetch-autonomous-underwater-vehicle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5a886ecf0fc1a519e498554b51823880:acf4955cd0c0ced466f5f31dab980ea4:4ddb42793a59c1b7bfff1539dfc4d068$ */

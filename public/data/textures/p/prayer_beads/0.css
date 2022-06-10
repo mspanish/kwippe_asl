@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15297@em2@prayer-beads {max-width:75px; max-height:75px; }
+.@a15297@em2@prayer-beads::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/prayer_beads/0.png/0.png);padding: 0; }
+div.@a15297@em2@prayer-beads::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16637@emo@prayer-beads {max-width:75px; max-height:75px; }
+.@a16637@emo@prayer-beads::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/prayer_beads/0.png/0.png);padding: 0; }
+div.@a16637@emo@prayer-beads::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40018@noc@prayer-beads {max-width:75px; max-height:75px; }
+.@a40018@noc@prayer-beads::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/prayer_beads/0.png/0.png);padding: 0; }
+div.@a40018@noc@prayer-beads::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43115@nog@prayer-beads-smileys-people {max-width:75px; max-height:75px; }
+.@a43115@nog@prayer-beads-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/prayer_beads/0.png/0.png);padding: 0; }
+div.@a43115@nog@prayer-beads-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50778@tw2@prayer-beads {max-width:75px; max-height:75px; }
+.@a50778@tw2@prayer-beads::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/prayer_beads/0.png/0.png);padding: 0; }
+div.@a50778@tw2@prayer-beads::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13158@gameicons-delapouite@prayer-beads {max-width:75px; max-height:75px; }
+.@b13158@gameicons-delapouite@prayer-beads::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/prayer_beads/0.png/0.png);padding: 0; }
+div.@b13158@gameicons-delapouite@prayer-beads::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a79556cb2dcbb22de50e24c4859d2db5:03544947a1faa24cc36a0aee8890cef9:4ddb42793a59c1b7bfff1539dfc4d068$ */

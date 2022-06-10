@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62100@ian@usa-or-john-day-fossil-beds-national-monument {max-width:75px; max-height:75px; }
+.@a62100@ian@usa-or-john-day-fossil-beds-national-monument::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/john/0.png/0.png);padding: 0; }
+div.@a62100@ian@usa-or-john-day-fossil-beds-national-monument::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62259@ian@zeus-faber {max-width:75px; max-height:75px; }
+.@a62259@ian@zeus-faber::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/john/0.png/0.png);padding: 0; }
+div.@a62259@ian@zeus-faber::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dd4eb6bcdfb1c74c417f0ef5d1c9400b:cc4d5e16155e5490abf9dd2602ab9122:4ddb42793a59c1b7bfff1539dfc4d068$ */

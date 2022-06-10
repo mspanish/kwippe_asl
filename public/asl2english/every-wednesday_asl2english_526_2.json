@@ -1,0 +1,37 @@
+{
+    "sign": "every-wednesday",
+    "signer": "asl2english",
+    "uid": 526,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 8,
+            "nd": 8
+        },
+        "end": {
+            "d": 78,
+            "nd": 78
+        }
+    },
+    "regions": [
+        "forehead",
+        "chest"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

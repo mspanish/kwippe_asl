@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59450@ian@balistapus-undulatus {max-width:75px; max-height:75px; }
+.@a59450@ian@balistapus-undulatus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/tetraodontiformes/0.png/0.png);padding: 0; }
+div.@a59450@ian@balistapus-undulatus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59451@ian@balistes-capriscus {max-width:75px; max-height:75px; }
+.@a59451@ian@balistes-capriscus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/tetraodontiformes/0.png/0.png);padding: 0; }
+div.@a59451@ian@balistes-capriscus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60034@ian@diodon-hystrix {max-width:75px; max-height:75px; }
+.@a60034@ian@diodon-hystrix::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/tetraodontiformes/0.png/0.png);padding: 0; }
+div.@a60034@ian@diodon-hystrix::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60889@ian@mola-mola {max-width:75px; max-height:75px; }
+.@a60889@ian@mola-mola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/tetraodontiformes/0.png/0.png);padding: 0; }
+div.@a60889@ian@mola-mola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61429@ian@rhinecanthus-rectangulus {max-width:75px; max-height:75px; }
+.@a61429@ian@rhinecanthus-rectangulus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/tetraodontiformes/0.png/0.png);padding: 0; }
+div.@a61429@ian@rhinecanthus-rectangulus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61668@ian@sphoeroides-maculatus {max-width:75px; max-height:75px; }
+.@a61668@ian@sphoeroides-maculatus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/tetraodontiformes/0.png/0.png);padding: 0; }
+div.@a61668@ian@sphoeroides-maculatus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6f5131850e34897a66df2228f6e8b0e2:09d323d29b8f9fb728a19ac1914a759f:4ddb42793a59c1b7bfff1539dfc4d068$ */

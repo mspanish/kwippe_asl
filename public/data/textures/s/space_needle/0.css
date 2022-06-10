@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a56419@win@city-seattle {max-width:75px; max-height:75px; }
+.@a56419@win@city-seattle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/space_needle/0.png/0.png);padding: 0; }
+div.@a56419@win@city-seattle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e0730fa7f4bdde1f35a1ca4d71dea495:b375b07958ee061a9e1e247fe7c331da:4ddb42793a59c1b7bfff1539dfc4d068$ */

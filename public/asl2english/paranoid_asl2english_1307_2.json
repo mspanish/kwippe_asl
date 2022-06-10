@@ -1,0 +1,37 @@
+{
+    "sign": "paranoid",
+    "signer": "asl2english",
+    "uid": 1307,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 58,
+            "nd": 58
+        },
+        "end": {
+            "d": 58,
+            "nd": 58
+        }
+    },
+    "regions": [
+        "temple",
+        "temple"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

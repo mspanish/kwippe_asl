@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60237@ian@fertilizer-factory {max-width:75px; max-height:75px; }
+.@a60237@ian@fertilizer-factory::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/manure/0.png/0.png);padding: 0; }
+div.@a60237@ian@fertilizer-factory::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60808@ian@manure-composting-bunker {max-width:75px; max-height:75px; }
+.@a60808@ian@manure-composting-bunker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/manure/0.png/0.png);padding: 0; }
+div.@a60808@ian@manure-composting-bunker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60809@ian@manure-export {max-width:75px; max-height:75px; }
+.@a60809@ian@manure-export::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/manure/0.png/0.png);padding: 0; }
+div.@a60809@ian@manure-export::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9ac021b1ddf23d83bffd4477c9f60754:cf18a4664b46b23c652de59f00ba6f97:4ddb42793a59c1b7bfff1539dfc4d068$ */

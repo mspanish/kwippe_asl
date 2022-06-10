@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37015@mul@bonaire {max-width:75px; max-height:75px; }
+.@a37015@mul@bonaire::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/bonaire/0.png/0.png);padding: 0; }
+div.@a37015@mul@bonaire::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1741@wikim-all@blason_de_bonaire_uuu28antilles_nuuuc3uuua9erlandaisesuuu29 {max-width:75px; max-height:75px; }
+.@d1741@wikim-all@blason_de_bonaire_uuu28antilles_nuuuc3uuua9erlandaisesuuu29::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/bonaire/0.png/0.png);padding: 0; }
+div.@d1741@wikim-all@blason_de_bonaire_uuu28antilles_nuuuc3uuua9erlandaisesuuu29::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:eced3fcaa8a56d7e674388ded7e161e9:792fb9d3d47ea5ac15ec472a027fb252:4ddb42793a59c1b7bfff1539dfc4d068$ */

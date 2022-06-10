@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2712@bon@your-community-8120 {max-width:75px; max-height:75px; }
+.@a2712@bon@your-community-8120::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/y/your_community/0.png/0.png);padding: 0; }
+div.@a2712@bon@your-community-8120::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a2ec4e64ae76d94fe8cacd3bf5335fc1:7d46e062cf655dc8e3192c391f1b5d61:4ddb42793a59c1b7bfff1539dfc4d068$ */

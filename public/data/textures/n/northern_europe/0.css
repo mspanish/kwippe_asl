@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16090@emo@gb {max-width:75px; max-height:75px; }
+.@a16090@emo@gb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/northern_europe/0.png/0.png);padding: 0; }
+div.@a16090@emo@gb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37129@mul@wales {max-width:75px; max-height:75px; }
+.@a37129@mul@wales::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/northern_europe/0.png/0.png);padding: 0; }
+div.@a37129@mul@wales::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37644@mul@united_kingdom {max-width:75px; max-height:75px; }
+.@a37644@mul@united_kingdom::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/northern_europe/0.png/0.png);padding: 0; }
+div.@a37644@mul@united_kingdom::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49825@str@768_united_kingdom {max-width:75px; max-height:75px; }
+.@a49825@str@768_united_kingdom::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/northern_europe/0.png/0.png);padding: 0; }
+div.@a49825@str@768_united_kingdom::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60286@ian@united_kingdom {max-width:75px; max-height:75px; }
+.@a60286@ian@united_kingdom::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/northern_europe/0.png/0.png);padding: 0; }
+div.@a60286@ian@united_kingdom::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:76dbbd9ca82a380d2672be1cc66d73d3:53124a1c363b3b18aa9d183216e3ca8a:4ddb42793a59c1b7bfff1539dfc4d068$ */

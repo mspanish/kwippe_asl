@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36747@mul@can-opener-electric {max-width:75px; max-height:75px; }
+.@a36747@mul@can-opener-electric::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/can_opener_electric/0.png/0.png);padding: 0; }
+div.@a36747@mul@can-opener-electric::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dc1650f6a52e2b136a823a0f26004056:fb8b2a26fc02a2f37b5c3027adbebae6:4ddb42793a59c1b7bfff1539dfc4d068$ */

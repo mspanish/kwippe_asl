@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1546@bon@boxing-bs-8501-9007 {max-width:75px; max-height:75px; }
+.@a1546@bon@boxing-bs-8501-9007::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/boxing/0.png/0.png);padding: 0; }
+div.@a1546@bon@boxing-bs-8501-9007::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36645@mul@boxing-day {max-width:75px; max-height:75px; }
+.@a36645@mul@boxing-day::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/boxing/0.png/0.png);padding: 0; }
+div.@a36645@mul@boxing-day::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12284@gameicons-delapouite@boxing-ring {max-width:75px; max-height:75px; }
+.@b12284@gameicons-delapouite@boxing-ring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/boxing/0.png/0.png);padding: 0; }
+div.@b12284@gameicons-delapouite@boxing-ring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13839@gameicons-lorc@boxing-glove-surprise {max-width:75px; max-height:75px; }
+.@b13839@gameicons-lorc@boxing-glove-surprise::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/boxing/0.png/0.png);padding: 0; }
+div.@b13839@gameicons-lorc@boxing-glove-surprise::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4076d08924b4ff25c4c7bac22ce3346e:9a4371de4be9c26fbb912dadce228fa4:4ddb42793a59c1b7bfff1539dfc4d068$ */

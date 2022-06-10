@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a30169@lib@file-audio {max-width:75px; max-height:75px; }
+.@a30169@lib@file-audio::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.25839793281653745% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a30169@lib@file-audio::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36089@met@file-audio {max-width:75px; max-height:75px; }
+.@a36089@met@file-audio::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 10.20671834625323% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a36089@met@file-audio::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47302@pic@book-audio-add {max-width:75px; max-height:75px; }
+.@a47302@pic@book-audio-add::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.155038759689923% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a47302@pic@book-audio-add::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47303@pic@book-audio-eject {max-width:75px; max-height:75px; }
+.@a47303@pic@book-audio-eject::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 30.103359173126616% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a47303@pic@book-audio-eject::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47306@pic@book-audio-remove {max-width:75px; max-height:75px; }
+.@a47306@pic@book-audio-remove::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.05167958656331% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a47306@pic@book-audio-remove::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47307@pic@book-audio-run {max-width:75px; max-height:75px; }
+.@a47307@pic@book-audio-run::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a47307@pic@book-audio-run::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47308@pic@book-audio-security {max-width:75px; max-height:75px; }
+.@a47308@pic@book-audio-security::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.94832041343669% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a47308@pic@book-audio-security::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47309@pic@book-audio-settings {max-width:75px; max-height:75px; }
+.@a47309@pic@book-audio-settings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 69.89664082687338% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a47309@pic@book-audio-settings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47310@pic@book-audio-stop {max-width:75px; max-height:75px; }
+.@a47310@pic@book-audio-stop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.84496124031008% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a47310@pic@book-audio-stop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47311@pic@book-audio {max-width:75px; max-height:75px; }
+.@a47311@pic@book-audio::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 89.79328165374677% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a47311@pic@book-audio::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a761@awe@file-audio-o {max-width:75px; max-height:75px; }
+.@a761@awe@file-audio-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.74160206718346% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/a/audio/0.png/0.png);padding: 0; }
+div.@a761@awe@file-audio-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c1e326cea1e3f8f0da7308ca3f29d1a5:ef8f548eaf9ba80d657d8804bd809b2d:4ddb42793a59c1b7bfff1539dfc4d068$ */

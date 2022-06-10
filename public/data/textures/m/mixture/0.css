@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36696@mul@bubble-mixture {max-width:75px; max-height:75px; }
+.@a36696@mul@bubble-mixture::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mixture/0.png/0.png);padding: 0; }
+div.@a36696@mul@bubble-mixture::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38505@mul@pour-cake-mixture-to {max-width:75px; max-height:75px; }
+.@a38505@mul@pour-cake-mixture-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mixture/0.png/0.png);padding: 0; }
+div.@a38505@mul@pour-cake-mixture-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7594be505d025cc9e85eca54339fb86e:2c67a14774bb0ddfaeb8a9a55c12f4bc:4ddb42793a59c1b7bfff1539dfc4d068$ */

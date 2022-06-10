@@ -1,0 +1,37 @@
+{
+    "sign": "vomit",
+    "signer": "asl2english",
+    "uid": 1972,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 30,
+            "nd": null
+        },
+        "end": {
+            "d": 30,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chin",
+        "chest-front"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

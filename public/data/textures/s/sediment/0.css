@@ -1,0 +1,122 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59248@ian@accumulation {max-width:75px; max-height:75px; }
+.@a59248@ian@accumulation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a59248@ian@accumulation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59525@ian@bottom-roughness {max-width:75px; max-height:75px; }
+.@a59525@ian@bottom-roughness::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a59525@ian@bottom-roughness::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59528@ian@box-corer {max-width:75px; max-height:75px; }
+.@a59528@ian@box-corer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a59528@ian@box-corer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59558@ian@burial {max-width:75px; max-height:75px; }
+.@a59558@ian@burial::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a59558@ian@burial::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59978@ian@degraded-water-quality {max-width:75px; max-height:75px; }
+.@a59978@ian@degraded-water-quality::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a59978@ian@degraded-water-quality::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60002@ian@deposition-sediment {max-width:75px; max-height:75px; }
+.@a60002@ian@deposition-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60002@ian@deposition-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60003@ian@deposition-sediment2 {max-width:75px; max-height:75px; }
+.@a60003@ian@deposition-sediment2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60003@ian@deposition-sediment2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60308@ian@flux-sediments {max-width:75px; max-height:75px; }
+.@a60308@ian@flux-sediments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60308@ian@flux-sediments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60495@ian@hill-3d-with-geologic-layers {max-width:75px; max-height:75px; }
+.@a60495@ian@hill-3d-with-geologic-layers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60495@ian@hill-3d-with-geologic-layers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60572@ian@inputs-nutrients-2 {max-width:75px; max-height:75px; }
+.@a60572@ian@inputs-nutrients-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60572@ian@inputs-nutrients-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60576@ian@inputs-sediments-1 {max-width:75px; max-height:75px; }
+.@a60576@ian@inputs-sediments-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60576@ian@inputs-sediments-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60577@ian@inputs-sediments-2 {max-width:75px; max-height:75px; }
+.@a60577@ian@inputs-sediments-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60577@ian@inputs-sediments-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60578@ian@inputs-sediments-nutrients {max-width:75px; max-height:75px; }
+.@a60578@ian@inputs-sediments-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60578@ian@inputs-sediments-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60579@ian@inputs-sediments {max-width:75px; max-height:75px; }
+.@a60579@ian@inputs-sediments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60579@ian@inputs-sediments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60639@ian@lake-2d-desert-lunette {max-width:75px; max-height:75px; }
+.@a60639@ian@lake-2d-desert-lunette::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60639@ian@lake-2d-desert-lunette::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine {max-width:75px; max-height:75px; }
+.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60640@ian@lake-2d-glacial-with-deltaic-deposits-and-terminal-morraine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60641@ian@lake-2d-laminated-sediment {max-width:75px; max-height:75px; }
+.@a60641@ian@lake-2d-laminated-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60641@ian@lake-2d-laminated-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60702@ian@light-logger {max-width:75px; max-height:75px; }
+.@a60702@ian@light-logger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60702@ian@light-logger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60948@ian@mountains-3d-glacier-with-braided-stream-and-varve-lake {max-width:75px; max-height:75px; }
+.@a60948@ian@mountains-3d-glacier-with-braided-stream-and-varve-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a60948@ian@mountains-3d-glacier-with-braided-stream-and-varve-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61152@ian@perched-water-table {max-width:75px; max-height:75px; }
+.@a61152@ian@perched-water-table::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61152@ian@perched-water-table::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61206@ian@plain-3d-simple-with-soil-layers {max-width:75px; max-height:75px; }
+.@a61206@ian@plain-3d-simple-with-soil-layers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61206@ian@plain-3d-simple-with-soil-layers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61207@ian@plain-3d-simple {max-width:75px; max-height:75px; }
+.@a61207@ian@plain-3d-simple::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61207@ian@plain-3d-simple::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61468@ian@river-3d-foothills-sandy-riverbed {max-width:75px; max-height:75px; }
+.@a61468@ian@river-3d-foothills-sandy-riverbed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61468@ian@river-3d-foothills-sandy-riverbed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61471@ian@river-3d-meandering-with-sandy-banks {max-width:75px; max-height:75px; }
+.@a61471@ian@river-3d-meandering-with-sandy-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61471@ian@river-3d-meandering-with-sandy-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61476@ian@river-3d-sandy-bottom {max-width:75px; max-height:75px; }
+.@a61476@ian@river-3d-sandy-bottom::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61476@ian@river-3d-sandy-bottom::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61589@ian@seagrass-restoration {max-width:75px; max-height:75px; }
+.@a61589@ian@seagrass-restoration::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61589@ian@seagrass-restoration::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61605@ian@sediment-and-water-core {max-width:75px; max-height:75px; }
+.@a61605@ian@sediment-and-water-core::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61605@ian@sediment-and-water-core::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61606@ian@sediment-grab {max-width:75px; max-height:75px; }
+.@a61606@ian@sediment-grab::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61606@ian@sediment-grab::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61607@ian@sediment-incubator {max-width:75px; max-height:75px; }
+.@a61607@ian@sediment-incubator::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61607@ian@sediment-incubator::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61608@ian@sediment-movement {max-width:75px; max-height:75px; }
+.@a61608@ian@sediment-movement::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61608@ian@sediment-movement::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61609@ian@sediment-resuspension1 {max-width:75px; max-height:75px; }
+.@a61609@ian@sediment-resuspension1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61609@ian@sediment-resuspension1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61610@ian@sediment-resuspension2 {max-width:75px; max-height:75px; }
+.@a61610@ian@sediment-resuspension2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61610@ian@sediment-resuspension2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61611@ian@sediment-suspension {max-width:75px; max-height:75px; }
+.@a61611@ian@sediment-suspension::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61611@ian@sediment-suspension::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61612@ian@sediment-trap {max-width:75px; max-height:75px; }
+.@a61612@ian@sediment-trap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61612@ian@sediment-trap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61613@ian@sediment {max-width:75px; max-height:75px; }
+.@a61613@ian@sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61613@ian@sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61713@ian@stream-3d-sandy-banks-in-valley {max-width:75px; max-height:75px; }
+.@a61713@ian@stream-3d-sandy-banks-in-valley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a61713@ian@stream-3d-sandy-banks-in-valley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62189@ian@water-quality-management {max-width:75px; max-height:75px; }
+.@a62189@ian@water-quality-management::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/s/sediment/0.png/0.png);padding: 0; }
+div.@a62189@ian@water-quality-management::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d5d1c21a839a112bee8b643458cf7852:376956495e933a429fd450f7b31ad885:4ddb42793a59c1b7bfff1539dfc4d068$ */

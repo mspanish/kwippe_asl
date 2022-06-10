@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37986@mul@jesus {max-width:75px; max-height:75px; }
+.@a37986@mul@jesus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/jesus/0.png/0.png);padding: 0; }
+div.@a37986@mul@jesus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3263@wikim-all@meuble_huuuc3uuua9raldique_face-christ {max-width:75px; max-height:75px; }
+.@d3263@wikim-all@meuble_huuuc3uuua9raldique_face-christ::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/jesus/0.png/0.png);padding: 0; }
+div.@d3263@wikim-all@meuble_huuuc3uuua9raldique_face-christ::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9b6d9b8b5c19b6309777fcda020cdd35:94f8db17318015c8f53725800dcfead7:4ddb42793a59c1b7bfff1539dfc4d068$ */

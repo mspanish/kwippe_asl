@@ -1,0 +1,74 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14231@efon@48 {max-width:75px; max-height:75px; }
+.@a14231@efon@48::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a14231@efon@48::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15172@em2@mountain-railway {max-width:75px; max-height:75px; }
+.@a15172@em2@mountain-railway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a15172@em2@mountain-railway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15314@em2@railway-car {max-width:75px; max-height:75px; }
+.@a15314@em2@railway-car::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a15314@em2@railway-car::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16502@emo@mountain-railway {max-width:75px; max-height:75px; }
+.@a16502@emo@mountain-railway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a16502@emo@mountain-railway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16657@emo@railway-car {max-width:75px; max-height:75px; }
+.@a16657@emo@railway-car::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a16657@emo@railway-car::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17955@fir@u1f683-railwaycar {max-width:75px; max-height:75px; }
+.@a17955@fir@u1f683-railwaycar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a17955@fir@u1f683-railwaycar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17982@fir@u1f69e-mountainrailway {max-width:75px; max-height:75px; }
+.@a17982@fir@u1f69e-mountainrailway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a17982@fir@u1f69e-mountainrailway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39112@mul@underground-train {max-width:75px; max-height:75px; }
+.@a39112@mul@underground-train::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a39112@mul@underground-train::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40035@noc@railway-car {max-width:75px; max-height:75px; }
+.@a40035@noc@railway-car::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a40035@noc@railway-car::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42731@nog@mountain-railway-travel-places {max-width:75px; max-height:75px; }
+.@a42731@nog@mountain-railway-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a42731@nog@mountain-railway-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43169@nog@railway-car-travel-places {max-width:75px; max-height:75px; }
+.@a43169@nog@railway-car-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a43169@nog@railway-car-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44649@not@railway-car {max-width:75px; max-height:75px; }
+.@a44649@not@railway-car::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a44649@not@railway-car::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46244@opg@toy-train {max-width:75px; max-height:75px; }
+.@a46244@opg@toy-train::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a46244@opg@toy-train::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47731@pic@transportation-train {max-width:75px; max-height:75px; }
+.@a47731@pic@transportation-train::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a47731@pic@transportation-train::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48912@solver@7-train {max-width:75px; max-height:75px; }
+.@a48912@solver@7-train::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a48912@solver@7-train::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49179@ssj@train-station {max-width:75px; max-height:75px; }
+.@a49179@ssj@train-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a49179@ssj@train-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50674@tw2@mountain-railway {max-width:75px; max-height:75px; }
+.@a50674@tw2@mountain-railway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a50674@tw2@mountain-railway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50795@tw2@railway-car {max-width:75px; max-height:75px; }
+.@a50795@tw2@railway-car::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a50795@tw2@railway-car::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58454@baianet@group {max-width:75px; max-height:75px; }
+.@a58454@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a58454@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60334@ian@freight-freight-train {max-width:75px; max-height:75px; }
+.@a60334@ian@freight-freight-train::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a60334@ian@freight-freight-train::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61338@ian@public-transport-metro-train {max-width:75px; max-height:75px; }
+.@a61338@ian@public-transport-metro-train::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/train/0.png/0.png);padding: 0; }
+div.@a61338@ian@public-transport-metro-train::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c86ffdbfea810239877f97e141c41a5f:c583a36f6d020de001ccc7520dad7229:4ddb42793a59c1b7bfff1539dfc4d068$ */

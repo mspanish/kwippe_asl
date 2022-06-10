@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59772@ian@coastline-3d-modified-shoreline {max-width:75px; max-height:75px; }
+.@a59772@ian@coastline-3d-modified-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/modified/0.png/0.png);padding: 0; }
+div.@a59772@ian@coastline-3d-modified-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59786@ian@coastline-3d-watershed-and-modified-coastline {max-width:75px; max-height:75px; }
+.@a59786@ian@coastline-3d-watershed-and-modified-coastline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/modified/0.png/0.png);padding: 0; }
+div.@a59786@ian@coastline-3d-watershed-and-modified-coastline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60173@ian@estuary-3d-modified-coastline-with-barrier-islands {max-width:75px; max-height:75px; }
+.@a60173@ian@estuary-3d-modified-coastline-with-barrier-islands::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/modified/0.png/0.png);padding: 0; }
+div.@a60173@ian@estuary-3d-modified-coastline-with-barrier-islands::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60952@ian@mountains-3d-modified-valley-and-granite-outcrop {max-width:75px; max-height:75px; }
+.@a60952@ian@mountains-3d-modified-valley-and-granite-outcrop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/modified/0.png/0.png);padding: 0; }
+div.@a60952@ian@mountains-3d-modified-valley-and-granite-outcrop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1226d8bf61c8e852262e7199bd4dfc7e:64178050618b973041ca0c6be9f03a57:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59898@ian@coregonus-spp {max-width:75px; max-height:75px; }
+.@a59898@ian@coregonus-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/whitefishes/0.png/0.png);padding: 0; }
+div.@a59898@ian@coregonus-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:90a7a45860337cd3bd06957d49fd422c:9acb5ad191b6c03a315172fad7546058:4ddb42793a59c1b7bfff1539dfc4d068$ */

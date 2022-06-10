@@ -1,0 +1,37 @@
+{
+    "sign": "complain@object",
+    "signer": "asl2english",
+    "uid": 321,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 5,
+            "nd": 5
+        },
+        "end": {
+            "d": 30,
+            "nd": 30
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            -1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12456@gameicons-delapouite@crow-nest {max-width:75px; max-height:75px; }
+.@b12456@gameicons-delapouite@crow-nest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/crow/0.png/0.png);padding: 0; }
+div.@b12456@gameicons-delapouite@crow-nest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13993@gameicons-lorc@crow-dive {max-width:75px; max-height:75px; }
+.@b13993@gameicons-lorc@crow-dive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/crow/0.png/0.png);padding: 0; }
+div.@b13993@gameicons-lorc@crow-dive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ca62bc2c481cb9b0315e6f79e153c5e:bb201dc4f0e92a6efc89d48577539676:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14716@em2@camera {max-width:75px; max-height:75px; }
+.@a14716@em2@camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a14716@em2@camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17641@fir@u1f4f7-camera {max-width:75px; max-height:75px; }
+.@a17641@fir@u1f4f7-camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a17641@fir@u1f4f7-camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25382@gli@camera {max-width:75px; max-height:75px; }
+.@a25382@gli@camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a25382@gli@camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28238@jqe@camera {max-width:75px; max-height:75px; }
+.@a28238@jqe@camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a28238@jqe@camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36744@mul@camera-compact {max-width:75px; max-height:75px; }
+.@a36744@mul@camera-compact::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a36744@mul@camera-compact::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36745@mul@camera-slr {max-width:75px; max-height:75px; }
+.@a36745@mul@camera-slr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a36745@mul@camera-slr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36746@mul@camera {max-width:75px; max-height:75px; }
+.@a36746@mul@camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a36746@mul@camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38192@mul@mobile-phone-camera {max-width:75px; max-height:75px; }
+.@a38192@mul@mobile-phone-camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a38192@mul@mobile-phone-camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39400@noc@camera {max-width:75px; max-height:75px; }
+.@a39400@noc@camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a39400@noc@camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40882@nog@camera-objects {max-width:75px; max-height:75px; }
+.@a40882@nog@camera-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a40882@nog@camera-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44162@not@camera {max-width:75px; max-height:75px; }
+.@a44162@not@camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a44162@not@camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48587@small@device-camera {max-width:75px; max-height:75px; }
+.@a48587@small@device-camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a48587@small@device-camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50271@tw2@camera {max-width:75px; max-height:75px; }
+.@a50271@tw2@camera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a50271@tw2@camera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53627@videoplasty@camera_flat_icon_vector {max-width:75px; max-height:75px; }
+.@a53627@videoplasty@camera_flat_icon_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/camera/0.png/0.png);padding: 0; }
+div.@a53627@videoplasty@camera_flat_icon_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4c869114f27f687612eebd59b1d13583:8ed2d1b20b44dbc6aac04e39c004ba46:4ddb42793a59c1b7bfff1539dfc4d068$ */

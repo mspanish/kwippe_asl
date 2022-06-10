@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a10811@df-pregnancy@1800 {max-width:75px; max-height:75px; }
+.@a10811@df-pregnancy@1800::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/diaper/0.png/0.png);padding: 0; }
+div.@a10811@df-pregnancy@1800::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10888@df-pregnancy@83 {max-width:75px; max-height:75px; }
+.@a10888@df-pregnancy@83::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/diaper/0.png/0.png);padding: 0; }
+div.@a10888@df-pregnancy@83::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b1840736d734085f6ff2d19b05b9d8b2:4d14cb88d2b5858043bbee8963da50c7:4ddb42793a59c1b7bfff1539dfc4d068$ */

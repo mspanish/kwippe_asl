@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62259@ian@zeus-faber {max-width:75px; max-height:75px; }
+.@a62259@ian@zeus-faber::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/z/zeus/0.png/0.png);padding: 0; }
+div.@a62259@ian@zeus-faber::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15108@gameicons-lorc@zeus-sword {max-width:75px; max-height:75px; }
+.@b15108@gameicons-lorc@zeus-sword::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/z/zeus/0.png/0.png);padding: 0; }
+div.@b15108@gameicons-lorc@zeus-sword::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9914e339e066dcd33c7c2980d9816047:a859b77772d6bc577299f7901628f524:4ddb42793a59c1b7bfff1539dfc4d068$ */

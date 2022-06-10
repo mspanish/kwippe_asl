@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a28967@jqu@barcode {max-width:75px; max-height:75px; }
+.@a28967@jqu@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a28967@jqu@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30080@lib@barcode {max-width:75px; max-height:75px; }
+.@a30080@lib@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a30080@lib@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31237@lug@barcode {max-width:75px; max-height:75px; }
+.@a31237@lug@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a31237@lug@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32427@mat@barcode-scan {max-width:75px; max-height:75px; }
+.@a32427@mat@barcode-scan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a32427@mat@barcode-scan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32429@mat@barcode {max-width:75px; max-height:75px; }
+.@a32429@mat@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a32429@mat@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35966@met@barcode {max-width:75px; max-height:75px; }
+.@a35966@met@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a35966@met@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53029@vaa@barcode {max-width:75px; max-height:75px; }
+.@a53029@vaa@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a53029@vaa@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56289@win@barcode {max-width:75px; max-height:75px; }
+.@a56289@win@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a56289@win@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57443@xei@barcode {max-width:75px; max-height:75px; }
+.@a57443@xei@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a57443@xei@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a614@awe@barcode {max-width:75px; max-height:75px; }
+.@a614@awe@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@a614@awe@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8129@web@barcode {max-width:75px; max-height:75px; }
+.@b8129@web@barcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barcode/0.png/0.png);padding: 0; }
+div.@b8129@web@barcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7e209055bd2d40335ffe71106abafae8:0bb3dfb3ff28767aef656f8d4045c7af:4ddb42793a59c1b7bfff1539dfc4d068$ */

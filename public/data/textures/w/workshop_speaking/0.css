@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2693@bon@workshop-speaking-1-8537 {max-width:75px; max-height:75px; }
+.@a2693@bon@workshop-speaking-1-8537::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/workshop_speaking/0.png/0.png);padding: 0; }
+div.@a2693@bon@workshop-speaking-1-8537::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2694@bon@workshop-speaking-2-8538 {max-width:75px; max-height:75px; }
+.@a2694@bon@workshop-speaking-2-8538::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/workshop_speaking/0.png/0.png);padding: 0; }
+div.@a2694@bon@workshop-speaking-2-8538::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f0ef9ec81e2a39312aa1ff84f71d9778:80cd5e6cf52a54f6fbfa66ab9885b7f3:4ddb42793a59c1b7bfff1539dfc4d068$ */

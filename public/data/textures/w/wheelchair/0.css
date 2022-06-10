@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39199@mul@wheelchair-and-switch-mount {max-width:75px; max-height:75px; }
+.@a39199@mul@wheelchair-and-switch-mount::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wheelchair/0.png/0.png);padding: 0; }
+div.@a39199@mul@wheelchair-and-switch-mount::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39200@mul@wheelchair-communication-aid {max-width:75px; max-height:75px; }
+.@a39200@mul@wheelchair-communication-aid::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wheelchair/0.png/0.png);padding: 0; }
+div.@a39200@mul@wheelchair-communication-aid::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42598@nog@manual-wheelchair-travel-places-transport-ground {max-width:75px; max-height:75px; }
+.@a42598@nog@manual-wheelchair-travel-places-transport-ground::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wheelchair/0.png/0.png);padding: 0; }
+div.@a42598@nog@manual-wheelchair-travel-places-transport-ground::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42717@nog@motorized-wheelchair-travel-places-transport-ground {max-width:75px; max-height:75px; }
+.@a42717@nog@motorized-wheelchair-travel-places-transport-ground::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wheelchair/0.png/0.png);padding: 0; }
+div.@a42717@nog@motorized-wheelchair-travel-places-transport-ground::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f4e65eb141f0240d05ebc0104165d17e:f20bdbdf7ffa3f47ae9bf544ddea6267:4ddb42793a59c1b7bfff1539dfc4d068$ */

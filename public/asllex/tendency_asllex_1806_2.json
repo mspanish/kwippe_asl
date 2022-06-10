@@ -1,0 +1,45 @@
+{
+    "sign": "tendency",
+    "signer": "aslLex",
+    "uid": 292,
+    "synonyms": "BING, bing, habit, likely, tendency, tend to, typical, typically",
+    "handshapes": {
+        "begin": {
+            "d": "open_8",
+            "nd": "open_8"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Body",
+        "morph1_specific": "Clavicle",
+        "morph1_specific_second": "BodyAway",
+        "morph1_contact": null,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 2.0,
+    "frequency": 4.769,
+    "category": null
+}

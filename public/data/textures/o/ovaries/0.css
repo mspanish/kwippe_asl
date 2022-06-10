@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a10822@df-pregnancy@2006 {max-width:75px; max-height:75px; }
+.@a10822@df-pregnancy@2006::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/o/ovaries/0.png/0.png);padding: 0; }
+div.@a10822@df-pregnancy@2006::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10836@df-pregnancy@235 {max-width:75px; max-height:75px; }
+.@a10836@df-pregnancy@235::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/o/ovaries/0.png/0.png);padding: 0; }
+div.@a10836@df-pregnancy@235::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10841@df-pregnancy@249 {max-width:75px; max-height:75px; }
+.@a10841@df-pregnancy@249::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/o/ovaries/0.png/0.png);padding: 0; }
+div.@a10841@df-pregnancy@249::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10887@df-pregnancy@824 {max-width:75px; max-height:75px; }
+.@a10887@df-pregnancy@824::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/o/ovaries/0.png/0.png);padding: 0; }
+div.@a10887@df-pregnancy@824::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0023846224fe67a02dba546688669681:e8e3b9f06e607d44dda104a833000a86:4ddb42793a59c1b7bfff1539dfc4d068$ */

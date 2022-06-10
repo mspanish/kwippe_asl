@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36601@mul@bladder-kidneys {max-width:75px; max-height:75px; }
+.@a36601@mul@bladder-kidneys::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/k/kidneys/0.png/0.png);padding: 0; }
+div.@a36601@mul@bladder-kidneys::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38010@mul@kidneys {max-width:75px; max-height:75px; }
+.@a38010@mul@kidneys::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/k/kidneys/0.png/0.png);padding: 0; }
+div.@a38010@mul@kidneys::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12850@gameicons-delapouite@kidneys {max-width:75px; max-height:75px; }
+.@b12850@gameicons-delapouite@kidneys::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/k/kidneys/0.png/0.png);padding: 0; }
+div.@b12850@gameicons-delapouite@kidneys::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:86a943543ce803c98ab07d00cd9cc6b8:700a43f32295473c7872e0db050b407f:4ddb42793a59c1b7bfff1539dfc4d068$ */

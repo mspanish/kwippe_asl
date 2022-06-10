@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29646@knl@igloo {max-width:75px; max-height:75px; }
+.@a29646@knl@igloo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/igloo/0.png/0.png);padding: 0; }
+div.@a29646@knl@igloo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62276@ope@igloo {max-width:75px; max-height:75px; }
+.@a62276@ope@igloo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/igloo/0.png/0.png);padding: 0; }
+div.@a62276@ope@igloo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12810@gameicons-delapouite@igloo {max-width:75px; max-height:75px; }
+.@b12810@gameicons-delapouite@igloo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/i/igloo/0.png/0.png);padding: 0; }
+div.@b12810@gameicons-delapouite@igloo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:951c481d92f370558761871840f13cc1:968f00a5dffb9a59ae45f577e7ad4586:4ddb42793a59c1b7bfff1539dfc4d068$ */

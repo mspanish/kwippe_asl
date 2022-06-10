@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14896@em2@eye-left-speech-bubble {max-width:75px; max-height:75px; }
+.@a14896@em2@eye-left-speech-bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@a14896@em2@eye-left-speech-bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1785@bon@eye-5040 {max-width:75px; max-height:75px; }
+.@a1785@bon@eye-5040::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@a1785@bon@eye-5040::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37368@mul@eye-drops {max-width:75px; max-height:75px; }
+.@a37368@mul@eye-drops::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@a37368@mul@eye-drops::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37369@mul@eye-shadow {max-width:75px; max-height:75px; }
+.@a37369@mul@eye-shadow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@a37369@mul@eye-shadow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37370@mul@eye {max-width:75px; max-height:75px; }
+.@a37370@mul@eye::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@a37370@mul@eye::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39595@noc@eye-left-speech-bubble {max-width:75px; max-height:75px; }
+.@a39595@noc@eye-left-speech-bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@a39595@noc@eye-left-speech-bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41583@nog@eye-smileys-people-left-speech-bubble-smileys-people {max-width:75px; max-height:75px; }
+.@a41583@nog@eye-smileys-people-left-speech-bubble-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@a41583@nog@eye-smileys-people-left-speech-bubble-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50410@tw2@eye-left-speech-bubble {max-width:75px; max-height:75px; }
+.@a50410@tw2@eye-left-speech-bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@a50410@tw2@eye-left-speech-bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12577@gameicons-delapouite@eye-of-horus {max-width:75px; max-height:75px; }
+.@b12577@gameicons-delapouite@eye-of-horus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eye/0.png/0.png);padding: 0; }
+div.@b12577@gameicons-delapouite@eye-of-horus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:724fd78f21701021369a3f120cdc2398:dc1773c0b808188acb680d484a3d966c:4ddb42793a59c1b7bfff1539dfc4d068$ */

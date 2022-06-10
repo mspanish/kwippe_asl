@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16071@emo@dm {max-width:75px; max-height:75px; }
+.@a16071@emo@dm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/dominica/0.png/0.png);padding: 0; }
+div.@a16071@emo@dm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37034@mul@dominican-republic {max-width:75px; max-height:75px; }
+.@a37034@mul@dominican-republic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/dominica/0.png/0.png);padding: 0; }
+div.@a37034@mul@dominican-republic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37507@mul@dominica {max-width:75px; max-height:75px; }
+.@a37507@mul@dominica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/dominica/0.png/0.png);padding: 0; }
+div.@a37507@mul@dominica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37508@mul@dominican-republic {max-width:75px; max-height:75px; }
+.@a37508@mul@dominican-republic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/dominica/0.png/0.png);padding: 0; }
+div.@a37508@mul@dominican-republic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2263@wikim-all@eurodominica {max-width:75px; max-height:75px; }
+.@d2263@wikim-all@eurodominica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/dominica/0.png/0.png);padding: 0; }
+div.@d2263@wikim-all@eurodominica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2463@wikim-all@flag_of_dominica {max-width:75px; max-height:75px; }
+.@d2463@wikim-all@flag_of_dominica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/d/dominica/0.png/0.png);padding: 0; }
+div.@d2463@wikim-all@flag_of_dominica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1ad2e598c1308f39ac5000a7b6a5af36:3aab27fabd452c132a358cc86b211c5a:4ddb42793a59c1b7bfff1539dfc4d068$ */

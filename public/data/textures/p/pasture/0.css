@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60467@ian@hay-bales {max-width:75px; max-height:75px; }
+.@a60467@ian@hay-bales::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/pasture/0.png/0.png);padding: 0; }
+div.@a60467@ian@hay-bales::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61206@ian@plain-3d-simple-with-soil-layers {max-width:75px; max-height:75px; }
+.@a61206@ian@plain-3d-simple-with-soil-layers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/pasture/0.png/0.png);padding: 0; }
+div.@a61206@ian@plain-3d-simple-with-soil-layers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61207@ian@plain-3d-simple {max-width:75px; max-height:75px; }
+.@a61207@ian@plain-3d-simple::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/pasture/0.png/0.png);padding: 0; }
+div.@a61207@ian@plain-3d-simple::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61237@ian@poa-pratensis {max-width:75px; max-height:75px; }
+.@a61237@ian@poa-pratensis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/pasture/0.png/0.png);padding: 0; }
+div.@a61237@ian@poa-pratensis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:51b412e5c4c9185f6444a8b0d49e7e25:ae50447ac2a83e814ab822255465741b:4ddb42793a59c1b7bfff1539dfc4d068$ */

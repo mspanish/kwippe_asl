@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1682@bon@counsellor-1-7018 {max-width:75px; max-height:75px; }
+.@a1682@bon@counsellor-1-7018::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/counsellor/0.png/0.png);padding: 0; }
+div.@a1682@bon@counsellor-1-7018::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1683@bon@counsellor-2-7019 {max-width:75px; max-height:75px; }
+.@a1683@bon@counsellor-2-7019::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/counsellor/0.png/0.png);padding: 0; }
+div.@a1683@bon@counsellor-2-7019::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b7c494fddf2a50fe77f9f2d235d05cbe:16a73f377c0865581bbdc2020ab8a3ad:4ddb42793a59c1b7bfff1539dfc4d068$ */

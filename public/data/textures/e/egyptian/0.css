@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12546@gameicons-delapouite@egyptian-profile {max-width:75px; max-height:75px; }
+.@b12546@gameicons-delapouite@egyptian-profile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/egyptian/0.png/0.png);padding: 0; }
+div.@b12546@gameicons-delapouite@egyptian-profile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12547@gameicons-delapouite@egyptian-pyramids {max-width:75px; max-height:75px; }
+.@b12547@gameicons-delapouite@egyptian-pyramids::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/egyptian/0.png/0.png);padding: 0; }
+div.@b12547@gameicons-delapouite@egyptian-pyramids::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12548@gameicons-delapouite@egyptian-sphinx {max-width:75px; max-height:75px; }
+.@b12548@gameicons-delapouite@egyptian-sphinx::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/egyptian/0.png/0.png);padding: 0; }
+div.@b12548@gameicons-delapouite@egyptian-sphinx::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12549@gameicons-delapouite@egyptian-temple {max-width:75px; max-height:75px; }
+.@b12549@gameicons-delapouite@egyptian-temple::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/egyptian/0.png/0.png);padding: 0; }
+div.@b12549@gameicons-delapouite@egyptian-temple::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12551@gameicons-delapouite@egyptian-walk {max-width:75px; max-height:75px; }
+.@b12551@gameicons-delapouite@egyptian-walk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/egyptian/0.png/0.png);padding: 0; }
+div.@b12551@gameicons-delapouite@egyptian-walk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:13a91408f061c25969afcbf52c37a48e:091b6789d998ffa9b90336d0b86a521c:4ddb42793a59c1b7bfff1539dfc4d068$ */

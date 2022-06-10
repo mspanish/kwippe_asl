@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59246@ian@acanthurus-triostegus {max-width:75px; max-height:75px; }
+.@a59246@ian@acanthurus-triostegus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/convict/0.png/0.png);padding: 0; }
+div.@a59246@ian@acanthurus-triostegus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12427@gameicons-delapouite@convict {max-width:75px; max-height:75px; }
+.@b12427@gameicons-delapouite@convict::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/convict/0.png/0.png);padding: 0; }
+div.@b12427@gameicons-delapouite@convict::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a370930985826bf7e35070e1540cee23:d9f2178e2f733da296ce6df8f2678943:4ddb42793a59c1b7bfff1539dfc4d068$ */

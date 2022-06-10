@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38940@mul@tablet-blister-pack {max-width:75px; max-height:75px; }
+.@a38940@mul@tablet-blister-pack::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pack/0.png/0.png);padding: 0; }
+div.@a38940@mul@tablet-blister-pack::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60538@ian@iceberg {max-width:75px; max-height:75px; }
+.@a60538@ian@iceberg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pack/0.png/0.png);padding: 0; }
+div.@a60538@ian@iceberg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15190@gameicons-sbed@jet-pack {max-width:75px; max-height:75px; }
+.@b15190@gameicons-sbed@jet-pack::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pack/0.png/0.png);padding: 0; }
+div.@b15190@gameicons-sbed@jet-pack::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15203@gameicons-sbed@medical-pack-alt {max-width:75px; max-height:75px; }
+.@b15203@gameicons-sbed@medical-pack-alt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pack/0.png/0.png);padding: 0; }
+div.@b15203@gameicons-sbed@medical-pack-alt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15204@gameicons-sbed@medical-pack {max-width:75px; max-height:75px; }
+.@b15204@gameicons-sbed@medical-pack::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pack/0.png/0.png);padding: 0; }
+div.@b15204@gameicons-sbed@medical-pack::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:70f8425856b4a836c3160912ee24ec49:37df3569867caa4f18178068d50bb928:4ddb42793a59c1b7bfff1539dfc4d068$ */

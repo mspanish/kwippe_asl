@@ -1,0 +1,37 @@
+{
+    "sign": "rolling",
+    "signer": "asl2english",
+    "uid": 1525,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 22,
+            "nd": 22
+        },
+        "end": {
+            "d": 22,
+            "nd": 22
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "circle",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

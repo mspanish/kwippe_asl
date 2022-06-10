@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59737@ian@coastal-zone-management {max-width:75px; max-height:75px; }
+.@a59737@ian@coastal-zone-management::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a59737@ian@coastal-zone-management::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59750@ian@coastline-2d-receding-shoreline {max-width:75px; max-height:75px; }
+.@a59750@ian@coastline-2d-receding-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a59750@ian@coastline-2d-receding-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59761@ian@coastline-2d-steep-45degree-slope {max-width:75px; max-height:75px; }
+.@a59761@ian@coastline-2d-steep-45degree-slope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a59761@ian@coastline-2d-steep-45degree-slope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59762@ian@coastline-2d-steep-shoreline {max-width:75px; max-height:75px; }
+.@a59762@ian@coastline-2d-steep-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a59762@ian@coastline-2d-steep-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59763@ian@coastline-2d-stepped-shoreline-variable-water-quality {max-width:75px; max-height:75px; }
+.@a59763@ian@coastline-2d-stepped-shoreline-variable-water-quality::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a59763@ian@coastline-2d-stepped-shoreline-variable-water-quality::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59772@ian@coastline-3d-modified-shoreline {max-width:75px; max-height:75px; }
+.@a59772@ian@coastline-3d-modified-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a59772@ian@coastline-3d-modified-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59777@ian@coastline-3d-natural-shoreline {max-width:75px; max-height:75px; }
+.@a59777@ian@coastline-3d-natural-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a59777@ian@coastline-3d-natural-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60175@ian@estuary-3d-river-mouth-triptych {max-width:75px; max-height:75px; }
+.@a60175@ian@estuary-3d-river-mouth-triptych::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a60175@ian@estuary-3d-river-mouth-triptych::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60176@ian@estuary-3d-sea-level-rise-diptych {max-width:75px; max-height:75px; }
+.@a60176@ian@estuary-3d-sea-level-rise-diptych::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a60176@ian@estuary-3d-sea-level-rise-diptych::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60422@ian@habitat-2d-underwater-shoreline {max-width:75px; max-height:75px; }
+.@a60422@ian@habitat-2d-underwater-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a60422@ian@habitat-2d-underwater-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61368@ian@receding-shoreline {max-width:75px; max-height:75px; }
+.@a61368@ian@receding-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a61368@ian@receding-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61575@ian@seagrass-habitat-coastal {max-width:75px; max-height:75px; }
+.@a61575@ian@seagrass-habitat-coastal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a61575@ian@seagrass-habitat-coastal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61711@ian@stream-3d-healthy {max-width:75px; max-height:75px; }
+.@a61711@ian@stream-3d-healthy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a61711@ian@stream-3d-healthy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61715@ian@stream-3d-unhealthy {max-width:75px; max-height:75px; }
+.@a61715@ian@stream-3d-unhealthy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/shoreline/0.png/0.png);padding: 0; }
+div.@a61715@ian@stream-3d-unhealthy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:96009291e2f424ae5b1b3e1ba155efc8:ee5d90869eff1798762b1db85424561e:4ddb42793a59c1b7bfff1539dfc4d068$ */

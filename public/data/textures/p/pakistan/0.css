@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16192@emo@pk {max-width:75px; max-height:75px; }
+.@a16192@emo@pk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pakistan/0.png/0.png);padding: 0; }
+div.@a16192@emo@pk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37092@mul@pakistan {max-width:75px; max-height:75px; }
+.@a37092@mul@pakistan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pakistan/0.png/0.png);padding: 0; }
+div.@a37092@mul@pakistan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37578@mul@pakistan {max-width:75px; max-height:75px; }
+.@a37578@mul@pakistan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pakistan/0.png/0.png);padding: 0; }
+div.@a37578@mul@pakistan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49837@str@780-pakistan {max-width:75px; max-height:75px; }
+.@a49837@str@780-pakistan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pakistan/0.png/0.png);padding: 0; }
+div.@a49837@str@780-pakistan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2624@wikim-all@flag_of_pakistan {max-width:75px; max-height:75px; }
+.@d2624@wikim-all@flag_of_pakistan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pakistan/0.png/0.png);padding: 0; }
+div.@d2624@wikim-all@flag_of_pakistan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3812@wikim-all@state_emblem_of_pakistan {max-width:75px; max-height:75px; }
+.@d3812@wikim-all@state_emblem_of_pakistan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pakistan/0.png/0.png);padding: 0; }
+div.@d3812@wikim-all@state_emblem_of_pakistan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:708999965c38988c9755ccf4945262fe:1c8fd86c1889faca0393185015d99043:4ddb42793a59c1b7bfff1539dfc4d068$ */

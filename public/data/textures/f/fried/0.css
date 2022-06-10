@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36663@mul@breafkfast-fried {max-width:75px; max-height:75px; }
+.@a36663@mul@breafkfast-fried::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fried/0.png/0.png);padding: 0; }
+div.@a36663@mul@breafkfast-fried::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36847@mul@chicken-deep-fried {max-width:75px; max-height:75px; }
+.@a36847@mul@chicken-deep-fried::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fried/0.png/0.png);padding: 0; }
+div.@a36847@mul@chicken-deep-fried::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37326@mul@egg-fried {max-width:75px; max-height:75px; }
+.@a37326@mul@egg-fried::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fried/0.png/0.png);padding: 0; }
+div.@a37326@mul@egg-fried::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37328@mul@egg-white {max-width:75px; max-height:75px; }
+.@a37328@mul@egg-white::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fried/0.png/0.png);padding: 0; }
+div.@a37328@mul@egg-white::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37329@mul@egg-yolk {max-width:75px; max-height:75px; }
+.@a37329@mul@egg-yolk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fried/0.png/0.png);padding: 0; }
+div.@a37329@mul@egg-yolk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37442@mul@fish-deep-fried {max-width:75px; max-height:75px; }
+.@a37442@mul@fish-deep-fried::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fried/0.png/0.png);padding: 0; }
+div.@a37442@mul@fish-deep-fried::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12098@gameicons-darkzaitzev@fried-fish {max-width:75px; max-height:75px; }
+.@b12098@gameicons-darkzaitzev@fried-fish::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fried/0.png/0.png);padding: 0; }
+div.@b12098@gameicons-darkzaitzev@fried-fish::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:80b67fbb85903f7a3814f4fdab50f314:f662000c6bbba4ad52da9a8520d5253f:4ddb42793a59c1b7bfff1539dfc4d068$ */

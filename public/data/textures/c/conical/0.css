@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62172@ian@volcano-3d-shield {max-width:75px; max-height:75px; }
+.@a62172@ian@volcano-3d-shield::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/conical/0.png/0.png);padding: 0; }
+div.@a62172@ian@volcano-3d-shield::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b214284709c3560949881bb26691ded5:391c23d101918418664a4f4e7b877eae:4ddb42793a59c1b7bfff1539dfc4d068$ */

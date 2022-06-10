@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60339@ian@freight-port2 {max-width:75px; max-height:75px; }
+.@a60339@ian@freight-port2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/shipping/0.png/0.png);padding: 0; }
+div.@a60339@ian@freight-port2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61263@ian@port-authorities {max-width:75px; max-height:75px; }
+.@a61263@ian@port-authorities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/shipping/0.png/0.png);padding: 0; }
+div.@a61263@ian@port-authorities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:44034258f521fc4b49ce736e192d08e9:a69e83f3c14de6593b3e0b29dc1b285c:4ddb42793a59c1b7bfff1539dfc4d068$ */

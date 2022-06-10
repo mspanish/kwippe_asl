@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37920@mul@hood-hoodie {max-width:75px; max-height:75px; }
+.@a37920@mul@hood-hoodie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/hood_hoodie/0.png/0.png);padding: 0; }
+div.@a37920@mul@hood-hoodie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:17b967a233bd6cb9ff792834ed2f82f6:ac7a31cf8123a8af2ca553e4bafa3a6c:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "freshman",
+    "signer": "asl2english",
+    "uid": 645,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 89,
+            "nd": 9
+        },
+        "end": {
+            "d": 9,
+            "nd": null
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

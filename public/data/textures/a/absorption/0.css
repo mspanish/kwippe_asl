@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60709@ian@light-no-light {max-width:75px; max-height:75px; }
+.@a60709@ian@light-no-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/absorption/0.png/0.png);padding: 0; }
+div.@a60709@ian@light-no-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60710@ian@light-organic-absorption {max-width:75px; max-height:75px; }
+.@a60710@ian@light-organic-absorption::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/absorption/0.png/0.png);padding: 0; }
+div.@a60710@ian@light-organic-absorption::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60711@ian@light-water-absorption-deep {max-width:75px; max-height:75px; }
+.@a60711@ian@light-water-absorption-deep::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/absorption/0.png/0.png);padding: 0; }
+div.@a60711@ian@light-water-absorption-deep::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60712@ian@light-water-absorption-shallow {max-width:75px; max-height:75px; }
+.@a60712@ian@light-water-absorption-shallow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/absorption/0.png/0.png);padding: 0; }
+div.@a60712@ian@light-water-absorption-shallow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ebc631f81bbed6ab5d16b5f0fd97b84a:c79720ae4e1fb8e5e367d32a5c60c9e3:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a9972@df-nativeamericanindians@97 {max-width:75px; max-height:75px; }
+.@a9972@df-nativeamericanindians@97::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/n/native_american/1.png/1.png);padding: 0; }
+div.@a9972@df-nativeamericanindians@97::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a9973@df-nativeamericanindians@998 {max-width:75px; max-height:75px; }
+.@a9973@df-nativeamericanindians@998::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/n/native_american/1.png/1.png);padding: 0; }
+div.@a9973@df-nativeamericanindians@998::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:07e54e8f8e66e62324092134fe52ecec:05dee261995ff03fd9cce61482187f6f:8f961ce18cf321a204892ea60f8c861d$ */

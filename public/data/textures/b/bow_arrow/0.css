@@ -1,0 +1,59 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14695@em2@bow-and-arrow {max-width:75px; max-height:75px; }
+.@a14695@em2@bow-and-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a14695@em2@bow-and-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15742@emo@bow-and-arrow {max-width:75px; max-height:75px; }
+.@a15742@emo@bow-and-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a15742@emo@bow-and-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26188@her@bow-and-arrow-drawn {max-width:75px; max-height:75px; }
+.@a26188@her@bow-and-arrow-drawn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a26188@her@bow-and-arrow-drawn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26189@her@bow-and-arrow {max-width:75px; max-height:75px; }
+.@a26189@her@bow-and-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a26189@her@bow-and-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36633@mul@bow-and-arrow {max-width:75px; max-height:75px; }
+.@a36633@mul@bow-and-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a36633@mul@bow-and-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39379@noc@bow-and-arrow {max-width:75px; max-height:75px; }
+.@a39379@noc@bow-and-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a39379@noc@bow-and-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40795@nog@bow-arrow-objects {max-width:75px; max-height:75px; }
+.@a40795@nog@bow-arrow-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a40795@nog@bow-arrow-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a456@ara@romance-bow {max-width:75px; max-height:75px; }
+.@a456@ara@romance-bow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a456@ara@romance-bow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46020@opg@bow-archery-1 {max-width:75px; max-height:75px; }
+.@a46020@opg@bow-archery-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a46020@opg@bow-archery-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46021@opg@bow-archery {max-width:75px; max-height:75px; }
+.@a46021@opg@bow-archery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a46021@opg@bow-archery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50244@tw2@bow-and-arrow {max-width:75px; max-height:75px; }
+.@a50244@tw2@bow-and-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a50244@tw2@bow-and-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55559@web@pixel-bow {max-width:75px; max-height:75px; }
+.@a55559@web@pixel-bow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@a55559@web@pixel-bow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12276@gameicons-delapouite@bow-arrow {max-width:75px; max-height:75px; }
+.@b12276@gameicons-delapouite@bow-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@b12276@gameicons-delapouite@bow-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14313@gameicons-lorc@heavy-arrow {max-width:75px; max-height:75px; }
+.@b14313@gameicons-lorc@heavy-arrow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@b14313@gameicons-lorc@heavy-arrow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14935@gameicons-lorc@target-arrows {max-width:75px; max-height:75px; }
+.@b14935@gameicons-lorc@target-arrows::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@b14935@gameicons-lorc@target-arrows::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8184@web@bow {max-width:75px; max-height:75px; }
+.@b8184@web@bow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/b/bow_arrow/0.png/0.png);padding: 0; }
+div.@b8184@web@bow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:60770e55ece9dde4b83e3963e8088512:583395faee40fb9cb966a33cfe2ca6d4:4ddb42793a59c1b7bfff1539dfc4d068$ */

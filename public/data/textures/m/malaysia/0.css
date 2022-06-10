@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16172@emo@my {max-width:75px; max-height:75px; }
+.@a16172@emo@my::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/malaysia/0.png/0.png);padding: 0; }
+div.@a16172@emo@my::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37073@mul@malaysia {max-width:75px; max-height:75px; }
+.@a37073@mul@malaysia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/malaysia/0.png/0.png);padding: 0; }
+div.@a37073@mul@malaysia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37552@mul@malaysia {max-width:75px; max-height:75px; }
+.@a37552@mul@malaysia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/malaysia/0.png/0.png);padding: 0; }
+div.@a37552@mul@malaysia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49835@str@778-malaysia {max-width:75px; max-height:75px; }
+.@a49835@str@778-malaysia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/malaysia/0.png/0.png);padding: 0; }
+div.@a49835@str@778-malaysia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2572@wikim-all@flag_of_malaysia {max-width:75px; max-height:75px; }
+.@d2572@wikim-all@flag_of_malaysia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/malaysia/0.png/0.png);padding: 0; }
+div.@d2572@wikim-all@flag_of_malaysia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:865296865464dfdb1b1e74db12dc1468:fbcd0b97f9fa9f3cc8eb23d0aec2e3ce:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "empty-naked",
+    "signer": "asl2english",
+    "uid": 502,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 13,
+            "nd": 93
+        },
+        "end": {
+            "d": 13,
+            "nd": 4
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            0,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "six",
+    "signer": "asl2english",
+    "uid": 1640,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 8,
+            "nd": null
+        },
+        "end": {
+            "d": 8,
+            "nd": null
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            1,
+            1,
+            0
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

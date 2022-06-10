@@ -1,0 +1,38 @@
+{
+    "sign": "shine",
+    "signer": "asl2english",
+    "uid": 1612,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 13,
+            "nd": 82
+        },
+        "end": {
+            "d": 13,
+            "nd": 82
+        }
+    },
+    "regions": [
+        0,
+        -1,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            -1,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

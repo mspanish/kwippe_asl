@@ -1,0 +1,37 @@
+{
+    "sign": "ns-colorado",
+    "signer": "asl2english",
+    "uid": 1142,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 30,
+            "nd": 14
+        },
+        "end": {
+            "d": 30,
+            "nd": 14
+        }
+    },
+    "regions": [
+        0,
+        "chin-area"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "plural"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

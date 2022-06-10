@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26458@her@one-headed-chess-knight {max-width:75px; max-height:75px; }
+.@a26458@her@one-headed-chess-knight::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/chess/0.png/0.png);padding: 0; }
+div.@a26458@her@one-headed-chess-knight::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31699@lug@pawn {max-width:75px; max-height:75px; }
+.@a31699@lug@pawn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/chess/0.png/0.png);padding: 0; }
+div.@a31699@lug@pawn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40993@nog@chess-pawn-activities {max-width:75px; max-height:75px; }
+.@a40993@nog@chess-pawn-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/chess/0.png/0.png);padding: 0; }
+div.@a40993@nog@chess-pawn-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55489@web@pawn {max-width:75px; max-height:75px; }
+.@a55489@web@pawn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/chess/0.png/0.png);padding: 0; }
+div.@a55489@web@pawn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56406@win@chess-pawn {max-width:75px; max-height:75px; }
+.@a56406@win@chess-pawn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/chess/0.png/0.png);padding: 0; }
+div.@a56406@win@chess-pawn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59543@ian@bromus-spp {max-width:75px; max-height:75px; }
+.@a59543@ian@bromus-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/chess/0.png/0.png);padding: 0; }
+div.@a59543@ian@bromus-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14584@gameicons-lorc@pawn {max-width:75px; max-height:75px; }
+.@b14584@gameicons-lorc@pawn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/chess/0.png/0.png);padding: 0; }
+div.@b14584@gameicons-lorc@pawn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15278@gameicons-skoll@ches_gameicons-pawn {max-width:75px; max-height:75px; }
+.@b15278@gameicons-skoll@ches_gameicons-pawn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/chess/0.png/0.png);padding: 0; }
+div.@b15278@gameicons-skoll@ches_gameicons-pawn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:58c353a2ede573bd4096bd0fc52644c2:292247acc0cf7470ceb011ca200c94a8:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38455@mul@plastic-pocket {max-width:75px; max-height:75px; }
+.@a38455@mul@plastic-pocket::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a38455@mul@plastic-pocket::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38456@mul@plastic {max-width:75px; max-height:75px; }
+.@a38456@mul@plastic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a38456@mul@plastic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59550@ian@bucket {max-width:75px; max-height:75px; }
+.@a59550@ian@bucket::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a59550@ian@bucket::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61043@ian@old-bottle {max-width:75px; max-height:75px; }
+.@a61043@ian@old-bottle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a61043@ian@old-bottle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61212@ian@plastic-bag-1 {max-width:75px; max-height:75px; }
+.@a61212@ian@plastic-bag-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a61212@ian@plastic-bag-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61213@ian@plastic-bag-2 {max-width:75px; max-height:75px; }
+.@a61213@ian@plastic-bag-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a61213@ian@plastic-bag-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61214@ian@plastic-bottle-1 {max-width:75px; max-height:75px; }
+.@a61214@ian@plastic-bottle-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a61214@ian@plastic-bottle-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61215@ian@plastic-bottle-2 {max-width:75px; max-height:75px; }
+.@a61215@ian@plastic-bottle-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a61215@ian@plastic-bottle-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61216@ian@plastic-bottle-3 {max-width:75px; max-height:75px; }
+.@a61216@ian@plastic-bottle-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/plastic/0.png/0.png);padding: 0; }
+div.@a61216@ian@plastic-bottle-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f20100fcf6f30654f8f10e4525ef90d1:9a5fb5779d4ae97d9bcf31e95c6478f2:4ddb42793a59c1b7bfff1539dfc4d068$ */

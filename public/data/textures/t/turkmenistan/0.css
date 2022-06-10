@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16237@emo@tm {max-width:75px; max-height:75px; }
+.@a16237@emo@tm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/turkmenistan/0.png/0.png);padding: 0; }
+div.@a16237@emo@tm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37638@mul@turkmenistan {max-width:75px; max-height:75px; }
+.@a37638@mul@turkmenistan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/turkmenistan/0.png/0.png);padding: 0; }
+div.@a37638@mul@turkmenistan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d2150a74d8e0b1175f6139c90b938090:eb6a0e2ea8cc9d006baab6fd5d8048ea:4ddb42793a59c1b7bfff1539dfc4d068$ */

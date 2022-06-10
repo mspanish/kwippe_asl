@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12265@gameicons-delapouite@book-cover {max-width:75px; max-height:75px; }
+.@b12265@gameicons-delapouite@book-cover::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/book_cover/0.png/0.png);padding: 0; }
+div.@b12265@gameicons-delapouite@book-cover::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13822@gameicons-lorc@book-cover {max-width:75px; max-height:75px; }
+.@b13822@gameicons-lorc@book-cover::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/book_cover/0.png/0.png);padding: 0; }
+div.@b13822@gameicons-lorc@book-cover::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7fc359c20ad1402c32e61f9ea6ee7587:4e21386a6c69fb85a993215d660bbcfb:4ddb42793a59c1b7bfff1539dfc4d068$ */

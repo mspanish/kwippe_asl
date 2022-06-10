@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2378@bon@someone-who-needs-extra-support-7058 {max-width:75px; max-height:75px; }
+.@a2378@bon@someone-who-needs-extra-support-7058::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/needs/0.png/0.png);padding: 0; }
+div.@a2378@bon@someone-who-needs-extra-support-7058::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2379@bon@someone-who-needs-support-7059 {max-width:75px; max-height:75px; }
+.@a2379@bon@someone-who-needs-support-7059::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/needs/0.png/0.png);padding: 0; }
+div.@a2379@bon@someone-who-needs-support-7059::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60313@ian@food-01 {max-width:75px; max-height:75px; }
+.@a60313@ian@food-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/needs/0.png/0.png);padding: 0; }
+div.@a60313@ian@food-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fb30d5d2191c4d9085daf1a6bf4fb8ad:55fce48014ec3eb17c1e14af2dae3f61:4ddb42793a59c1b7bfff1539dfc4d068$ */

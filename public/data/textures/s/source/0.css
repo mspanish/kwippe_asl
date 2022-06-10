@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60561@ian@input-nutrients-non-point-source {max-width:75px; max-height:75px; }
+.@a60561@ian@input-nutrients-non-point-source::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/source/0.png/0.png);padding: 0; }
+div.@a60561@ian@input-nutrients-non-point-source::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60573@ian@inputs-nutrients-toxins-sediment {max-width:75px; max-height:75px; }
+.@a60573@ian@inputs-nutrients-toxins-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/source/0.png/0.png);padding: 0; }
+div.@a60573@ian@inputs-nutrients-toxins-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:769a618258a673396af20de3269d716a:059b12e8ec30605b2cb84cc76b280f20:4ddb42793a59c1b7bfff1539dfc4d068$ */

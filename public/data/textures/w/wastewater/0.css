@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61624@ian@sewage-pumping-station {max-width:75px; max-height:75px; }
+.@a61624@ian@sewage-pumping-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wastewater/0.png/0.png);padding: 0; }
+div.@a61624@ian@sewage-pumping-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61810@ian@total-nitrogen {max-width:75px; max-height:75px; }
+.@a61810@ian@total-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wastewater/0.png/0.png);padding: 0; }
+div.@a61810@ian@total-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7a472b1f793a7b799bbc6efbf5fa6e9e:f44c4c6515b314b63321ec7fa22dc2fd:4ddb42793a59c1b7bfff1539dfc4d068$ */

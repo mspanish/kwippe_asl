@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59270@ian@acrostichum-speciosum-branch {max-width:75px; max-height:75px; }
+.@a59270@ian@acrostichum-speciosum-branch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pteridophyta/0.png/0.png);padding: 0; }
+div.@a59270@ian@acrostichum-speciosum-branch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59271@ian@acrostichum-speciosum-leaf {max-width:75px; max-height:75px; }
+.@a59271@ian@acrostichum-speciosum-leaf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pteridophyta/0.png/0.png);padding: 0; }
+div.@a59271@ian@acrostichum-speciosum-leaf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59272@ian@acrostichum-speciosum {max-width:75px; max-height:75px; }
+.@a59272@ian@acrostichum-speciosum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pteridophyta/0.png/0.png);padding: 0; }
+div.@a59272@ian@acrostichum-speciosum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60233@ian@fern {max-width:75px; max-height:75px; }
+.@a60233@ian@fern::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pteridophyta/0.png/0.png);padding: 0; }
+div.@a60233@ian@fern::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60815@ian@marsilea-spp {max-width:75px; max-height:75px; }
+.@a60815@ian@marsilea-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/pteridophyta/0.png/0.png);padding: 0; }
+div.@a60815@ian@marsilea-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:97868e31ddc93b91e5a0d7c876a14d02:230a64202aafd488f66a5a8cee2ae8e8:4ddb42793a59c1b7bfff1539dfc4d068$ */

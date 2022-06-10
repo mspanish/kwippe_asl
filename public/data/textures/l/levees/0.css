@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61474@ian@river-3d-navigable-channel-with-levees {max-width:75px; max-height:75px; }
+.@a61474@ian@river-3d-navigable-channel-with-levees::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/levees/0.png/0.png);padding: 0; }
+div.@a61474@ian@river-3d-navigable-channel-with-levees::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:29e125582878fd6aba877afd3b7468cf:8a0b77236109812a8e9827877abfd2d9:4ddb42793a59c1b7bfff1539dfc4d068$ */

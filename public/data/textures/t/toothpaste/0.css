@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39045@mul@toothpaste {max-width:75px; max-height:75px; }
+.@a39045@mul@toothpaste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/toothpaste/0.png/0.png);padding: 0; }
+div.@a39045@mul@toothpaste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61041@ian@ointment {max-width:75px; max-height:75px; }
+.@a61041@ian@ointment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/toothpaste/0.png/0.png);padding: 0; }
+div.@a61041@ian@ointment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:445af0fff6006225651087f7c5971928:697026b32d78161b86b1ce3dec78cc39:4ddb42793a59c1b7bfff1539dfc4d068$ */

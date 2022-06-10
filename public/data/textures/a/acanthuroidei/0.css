@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62257@ian@zebrasoma-flavescens {max-width:75px; max-height:75px; }
+.@a62257@ian@zebrasoma-flavescens::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/acanthuroidei/0.png/0.png);padding: 0; }
+div.@a62257@ian@zebrasoma-flavescens::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5aa0052ec5f908e9ae3ba2aad8d57a9a:aaa4f4592d38e23bae4fd876fbb967d2:4ddb42793a59c1b7bfff1539dfc4d068$ */

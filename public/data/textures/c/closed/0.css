@@ -1,0 +1,101 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14771@em2@closed-mailbox-with-lowered-flag {max-width:75px; max-height:75px; }
+.@a14771@em2@closed-mailbox-with-lowered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a14771@em2@closed-mailbox-with-lowered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14772@em2@closed-mailbox-with-raised-flag {max-width:75px; max-height:75px; }
+.@a14772@em2@closed-mailbox-with-raised-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a14772@em2@closed-mailbox-with-raised-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16454@emo@mailbox-closed {max-width:75px; max-height:75px; }
+.@a16454@emo@mailbox-closed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a16454@emo@mailbox-closed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16457@emo@mailbox {max-width:75px; max-height:75px; }
+.@a16457@emo@mailbox::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a16457@emo@mailbox::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17628@fir@u1f4ea-closedmailboxlowered {max-width:75px; max-height:75px; }
+.@a17628@fir@u1f4ea-closedmailboxlowered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a17628@fir@u1f4ea-closedmailboxlowered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a24@aac@closed-2 {max-width:75px; max-height:75px; }
+.@a24@aac@closed-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a24@aac@closed-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25@aac@closed {max-width:75px; max-height:75px; }
+.@a25@aac@closed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a25@aac@closed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28279@jqe@closed-mailbox-with-lowered-flag {max-width:75px; max-height:75px; }
+.@a28279@jqe@closed-mailbox-with-lowered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a28279@jqe@closed-mailbox-with-lowered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28280@jqe@closed-mailbox-with-raised-flag {max-width:75px; max-height:75px; }
+.@a28280@jqe@closed-mailbox-with-raised-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a28280@jqe@closed-mailbox-with-raised-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36916@mul@closed {max-width:75px; max-height:75px; }
+.@a36916@mul@closed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a36916@mul@closed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37378@mul@eyes-closed {max-width:75px; max-height:75px; }
+.@a37378@mul@eyes-closed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a37378@mul@eyes-closed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39473@noc@closed-mailbox-w-lowered-flag {max-width:75px; max-height:75px; }
+.@a39473@noc@closed-mailbox-w-lowered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a39473@noc@closed-mailbox-w-lowered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39474@noc@closed-mailbox-w-raised-flag {max-width:75px; max-height:75px; }
+.@a39474@noc@closed-mailbox-w-raised-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a39474@noc@closed-mailbox-w-raised-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41140@nog@closed-mailbox-lowered-flag-objects {max-width:75px; max-height:75px; }
+.@a41140@nog@closed-mailbox-lowered-flag-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a41140@nog@closed-mailbox-lowered-flag-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41143@nog@closed-mailbox-raised-flag-objects {max-width:75px; max-height:75px; }
+.@a41143@nog@closed-mailbox-raised-flag-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a41143@nog@closed-mailbox-raised-flag-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44227@not@closed-mailbox-with-lowered-flag {max-width:75px; max-height:75px; }
+.@a44227@not@closed-mailbox-with-lowered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a44227@not@closed-mailbox-with-lowered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44228@not@closed-mailbox-with-raised-flag {max-width:75px; max-height:75px; }
+.@a44228@not@closed-mailbox-with-raised-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a44228@not@closed-mailbox-with-raised-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50314@tw2@closed-mailbox-with-lowered-flag {max-width:75px; max-height:75px; }
+.@a50314@tw2@closed-mailbox-with-lowered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a50314@tw2@closed-mailbox-with-lowered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50315@tw2@closed-mailbox-with-raised-flag {max-width:75px; max-height:75px; }
+.@a50315@tw2@closed-mailbox-with-raised-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a50315@tw2@closed-mailbox-with-raised-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51166@twe@closed-mailbox-with-lowered-flag {max-width:75px; max-height:75px; }
+.@a51166@twe@closed-mailbox-with-lowered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a51166@twe@closed-mailbox-with-lowered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51167@twe@closed-mailbox-with-raised-flag {max-width:75px; max-height:75px; }
+.@a51167@twe@closed-mailbox-with-raised-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a51167@twe@closed-mailbox-with-raised-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59469@ian@barnacle-open {max-width:75px; max-height:75px; }
+.@a59469@ian@barnacle-open::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a59469@ian@barnacle-open::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59738@ian@coastline-2d-barrier-island-microtidal {max-width:75px; max-height:75px; }
+.@a59738@ian@coastline-2d-barrier-island-microtidal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a59738@ian@coastline-2d-barrier-island-microtidal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59742@ian@coastline-2d-closed-estuary-nearshore-reefs {max-width:75px; max-height:75px; }
+.@a59742@ian@coastline-2d-closed-estuary-nearshore-reefs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a59742@ian@coastline-2d-closed-estuary-nearshore-reefs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60152@ian@estuary-2d-closed-shallow {max-width:75px; max-height:75px; }
+.@a60152@ian@estuary-2d-closed-shallow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a60152@ian@estuary-2d-closed-shallow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60153@ian@estuary-2d-closed-with-deep-channel {max-width:75px; max-height:75px; }
+.@a60153@ian@estuary-2d-closed-with-deep-channel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a60153@ian@estuary-2d-closed-with-deep-channel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60154@ian@estuary-2d-closed-with-offshore-sandbars {max-width:75px; max-height:75px; }
+.@a60154@ian@estuary-2d-closed-with-offshore-sandbars::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a60154@ian@estuary-2d-closed-with-offshore-sandbars::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60167@ian@estuary-2d-seasonally-closed {max-width:75px; max-height:75px; }
+.@a60167@ian@estuary-2d-seasonally-closed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a60167@ian@estuary-2d-seasonally-closed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60635@ian@lagoon-2d-closed-and-stratified {max-width:75px; max-height:75px; }
+.@a60635@ian@lagoon-2d-closed-and-stratified::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@a60635@ian@lagoon-2d-closed-and-stratified::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12398@gameicons-delapouite@closed-barbute {max-width:75px; max-height:75px; }
+.@b12398@gameicons-delapouite@closed-barbute::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/c/closed/0.png/0.png);padding: 0; }
+div.@b12398@gameicons-delapouite@closed-barbute::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cbbb540b58a6901fe6ff1db5956437e7:11b674fb4c80a07181760432a7da8be7:4ddb42793a59c1b7bfff1539dfc4d068$ */

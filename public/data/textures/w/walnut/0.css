@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39156@mul@walnut {max-width:75px; max-height:75px; }
+.@a39156@mul@walnut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/walnut/0.png/0.png);padding: 0; }
+div.@a39156@mul@walnut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47889@plateau@nut-walnut {max-width:75px; max-height:75px; }
+.@a47889@plateau@nut-walnut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/walnut/0.png/0.png);padding: 0; }
+div.@a47889@plateau@nut-walnut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59618@ian@carya-ovata-fruit {max-width:75px; max-height:75px; }
+.@a59618@ian@carya-ovata-fruit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/walnut/0.png/0.png);padding: 0; }
+div.@a59618@ian@carya-ovata-fruit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59619@ian@carya-ovata-leaves {max-width:75px; max-height:75px; }
+.@a59619@ian@carya-ovata-leaves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/walnut/0.png/0.png);padding: 0; }
+div.@a59619@ian@carya-ovata-leaves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59620@ian@carya-ovata {max-width:75px; max-height:75px; }
+.@a59620@ian@carya-ovata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/walnut/0.png/0.png);padding: 0; }
+div.@a59620@ian@carya-ovata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60886@ian@mnemiopsis-leidyi {max-width:75px; max-height:75px; }
+.@a60886@ian@mnemiopsis-leidyi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/walnut/0.png/0.png);padding: 0; }
+div.@a60886@ian@mnemiopsis-leidyi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:75a52fc56e9074a0122a6ce10599a256:99b37f5aa9ace7ef89b890e911339f6a:4ddb42793a59c1b7bfff1539dfc4d068$ */

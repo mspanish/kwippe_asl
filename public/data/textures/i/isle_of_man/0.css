@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16118@emo@im {max-width:75px; max-height:75px; }
+.@a16118@emo@im::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/isle_of_man/0.png/0.png);padding: 0; }
+div.@a16118@emo@im::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37056@mul@isle_of_man {max-width:75px; max-height:75px; }
+.@a37056@mul@isle_of_man::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/isle_of_man/0.png/0.png);padding: 0; }
+div.@a37056@mul@isle_of_man::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37535@mul@isle_of_man {max-width:75px; max-height:75px; }
+.@a37535@mul@isle_of_man::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/isle_of_man/0.png/0.png);padding: 0; }
+div.@a37535@mul@isle_of_man::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2068@wikim-all@coat_of_arms_of_the_isle_of_man {max-width:75px; max-height:75px; }
+.@d2068@wikim-all@coat_of_arms_of_the_isle_of_man::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/isle_of_man/0.png/0.png);padding: 0; }
+div.@d2068@wikim-all@coat_of_arms_of_the_isle_of_man::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2732@wikim-all@flag_of_the_isle_of_mann {max-width:75px; max-height:75px; }
+.@d2732@wikim-all@flag_of_the_isle_of_mann::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/isle_of_man/0.png/0.png);padding: 0; }
+div.@d2732@wikim-all@flag_of_the_isle_of_mann::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:db47340b26741e3abe2f37f0f8eb7c88:47e71deae01106a29fb52ee3863e7b43:4ddb42793a59c1b7bfff1539dfc4d068$ */

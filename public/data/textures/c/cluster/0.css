@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61644@ian@small-village {max-width:75px; max-height:75px; }
+.@a61644@ian@small-village::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cluster/0.png/0.png);padding: 0; }
+div.@a61644@ian@small-village::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14003@gameicons-lorc@crystal-cluster {max-width:75px; max-height:75px; }
+.@b14003@gameicons-lorc@crystal-cluster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cluster/0.png/0.png);padding: 0; }
+div.@b14003@gameicons-lorc@crystal-cluster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c87c724f0e68e08ea1ab54c7c5346d33:3cc63a721668c8217f2f26a3bc9bfe35:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2339@bon@shopping-basket-1274 {max-width:75px; max-height:75px; }
+.@a2339@bon@shopping-basket-1274::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/shopping_basket/0.png/0.png);padding: 0; }
+div.@a2339@bon@shopping-basket-1274::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:766b3fd2268ee5250ad244a4a1db68eb:6d94b00110a7f07165bb1cd5ff09fb31:4ddb42793a59c1b7bfff1539dfc4d068$ */

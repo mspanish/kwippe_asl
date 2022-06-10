@@ -1,0 +1,37 @@
+{
+    "sign": "hungry-wish",
+    "signer": "asl2english",
+    "uid": 803,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 5,
+            "nd": 5
+        },
+        "end": {
+            "d": 6,
+            "nd": 6
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

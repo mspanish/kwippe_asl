@@ -1,0 +1,154 @@
+
+{
+
+"furniture~chair~beanbag": { 
+	"vb": "35 35 -0 -0",
+ },
+"furniture~couch-sofa": { 
+	"vb": "35 35 -35 -0",
+ },
+"furniture~desk": { 
+	"vb": "35 19 -35 -210",
+ },
+"furniture~door": { 
+	"vb": "27 35 -206 -169",
+ },
+"furniture~drawers": { 
+	"vb": "35 35 -70 -0",
+ },
+"furniture~dresser": { 
+	"vb": "35 35 -105 -0",
+ },
+"furniture~ironing": { 
+	"vb": "35 35 -140 -0",
+ },
+"furniture~lamp": { 
+	"vb": "17 35 -210 -70",
+ },
+"furniture~lamp~lava": { 
+	"vb": "13 35 -210 -105",
+ },
+"furniture~lamp~silhouette": { 
+	"vb": "35 35 -175 -0",
+ },
+"furniture~outdoor-patio": { 
+	"vb": "35 35 -0 -35",
+ },
+"furniture~stool": { 
+	"vb": "35 35 -0 -70",
+ },
+"furniture~table": { 
+	"vb": "35 13 -70 -210",
+ },
+"furniture~window": { 
+	"vb": "35 35 -0 -105",
+ },
+"garbage-trash": { 
+	"vb": "23 35 -210 -0",
+ },
+"hourglass": { 
+	"vb": "27 35 -206 -204",
+ },
+"house-objects": { 
+	"vb": "35 35 -0 -140",
+ },
+"key": { 
+	"vb": "35 35 -0 -175",
+ },
+"key~keyhole": { 
+	"vb": "35 35 -35 -35",
+ },
+"key~multiple": { 
+	"vb": "35 35 -70 -35",
+ },
+"key~outline": { 
+	"vb": "35 35 -105 -35",
+ },
+"key~silhouette": { 
+	"vb": "35 35 -140 -35",
+ },
+"key~with_lock": { 
+	"vb": "35 35 -175 -35",
+ },
+"light": { 
+	"vb": "35 35 -35 -70",
+ },
+"light~flashlight": { 
+	"vb": "35 35 -35 -70",
+ },
+"light~flashlight~off": { 
+	"vb": "35 35 -35 -105",
+ },
+"light~lightbulb": { 
+	"vb": "23 35 -210 -35",
+ },
+"light~spotlight": { 
+	"vb": "31 35 -140 -169",
+ },
+"machines": { 
+	"vb": "35 35 -35 -140",
+ },
+"mail": { 
+	"vb": "31 35 -140 -204",
+ },
+"mail~mailbox": { 
+	"vb": "35 35 -35 -175",
+ },
+"mail~mailbox~closed": { 
+	"vb": "35 35 -70 -70",
+ },
+"mail~mailbox~flag_up": { 
+	"vb": "35 35 -105 -70",
+ },
+"mail~mailbox~postbox": { 
+	"vb": "35 35 -140 -70",
+ },
+"mail~package": { 
+	"vb": "35 35 -175 -70",
+ },
+"mail~postal_horn": { 
+	"vb": "35 31 -140 -138",
+ },
+"paint": { 
+	"vb": "35 31 -105 -140",
+ },
+"paint~roller": { 
+	"vb": "35 31 -105 -140",
+ },
+"pillow": { 
+	"vb": "35 33 -140 -105",
+ },
+"plug-electric-electricity": { 
+	"vb": "35 35 -70 -105",
+ },
+"plug-electric-electricity~outlet": { 
+	"vb": "35 31 -175 -138",
+ },
+"pot_plant_holder": { 
+	"vb": "35 33 -175 -105",
+ },
+"rug": { 
+	"vb": "35 26 -0 -210",
+ },
+"sponge": { 
+	"vb": "35 31 -105 -171",
+ },
+"telephone-phone": { 
+	"vb": "35 31 -105 -202",
+ },
+"telephone-phone~receiver": { 
+	"vb": "35 35 -70 -140",
+ },
+"telephone-phone~receiver~icon": { 
+	"vb": "35 35 -70 -175",
+ },
+"telephone-phone~receiver~left": { 
+	"vb": "35 35 -105 -105",
+ },
+"television-tv": { 
+	"vb": "35 31 -171 -169",
+ },
+"television-tv~play": { 
+	"vb": "35 31 -171 -200",
+ },
+}

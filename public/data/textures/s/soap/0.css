@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a244@ara@beauty-hand-soap {max-width:75px; max-height:75px; }
+.@a244@ara@beauty-hand-soap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/soap/0.png/0.png);padding: 0; }
+div.@a244@ara@beauty-hand-soap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38084@mul@liquid-soap {max-width:75px; max-height:75px; }
+.@a38084@mul@liquid-soap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/soap/0.png/0.png);padding: 0; }
+div.@a38084@mul@liquid-soap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38793@mul@soap {max-width:75px; max-height:75px; }
+.@a38793@mul@soap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/soap/0.png/0.png);padding: 0; }
+div.@a38793@mul@soap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40556@nog@bar-of-soap-objects {max-width:75px; max-height:75px; }
+.@a40556@nog@bar-of-soap-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/soap/0.png/0.png);padding: 0; }
+div.@a40556@nog@bar-of-soap-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14793@gameicons-lorc@soap-experiment {max-width:75px; max-height:75px; }
+.@b14793@gameicons-lorc@soap-experiment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/soap/0.png/0.png);padding: 0; }
+div.@b14793@gameicons-lorc@soap-experiment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dd1efc25e6c541d34bb9e3194ac7a88c:2cff66000975240a9a21f10149b2418d:4ddb42793a59c1b7bfff1539dfc4d068$ */

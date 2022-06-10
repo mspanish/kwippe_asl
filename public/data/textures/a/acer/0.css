@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59249@ian@acer-pensylvanicum {max-width:75px; max-height:75px; }
+.@a59249@ian@acer-pensylvanicum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/acer/0.png/0.png);padding: 0; }
+div.@a59249@ian@acer-pensylvanicum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59250@ian@acer-platanoides {max-width:75px; max-height:75px; }
+.@a59250@ian@acer-platanoides::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/acer/0.png/0.png);padding: 0; }
+div.@a59250@ian@acer-platanoides::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59251@ian@acer-pseudoplatanus {max-width:75px; max-height:75px; }
+.@a59251@ian@acer-pseudoplatanus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/acer/0.png/0.png);padding: 0; }
+div.@a59251@ian@acer-pseudoplatanus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59252@ian@acer-rubrum-1 {max-width:75px; max-height:75px; }
+.@a59252@ian@acer-rubrum-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/acer/0.png/0.png);padding: 0; }
+div.@a59252@ian@acer-rubrum-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59254@ian@acer-rubrum2 {max-width:75px; max-height:75px; }
+.@a59254@ian@acer-rubrum2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/acer/0.png/0.png);padding: 0; }
+div.@a59254@ian@acer-rubrum2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61614@ian@seed-parachute {max-width:75px; max-height:75px; }
+.@a61614@ian@seed-parachute::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/acer/0.png/0.png);padding: 0; }
+div.@a61614@ian@seed-parachute::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0e6693a8ed6d5d3770d2b1bc156bcc1e:5edd597f54b70d695b586d688fbabf15:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59634@ian@cave-explorer {max-width:75px; max-height:75px; }
+.@a59634@ian@cave-explorer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cave/0.png/0.png);padding: 0; }
+div.@a59634@ian@cave-explorer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59729@ian@climbing-caving-helmet-with-headlamp {max-width:75px; max-height:75px; }
+.@a59729@ian@climbing-caving-helmet-with-headlamp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cave/0.png/0.png);padding: 0; }
+div.@a59729@ian@climbing-caving-helmet-with-headlamp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61156@ian@petroglyph-hawaiin-honu {max-width:75px; max-height:75px; }
+.@a61156@ian@petroglyph-hawaiin-honu::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cave/0.png/0.png);padding: 0; }
+div.@a61156@ian@petroglyph-hawaiin-honu::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61209@ian@plains-3d-mountains-caves-sandstone-outcrop-aquifer {max-width:75px; max-height:75px; }
+.@a61209@ian@plains-3d-mountains-caves-sandstone-outcrop-aquifer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cave/0.png/0.png);padding: 0; }
+div.@a61209@ian@plains-3d-mountains-caves-sandstone-outcrop-aquifer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12356@gameicons-delapouite@cave-entrance {max-width:75px; max-height:75px; }
+.@b12356@gameicons-delapouite@cave-entrance::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cave/0.png/0.png);padding: 0; }
+div.@b12356@gameicons-delapouite@cave-entrance::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5d78d46344edba95288be88ef61b8a6a:6243c6afff1b9b1c7903c0ef6277fdb0:4ddb42793a59c1b7bfff1539dfc4d068$ */

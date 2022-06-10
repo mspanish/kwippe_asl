@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15249@em2@part-alternation-mark {max-width:75px; max-height:75px; }
+.@a15249@em2@part-alternation-mark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/part_alteration/0.png/0.png);padding: 0; }
+div.@a15249@em2@part-alternation-mark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16588@emo@part-alternation-mark {max-width:75px; max-height:75px; }
+.@a16588@emo@part-alternation-mark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/part_alteration/0.png/0.png);padding: 0; }
+div.@a16588@emo@part-alternation-mark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a18131@fir@u303d-partalternationmark {max-width:75px; max-height:75px; }
+.@a18131@fir@u303d-partalternationmark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/part_alteration/0.png/0.png);padding: 0; }
+div.@a18131@fir@u303d-partalternationmark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28652@jqe@part-alternation-mark {max-width:75px; max-height:75px; }
+.@a28652@jqe@part-alternation-mark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/part_alteration/0.png/0.png);padding: 0; }
+div.@a28652@jqe@part-alternation-mark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39967@noc@part-alternation-mark {max-width:75px; max-height:75px; }
+.@a39967@noc@part-alternation-mark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/part_alteration/0.png/0.png);padding: 0; }
+div.@a39967@noc@part-alternation-mark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42963@nog@part-alternation-mark-symbols {max-width:75px; max-height:75px; }
+.@a42963@nog@part-alternation-mark-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/part_alteration/0.png/0.png);padding: 0; }
+div.@a42963@nog@part-alternation-mark-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44598@not@part-alternation-mark {max-width:75px; max-height:75px; }
+.@a44598@not@part-alternation-mark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/part_alteration/0.png/0.png);padding: 0; }
+div.@a44598@not@part-alternation-mark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51502@twe@part-alternation-mark {max-width:75px; max-height:75px; }
+.@a51502@twe@part-alternation-mark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/part_alteration/0.png/0.png);padding: 0; }
+div.@a51502@twe@part-alternation-mark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:baafe8124432d19494c56f427e62e500:29bc00d218a508fab1e1211f6a0eafc6:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60771@ian@lynx-rufus {max-width:75px; max-height:75px; }
+.@a60771@ian@lynx-rufus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/bobcat/0.png/0.png);padding: 0; }
+div.@a60771@ian@lynx-rufus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3f3864047f957fa1a8b1a8f8dc55afc2:d2e8a12e01b0c9c5b24ed447478ff585:4ddb42793a59c1b7bfff1539dfc4d068$ */

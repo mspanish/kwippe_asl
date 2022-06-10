@@ -1,0 +1,37 @@
+{
+    "sign": "airplane+agent",
+    "signer": "asl2english",
+    "uid": 32,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 56,
+            "nd": 18
+        },
+        "end": {
+            "d": 95,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest-front",
+        "stomach"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

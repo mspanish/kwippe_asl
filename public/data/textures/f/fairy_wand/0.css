@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14147@gameicons-lorc@fairy-wand {max-width:75px; max-height:75px; }
+.@b14147@gameicons-lorc@fairy-wand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/fairy_wand/0.png/0.png);padding: 0; }
+div.@b14147@gameicons-lorc@fairy-wand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:320f14b630858482a31eedb93191e08c:0324b9f6618d2d16604b150761307a67:4ddb42793a59c1b7bfff1539dfc4d068$ */

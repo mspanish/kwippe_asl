@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16254@emo@vg {max-width:75px; max-height:75px; }
+.@a16254@emo@vg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/british_virgin_islands/0.png/0.png);padding: 0; }
+div.@a16254@emo@vg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37651@mul@virgin_islands {max-width:75px; max-height:75px; }
+.@a37651@mul@virgin_islands::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/british_virgin_islands/0.png/0.png);padding: 0; }
+div.@a37651@mul@virgin_islands::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2053@wikim-all@coat_of_arms_of_the_british_virgin_islands {max-width:75px; max-height:75px; }
+.@d2053@wikim-all@coat_of_arms_of_the_british_virgin_islands::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/british_virgin_islands/0.png/0.png);padding: 0; }
+div.@d2053@wikim-all@coat_of_arms_of_the_british_virgin_islands::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:666cbe6076af4cfb3b687dede48414df:7a59011c4d7749cb0c45a74f5e494e74:4ddb42793a59c1b7bfff1539dfc4d068$ */

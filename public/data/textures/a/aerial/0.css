@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36430@mul@aerial-indoor {max-width:75px; max-height:75px; }
+.@a36430@mul@aerial-indoor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aerial/0.png/0.png);padding: 0; }
+div.@a36430@mul@aerial-indoor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59431@ian@avicennia-germinans-dead {max-width:75px; max-height:75px; }
+.@a59431@ian@avicennia-germinans-dead::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aerial/0.png/0.png);padding: 0; }
+div.@a59431@ian@avicennia-germinans-dead::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59432@ian@avicennia-germinans-dying {max-width:75px; max-height:75px; }
+.@a59432@ian@avicennia-germinans-dying::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aerial/0.png/0.png);padding: 0; }
+div.@a59432@ian@avicennia-germinans-dying::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59433@ian@avicennia-germinans {max-width:75px; max-height:75px; }
+.@a59433@ian@avicennia-germinans::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aerial/0.png/0.png);padding: 0; }
+div.@a59433@ian@avicennia-germinans::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13696@gameicons-lorc@aerial-signal {max-width:75px; max-height:75px; }
+.@b13696@gameicons-lorc@aerial-signal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/aerial/0.png/0.png);padding: 0; }
+div.@b13696@gameicons-lorc@aerial-signal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c1167d7835a095531a5eccf3919e4a89:82af58596523dd20e060ac695b66103f:4ddb42793a59c1b7bfff1539dfc4d068$ */

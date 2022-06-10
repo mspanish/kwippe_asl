@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59536@ian@brevoortia-tyrannus-juvenile {max-width:75px; max-height:75px; }
+.@a59536@ian@brevoortia-tyrannus-juvenile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bunker/0.png/0.png);padding: 0; }
+div.@a59536@ian@brevoortia-tyrannus-juvenile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59537@ian@brevoortia-tyrannus {max-width:75px; max-height:75px; }
+.@a59537@ian@brevoortia-tyrannus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bunker/0.png/0.png);padding: 0; }
+div.@a59537@ian@brevoortia-tyrannus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60808@ian@manure-composting-bunker {max-width:75px; max-height:75px; }
+.@a60808@ian@manure-composting-bunker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bunker/0.png/0.png);padding: 0; }
+div.@a60808@ian@manure-composting-bunker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15137@gameicons-quoting@bunker-assault {max-width:75px; max-height:75px; }
+.@b15137@gameicons-quoting@bunker-assault::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bunker/0.png/0.png);padding: 0; }
+div.@b15137@gameicons-quoting@bunker-assault::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15138@gameicons-quoting@bunker {max-width:75px; max-height:75px; }
+.@b15138@gameicons-quoting@bunker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/bunker/0.png/0.png);padding: 0; }
+div.@b15138@gameicons-quoting@bunker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8e702b59d1e0795e3d36914531cb02b7:93c47c6405816aa0046dae02567521f5:4ddb42793a59c1b7bfff1539dfc4d068$ */

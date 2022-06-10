@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29698@knl@passport-1 {max-width:75px; max-height:75px; }
+.@a29698@knl@passport-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/passport/0.png/0.png);padding: 0; }
+div.@a29698@knl@passport-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38366@mul@passport {max-width:75px; max-height:75px; }
+.@a38366@mul@passport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/passport/0.png/0.png);padding: 0; }
+div.@a38366@mul@passport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38409@mul@personal-passport {max-width:75px; max-height:75px; }
+.@a38409@mul@personal-passport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/passport/0.png/0.png);padding: 0; }
+div.@a38409@mul@personal-passport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53775@videoplasty@passport_flat_icon_vector {max-width:75px; max-height:75px; }
+.@a53775@videoplasty@passport_flat_icon_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/passport/0.png/0.png);padding: 0; }
+div.@a53775@videoplasty@passport_flat_icon_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13068@gameicons-delapouite@passport {max-width:75px; max-height:75px; }
+.@b13068@gameicons-delapouite@passport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/passport/0.png/0.png);padding: 0; }
+div.@b13068@gameicons-delapouite@passport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b44be5904788d31e0dfc1b833ec0ebc0:74d3059d9ab3753ad5a04aaae5d185e6:4ddb42793a59c1b7bfff1539dfc4d068$ */

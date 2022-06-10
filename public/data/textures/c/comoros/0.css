@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16133@emo@km {max-width:75px; max-height:75px; }
+.@a16133@emo@km::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/comoros/0.png/0.png);padding: 0; }
+div.@a16133@emo@km::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37026@mul@comoros {max-width:75px; max-height:75px; }
+.@a37026@mul@comoros::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/comoros/0.png/0.png);padding: 0; }
+div.@a37026@mul@comoros::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37497@mul@comoros {max-width:75px; max-height:75px; }
+.@a37497@mul@comoros::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/comoros/0.png/0.png);padding: 0; }
+div.@a37497@mul@comoros::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2721@wikim-all@flag_of_the_comoros {max-width:75px; max-height:75px; }
+.@d2721@wikim-all@flag_of_the_comoros::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/comoros/0.png/0.png);padding: 0; }
+div.@d2721@wikim-all@flag_of_the_comoros::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0957fb63f4b540c9bcea05997fb3131f:9a62de806420c5b9c120342be7259407:4ddb42793a59c1b7bfff1539dfc4d068$ */

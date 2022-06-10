@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26382@her@gryphon-passant {max-width:75px; max-height:75px; }
+.@a26382@her@gryphon-passant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/gryphon/0.png/0.png);padding: 0; }
+div.@a26382@her@gryphon-passant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26383@her@gryphon-segreant {max-width:75px; max-height:75px; }
+.@a26383@her@gryphon-segreant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/gryphon/0.png/0.png);padding: 0; }
+div.@a26383@her@gryphon-segreant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d94018bd4673933ad3f35b89569dad1b:d28e76cc4881ad6c04b379139482a05e:4ddb42793a59c1b7bfff1539dfc4d068$ */

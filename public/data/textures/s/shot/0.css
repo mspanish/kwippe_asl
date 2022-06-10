@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12989@gameicons-delapouite@mug-shot {max-width:75px; max-height:75px; }
+.@b12989@gameicons-delapouite@mug-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.25839793281653745% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b12989@gameicons-delapouite@mug-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13880@gameicons-lorc@burning-round-shot {max-width:75px; max-height:75px; }
+.@b13880@gameicons-lorc@burning-round-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 10.20671834625323% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b13880@gameicons-lorc@burning-round-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13896@gameicons-lorc@cannon-shot {max-width:75px; max-height:75px; }
+.@b13896@gameicons-lorc@cannon-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.155038759689923% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b13896@gameicons-lorc@cannon-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14068@gameicons-lorc@double-shot {max-width:75px; max-height:75px; }
+.@b14068@gameicons-lorc@double-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 30.103359173126616% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b14068@gameicons-lorc@double-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14110@gameicons-lorc@ember-shot {max-width:75px; max-height:75px; }
+.@b14110@gameicons-lorc@ember-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.05167958656331% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b14110@gameicons-lorc@ember-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14256@gameicons-lorc@glass-shot {max-width:75px; max-height:75px; }
+.@b14256@gameicons-lorc@glass-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b14256@gameicons-lorc@glass-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14320@gameicons-lorc@helmet-head-shot {max-width:75px; max-height:75px; }
+.@b14320@gameicons-lorc@helmet-head-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.94832041343669% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b14320@gameicons-lorc@helmet-head-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14323@gameicons-lorc@high-shot {max-width:75px; max-height:75px; }
+.@b14323@gameicons-lorc@high-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 69.89664082687338% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b14323@gameicons-lorc@high-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14340@gameicons-lorc@hydra-shot {max-width:75px; max-height:75px; }
+.@b14340@gameicons-lorc@hydra-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.84496124031008% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b14340@gameicons-lorc@hydra-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14937@gameicons-lorc@target-shot {max-width:75px; max-height:75px; }
+.@b14937@gameicons-lorc@target-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 89.79328165374677% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b14937@gameicons-lorc@target-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15182@gameicons-sbed@head-shot {max-width:75px; max-height:75px; }
+.@b15182@gameicons-sbed@head-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.74160206718346% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/shot/0.png/0.png);padding: 0; }
+div.@b15182@gameicons-sbed@head-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:94914bb453cc83db2bfc52eeac177363:e621aa56b68960a862582e73d4b35bab:4ddb42793a59c1b7bfff1539dfc4d068$ */

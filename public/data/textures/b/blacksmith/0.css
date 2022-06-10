@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a45650@ope@nicubunu_rpg_map_symbols_blacksmith {max-width:75px; max-height:75px; }
+.@a45650@ope@nicubunu_rpg_map_symbols_blacksmith::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/blacksmith/0.png/0.png);padding: 0; }
+div.@a45650@ope@nicubunu_rpg_map_symbols_blacksmith::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12249@gameicons-delapouite@blacksmith {max-width:75px; max-height:75px; }
+.@b12249@gameicons-delapouite@blacksmith::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/blacksmith/0.png/0.png);padding: 0; }
+div.@b12249@gameicons-delapouite@blacksmith::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:65af67aed2f898bc9855231b215d2957:f59bc208f8043b1f00f4a2da305771c0:4ddb42793a59c1b7bfff1539dfc4d068$ */

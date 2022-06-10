@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60088@ian@effects-restricted-tidal-exchange {max-width:75px; max-height:75px; }
+.@a60088@ian@effects-restricted-tidal-exchange::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/restricted/0.png/0.png);padding: 0; }
+div.@a60088@ian@effects-restricted-tidal-exchange::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60169@ian@estuary-2d-tidally-restricted {max-width:75px; max-height:75px; }
+.@a60169@ian@estuary-2d-tidally-restricted::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/restricted/0.png/0.png);padding: 0; }
+div.@a60169@ian@estuary-2d-tidally-restricted::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60635@ian@lagoon-2d-closed-and-stratified {max-width:75px; max-height:75px; }
+.@a60635@ian@lagoon-2d-closed-and-stratified::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/restricted/0.png/0.png);padding: 0; }
+div.@a60635@ian@lagoon-2d-closed-and-stratified::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dcf7b320ccf92dd1026718c968dbb4dd:163d63f6a1f1ec25b9d5f0088375f9dd:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "rope",
+    "signer": "asl2english",
+    "uid": 1528,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 70,
+            "nd": 70
+        },
+        "end": {
+            "d": 70,
+            "nd": 70
+        }
+    },
+    "regions": [
+        "chest",
+        "right"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

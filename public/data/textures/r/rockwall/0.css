@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59729@ian@climbing-caving-helmet-with-headlamp {max-width:75px; max-height:75px; }
+.@a59729@ian@climbing-caving-helmet-with-headlamp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/rockwall/0.png/0.png);padding: 0; }
+div.@a59729@ian@climbing-caving-helmet-with-headlamp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a86fcec153ebb270f1125b8dd6e83083:f0b01304ea3aebf167dd384361c6b0d1:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "giggle",
+    "signer": "asl2english",
+    "uid": 684,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 6,
+            "nd": 24
+        },
+        "end": {
+            "d": 36,
+            "nd": 23
+        }
+    },
+    "regions": [
+        "R-cheek",
+        "R-cheek"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2229@bon@public-park-bs-8501-8040 {max-width:75px; max-height:75px; }
+.@a2229@bon@public-park-bs-8501-8040::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/public_park_bs/0.png/0.png);padding: 0; }
+div.@a2229@bon@public-park-bs-8501-8040::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a6fb7a1a5f7a3fe0e9a9a01f69afe12b:f7f247fabae492f0e824f1c3488efb80:4ddb42793a59c1b7bfff1539dfc4d068$ */

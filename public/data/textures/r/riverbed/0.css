@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60646@ian@lake-2d-varves {max-width:75px; max-height:75px; }
+.@a60646@ian@lake-2d-varves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/riverbed/0.png/0.png);padding: 0; }
+div.@a60646@ian@lake-2d-varves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61468@ian@river-3d-foothills-sandy-riverbed {max-width:75px; max-height:75px; }
+.@a61468@ian@river-3d-foothills-sandy-riverbed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/riverbed/0.png/0.png);padding: 0; }
+div.@a61468@ian@river-3d-foothills-sandy-riverbed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61579@ian@seagrass-habitat-rivers {max-width:75px; max-height:75px; }
+.@a61579@ian@seagrass-habitat-rivers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/riverbed/0.png/0.png);padding: 0; }
+div.@a61579@ian@seagrass-habitat-rivers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0b8ba6743413d3069c6dc65f1bc6044c:493bfc1bfea6ec280e0727b6c2027924:4ddb42793a59c1b7bfff1539dfc4d068$ */

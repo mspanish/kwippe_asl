@@ -1,0 +1,37 @@
+{
+    "sign": "supervise",
+    "signer": "asl2english",
+    "uid": 1761,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 77,
+            "nd": 77
+        },
+        "end": {
+            "d": 58,
+            "nd": 58
+        }
+    },
+    "regions": [
+        "hand",
+        "hand"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

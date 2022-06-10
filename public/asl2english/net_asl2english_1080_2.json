@@ -1,0 +1,37 @@
+{
+    "sign": "net",
+    "signer": "asl2english",
+    "uid": 1080,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 3,
+            "nd": 3
+        },
+        "end": {
+            "d": 3,
+            "nd": 3
+        }
+    },
+    "regions": [
+        "chest-front",
+        "right"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

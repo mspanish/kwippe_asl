@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2188@bon@photocopier-4068 {max-width:75px; max-height:75px; }
+.@a2188@bon@photocopier-4068::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/photocopier/0.png/0.png);padding: 0; }
+div.@a2188@bon@photocopier-4068::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38420@mul@photocopier {max-width:75px; max-height:75px; }
+.@a38420@mul@photocopier::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/photocopier/0.png/0.png);padding: 0; }
+div.@a38420@mul@photocopier::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6a11a0d90b20c307ffc6bc3b63071c16:48dd062a503d60bad5af3bfccd843a52:4ddb42793a59c1b7bfff1539dfc4d068$ */

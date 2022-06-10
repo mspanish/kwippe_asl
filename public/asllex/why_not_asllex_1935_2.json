@@ -1,0 +1,45 @@
+{
+    "sign": "why_not",
+    "signer": "aslLex",
+    "uid": 1432,
+    "synonyms": "contraction, not, why, why not",
+    "handshapes": {
+        "begin": {
+            "d": "open_b",
+            "nd": null
+        },
+        "end": {
+            "d": "a",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "HeadAway",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Head",
+        "morph2_specific": "UnderChin",
+        "morph2_specific_second": "HeadAway",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Straight",
+        "morph2_repeat": 0.0
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 5.185,
+    "category": null
+}

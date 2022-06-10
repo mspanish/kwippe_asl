@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38523@mul@pumice-stone {max-width:75px; max-height:75px; }
+.@a38523@mul@pumice-stone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@a38523@mul@pumice-stone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38883@mul@stone {max-width:75px; max-height:75px; }
+.@a38883@mul@stone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@a38883@mul@stone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60844@ian@menippe-mercenaria {max-width:75px; max-height:75px; }
+.@a60844@ian@menippe-mercenaria::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@a60844@ian@menippe-mercenaria::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13416@gameicons-delapouite@stone-bridge {max-width:75px; max-height:75px; }
+.@b13416@gameicons-delapouite@stone-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b13416@gameicons-delapouite@stone-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13417@gameicons-delapouite@stone-bust {max-width:75px; max-height:75px; }
+.@b13417@gameicons-delapouite@stone-bust::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b13417@gameicons-delapouite@stone-bust::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13418@gameicons-delapouite@stone-path {max-width:75px; max-height:75px; }
+.@b13418@gameicons-delapouite@stone-path::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b13418@gameicons-delapouite@stone-path::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13419@gameicons-delapouite@stone-pile {max-width:75px; max-height:75px; }
+.@b13419@gameicons-delapouite@stone-pile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b13419@gameicons-delapouite@stone-pile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13420@gameicons-delapouite@stone-stack {max-width:75px; max-height:75px; }
+.@b13420@gameicons-delapouite@stone-stack::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b13420@gameicons-delapouite@stone-stack::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13421@gameicons-delapouite@stone-wall {max-width:75px; max-height:75px; }
+.@b13421@gameicons-delapouite@stone-wall::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b13421@gameicons-delapouite@stone-wall::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13422@gameicons-delapouite@stone-wheel {max-width:75px; max-height:75px; }
+.@b13422@gameicons-delapouite@stone-wheel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b13422@gameicons-delapouite@stone-wheel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14085@gameicons-lorc@dripping-stone {max-width:75px; max-height:75px; }
+.@b14085@gameicons-lorc@dripping-stone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14085@gameicons-lorc@dripping-stone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14686@gameicons-lorc@rune-stone {max-width:75px; max-height:75px; }
+.@b14686@gameicons-lorc@rune-stone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14686@gameicons-lorc@rune-stone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14881@gameicons-lorc@stone-axe {max-width:75px; max-height:75px; }
+.@b14881@gameicons-lorc@stone-axe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14881@gameicons-lorc@stone-axe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14882@gameicons-lorc@stone-block {max-width:75px; max-height:75px; }
+.@b14882@gameicons-lorc@stone-block::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14882@gameicons-lorc@stone-block::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14883@gameicons-lorc@stone-crafting {max-width:75px; max-height:75px; }
+.@b14883@gameicons-lorc@stone-crafting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14883@gameicons-lorc@stone-crafting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14884@gameicons-lorc@stone-spear {max-width:75px; max-height:75px; }
+.@b14884@gameicons-lorc@stone-spear::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14884@gameicons-lorc@stone-spear::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14885@gameicons-lorc@stone-sphere {max-width:75px; max-height:75px; }
+.@b14885@gameicons-lorc@stone-sphere::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14885@gameicons-lorc@stone-sphere::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14886@gameicons-lorc@stone-tablet {max-width:75px; max-height:75px; }
+.@b14886@gameicons-lorc@stone-tablet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14886@gameicons-lorc@stone-tablet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14887@gameicons-lorc@stone-throne {max-width:75px; max-height:75px; }
+.@b14887@gameicons-lorc@stone-throne::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14887@gameicons-lorc@stone-throne::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14925@gameicons-lorc@sword-in-stone {max-width:75px; max-height:75px; }
+.@b14925@gameicons-lorc@sword-in-stone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/stone/0.png/0.png);padding: 0; }
+div.@b14925@gameicons-lorc@sword-in-stone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5ccca09107fbbaa6921cb48ac59e6eb7:79c282594aaef74a937a0a207828a542:4ddb42793a59c1b7bfff1539dfc4d068$ */

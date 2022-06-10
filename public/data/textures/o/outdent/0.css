@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1306@bat@out {max-width:75px; max-height:75px; }
+.@a1306@bat@out::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/outdent/0.png/0.png);padding: 0; }
+div.@a1306@bat@out::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27811@icf@text-outdent-first-line {max-width:75px; max-height:75px; }
+.@a27811@icf@text-outdent-first-line::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/outdent/0.png/0.png);padding: 0; }
+div.@a27811@icf@text-outdent-first-line::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30302@lib@outdent {max-width:75px; max-height:75px; }
+.@a30302@lib@outdent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/outdent/0.png/0.png);padding: 0; }
+div.@a30302@lib@outdent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34613@mat@outdent {max-width:75px; max-height:75px; }
+.@a34613@mat@outdent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/outdent/0.png/0.png);padding: 0; }
+div.@a34613@mat@outdent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54538@wav@outdent {max-width:75px; max-height:75px; }
+.@a54538@wav@outdent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/outdent/0.png/0.png);padding: 0; }
+div.@a54538@wav@outdent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a918@awe@outdent {max-width:75px; max-height:75px; }
+.@a918@awe@outdent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/outdent/0.png/0.png);padding: 0; }
+div.@a918@awe@outdent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a1888b78c938f95fa2353d0da19cabd5:08889c779467410aad27a66b88cd36e2:4ddb42793a59c1b7bfff1539dfc4d068$ */

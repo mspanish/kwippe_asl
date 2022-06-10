@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36628@mul@boots {max-width:75px; max-height:75px; }
+.@a36628@mul@boots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/boots/0.png/0.png);padding: 0; }
+div.@a36628@mul@boots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39193@mul@wellington-boots {max-width:75px; max-height:75px; }
+.@a39193@mul@wellington-boots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/boots/0.png/0.png);padding: 0; }
+div.@a39193@mul@wellington-boots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40340@noc@womans-boots {max-width:75px; max-height:75px; }
+.@a40340@noc@womans-boots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/boots/0.png/0.png);padding: 0; }
+div.@a40340@noc@womans-boots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44893@not@womans-boots {max-width:75px; max-height:75px; }
+.@a44893@not@womans-boots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/boots/0.png/0.png);padding: 0; }
+div.@a44893@not@womans-boots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13829@gameicons-lorc@boots {max-width:75px; max-height:75px; }
+.@b13829@gameicons-lorc@boots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/boots/0.png/0.png);padding: 0; }
+div.@b13829@gameicons-lorc@boots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14872@gameicons-lorc@steeltoe-boots {max-width:75px; max-height:75px; }
+.@b14872@gameicons-lorc@steeltoe-boots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/boots/0.png/0.png);padding: 0; }
+div.@b14872@gameicons-lorc@steeltoe-boots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9eef95e9f691e37986087084da704679:e13f4f89475d321198ae6cdedac53253:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13080@gameicons-delapouite@pendulum-swing {max-width:75px; max-height:75px; }
+.@b13080@gameicons-delapouite@pendulum-swing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/pendulum_swing/0.png/0.png);padding: 0; }
+div.@b13080@gameicons-delapouite@pendulum-swing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:43ac5a3654c62b850ef7f07c939fc092:cfcf96344eff97fd8a0abfe3324ac400:4ddb42793a59c1b7bfff1539dfc4d068$ */

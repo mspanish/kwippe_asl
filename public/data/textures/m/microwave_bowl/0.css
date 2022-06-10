@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2081@bon@microwave-bowl-2538 {max-width:75px; max-height:75px; }
+.@a2081@bon@microwave-bowl-2538::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/microwave_bowl/0.png/0.png);padding: 0; }
+div.@a2081@bon@microwave-bowl-2538::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a607c5ebc579577f18673fbe908fc2ee:362dcae577bc0bc5de80a7b456565bbb:4ddb42793a59c1b7bfff1539dfc4d068$ */

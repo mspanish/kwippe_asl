@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13875@gameicons-lorc@burning-dot {max-width:75px; max-height:75px; }
+.@b13875@gameicons-lorc@burning-dot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/burning_dot/0.png/0.png);padding: 0; }
+div.@b13875@gameicons-lorc@burning-dot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fee7a6614956e7edfcf5e8cd292eb391:7218365438b28b228a4366b8fc529ca4:4ddb42793a59c1b7bfff1539dfc4d068$ */

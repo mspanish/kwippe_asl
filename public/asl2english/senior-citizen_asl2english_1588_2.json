@@ -1,0 +1,37 @@
+{
+    "sign": "senior-citizen",
+    "signer": "asl2english",
+    "uid": 1588,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": null
+        },
+        "end": {
+            "d": 30,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chin",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

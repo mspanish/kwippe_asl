@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13531@gameicons-delapouite@triple-gate {max-width:75px; max-height:75px; }
+.@b13531@gameicons-delapouite@triple-gate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/triple/0.png/0.png);padding: 0; }
+div.@b13531@gameicons-delapouite@triple-gate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15005@gameicons-lorc@triple-beak {max-width:75px; max-height:75px; }
+.@b15005@gameicons-lorc@triple-beak::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/triple/0.png/0.png);padding: 0; }
+div.@b15005@gameicons-lorc@triple-beak::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15009@gameicons-lorc@triple-needle {max-width:75px; max-height:75px; }
+.@b15009@gameicons-lorc@triple-needle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/triple/0.png/0.png);padding: 0; }
+div.@b15009@gameicons-lorc@triple-needle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15010@gameicons-lorc@triple-plier {max-width:75px; max-height:75px; }
+.@b15010@gameicons-lorc@triple-plier::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/triple/0.png/0.png);padding: 0; }
+div.@b15010@gameicons-lorc@triple-plier::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15011@gameicons-lorc@triple-scratches {max-width:75px; max-height:75px; }
+.@b15011@gameicons-lorc@triple-scratches::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/triple/0.png/0.png);padding: 0; }
+div.@b15011@gameicons-lorc@triple-scratches::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15014@gameicons-lorc@triple-yin {max-width:75px; max-height:75px; }
+.@b15014@gameicons-lorc@triple-yin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/triple/0.png/0.png);padding: 0; }
+div.@b15014@gameicons-lorc@triple-yin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:682f7361a9d8e23eeac1b22d676b7084:cb9a83cc96272d2f845d4a0c55228fe3:4ddb42793a59c1b7bfff1539dfc4d068$ */

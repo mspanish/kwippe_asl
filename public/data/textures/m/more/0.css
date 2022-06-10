@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a118@aac@more {max-width:75px; max-height:75px; }
+.@a118@aac@more::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/more/0.png/0.png);padding: 0; }
+div.@a118@aac@more::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a119@aac@more2 {max-width:75px; max-height:75px; }
+.@a119@aac@more2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/more/0.png/0.png);padding: 0; }
+div.@a119@aac@more2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38099@mul@lots-more {max-width:75px; max-height:75px; }
+.@a38099@mul@lots-more::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/more/0.png/0.png);padding: 0; }
+div.@a38099@mul@lots-more::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38207@mul@more {max-width:75px; max-height:75px; }
+.@a38207@mul@more::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/more/0.png/0.png);padding: 0; }
+div.@a38207@mul@more::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3b47b8cc220c09436fa99d57704fd12e:6fd98665ac1aa80a67729a0c7423bc84:4ddb42793a59c1b7bfff1539dfc4d068$ */

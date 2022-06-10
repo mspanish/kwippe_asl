@@ -1,0 +1,37 @@
+{
+    "sign": "wild-about",
+    "signer": "asl2english",
+    "uid": 2032,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 35,
+            "nd": 30
+        },
+        "end": {
+            "d": 6,
+            "nd": 35
+        }
+    },
+    "regions": [
+        "R-ear",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            -1,
+            -1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

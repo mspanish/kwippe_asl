@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14528@ele@puzzle {max-width:75px; max-height:75px; }
+.@a14528@ele@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a14528@ele@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27711@icf@puzzle {max-width:75px; max-height:75px; }
+.@a27711@icf@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a27711@icf@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29173@jqu@puzzle-piece {max-width:75px; max-height:75px; }
+.@a29173@jqu@puzzle-piece::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a29173@jqu@puzzle-piece::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34747@mat@pi {max-width:75px; max-height:75px; }
+.@a34747@mat@pi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a34747@mat@pi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34881@mat@puzzle {max-width:75px; max-height:75px; }
+.@a34881@mat@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a34881@mat@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48296@roc@puzzle {max-width:75px; max-height:75px; }
+.@a48296@roc@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a48296@roc@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48513@sli@puzzle {max-width:75px; max-height:75px; }
+.@a48513@sli@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a48513@sli@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52172@typ@puzzle {max-width:75px; max-height:75px; }
+.@a52172@typ@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a52172@typ@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53441@vaa@puzzle-piece {max-width:75px; max-height:75px; }
+.@a53441@vaa@puzzle-piece::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a53441@vaa@puzzle-piece::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57070@win@puzzle {max-width:75px; max-height:75px; }
+.@a57070@win@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a57070@win@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57949@xei@puzzle {max-width:75px; max-height:75px; }
+.@a57949@xei@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a57949@xei@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a947@awe@puzzle-piece {max-width:75px; max-height:75px; }
+.@a947@awe@puzzle-piece::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@a947@awe@puzzle-piece::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13178@gameicons-delapouite@puzzle {max-width:75px; max-height:75px; }
+.@b13178@gameicons-delapouite@puzzle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/p/puzzle_piece/0.png/0.png);padding: 0; }
+div.@b13178@gameicons-delapouite@puzzle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dfb0e5b132649d0503a11d16ad45804d:2516839a7cb5cce2d569ee90dce42a16:4ddb42793a59c1b7bfff1539dfc4d068$ */

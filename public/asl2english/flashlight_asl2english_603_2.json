@@ -1,0 +1,37 @@
+{
+    "sign": "flashlight",
+    "signer": "asl2english",
+    "uid": 603,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 59,
+            "nd": null
+        },
+        "end": {
+            "d": 59,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest-front",
+        "chest-front"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            1,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

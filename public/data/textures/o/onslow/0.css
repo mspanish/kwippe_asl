@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62091@ian@usa-nc-new-river {max-width:75px; max-height:75px; }
+.@a62091@ian@usa-nc-new-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/onslow/0.png/0.png);padding: 0; }
+div.@a62091@ian@usa-nc-new-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:68eed320f45ef259bfa64e5596ec0ba8:2a7bd281638c406f7cab58fc0f904c71:4ddb42793a59c1b7bfff1539dfc4d068$ */

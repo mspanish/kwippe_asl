@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2390@bon@staff-shift-early-6269 {max-width:75px; max-height:75px; }
+.@a2390@bon@staff-shift-early-6269::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/early/0.png/0.png);padding: 0; }
+div.@a2390@bon@staff-shift-early-6269::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61111@ian@panulirus-argus-puerulus {max-width:75px; max-height:75px; }
+.@a61111@ian@panulirus-argus-puerulus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/early/0.png/0.png);padding: 0; }
+div.@a61111@ian@panulirus-argus-puerulus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0621a53abd137ecb8b6d962588a7dc81:3353167d450b55f915ddbcc3a02bd54a:4ddb42793a59c1b7bfff1539dfc4d068$ */

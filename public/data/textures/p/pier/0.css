@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a32010@map@fishing_pier {max-width:75px; max-height:75px; }
+.@a32010@map@fishing_pier::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pier/0.png/0.png);padding: 0; }
+div.@a32010@map@fishing_pier::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60611@ian@jetty-2 {max-width:75px; max-height:75px; }
+.@a60611@ian@jetty-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pier/0.png/0.png);padding: 0; }
+div.@a60611@ian@jetty-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60612@ian@jetty-3 {max-width:75px; max-height:75px; }
+.@a60612@ian@jetty-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pier/0.png/0.png);padding: 0; }
+div.@a60612@ian@jetty-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60613@ian@jetty {max-width:75px; max-height:75px; }
+.@a60613@ian@jetty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pier/0.png/0.png);padding: 0; }
+div.@a60613@ian@jetty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61192@ian@piling-with-solar-powered-light {max-width:75px; max-height:75px; }
+.@a61192@ian@piling-with-solar-powered-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pier/0.png/0.png);padding: 0; }
+div.@a61192@ian@piling-with-solar-powered-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13654@gameicons-delapouite@wooden-pier {max-width:75px; max-height:75px; }
+.@b13654@gameicons-delapouite@wooden-pier::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pier/0.png/0.png);padding: 0; }
+div.@b13654@gameicons-delapouite@wooden-pier::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a0d836f8b8018e297cf5bf44c83cf4f6:5e3a2d47fbf3b32f5185dbc85e484b4d:4ddb42793a59c1b7bfff1539dfc4d068$ */

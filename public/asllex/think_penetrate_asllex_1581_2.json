@@ -1,0 +1,45 @@
+{
+    "sign": "think_penetrate",
+    "signer": "aslLex",
+    "uid": 1212,
+    "synonyms": "comprehension, get a point across, get through to, successful communication, think-penetrate, to understand",
+    "handshapes": {
+        "begin": {
+            "d": "1",
+            "nd": null
+        },
+        "end": {
+            "d": "1",
+            "nd": "5"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Forehead",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "Other",
+        "morph2_specific_second": "Other",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalDifferentHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 4.481,
+    "category": null
+}

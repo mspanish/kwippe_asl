@@ -1,0 +1,37 @@
+{
+    "sign": "mooch",
+    "signer": "asl2english",
+    "uid": 1035,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 73,
+            "nd": 73
+        },
+        "end": {
+            "d": 50,
+            "nd": 50
+        }
+    },
+    "regions": [
+        0,
+        "hand"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59553@ian@buoy-midchannel-safe {max-width:75px; max-height:75px; }
+.@a59553@ian@buoy-midchannel-safe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/midchannel/0.png/0.png);padding: 0; }
+div.@a59553@ian@buoy-midchannel-safe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59669@ian@channel-buoy-midchannel-light {max-width:75px; max-height:75px; }
+.@a59669@ian@channel-buoy-midchannel-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/midchannel/0.png/0.png);padding: 0; }
+div.@a59669@ian@channel-buoy-midchannel-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59670@ian@channel-buoy-midchannel-no-light {max-width:75px; max-height:75px; }
+.@a59670@ian@channel-buoy-midchannel-no-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/midchannel/0.png/0.png);padding: 0; }
+div.@a59670@ian@channel-buoy-midchannel-no-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a6d3c30aacf1147f549a623e478379d9:e8137e2af285e9ab0ba0982635bd96ae:4ddb42793a59c1b7bfff1539dfc4d068$ */

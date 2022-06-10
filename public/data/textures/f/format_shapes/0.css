@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a54270@wav@format-shapes {max-width:75px; max-height:75px; }
+.@a54270@wav@format-shapes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/format_shapes/0.png/0.png);padding: 0; }
+div.@a54270@wav@format-shapes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55294@web@merge-shapes {max-width:75px; max-height:75px; }
+.@a55294@web@merge-shapes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/format_shapes/0.png/0.png);padding: 0; }
+div.@a55294@web@merge-shapes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55804@web@shapes {max-width:75px; max-height:75px; }
+.@a55804@web@shapes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/format_shapes/0.png/0.png);padding: 0; }
+div.@a55804@web@shapes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6485eb9dd72eed0d7d3177ac5e023ed4:a1508f6d740e60314a156545df3cea31:4ddb42793a59c1b7bfff1539dfc4d068$ */

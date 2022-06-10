@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59255@ian@acid-rain {max-width:75px; max-height:75px; }
+.@a59255@ian@acid-rain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/acid/0.png/0.png);padding: 0; }
+div.@a59255@ian@acid-rain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60875@ian@mine-drainage {max-width:75px; max-height:75px; }
+.@a60875@ian@mine-drainage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/acid/0.png/0.png);padding: 0; }
+div.@a60875@ian@mine-drainage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13694@gameicons-lorc@acid-blob {max-width:75px; max-height:75px; }
+.@b13694@gameicons-lorc@acid-blob::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/acid/0.png/0.png);padding: 0; }
+div.@b13694@gameicons-lorc@acid-blob::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15150@gameicons-sbed@acid-tube {max-width:75px; max-height:75px; }
+.@b15150@gameicons-sbed@acid-tube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/acid/0.png/0.png);padding: 0; }
+div.@b15150@gameicons-sbed@acid-tube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15151@gameicons-sbed@acid {max-width:75px; max-height:75px; }
+.@b15151@gameicons-sbed@acid::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/a/acid/0.png/0.png);padding: 0; }
+div.@b15151@gameicons-sbed@acid::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d1285265df395ffb8e2c3b16dcfa3b03:9806e9134fac4fc87d306260440027a4:4ddb42793a59c1b7bfff1539dfc4d068$ */

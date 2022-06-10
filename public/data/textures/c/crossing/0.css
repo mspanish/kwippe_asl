@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39267@mul@zebra-crossing {max-width:75px; max-height:75px; }
+.@a39267@mul@zebra-crossing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@a39267@mul@zebra-crossing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12881@gameicons-delapouite@level-crossing {max-width:75px; max-height:75px; }
+.@b12881@gameicons-delapouite@level-crossing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@b12881@gameicons-delapouite@level-crossing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1012@mutcd@new_zealand_699 {max-width:75px; max-height:75px; }
+.@d1012@mutcd@new_zealand_699::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d1012@mutcd@new_zealand_699::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1092@mutcd@panama_700 {max-width:75px; max-height:75px; }
+.@d1092@mutcd@panama_700::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d1092@mutcd@panama_700::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1168@mutcd@peru_701 {max-width:75px; max-height:75px; }
+.@d1168@mutcd@peru_701::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d1168@mutcd@peru_701::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1247@mutcd@philippines_702 {max-width:75px; max-height:75px; }
+.@d1247@mutcd@philippines_702::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d1247@mutcd@philippines_702::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1329@mutcd@thailand_703 {max-width:75px; max-height:75px; }
+.@d1329@mutcd@thailand_703::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d1329@mutcd@thailand_703::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1377@mutcd@united_states_704 {max-width:75px; max-height:75px; }
+.@d1377@mutcd@united_states_704::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d1377@mutcd@united_states_704::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1502@mutcd@uruguay_705 {max-width:75px; max-height:75px; }
+.@d1502@mutcd@uruguay_705::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d1502@mutcd@uruguay_705::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d152@mutcd@australia_687 {max-width:75px; max-height:75px; }
+.@d152@mutcd@australia_687::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d152@mutcd@australia_687::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d238@mutcd@brazil_688 {max-width:75px; max-height:75px; }
+.@d238@mutcd@brazil_688::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d238@mutcd@brazil_688::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d322@mutcd@canada_689 {max-width:75px; max-height:75px; }
+.@d322@mutcd@canada_689::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d322@mutcd@canada_689::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d399@mutcd@canada_ontario_690 {max-width:75px; max-height:75px; }
+.@d399@mutcd@canada_ontario_690::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d399@mutcd@canada_ontario_690::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d487@mutcd@canada_quebec_691 {max-width:75px; max-height:75px; }
+.@d487@mutcd@canada_quebec_691::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d487@mutcd@canada_quebec_691::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d572@mutcd@chile_692 {max-width:75px; max-height:75px; }
+.@d572@mutcd@chile_692::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d572@mutcd@chile_692::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d653@mutcd@colombia_693 {max-width:75px; max-height:75px; }
+.@d653@mutcd@colombia_693::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d653@mutcd@colombia_693::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d729@mutcd@ireland_695 {max-width:75px; max-height:75px; }
+.@d729@mutcd@ireland_695::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d729@mutcd@ireland_695::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d856@mutcd@liberia_696 {max-width:75px; max-height:75px; }
+.@d856@mutcd@liberia_696::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d856@mutcd@liberia_696::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d937@mutcd@mexico_698 {max-width:75px; max-height:75px; }
+.@d937@mutcd@mexico_698::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/crossing/0.png/0.png);padding: 0; }
+div.@d937@mutcd@mexico_698::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6525e53f0bbee95a57ebeb5a4d9307ed:e7c692cae7fdfb23851c7a96e34ef47c:4ddb42793a59c1b7bfff1539dfc4d068$ */

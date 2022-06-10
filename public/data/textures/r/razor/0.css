@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38564@mul@razor-electric {max-width:75px; max-height:75px; }
+.@a38564@mul@razor-electric::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/razor/0.png/0.png);padding: 0; }
+div.@a38564@mul@razor-electric::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38565@mul@razor {max-width:75px; max-height:75px; }
+.@a38565@mul@razor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/razor/0.png/0.png);padding: 0; }
+div.@a38565@mul@razor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38721@mul@shave-with-razor-to {max-width:75px; max-height:75px; }
+.@a38721@mul@shave-with-razor-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/razor/0.png/0.png);padding: 0; }
+div.@a38721@mul@shave-with-razor-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43196@nog@razor-objects-household {max-width:75px; max-height:75px; }
+.@a43196@nog@razor-objects-household::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/razor/0.png/0.png);padding: 0; }
+div.@a43196@nog@razor-objects-household::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61366@ian@razor-clam {max-width:75px; max-height:75px; }
+.@a61366@ian@razor-clam::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/razor/0.png/0.png);padding: 0; }
+div.@a61366@ian@razor-clam::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ccbe434dbf466a0247be38b8a675e5c4:11647a1e0fc6b9e547b8b8d942d831ec:4ddb42793a59c1b7bfff1539dfc4d068$ */

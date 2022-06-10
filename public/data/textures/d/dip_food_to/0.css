@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37229@mul@dip-food-to {max-width:75px; max-height:75px; }
+.@a37229@mul@dip-food-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/dip_food_to/0.png/0.png);padding: 0; }
+div.@a37229@mul@dip-food-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9d762ad27ad611cfb9264e08d0bd1426:fe9a0ec1920c069e280e6b9e220d16f4:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36484@mul@autumn {max-width:75px; max-height:75px; }
+.@a36484@mul@autumn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/autumn/0.png/0.png);padding: 0; }
+div.@a36484@mul@autumn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60359@ian@generic-tree-fall {max-width:75px; max-height:75px; }
+.@a60359@ian@generic-tree-fall::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/autumn/0.png/0.png);padding: 0; }
+div.@a60359@ian@generic-tree-fall::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:61f387ac98e3275dc5a0e5ecdef2c850:9b8803f44fab25549982d730fa2e6242:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13698@gameicons-lorc@aerosol {max-width:75px; max-height:75px; }
+.@b13698@gameicons-lorc@aerosol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/aerosol/0.png/0.png);padding: 0; }
+div.@b13698@gameicons-lorc@aerosol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e2fdf378a163ab0621fa927c96d6478e:da9718c5cf7b766a96da6ab17e4c405a:4ddb42793a59c1b7bfff1539dfc4d068$ */

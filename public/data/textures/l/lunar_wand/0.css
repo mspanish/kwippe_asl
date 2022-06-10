@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12915@gameicons-delapouite@lunar-wand {max-width:75px; max-height:75px; }
+.@b12915@gameicons-delapouite@lunar-wand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/lunar_wand/0.png/0.png);padding: 0; }
+div.@b12915@gameicons-delapouite@lunar-wand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b6f03dcf1cf248418c5467044e1090e5:0d4937cd0eb163874d16280b316b9039:4ddb42793a59c1b7bfff1539dfc4d068$ */

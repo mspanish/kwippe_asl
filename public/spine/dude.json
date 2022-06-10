@@ -1,0 +1,120 @@
+{
+"skeleton": {
+	"hash": "cmz8vWvumpc",
+	"spine": "4.0.63",
+	"x": -302.71,
+	"y": -841.27,
+	"width": 1399,
+	"height": 1230.04,
+	"images": "",
+	"audio": "/home/stace/Pictures/dude"
+},
+"bones": [
+	{ "name": "root", "x": 397.29, "y": -134.93 },
+	{ "name": "background", "parent": "root", "x": -0.5, "y": -91.33, "scaleY": 1.2313 },
+	{ "name": "body", "parent": "root", "x": -12, "y": -344 },
+	{
+		"name": "faceshape",
+		"parent": "root",
+		"rotation": -0.27,
+		"x": -16.63,
+		"y": 7.74,
+		"scaleX": 0.7542,
+		"scaleY": 0.7542
+	},
+	{
+		"name": "mouth",
+		"parent": "faceshape",
+		"x": 31.45,
+		"y": -171.32,
+		"scaleX": 1.4882,
+		"scaleY": 1.4882,
+		"color": "000000ff"
+	},
+	{ "name": "eyesback", "parent": "faceshape", "x": -3.5, "y": 20 },
+	{ "name": "eyesiris", "parent": "faceshape", "x": -3.5, "y": 19 },
+	{ "name": "eyesfront", "parent": "faceshape", "x": -3.5, "y": 22.5 },
+	{ "name": "hairfront", "parent": "faceshape", "x": -26.5, "y": 101 },
+	{ "name": "hairback", "parent": "faceshape", "x": -3.5, "y": 7.5 },
+	{ "name": "nose", "parent": "faceshape", "x": 1.5, "y": -61.5 }
+],
+"slots": [
+	{ "name": "background", "bone": "background", "attachment": "background" },
+	{ "name": "hairback", "bone": "hairback", "attachment": "hairback" },
+	{ "name": "body", "bone": "body", "attachment": "body" },
+	{ "name": "faceshape", "bone": "faceshape", "attachment": "faceshape" },
+	{ "name": "mouth", "bone": "mouth", "attachment": "e_2" },
+	{ "name": "eyesback", "bone": "eyesback", "attachment": "eyesback" },
+	{ "name": "eyesiris", "bone": "eyesiris", "attachment": "eyesiris" },
+	{ "name": "eyesfront", "bone": "eyesfront", "attachment": "eyesfront" },
+	{ "name": "hairfront", "bone": "hairfront", "attachment": "hairfront" },
+	{ "name": "nose", "bone": "nose", "attachment": "nose" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"background": {
+				"background": { "width": 1399, "height": 999 }
+			},
+			"body": {
+				"body": {
+					"type": "mesh",
+					"uvs": [ 0.14591, 0.10294, 0.25841, 0.36183, 0.233, 0.50717, 0.24752, 0.62072, 0.2947, 0.7161, 0.25115, 0.98407, 0.73742, 0.98407, 0.70839, 0.70702, 0.75556, 0.52534, 0.73742, 0.36637, 0.84265, 0.10446, 0.59226, 0.0984, 0.51606, 0.03027, 0.42896, 0.03935, 0.35276, 0.10748 ],
+					"triangles": [ 1, 0, 14, 9, 11, 10, 4, 3, 2, 11, 1, 14, 8, 4, 9, 1, 9, 2, 9, 4, 2, 13, 12, 11, 14, 13, 11, 1, 11, 9, 8, 7, 4, 4, 7, 6, 5, 4, 6 ],
+					"vertices": [ -137.39, 123.09, -93.74, 42.83, -103.59, -2.22, -97.96, -37.42, -79.66, -66.99, -96.55, -150.06, 92.12, -150.06, 80.85, -64.18, 99.16, -7.86, 92.12, 41.42, 132.95, 128.72, 35.8, 169.47, 6.23, 145.62, -42.55, 169.04, -68.37, 147.92 ],
+					"hull": 15,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 0, 28 ],
+					"width": 388,
+					"height": 310
+				}
+			},
+			"eyesback": {
+				"eyesback": { "width": 274, "height": 49 }
+			},
+			"eyesfront": {
+				"eyesfront": { "width": 312, "height": 176 }
+			},
+			"eyesiris": {
+				"eyesiris": { "width": 234, "height": 59 }
+			},
+			"faceshape": {
+				"faceshape": { "width": 499, "height": 527 }
+			},
+			"hairback": {
+				"hairback": { "width": 564, "height": 564 }
+			},
+			"hairfront": {
+				"hairfront": { "width": 600, "height": 575 }
+			},
+			"mouth": {
+				"a_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 31, "height": 39 },
+				"a_2": { "x": -20.59, "y": -2.21, "rotation": -0.06, "width": 49, "height": 30 },
+				"a_3": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 49, "height": 45 },
+				"a_4": { "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 25, "height": 22 },
+				"a_5": { "x": -21.52, "y": -2.02, "rotation": -0.06, "width": 76, "height": 33 },
+				"a_6": { "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 35, "height": 30 },
+				"a_7": { "path": "a_2", "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 49, "height": 30 },
+				"b_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 61, "height": 31 },
+				"d_1": { "x": -21.52, "y": -2.68, "rotation": -0.06, "width": 36, "height": 30 },
+				"e_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 53, "height": 27 },
+				"e_2": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 61, "height": 27 },
+				"f_1": { "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 69, "height": 20 },
+				"mouth": { "width": 124, "height": 74 },
+				"m_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 69, "height": 15 },
+				"o_1": { "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 69, "height": 28 },
+				"o_2": { "x": -21.52, "y": -2.68, "rotation": -0.06, "width": 40, "height": 32 },
+				"t_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 35, "height": 31 },
+				"u_1": { "x": -21.52, "y": -2.02, "rotation": -0.06, "width": 46, "height": 41 },
+				"v_1": { "x": -21.52, "y": -2.68, "rotation": -0.06, "width": 68, "height": 30 }
+			},
+			"nose": {
+				"nose": { "width": 78, "height": 108 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

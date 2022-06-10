@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2682@bon@workshop-asking-a-question-8526 {max-width:75px; max-height:75px; }
+.@a2682@bon@workshop-asking-a-question-8526::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/workshop_asking_question/0.png/0.png);padding: 0; }
+div.@a2682@bon@workshop-asking-a-question-8526::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:aceb72b2bc138cb02cbb399ee005ff4e:a615d7ad5a4fa322b2baeeba726d41dc:4ddb42793a59c1b7bfff1539dfc4d068$ */

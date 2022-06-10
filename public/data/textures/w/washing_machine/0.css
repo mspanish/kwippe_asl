@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2650@bon@washing-machine-2573 {max-width:75px; max-height:75px; }
+.@a2650@bon@washing-machine-2573::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/washing_machine/0.png/0.png);padding: 0; }
+div.@a2650@bon@washing-machine-2573::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39167@mul@washing-machine {max-width:75px; max-height:75px; }
+.@a39167@mul@washing-machine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/washing_machine/0.png/0.png);padding: 0; }
+div.@a39167@mul@washing-machine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:932dba63d568cda1a8efba90f6b40ca1:455b9033571e1c3e736bb58e8e7f86ff:4ddb42793a59c1b7bfff1539dfc4d068$ */

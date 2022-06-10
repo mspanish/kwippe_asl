@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13405@gameicons-delapouite@steam-blast {max-width:75px; max-height:75px; }
+.@b13405@gameicons-delapouite@steam-blast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blast/0.png/0.png);padding: 0; }
+div.@b13405@gameicons-delapouite@steam-blast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14374@gameicons-lorc@ion-cannon-blast {max-width:75px; max-height:75px; }
+.@b14374@gameicons-lorc@ion-cannon-blast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blast/0.png/0.png);padding: 0; }
+div.@b14374@gameicons-lorc@ion-cannon-blast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14400@gameicons-lorc@laser-blast {max-width:75px; max-height:75px; }
+.@b14400@gameicons-lorc@laser-blast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blast/0.png/0.png);padding: 0; }
+div.@b14400@gameicons-lorc@laser-blast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14631@gameicons-lorc@punch-blast {max-width:75px; max-height:75px; }
+.@b14631@gameicons-lorc@punch-blast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blast/0.png/0.png);padding: 0; }
+div.@b14631@gameicons-lorc@punch-blast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15157@gameicons-sbed@blast {max-width:75px; max-height:75px; }
+.@b15157@gameicons-sbed@blast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blast/0.png/0.png);padding: 0; }
+div.@b15157@gameicons-sbed@blast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:35515a0bdb7cb0f101fdce054ad7f9b8:145fa1e6f011d90bc399b94076c86aa6:4ddb42793a59c1b7bfff1539dfc4d068$ */

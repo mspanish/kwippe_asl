@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a170@aac@sleep {max-width:75px; max-height:75px; }
+.@a170@aac@sleep::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sleep/0.png/0.png);padding: 0; }
+div.@a170@aac@sleep::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2323@bon@self-care-sleep-6065 {max-width:75px; max-height:75px; }
+.@a2323@bon@self-care-sleep-6065::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sleep/0.png/0.png);padding: 0; }
+div.@a2323@bon@self-care-sleep-6065::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2605@bon@unable-to-sleep-5296 {max-width:75px; max-height:75px; }
+.@a2605@bon@unable-to-sleep-5296::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sleep/0.png/0.png);padding: 0; }
+div.@a2605@bon@unable-to-sleep-5296::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48755@solver@1-sleep5 {max-width:75px; max-height:75px; }
+.@a48755@solver@1-sleep5::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sleep/0.png/0.png);padding: 0; }
+div.@a48755@solver@1-sleep5::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48833@solver@3-sleep-man {max-width:75px; max-height:75px; }
+.@a48833@solver@3-sleep-man::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sleep/0.png/0.png);padding: 0; }
+div.@a48833@solver@3-sleep-man::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48861@solver@4-sleep-woman {max-width:75px; max-height:75px; }
+.@a48861@solver@4-sleep-woman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sleep/0.png/0.png);padding: 0; }
+div.@a48861@solver@4-sleep-woman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:df67f5aed319bbe16809b4c1232e4d33:556a0e125b6d0b255bab36b5afbaf2ff:4ddb42793a59c1b7bfff1539dfc4d068$ */

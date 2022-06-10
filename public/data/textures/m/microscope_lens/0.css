@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14501@gameicons-lorc@microscope-lens {max-width:75px; max-height:75px; }
+.@b14501@gameicons-lorc@microscope-lens::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/microscope_lens/0.png/0.png);padding: 0; }
+div.@b14501@gameicons-lorc@microscope-lens::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:66bde555bf921567e153c63f1eef3ecd:53ea93fd9c9ec70acc59478835c7ba7e:4ddb42793a59c1b7bfff1539dfc4d068$ */

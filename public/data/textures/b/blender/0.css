@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27258@icf@blender {max-width:75px; max-height:75px; }
+.@a27258@icf@blender::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blender/0.png/0.png);padding: 0; }
+div.@a27258@icf@blender::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29500@knl@blender {max-width:75px; max-height:75px; }
+.@a29500@knl@blender::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blender/0.png/0.png);padding: 0; }
+div.@a29500@knl@blender::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30391@lib@tech-blender {max-width:75px; max-height:75px; }
+.@a30391@lib@tech-blender::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blender/0.png/0.png);padding: 0; }
+div.@a30391@lib@tech-blender::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32533@mat@blender {max-width:75px; max-height:75px; }
+.@a32533@mat@blender::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blender/0.png/0.png);padding: 0; }
+div.@a32533@mat@blender::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36605@mul@blender-drinks {max-width:75px; max-height:75px; }
+.@a36605@mul@blender-drinks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blender/0.png/0.png);padding: 0; }
+div.@a36605@mul@blender-drinks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a375@ara@kitchen-blender {max-width:75px; max-height:75px; }
+.@a375@ara@kitchen-blender::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blender/0.png/0.png);padding: 0; }
+div.@a375@ara@kitchen-blender::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37674@mul@food-blender {max-width:75px; max-height:75px; }
+.@a37674@mul@food-blender::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blender/0.png/0.png);padding: 0; }
+div.@a37674@mul@food-blender::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b1a0383c7951d14042617888aa0b2941:8d841cca8a27a8790b8c51012a8f3361:4ddb42793a59c1b7bfff1539dfc4d068$ */

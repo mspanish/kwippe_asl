@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14405@gameicons-lorc@laurel-crown {max-width:75px; max-height:75px; }
+.@b14405@gameicons-lorc@laurel-crown::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/laurel_crown/0.png/0.png);padding: 0; }
+div.@b14405@gameicons-lorc@laurel-crown::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8c34e16a1d73343d5ff8c6c8d43376bc:ccb29443300c28d10a48a7673c46854c:4ddb42793a59c1b7bfff1539dfc4d068$ */

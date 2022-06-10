@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16634@emo@pound {max-width:75px; max-height:75px; }
+.@a16634@emo@pound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a16634@emo@pound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29077@jqu@gbp {max-width:75px; max-height:75px; }
+.@a29077@jqu@gbp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a29077@jqu@gbp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30930@lin@pound {max-width:75px; max-height:75px; }
+.@a30930@lin@pound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a30930@lin@pound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30950@lin@receipt-pound {max-width:75px; max-height:75px; }
+.@a30950@lin@receipt-pound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a30950@lin@receipt-pound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33195@mat@currency-gbp {max-width:75px; max-height:75px; }
+.@a33195@mat@currency-gbp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a33195@mat@currency-gbp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33727@mat@format-header-pound {max-width:75px; max-height:75px; }
+.@a33727@mat@format-header-pound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a33727@mat@format-header-pound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36135@met@gbp {max-width:75px; max-height:75px; }
+.@a36135@met@gbp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a36135@met@gbp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55616@web@pound-1 {max-width:75px; max-height:75px; }
+.@a55616@web@pound-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a55616@web@pound-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55617@web@pound-square {max-width:75px; max-height:75px; }
+.@a55617@web@pound-square::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a55617@web@pound-square::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55618@web@pound {max-width:75px; max-height:75px; }
+.@a55618@web@pound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a55618@web@pound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56505@win@currency-pound {max-width:75px; max-height:75px; }
+.@a56505@win@currency-pound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a56505@win@currency-pound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57940@xei@pound {max-width:75px; max-height:75px; }
+.@a57940@xei@pound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a57940@xei@pound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58438@baianet@group {max-width:75px; max-height:75px; }
+.@a58438@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a58438@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58518@baianet@group {max-width:75px; max-height:75px; }
+.@a58518@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a58518@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a796@awe@gbp {max-width:75px; max-height:75px; }
+.@a796@awe@gbp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/p/pound/0.png/0.png);padding: 0; }
+div.@a796@awe@gbp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e01297b5bef957017616c6551f611ce9:869b16bbf28d44625ebbe06519c137de:4ddb42793a59c1b7bfff1539dfc4d068$ */

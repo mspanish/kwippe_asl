@@ -1,0 +1,37 @@
+{
+    "sign": "who",
+    "signer": "asl2english",
+    "uid": 2027,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 60,
+            "nd": null
+        },
+        "end": {
+            "d": 26,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chin",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

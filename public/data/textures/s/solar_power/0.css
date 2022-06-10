@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15383@gameicons-skoll@solar-power {max-width:75px; max-height:75px; }
+.@b15383@gameicons-skoll@solar-power::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/solar_power/0.png/0.png);padding: 0; }
+div.@b15383@gameicons-skoll@solar-power::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5caef645eecd1d76af07c0e6208a439f:564b5c246e9fef9c3c77daaf314f8218:4ddb42793a59c1b7bfff1539dfc4d068$ */

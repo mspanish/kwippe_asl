@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26203@her@catherine_wheel {max-width:75px; max-height:75px; }
+.@a26203@her@catherine_wheel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/catherine_wheel/0.png/0.png);padding: 0; }
+div.@a26203@her@catherine_wheel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36795@mul@catherine_wheel {max-width:75px; max-height:75px; }
+.@a36795@mul@catherine_wheel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/catherine_wheel/0.png/0.png);padding: 0; }
+div.@a36795@mul@catherine_wheel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:47f03fc689a370b73676f139e2d9f301:348ac12621cf14271fa555e5c30b02ee:4ddb42793a59c1b7bfff1539dfc4d068$ */

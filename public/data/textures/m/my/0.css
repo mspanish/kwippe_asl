@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a121@aac@my-turn-2 {max-width:75px; max-height:75px; }
+.@a121@aac@my-turn-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/my/0.png/0.png);padding: 0; }
+div.@a121@aac@my-turn-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a122@aac@my-turn {max-width:75px; max-height:75px; }
+.@a122@aac@my-turn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/my/0.png/0.png);padding: 0; }
+div.@a122@aac@my-turn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a123@aac@my {max-width:75px; max-height:75px; }
+.@a123@aac@my::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/my/0.png/0.png);padding: 0; }
+div.@a123@aac@my::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2101@bon@my-health-5046 {max-width:75px; max-height:75px; }
+.@a2101@bon@my-health-5046::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/my/0.png/0.png);padding: 0; }
+div.@a2101@bon@my-health-5046::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2690@bon@workshop-my-vote-8534 {max-width:75px; max-height:75px; }
+.@a2690@bon@workshop-my-vote-8534::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/my/0.png/0.png);padding: 0; }
+div.@a2690@bon@workshop-my-vote-8534::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38232@mul@my-computer-icon {max-width:75px; max-height:75px; }
+.@a38232@mul@my-computer-icon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/my/0.png/0.png);padding: 0; }
+div.@a38232@mul@my-computer-icon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48795@solver@2-my-hill {max-width:75px; max-height:75px; }
+.@a48795@solver@2-my-hill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/my/0.png/0.png);padding: 0; }
+div.@a48795@solver@2-my-hill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13460@gameicons-delapouite@take-my-money {max-width:75px; max-height:75px; }
+.@b13460@gameicons-delapouite@take-my-money::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/my/0.png/0.png);padding: 0; }
+div.@b13460@gameicons-delapouite@take-my-money::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e23c608537294fa7593abe9430176ba3:cfcbfd3576e5946e058fb89d35b1555b:4ddb42793a59c1b7bfff1539dfc4d068$ */

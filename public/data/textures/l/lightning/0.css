@@ -1,0 +1,113 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15028@em2@high-voltage-sign {max-width:75px; max-height:75px; }
+.@a15028@em2@high-voltage-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a15028@em2@high-voltage-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17862@fir@lightningmood {max-width:75px; max-height:75px; }
+.@a17862@fir@lightningmood::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a17862@fir@lightningmood::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28475@jqe@high-voltage-sign {max-width:75px; max-height:75px; }
+.@a28475@jqe@high-voltage-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a28475@jqe@high-voltage-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39725@noc@high-voltage-sign {max-width:75px; max-height:75px; }
+.@a39725@noc@high-voltage-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a39725@noc@high-voltage-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42080@nog@high-voltage-sign-travel-places {max-width:75px; max-height:75px; }
+.@a42080@nog@high-voltage-sign-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a42080@nog@high-voltage-sign-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44421@not@high-voltage-sign {max-width:75px; max-height:75px; }
+.@a44421@not@high-voltage-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a44421@not@high-voltage-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49710@str@653-high-voltage {max-width:75px; max-height:75px; }
+.@a49710@str@653-high-voltage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a49710@str@653-high-voltage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50528@tw2@high-voltage-sign {max-width:75px; max-height:75px; }
+.@a50528@tw2@high-voltage-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a50528@tw2@high-voltage-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51337@twe@high-voltage-sign {max-width:75px; max-height:75px; }
+.@a51337@twe@high-voltage-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a51337@twe@high-voltage-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56144@web@voltage {max-width:75px; max-height:75px; }
+.@a56144@web@voltage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a56144@web@voltage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59954@ian@damaged-tree {max-width:75px; max-height:75px; }
+.@a59954@ian@damaged-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a59954@ian@damaged-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60068@ian@dynamic {max-width:75px; max-height:75px; }
+.@a60068@ian@dynamic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a60068@ian@dynamic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60261@ian@firefly {max-width:75px; max-height:75px; }
+.@a60261@ian@firefly::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@a60261@ian@firefly::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12894@gameicons-delapouite@lightning-dome {max-width:75px; max-height:75px; }
+.@b12894@gameicons-delapouite@lightning-dome::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b12894@gameicons-delapouite@lightning-dome::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14213@gameicons-lorc@focused-lightning {max-width:75px; max-height:75px; }
+.@b14213@gameicons-lorc@focused-lightning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14213@gameicons-lorc@focused-lightning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14316@gameicons-lorc@heavy-lightning {max-width:75px; max-height:75px; }
+.@b14316@gameicons-lorc@heavy-lightning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14316@gameicons-lorc@heavy-lightning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14423@gameicons-lorc@lightning-arc {max-width:75px; max-height:75px; }
+.@b14423@gameicons-lorc@lightning-arc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14423@gameicons-lorc@lightning-arc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14425@gameicons-lorc@lightning-branches {max-width:75px; max-height:75px; }
+.@b14425@gameicons-lorc@lightning-branches::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14425@gameicons-lorc@lightning-branches::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14426@gameicons-lorc@lightning-dissipation {max-width:75px; max-height:75px; }
+.@b14426@gameicons-lorc@lightning-dissipation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14426@gameicons-lorc@lightning-dissipation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14427@gameicons-lorc@lightning-electron {max-width:75px; max-height:75px; }
+.@b14427@gameicons-lorc@lightning-electron::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14427@gameicons-lorc@lightning-electron::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14428@gameicons-lorc@lightning-frequency {max-width:75px; max-height:75px; }
+.@b14428@gameicons-lorc@lightning-frequency::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14428@gameicons-lorc@lightning-frequency::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14429@gameicons-lorc@lightning-helix {max-width:75px; max-height:75px; }
+.@b14429@gameicons-lorc@lightning-helix::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14429@gameicons-lorc@lightning-helix::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14430@gameicons-lorc@lightning-mask {max-width:75px; max-height:75px; }
+.@b14430@gameicons-lorc@lightning-mask::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14430@gameicons-lorc@lightning-mask::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14431@gameicons-lorc@lightning-saber {max-width:75px; max-height:75px; }
+.@b14431@gameicons-lorc@lightning-saber::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14431@gameicons-lorc@lightning-saber::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14432@gameicons-lorc@lightning-shadow {max-width:75px; max-height:75px; }
+.@b14432@gameicons-lorc@lightning-shadow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14432@gameicons-lorc@lightning-shadow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14434@gameicons-lorc@lightning-shout {max-width:75px; max-height:75px; }
+.@b14434@gameicons-lorc@lightning-shout::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14434@gameicons-lorc@lightning-shout::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14435@gameicons-lorc@lightning-slashes {max-width:75px; max-height:75px; }
+.@b14435@gameicons-lorc@lightning-slashes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14435@gameicons-lorc@lightning-slashes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14436@gameicons-lorc@lightning-spanner {max-width:75px; max-height:75px; }
+.@b14436@gameicons-lorc@lightning-spanner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14436@gameicons-lorc@lightning-spanner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14438@gameicons-lorc@lightning-tear {max-width:75px; max-height:75px; }
+.@b14438@gameicons-lorc@lightning-tear::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14438@gameicons-lorc@lightning-tear::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14439@gameicons-lorc@lightning-tree {max-width:75px; max-height:75px; }
+.@b14439@gameicons-lorc@lightning-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14439@gameicons-lorc@lightning-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14440@gameicons-lorc@lightning-trio {max-width:75px; max-height:75px; }
+.@b14440@gameicons-lorc@lightning-trio::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14440@gameicons-lorc@lightning-trio::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14622@gameicons-lorc@power-lightning {max-width:75px; max-height:75px; }
+.@b14622@gameicons-lorc@power-lightning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14622@gameicons-lorc@power-lightning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14795@gameicons-lorc@sonic-lightning {max-width:75px; max-height:75px; }
+.@b14795@gameicons-lorc@sonic-lightning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b14795@gameicons-lorc@sonic-lightning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15543@gameicons-willdabeast@chain-lightning {max-width:75px; max-height:75px; }
+.@b15543@gameicons-willdabeast@chain-lightning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/l/lightning/0.png/0.png);padding: 0; }
+div.@b15543@gameicons-willdabeast@chain-lightning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f06ff223488e563259d3f4e32f21324e:88d9251eefd6c4a0ee19aacf32db0b8c:4ddb42793a59c1b7bfff1539dfc4d068$ */

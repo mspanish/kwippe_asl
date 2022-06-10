@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1718@bon@darts-bs-8501-9016 {max-width:75px; max-height:75px; }
+.@a1718@bon@darts-bs-8501-9016::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/darts_bs/0.png/0.png);padding: 0; }
+div.@a1718@bon@darts-bs-8501-9016::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7c94587dd933d570dcc25c5dc30162f6:a5a23c2a562d2a93c6ef07e8c70b63ae:4ddb42793a59c1b7bfff1539dfc4d068$ */

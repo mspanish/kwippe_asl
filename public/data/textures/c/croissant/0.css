@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14805@em2@croissant {max-width:75px; max-height:75px; }
+.@a14805@em2@croissant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/croissant/0.png/0.png);padding: 0; }
+div.@a14805@em2@croissant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15885@emo@croissant {max-width:75px; max-height:75px; }
+.@a15885@emo@croissant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/croissant/0.png/0.png);padding: 0; }
+div.@a15885@emo@croissant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37156@mul@croissant {max-width:75px; max-height:75px; }
+.@a37156@mul@croissant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/croissant/0.png/0.png);padding: 0; }
+div.@a37156@mul@croissant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39505@noc@croissant {max-width:75px; max-height:75px; }
+.@a39505@noc@croissant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/croissant/0.png/0.png);padding: 0; }
+div.@a39505@noc@croissant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41235@nog@croissant-food-drink {max-width:75px; max-height:75px; }
+.@a41235@nog@croissant-food-drink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/croissant/0.png/0.png);padding: 0; }
+div.@a41235@nog@croissant-food-drink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6825@df-fastfoodicons@croissant {max-width:75px; max-height:75px; }
+.@a6825@df-fastfoodicons@croissant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/croissant/0.png/0.png);padding: 0; }
+div.@a6825@df-fastfoodicons@croissant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12451@gameicons-delapouite@croissant {max-width:75px; max-height:75px; }
+.@b12451@gameicons-delapouite@croissant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/croissant/0.png/0.png);padding: 0; }
+div.@b12451@gameicons-delapouite@croissant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8519@web@croisant {max-width:75px; max-height:75px; }
+.@b8519@web@croisant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/croissant/0.png/0.png);padding: 0; }
+div.@b8519@web@croisant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e0f70152e12e63aa6d98b35ee70d509f:63c6c327764432680ad25ea0df4b9d72:4ddb42793a59c1b7bfff1539dfc4d068$ */

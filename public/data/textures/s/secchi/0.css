@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60829@ian@measuring-secchi {max-width:75px; max-height:75px; }
+.@a60829@ian@measuring-secchi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/secchi/0.png/0.png);padding: 0; }
+div.@a60829@ian@measuring-secchi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60830@ian@measuring-secchi2 {max-width:75px; max-height:75px; }
+.@a60830@ian@measuring-secchi2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/secchi/0.png/0.png);padding: 0; }
+div.@a60830@ian@measuring-secchi2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61604@ian@secchi-disk {max-width:75px; max-height:75px; }
+.@a61604@ian@secchi-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/secchi/0.png/0.png);padding: 0; }
+div.@a61604@ian@secchi-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62189@ian@water-quality-management {max-width:75px; max-height:75px; }
+.@a62189@ian@water-quality-management::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/secchi/0.png/0.png);padding: 0; }
+div.@a62189@ian@water-quality-management::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:26c4567f8558a0ca3be7681a2127da0a:76aaf26d667001391b82a6f3766c39ca:4ddb42793a59c1b7bfff1539dfc4d068$ */

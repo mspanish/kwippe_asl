@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d3702@wikim-all@seal_of_oklahoma {max-width:75px; max-height:75px; }
+.@d3702@wikim-all@seal_of_oklahoma::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/oklahoma/0.png/0.png);padding: 0; }
+div.@d3702@wikim-all@seal_of_oklahoma::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:886eb9aaf8bdabea5918e108385996f6:34d29f26004a6ec3ded513dfbe31bef1:4ddb42793a59c1b7bfff1539dfc4d068$ */

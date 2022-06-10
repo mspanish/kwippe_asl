@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38970@mul@teapot {max-width:75px; max-height:75px; }
+.@a38970@mul@teapot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/teapot/0.png/0.png);padding: 0; }
+div.@a38970@mul@teapot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13469@gameicons-delapouite@teapot-leaves {max-width:75px; max-height:75px; }
+.@b13469@gameicons-delapouite@teapot-leaves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/teapot/0.png/0.png);padding: 0; }
+div.@b13469@gameicons-delapouite@teapot-leaves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14940@gameicons-lorc@teapot {max-width:75px; max-height:75px; }
+.@b14940@gameicons-lorc@teapot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/teapot/0.png/0.png);padding: 0; }
+div.@b14940@gameicons-lorc@teapot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e36a6ac06b7e11379743fbf30d4e58df:312fec619c77cb076774d9654a2cd51e:4ddb42793a59c1b7bfff1539dfc4d068$ */

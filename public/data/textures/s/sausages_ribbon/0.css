@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13263@gameicons-delapouite@sausages-ribbon {max-width:75px; max-height:75px; }
+.@b13263@gameicons-delapouite@sausages-ribbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sausages_ribbon/0.png/0.png);padding: 0; }
+div.@b13263@gameicons-delapouite@sausages-ribbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:57234f2dd11c0d4d20e666aa22f6043c:8bb0d2eb7a7fdea632612f48bc3c4cfc:4ddb42793a59c1b7bfff1539dfc4d068$ */

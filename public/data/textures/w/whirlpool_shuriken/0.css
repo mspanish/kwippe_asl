@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12119@gameicons-darkzaitzev@whirlpool-shuriken {max-width:75px; max-height:75px; }
+.@b12119@gameicons-darkzaitzev@whirlpool-shuriken::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/whirlpool_shuriken/0.png/0.png);padding: 0; }
+div.@b12119@gameicons-darkzaitzev@whirlpool-shuriken::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b276b73d139843d74bf3ee03c8475057:b159084f57cb7f9d9276664f04481ece:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,45 @@
+{
+    "sign": "black",
+    "signer": "aslLex",
+    "uid": 415,
+    "synonyms": "black, color",
+    "handshapes": {
+        "begin": {
+            "d": "1",
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Forehead",
+        "morph1_specific_second": "HeadAway",
+        "morph1_contact": null,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 1.0,
+    "frequency": 5.92,
+    "category": "Descriptive Signs"
+}

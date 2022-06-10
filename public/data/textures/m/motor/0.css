@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61814@ian@tour-boat {max-width:75px; max-height:75px; }
+.@a61814@ian@tour-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/motor/0.png/0.png);padding: 0; }
+div.@a61814@ian@tour-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62149@ian@vehicle-4wd {max-width:75px; max-height:75px; }
+.@a62149@ian@vehicle-4wd::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/motor/0.png/0.png);padding: 0; }
+div.@a62149@ian@vehicle-4wd::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62154@ian@vehicle-sedan {max-width:75px; max-height:75px; }
+.@a62154@ian@vehicle-sedan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/motor/0.png/0.png);padding: 0; }
+div.@a62154@ian@vehicle-sedan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62201@ian@water-transport {max-width:75px; max-height:75px; }
+.@a62201@ian@water-transport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/motor/0.png/0.png);padding: 0; }
+div.@a62201@ian@water-transport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1f97f0e6630535294116e35fe25e96fe:c3e32250dee23e49075198ac3142a49f:4ddb42793a59c1b7bfff1539dfc4d068$ */

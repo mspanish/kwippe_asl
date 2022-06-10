@@ -1,0 +1,37 @@
+{
+    "sign": "experiment",
+    "signer": "asl2english",
+    "uid": 537,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 61,
+            "nd": 61
+        },
+        "end": {
+            "d": 43,
+            "nd": 43
+        }
+    },
+    "regions": [
+        "chest",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

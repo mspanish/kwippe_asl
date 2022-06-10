@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29586@knl@coffee-1 {max-width:75px; max-height:75px; }
+.@a29586@knl@coffee-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/caraffe/0.png/0.png);padding: 0; }
+div.@a29586@knl@coffee-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47815@plateau@caraffe {max-width:75px; max-height:75px; }
+.@a47815@plateau@caraffe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/caraffe/0.png/0.png);padding: 0; }
+div.@a47815@plateau@caraffe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5489@df-coffeeicons@braceright {max-width:75px; max-height:75px; }
+.@a5489@df-coffeeicons@braceright::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/caraffe/0.png/0.png);padding: 0; }
+div.@a5489@df-coffeeicons@braceright::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5504@df-coffeeicons@ecircumflex {max-width:75px; max-height:75px; }
+.@a5504@df-coffeeicons@ecircumflex::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/caraffe/0.png/0.png);padding: 0; }
+div.@a5504@df-coffeeicons@ecircumflex::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5509@df-coffeeicons@eth {max-width:75px; max-height:75px; }
+.@a5509@df-coffeeicons@eth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/caraffe/0.png/0.png);padding: 0; }
+div.@a5509@df-coffeeicons@eth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5525@df-coffeeicons@l {max-width:75px; max-height:75px; }
+.@a5525@df-coffeeicons@l::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/caraffe/0.png/0.png);padding: 0; }
+div.@a5525@df-coffeeicons@l::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7c47bf6f1c54177f13578df6f743adef:df18023fd9cc0dba4eb10b53578dbfde:4ddb42793a59c1b7bfff1539dfc4d068$ */

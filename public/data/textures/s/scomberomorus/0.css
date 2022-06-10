@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61560@ian@scomberomorus-cavalla {max-width:75px; max-height:75px; }
+.@a61560@ian@scomberomorus-cavalla::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/scomberomorus/0.png/0.png);padding: 0; }
+div.@a61560@ian@scomberomorus-cavalla::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61561@ian@scomberomorus-munroi {max-width:75px; max-height:75px; }
+.@a61561@ian@scomberomorus-munroi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/scomberomorus/0.png/0.png);padding: 0; }
+div.@a61561@ian@scomberomorus-munroi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ae879b9c78dcdb6188fe9ea60fb47a12:8787113034eb961c3bc3e353a7377860:4ddb42793a59c1b7bfff1539dfc4d068$ */

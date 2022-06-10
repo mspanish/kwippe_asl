@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1660@bon@computing-3008 {max-width:75px; max-height:75px; }
+.@a1660@bon@computing-3008::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/computing/0.png/0.png);padding: 0; }
+div.@a1660@bon@computing-3008::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15116@gameicons-lord-berandas@computing {max-width:75px; max-height:75px; }
+.@b15116@gameicons-lord-berandas@computing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/computing/0.png/0.png);padding: 0; }
+div.@b15116@gameicons-lord-berandas@computing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c630240f0222baa710c53c2860c7152e:50d29c8ade9515feb66a352420ae6437:4ddb42793a59c1b7bfff1539dfc4d068$ */

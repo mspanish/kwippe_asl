@@ -1,0 +1,37 @@
+{
+    "sign": "octopus",
+    "signer": "asl2english",
+    "uid": 1251,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 65,
+            "nd": 52
+        },
+        "end": {
+            "d": 4,
+            "nd": 65
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            -1,
+            0,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

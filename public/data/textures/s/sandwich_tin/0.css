@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2290@bon@sandwich-tin-2551 {max-width:75px; max-height:75px; }
+.@a2290@bon@sandwich-tin-2551::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sandwich_tin/0.png/0.png);padding: 0; }
+div.@a2290@bon@sandwich-tin-2551::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2c3a520ed33e081466ba331cb7cc0eeb:e8ac5291321ea19deb16d2ef48a27faa:4ddb42793a59c1b7bfff1539dfc4d068$ */

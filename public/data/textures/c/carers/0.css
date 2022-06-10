@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1573@bon@carer's-voice-8010 {max-width:75px; max-height:75px; }
+.@a1573@bon@carer's-voice-8010::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/carers/0.png/0.png);padding: 0; }
+div.@a1573@bon@carer's-voice-8010::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f17f8a4232159aa905ce11e69e7a3174:b6a09dd852bd80af44289090500ad888:4ddb42793a59c1b7bfff1539dfc4d068$ */

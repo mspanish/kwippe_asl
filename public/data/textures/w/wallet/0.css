@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1432@bat@wallet {max-width:75px; max-height:75px; }
+.@a1432@bat@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a1432@bat@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14583@ele@wallet {max-width:75px; max-height:75px; }
+.@a14583@ele@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a14583@ele@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35787@mat@wallet {max-width:75px; max-height:75px; }
+.@a35787@mat@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a35787@mat@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39155@mul@wallet {max-width:75px; max-height:75px; }
+.@a39155@mul@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a39155@mul@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48548@sli@wallet {max-width:75px; max-height:75px; }
+.@a48548@sli@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a48548@sli@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50154@the@wallet {max-width:75px; max-height:75px; }
+.@a50154@the@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a50154@the@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53590@vaa@wallet {max-width:75px; max-height:75px; }
+.@a53590@vaa@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a53590@vaa@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53850@wav@account-balance-wallet {max-width:75px; max-height:75px; }
+.@a53850@wav@account-balance-wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a53850@wav@account-balance-wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54956@wav@wallet {max-width:75px; max-height:75px; }
+.@a54956@wav@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a54956@wav@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56151@web@walle {max-width:75px; max-height:75px; }
+.@a56151@web@walle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a56151@web@walle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56153@web@wallet {max-width:75px; max-height:75px; }
+.@a56153@web@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a56153@web@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a565@ara@wallet {max-width:75px; max-height:75px; }
+.@a565@ara@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a565@ara@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58133@xei@wallet {max-width:75px; max-height:75px; }
+.@a58133@xei@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@a58133@xei@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13603@gameicons-delapouite@wallet {max-width:75px; max-height:75px; }
+.@b13603@gameicons-delapouite@wallet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wallet/0.png/0.png);padding: 0; }
+div.@b13603@gameicons-delapouite@wallet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:827d8d515744e62dc133d495d68714c7:9473ad0a3f46cf3f4135ddb1a29f0bb9:4ddb42793a59c1b7bfff1539dfc4d068$ */

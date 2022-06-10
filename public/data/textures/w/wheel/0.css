@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16974@emo@wheel-of-dharma {max-width:75px; max-height:75px; }
+.@a16974@emo@wheel-of-dharma::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/wheel/0.png/0.png);padding: 0; }
+div.@a16974@emo@wheel-of-dharma::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26211@her@cogwheel {max-width:75px; max-height:75px; }
+.@a26211@her@cogwheel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/wheel/0.png/0.png);padding: 0; }
+div.@a26211@her@cogwheel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40290@noc@wheel-of-dharma {max-width:75px; max-height:75px; }
+.@a40290@noc@wheel-of-dharma::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/wheel/0.png/0.png);padding: 0; }
+div.@a40290@noc@wheel-of-dharma::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43904@nog@wheel-of-dharma-symbols {max-width:75px; max-height:75px; }
+.@a43904@nog@wheel-of-dharma-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/wheel/0.png/0.png);padding: 0; }
+div.@a43904@nog@wheel-of-dharma-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58724@baianet@group {max-width:75px; max-height:75px; }
+.@a58724@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/wheel/0.png/0.png);padding: 0; }
+div.@a58724@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13303@gameicons-delapouite@ship-wheel {max-width:75px; max-height:75px; }
+.@b13303@gameicons-delapouite@ship-wheel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/wheel/0.png/0.png);padding: 0; }
+div.@b13303@gameicons-delapouite@ship-wheel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13422@gameicons-delapouite@stone-wheel {max-width:75px; max-height:75px; }
+.@b13422@gameicons-delapouite@stone-wheel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/wheel/0.png/0.png);padding: 0; }
+div.@b13422@gameicons-delapouite@stone-wheel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:905d630ab28f947f357f272428e8e505:7b6d1f17345255c215f5d90eb3dd58b0:4ddb42793a59c1b7bfff1539dfc4d068$ */

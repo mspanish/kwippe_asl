@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12697@gameicons-delapouite@golem-head {max-width:75px; max-height:75px; }
+.@b12697@gameicons-delapouite@golem-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/golem/0.png/0.png);padding: 0; }
+div.@b12697@gameicons-delapouite@golem-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12802@gameicons-delapouite@ice-golem {max-width:75px; max-height:75px; }
+.@b12802@gameicons-delapouite@ice-golem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/golem/0.png/0.png);padding: 0; }
+div.@b12802@gameicons-delapouite@ice-golem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13217@gameicons-delapouite@rock-golem {max-width:75px; max-height:75px; }
+.@b13217@gameicons-delapouite@rock-golem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/golem/0.png/0.png);padding: 0; }
+div.@b13217@gameicons-delapouite@rock-golem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:521f916834f51d7f6e484384157436a8:0fac4efb04270b15ff72907d3b0b29bd:4ddb42793a59c1b7bfff1539dfc4d068$ */

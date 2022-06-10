@@ -1,0 +1,45 @@
+{
+    "sign": "think_connect",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "1",
+            "nd": null
+        },
+        "end": {
+            "d": "f",
+            "nd": "f"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Forehead",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "HandAway",
+        "morph2_specific_second": "Other",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 4.259,
+    "category": null
+}

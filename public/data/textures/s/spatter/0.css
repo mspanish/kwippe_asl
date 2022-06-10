@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14807@gameicons-lorc@spatter {max-width:75px; max-height:75px; }
+.@b14807@gameicons-lorc@spatter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/spatter/0.png/0.png);padding: 0; }
+div.@b14807@gameicons-lorc@spatter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ba755542c853a8f32d01c8f27315ae9:e496e322573ee87f23b3d67030315e31:4ddb42793a59c1b7bfff1539dfc4d068$ */

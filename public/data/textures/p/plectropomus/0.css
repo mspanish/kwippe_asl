@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61230@ian@plectropomus-areolatus {max-width:75px; max-height:75px; }
+.@a61230@ian@plectropomus-areolatus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/plectropomus/0.png/0.png);padding: 0; }
+div.@a61230@ian@plectropomus-areolatus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61231@ian@plectropomus-leopardus {max-width:75px; max-height:75px; }
+.@a61231@ian@plectropomus-leopardus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/plectropomus/0.png/0.png);padding: 0; }
+div.@a61231@ian@plectropomus-leopardus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61232@ian@plectropomus-oligacanthus {max-width:75px; max-height:75px; }
+.@a61232@ian@plectropomus-oligacanthus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/plectropomus/0.png/0.png);padding: 0; }
+div.@a61232@ian@plectropomus-oligacanthus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61233@ian@plectropomus-spp {max-width:75px; max-height:75px; }
+.@a61233@ian@plectropomus-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/plectropomus/0.png/0.png);padding: 0; }
+div.@a61233@ian@plectropomus-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6bcc887948069aabebd9fe11902cba67:6f22cd194b8cf7298db52818994ca108:4ddb42793a59c1b7bfff1539dfc4d068$ */

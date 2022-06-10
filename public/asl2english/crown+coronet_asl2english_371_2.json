@@ -1,0 +1,37 @@
+{
+    "sign": "crown+coronet",
+    "signer": "asl2english",
+    "uid": 371,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 38,
+            "nd": 38
+        },
+        "end": {
+            "d": 3,
+            "nd": 38
+        }
+    },
+    "regions": [
+        "upper-area",
+        "temple"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            -1,
+            0
+        ],
+        "type": "change"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

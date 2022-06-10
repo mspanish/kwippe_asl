@@ -1,0 +1,154 @@
+
+{
+
+"animals": { 
+	"vb": "35 35 -0 -0",
+ },
+"animals~domestic_animals": { 
+	"vb": "35 35 -0 -0",
+ },
+"animals~equestrians": { 
+	"vb": "35 35 -0 -35",
+ },
+"animals~wild_animals": { 
+	"vb": "35 35 -0 -70",
+ },
+"bicycles": { 
+	"vb": "35 35 -0 -105",
+ },
+"bicycles~bicycles_only": { 
+	"vb": "35 35 -0 -105",
+ },
+"bicycles~cyclists_crossing": { 
+	"vb": "35 35 -0 -140",
+ },
+"bicycles~no_bicycles": { 
+	"vb": "35 35 -0 -175",
+ },
+"bicycles~shared_use_path": { 
+	"vb": "29 35 -210 -0",
+ },
+"other": { 
+	"vb": "35 35 -35 -0",
+ },
+"other~customs": { 
+	"vb": "35 35 -35 -0",
+ },
+"other~dead_end": { 
+	"vb": "35 35 -70 -0",
+ },
+"other~freeway_begins": { 
+	"vb": "35 35 -105 -0",
+ },
+"other~freeway_ends": { 
+	"vb": "35 35 -140 -0",
+ },
+"other~national_highway_shields-shields": { 
+	"vb": "35 35 -175 -0",
+ },
+"other~one_way_street": { 
+	"vb": "35 15 -175 -190",
+ },
+"other~parking_zone": { 
+	"vb": "35 35 -35 -35",
+ },
+"other~two_way_traffic": { 
+	"vb": "35 35 -35 -70",
+ },
+"people": { 
+	"vb": "35 35 -35 -105",
+ },
+"people~children-playground": { 
+	"vb": "35 35 -35 -105",
+ },
+"people~pedestrian_crossing": { 
+	"vb": "9 35 -210 -105",
+ },
+"people~pedestrians-crossing": { 
+	"vb": "35 35 -35 -140",
+ },
+"people~school_zone": { 
+	"vb": "29 35 -210 -35",
+ },
+"permitted-mandatory": { 
+	"vb": "35 35 -35 -175",
+ },
+"permitted-mandatory~keep_right_left": { 
+	"vb": "35 35 -35 -175",
+ },
+"permitted-mandatory~overtaking_permitted": { 
+	"vb": "35 23 -175 -167",
+ },
+"permitted-mandatory~pass_either_side": { 
+	"vb": "35 27 -173 -140",
+ },
+"permitted-mandatory~proceed_straight-no_turns": { 
+	"vb": "35 35 -70 -35",
+ },
+"permitted-mandatory~proceed_straight_right": { 
+	"vb": "33 35 -140 -140",
+ },
+"permitted-mandatory~roundabout": { 
+	"vb": "35 33 -140 -175",
+ },
+"permitted-mandatory~transit_only": { 
+	"vb": "27 35 -210 -70",
+ },
+"permitted-mandatory~turn_right": { 
+	"vb": "35 35 -105 -35",
+ },
+"permitted-mandatory~turn_right_ahead": { 
+	"vb": "35 35 -140 -35",
+ },
+"places": { 
+	"vb": "35 35 -175 -35",
+ },
+"places~airport": { 
+	"vb": "35 35 -175 -35",
+ },
+"places~bus_stop": { 
+	"vb": "35 35 -70 -70",
+ },
+"places~hospital": { 
+	"vb": "35 35 -70 -105",
+ },
+"railroad-trains": { 
+	"vb": "35 35 -70 -140",
+ },
+"railroad-trains~level_crossing_multiple-tracks": { 
+	"vb": "35 35 -70 -140",
+ },
+"railroad-trains~level_railroad_crossing-barriers_ahead": { 
+	"vb": "35 35 -70 -175",
+ },
+"railroad-trains~railroad_crossbuck": { 
+	"vb": "35 35 -70 -140",
+ },
+"railroad-trains~train_station": { 
+	"vb": "35 35 -105 -70",
+ },
+"railroad-trains~tram-streetcar": { 
+	"vb": "35 35 -140 -70",
+ },
+"railroad-trains~uncontrolled_railroad_crossing": { 
+	"vb": "35 35 -175 -70",
+ },
+"restrictions-regulatory": { 
+	"vb": "35 35 -105 -105",
+ },
+"restrictions-regulatory~maximum_height": { 
+	"vb": "35 35 -105 -105",
+ },
+"restrictions-regulatory~maximum_speed_limit-speed_limit-maximum_speed": { 
+	"vb": "35 35 -105 -140",
+ },
+"restrictions-regulatory~maximum_weight": { 
+	"vb": "35 35 -105 -175",
+ },
+"restrictions-regulatory~maximum_weight_axle": { 
+	"vb": "35 35 -140 -105",
+ },
+"restrictions-regulatory~maximum_width": { 
+	"vb": "35 35 -175 -105",
+ },
+}

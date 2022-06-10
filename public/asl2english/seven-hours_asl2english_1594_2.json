@@ -1,0 +1,37 @@
+{
+    "sign": "seven-hours",
+    "signer": "asl2english",
+    "uid": 1594,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 9,
+            "nd": 4
+        },
+        "end": {
+            "d": 9,
+            "nd": 4
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "circle",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

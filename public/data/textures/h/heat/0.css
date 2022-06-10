@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37890@mul@heat-to {max-width:75px; max-height:75px; }
+.@a37890@mul@heat-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/heat/0.png/0.png);padding: 0; }
+div.@a37890@mul@heat-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39089@mul@turn-down-heat-to {max-width:75px; max-height:75px; }
+.@a39089@mul@turn-down-heat-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/heat/0.png/0.png);padding: 0; }
+div.@a39089@mul@turn-down-heat-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39092@mul@turn-up-heat-to {max-width:75px; max-height:75px; }
+.@a39092@mul@turn-up-heat-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/heat/0.png/0.png);padding: 0; }
+div.@a39092@mul@turn-up-heat-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59724@ian@climate-change-drought {max-width:75px; max-height:75px; }
+.@a59724@ian@climate-change-drought::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/heat/0.png/0.png);padding: 0; }
+div.@a59724@ian@climate-change-drought::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59726@ian@climate-change-heatwave {max-width:75px; max-height:75px; }
+.@a59726@ian@climate-change-heatwave::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/heat/0.png/0.png);padding: 0; }
+div.@a59726@ian@climate-change-heatwave::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62229@ian@weather-solar-radiation {max-width:75px; max-height:75px; }
+.@a62229@ian@weather-solar-radiation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/heat/0.png/0.png);padding: 0; }
+div.@a62229@ian@weather-solar-radiation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14312@gameicons-lorc@heat-haze {max-width:75px; max-height:75px; }
+.@b14312@gameicons-lorc@heat-haze::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/heat/0.png/0.png);padding: 0; }
+div.@b14312@gameicons-lorc@heat-haze::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:60d761812be9ebdfef94f6ba540b1c30:664fb713d6287d515573cf0483847519:4ddb42793a59c1b7bfff1539dfc4d068$ */

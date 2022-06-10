@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59799@ian@cold-front {max-width:75px; max-height:75px; }
+.@a59799@ian@cold-front::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a59799@ian@cold-front::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59883@ian@constellation-pleiades {max-width:75px; max-height:75px; }
+.@a59883@ian@constellation-pleiades::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a59883@ian@constellation-pleiades::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60490@ian@high-clouds-cirrocumulus {max-width:75px; max-height:75px; }
+.@a60490@ian@high-clouds-cirrocumulus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60490@ian@high-clouds-cirrocumulus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60491@ian@high-clouds-cirrostratus {max-width:75px; max-height:75px; }
+.@a60491@ian@high-clouds-cirrostratus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60491@ian@high-clouds-cirrostratus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60492@ian@high-clouds-cirrus {max-width:75px; max-height:75px; }
+.@a60492@ian@high-clouds-cirrus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60492@ian@high-clouds-cirrus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60749@ian@low-clouds-cumulonimbus-1 {max-width:75px; max-height:75px; }
+.@a60749@ian@low-clouds-cumulonimbus-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60749@ian@low-clouds-cumulonimbus-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60750@ian@low-clouds-cumulus-1 {max-width:75px; max-height:75px; }
+.@a60750@ian@low-clouds-cumulus-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60750@ian@low-clouds-cumulus-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60751@ian@low-clouds-stratocumulus-1 {max-width:75px; max-height:75px; }
+.@a60751@ian@low-clouds-stratocumulus-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60751@ian@low-clouds-stratocumulus-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60752@ian@low-clouds-stratus-1 {max-width:75px; max-height:75px; }
+.@a60752@ian@low-clouds-stratus-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60752@ian@low-clouds-stratus-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60869@ian@middle-clouds-altocumulus-1 {max-width:75px; max-height:75px; }
+.@a60869@ian@middle-clouds-altocumulus-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60869@ian@middle-clouds-altocumulus-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60871@ian@middle-clouds-nimbostratus-1 {max-width:75px; max-height:75px; }
+.@a60871@ian@middle-clouds-nimbostratus-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a60871@ian@middle-clouds-nimbostratus-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62229@ian@weather-solar-radiation {max-width:75px; max-height:75px; }
+.@a62229@ian@weather-solar-radiation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a62229@ian@weather-solar-radiation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62230@ian@weather-vane {max-width:75px; max-height:75px; }
+.@a62230@ian@weather-vane::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a62230@ian@weather-vane::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62234@ian@weather-wind-vector {max-width:75px; max-height:75px; }
+.@a62234@ian@weather-wind-vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/m/meteorology/0.png/0.png);padding: 0; }
+div.@a62234@ian@weather-wind-vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:467bf4fe6f36476b1d6ab4969e5bd95a:c1d0862bf4cedf5c8c1a2ad3c2fc936a:4ddb42793a59c1b7bfff1539dfc4d068$ */

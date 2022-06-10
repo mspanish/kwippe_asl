@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59725@ian@climate-change-ghost-forest {max-width:75px; max-height:75px; }
+.@a59725@ian@climate-change-ghost-forest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/sinking/0.png/0.png);padding: 0; }
+div.@a59725@ian@climate-change-ghost-forest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14756@gameicons-lorc@sinking-trap {max-width:75px; max-height:75px; }
+.@b14756@gameicons-lorc@sinking-trap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/sinking/0.png/0.png);padding: 0; }
+div.@b14756@gameicons-lorc@sinking-trap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0cba2713f6ae1187d93784a54c3743db:0e2c7081c5de35afc97c9857d2ce1a5e:4ddb42793a59c1b7bfff1539dfc4d068$ */

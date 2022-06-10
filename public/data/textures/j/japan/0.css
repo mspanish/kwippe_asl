@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37137@mul@cracker {max-width:75px; max-height:75px; }
+.@a37137@mul@cracker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/japan/0.png/0.png);padding: 0; }
+div.@a37137@mul@cracker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60716@ian@lilium-longiflorum {max-width:75px; max-height:75px; }
+.@a60716@ian@lilium-longiflorum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/japan/0.png/0.png);padding: 0; }
+div.@a60716@ian@lilium-longiflorum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6977bd6c92cc4cb7b3f93d5135190b5d:35345bc76f8a8d75e258e75dffdebe1b:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60490@ian@high-clouds-cirrocumulus {max-width:75px; max-height:75px; }
+.@a60490@ian@high-clouds-cirrocumulus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mackerel/0.png/0.png);padding: 0; }
+div.@a60490@ian@high-clouds-cirrocumulus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61560@ian@scomberomorus-cavalla {max-width:75px; max-height:75px; }
+.@a61560@ian@scomberomorus-cavalla::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mackerel/0.png/0.png);padding: 0; }
+div.@a61560@ian@scomberomorus-cavalla::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61561@ian@scomberomorus-munroi {max-width:75px; max-height:75px; }
+.@a61561@ian@scomberomorus-munroi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/mackerel/0.png/0.png);padding: 0; }
+div.@a61561@ian@scomberomorus-munroi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:76496d2306055826f980a0bd6453d115:a3945349b9fe83867a504922ba58c989:4ddb42793a59c1b7bfff1539dfc4d068$ */

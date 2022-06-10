@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59489@ian@biodigestor {max-width:75px; max-height:75px; }
+.@a59489@ian@biodigestor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bmp/0.png/0.png);padding: 0; }
+div.@a59489@ian@biodigestor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60222@ian@farm-fertilizer-01 {max-width:75px; max-height:75px; }
+.@a60222@ian@farm-fertilizer-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bmp/0.png/0.png);padding: 0; }
+div.@a60222@ian@farm-fertilizer-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60236@ian@fertilizer-ban-01 {max-width:75px; max-height:75px; }
+.@a60236@ian@fertilizer-ban-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bmp/0.png/0.png);padding: 0; }
+div.@a60236@ian@fertilizer-ban-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60671@ian@lawn-fertilizer-01 {max-width:75px; max-height:75px; }
+.@a60671@ian@lawn-fertilizer-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bmp/0.png/0.png);padding: 0; }
+div.@a60671@ian@lawn-fertilizer-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61359@ian@rain-barrel-01 {max-width:75px; max-height:75px; }
+.@a61359@ian@rain-barrel-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bmp/0.png/0.png);padding: 0; }
+div.@a61359@ian@rain-barrel-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62251@ian@yard-waste-01 {max-width:75px; max-height:75px; }
+.@a62251@ian@yard-waste-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/bmp/0.png/0.png);padding: 0; }
+div.@a62251@ian@yard-waste-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9280c56a03382e4e8470e1ae7e8754b6:74a4bb79d039c986148d64e4d81a0eb8:4ddb42793a59c1b7bfff1539dfc4d068$ */

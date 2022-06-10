@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48907@solver@7-happy-heart-guy {max-width:75px; max-height:75px; }
+.@a48907@solver@7-happy-heart-guy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/happy_heart_guy/0.png/0.png);padding: 0; }
+div.@a48907@solver@7-happy-heart-guy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:34e19900519131b026776a259904df81:45dae2b856529e4eaf48431b13582420:4ddb42793a59c1b7bfff1539dfc4d068$ */

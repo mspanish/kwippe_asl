@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1605@bon@clinic-cardiology-5005 {max-width:75px; max-height:75px; }
+.@a1605@bon@clinic-cardiology-5005::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cardiology/0.png/0.png);padding: 0; }
+div.@a1605@bon@clinic-cardiology-5005::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4874cda0a469154f56dc8823c9ac0f9e:a969251853b3cb4202572f7ab85fa044:4ddb42793a59c1b7bfff1539dfc4d068$ */

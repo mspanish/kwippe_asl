@@ -1,0 +1,37 @@
+{
+    "sign": "art-design+agent",
+    "signer": "asl2english",
+    "uid": 71,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 57,
+            "nd": 18
+        },
+        "end": {
+            "d": 18,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

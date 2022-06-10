@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15486@em2@tanabata-tree {max-width:75px; max-height:75px; }
+.@a15486@em2@tanabata-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tanaba/0.png/0.png);padding: 0; }
+div.@a15486@em2@tanabata-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16862@emo@tanabata-tree {max-width:75px; max-height:75px; }
+.@a16862@emo@tanabata-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tanaba/0.png/0.png);padding: 0; }
+div.@a16862@emo@tanabata-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17296@fir@u1f38b-tanabatatree {max-width:75px; max-height:75px; }
+.@a17296@fir@u1f38b-tanabatatree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tanaba/0.png/0.png);padding: 0; }
+div.@a17296@fir@u1f38b-tanabatatree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28832@jqe@tanabata-tree {max-width:75px; max-height:75px; }
+.@a28832@jqe@tanabata-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tanaba/0.png/0.png);padding: 0; }
+div.@a28832@jqe@tanabata-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40204@noc@tanabata-tree {max-width:75px; max-height:75px; }
+.@a40204@noc@tanabata-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tanaba/0.png/0.png);padding: 0; }
+div.@a40204@noc@tanabata-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43685@nog@tanabata-tree-activities {max-width:75px; max-height:75px; }
+.@a43685@nog@tanabata-tree-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tanaba/0.png/0.png);padding: 0; }
+div.@a43685@nog@tanabata-tree-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44787@not@tanabata-tree {max-width:75px; max-height:75px; }
+.@a44787@not@tanabata-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tanaba/0.png/0.png);padding: 0; }
+div.@a44787@not@tanabata-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50940@tw2@tanabata-tree {max-width:75px; max-height:75px; }
+.@a50940@tw2@tanabata-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tanaba/0.png/0.png);padding: 0; }
+div.@a50940@tw2@tanabata-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ebe4e9e608e3f319377fcb144dacb7a6:fbd016c35b2bed1be812536b4a1d2690:4ddb42793a59c1b7bfff1539dfc4d068$ */

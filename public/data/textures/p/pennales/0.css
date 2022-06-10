@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61145@ian@pennate-diatom-1 {max-width:75px; max-height:75px; }
+.@a61145@ian@pennate-diatom-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/pennales/0.png/0.png);padding: 0; }
+div.@a61145@ian@pennate-diatom-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61146@ian@pennate-diatom-2 {max-width:75px; max-height:75px; }
+.@a61146@ian@pennate-diatom-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/pennales/0.png/0.png);padding: 0; }
+div.@a61146@ian@pennate-diatom-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5abe3985b00e483a66ea8b6545164f80:4fc1362f0480355a57ea6384fad3ee81:4ddb42793a59c1b7bfff1539dfc4d068$ */

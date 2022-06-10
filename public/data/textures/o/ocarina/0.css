@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13024@gameicons-delapouite@ocarina {max-width:75px; max-height:75px; }
+.@b13024@gameicons-delapouite@ocarina::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/ocarina/0.png/0.png);padding: 0; }
+div.@b13024@gameicons-delapouite@ocarina::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:29fd11c3bd2c2aed77ba2132f5ec6c94:bfbe0c9e93b1378b205dc573a6404655:4ddb42793a59c1b7bfff1539dfc4d068$ */

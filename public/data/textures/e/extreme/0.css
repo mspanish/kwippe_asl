@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59724@ian@climate-change-drought {max-width:75px; max-height:75px; }
+.@a59724@ian@climate-change-drought::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/extreme/0.png/0.png);padding: 0; }
+div.@a59724@ian@climate-change-drought::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59726@ian@climate-change-heatwave {max-width:75px; max-height:75px; }
+.@a59726@ian@climate-change-heatwave::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/extreme/0.png/0.png);padding: 0; }
+div.@a59726@ian@climate-change-heatwave::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:97cc3cc3f1d0ae68b4c9538e66e4651b:0cab7383fcdd0e484c2a1bc8885b50f7:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12570@gameicons-delapouite@evasion {max-width:75px; max-height:75px; }
+.@b12570@gameicons-delapouite@evasion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/evasion/0.png/0.png);padding: 0; }
+div.@b12570@gameicons-delapouite@evasion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0fc0ef1ea7a08c9ff6cf9c8d6abe0945:9e30971daebd761f5e979d19b1e40ed0:4ddb42793a59c1b7bfff1539dfc4d068$ */

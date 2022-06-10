@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36945@mul@comb-animal-to {max-width:75px; max-height:75px; }
+.@a36945@mul@comb-animal-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/comb/0.png/0.png);padding: 0; }
+div.@a36945@mul@comb-animal-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36946@mul@comb {max-width:75px; max-height:75px; }
+.@a36946@mul@comb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/comb/0.png/0.png);padding: 0; }
+div.@a36946@mul@comb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38415@mul@pet-comb {max-width:75px; max-height:75px; }
+.@a38415@mul@pet-comb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/comb/0.png/0.png);padding: 0; }
+div.@a38415@mul@pet-comb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59920@ian@ctenophore {max-width:75px; max-height:75px; }
+.@a59920@ian@ctenophore::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/comb/0.png/0.png);padding: 0; }
+div.@a59920@ian@ctenophore::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60886@ian@mnemiopsis-leidyi {max-width:75px; max-height:75px; }
+.@a60886@ian@mnemiopsis-leidyi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/comb/0.png/0.png);padding: 0; }
+div.@a60886@ian@mnemiopsis-leidyi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13952@gameicons-lorc@comb {max-width:75px; max-height:75px; }
+.@b13952@gameicons-lorc@comb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/comb/0.png/0.png);padding: 0; }
+div.@b13952@gameicons-lorc@comb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b0b0db2e82c48f95e2196ee250f45a07:ec8edcb804e85fdccf626c0777e0c968:4ddb42793a59c1b7bfff1539dfc4d068$ */

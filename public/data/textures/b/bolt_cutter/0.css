@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12260@gameicons-delapouite@bolt-cutter {max-width:75px; max-height:75px; }
+.@b12260@gameicons-delapouite@bolt-cutter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/bolt_cutter/0.png/0.png);padding: 0; }
+div.@b12260@gameicons-delapouite@bolt-cutter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ec1483046fec9a781208f90b6864286d:7462eeb045aea1136ba7201bfb34434c:4ddb42793a59c1b7bfff1539dfc4d068$ */

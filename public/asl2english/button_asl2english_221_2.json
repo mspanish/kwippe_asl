@@ -1,0 +1,37 @@
+{
+    "sign": "button",
+    "signer": "asl2english",
+    "uid": 221,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 44,
+            "nd": 44
+        },
+        "end": {
+            "d": 33,
+            "nd": 33
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "plural"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

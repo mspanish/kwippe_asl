@@ -1,0 +1,37 @@
+{
+    "sign": "pilgrim",
+    "signer": "asl2english",
+    "uid": 1364,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 58,
+            "nd": 58
+        },
+        "end": {
+            "d": 58,
+            "nd": 58
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            1,
+            1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

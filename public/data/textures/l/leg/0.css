@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36849@mul@chicken-leg {max-width:75px; max-height:75px; }
+.@a36849@mul@chicken-leg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/leg/0.png/0.png);padding: 0; }
+div.@a36849@mul@chicken-leg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38053@mul@leg-warmers {max-width:75px; max-height:75px; }
+.@a38053@mul@leg-warmers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/leg/0.png/0.png);padding: 0; }
+div.@a38053@mul@leg-warmers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38054@mul@leg {max-width:75px; max-height:75px; }
+.@a38054@mul@leg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/leg/0.png/0.png);padding: 0; }
+div.@a38054@mul@leg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12878@gameicons-delapouite@leg-armor {max-width:75px; max-height:75px; }
+.@b12878@gameicons-delapouite@leg-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/leg/0.png/0.png);padding: 0; }
+div.@b12878@gameicons-delapouite@leg-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13216@gameicons-delapouite@robot-leg {max-width:75px; max-height:75px; }
+.@b13216@gameicons-delapouite@robot-leg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/leg/0.png/0.png);padding: 0; }
+div.@b13216@gameicons-delapouite@robot-leg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13926@gameicons-lorc@chicken-leg {max-width:75px; max-height:75px; }
+.@b13926@gameicons-lorc@chicken-leg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/leg/0.png/0.png);padding: 0; }
+div.@b13926@gameicons-lorc@chicken-leg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15085@gameicons-lorc@winged-leg {max-width:75px; max-height:75px; }
+.@b15085@gameicons-lorc@winged-leg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/leg/0.png/0.png);padding: 0; }
+div.@b15085@gameicons-lorc@winged-leg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7ff4b9a6d28ae3b2e808986734a772c6:49cdf43908ff71e3d374796620614d72:4ddb42793a59c1b7bfff1539dfc4d068$ */

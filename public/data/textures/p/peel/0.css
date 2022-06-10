@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1878@bon@fruit-peel-2278 {max-width:75px; max-height:75px; }
+.@a1878@bon@fruit-peel-2278::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/peel/0.png/0.png);padding: 0; }
+div.@a1878@bon@fruit-peel-2278::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38388@mul@peel-to {max-width:75px; max-height:75px; }
+.@a38388@mul@peel-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/peel/0.png/0.png);padding: 0; }
+div.@a38388@mul@peel-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12203@gameicons-delapouite@banana-peel {max-width:75px; max-height:75px; }
+.@b12203@gameicons-delapouite@banana-peel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/peel/0.png/0.png);padding: 0; }
+div.@b12203@gameicons-delapouite@banana-peel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1edf2424ec9b0e2363b492dd26d9ccfc:e777ba9b7d8f3d06bcfc7db132b1a7fe:4ddb42793a59c1b7bfff1539dfc4d068$ */

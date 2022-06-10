@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59300@ian@alosa-aestivalis {max-width:75px; max-height:75px; }
+.@a59300@ian@alosa-aestivalis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a59300@ian@alosa-aestivalis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59301@ian@alosa-mediocris {max-width:75px; max-height:75px; }
+.@a59301@ian@alosa-mediocris::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a59301@ian@alosa-mediocris::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59302@ian@alosa-pseudoharengus {max-width:75px; max-height:75px; }
+.@a59302@ian@alosa-pseudoharengus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a59302@ian@alosa-pseudoharengus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59303@ian@alosa-sapidissima {max-width:75px; max-height:75px; }
+.@a59303@ian@alosa-sapidissima::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a59303@ian@alosa-sapidissima::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60267@ian@fish-ladder {max-width:75px; max-height:75px; }
+.@a60267@ian@fish-ladder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a60267@ian@fish-ladder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60918@ian@morone-americana {max-width:75px; max-height:75px; }
+.@a60918@ian@morone-americana::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a60918@ian@morone-americana::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60919@ian@morone-saxatilis-egg {max-width:75px; max-height:75px; }
+.@a60919@ian@morone-saxatilis-egg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a60919@ian@morone-saxatilis-egg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60920@ian@morone-saxatilis-feeding-larvae {max-width:75px; max-height:75px; }
+.@a60920@ian@morone-saxatilis-feeding-larvae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a60920@ian@morone-saxatilis-feeding-larvae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60921@ian@morone-saxatilis-juvenile {max-width:75px; max-height:75px; }
+.@a60921@ian@morone-saxatilis-juvenile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a60921@ian@morone-saxatilis-juvenile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60922@ian@morone-saxatilis-yolksac-larvae {max-width:75px; max-height:75px; }
+.@a60922@ian@morone-saxatilis-yolksac-larvae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a60922@ian@morone-saxatilis-yolksac-larvae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60923@ian@morone-saxatilis {max-width:75px; max-height:75px; }
+.@a60923@ian@morone-saxatilis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a60923@ian@morone-saxatilis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61045@ian@oncorhynchus-kisutch {max-width:75px; max-height:75px; }
+.@a61045@ian@oncorhynchus-kisutch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a61045@ian@oncorhynchus-kisutch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61525@ian@salmo-trutta {max-width:75px; max-height:75px; }
+.@a61525@ian@salmo-trutta::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a61525@ian@salmo-trutta::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61529@ian@salvelinus-confluentus {max-width:75px; max-height:75px; }
+.@a61529@ian@salvelinus-confluentus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/a/anadromous/0.png/0.png);padding: 0; }
+div.@a61529@ian@salvelinus-confluentus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:146cb417e37b48480d7d4bea7bb3ec84:df242c6132ab19b2e5fe7c9864e94f76:4ddb42793a59c1b7bfff1539dfc4d068$ */

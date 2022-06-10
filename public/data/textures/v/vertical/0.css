@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29036@jqu@ellipsis-v {max-width:75px; max-height:75px; }
+.@a29036@jqu@ellipsis-v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@a29036@jqu@ellipsis-v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38077@mul@line-vertical {max-width:75px; max-height:75px; }
+.@a38077@mul@line-vertical::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@a38077@mul@line-vertical::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39130@mul@vertical-blinds {max-width:75px; max-height:75px; }
+.@a39130@mul@vertical-blinds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@a39130@mul@vertical-blinds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53193@vaa@ellipsis-v {max-width:75px; max-height:75px; }
+.@a53193@vaa@ellipsis-v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@a53193@vaa@ellipsis-v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54166@wav@ellipsis-v {max-width:75px; max-height:75px; }
+.@a54166@wav@ellipsis-v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@a54166@wav@ellipsis-v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57635@xei@ellipsis-v {max-width:75px; max-height:75px; }
+.@a57635@xei@ellipsis-v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@a57635@xei@ellipsis-v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a737@awe@ellipsis-v {max-width:75px; max-height:75px; }
+.@a737@awe@ellipsis-v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@a737@awe@ellipsis-v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13580@gameicons-delapouite@vertical-banner {max-width:75px; max-height:75px; }
+.@b13580@gameicons-delapouite@vertical-banner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@b13580@gameicons-delapouite@vertical-banner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13581@gameicons-delapouite@vertical-flip {max-width:75px; max-height:75px; }
+.@b13581@gameicons-delapouite@vertical-flip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/v/vertical/0.png/0.png);padding: 0; }
+div.@b13581@gameicons-delapouite@vertical-flip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6a110c8f687fe1ac455089599e308535:559a8c66dde43cb152e0ee56d34138c8:4ddb42793a59c1b7bfff1539dfc4d068$ */

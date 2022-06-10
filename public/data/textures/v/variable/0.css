@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59763@ian@coastline-2d-stepped-shoreline-variable-water-quality {max-width:75px; max-height:75px; }
+.@a59763@ian@coastline-2d-stepped-shoreline-variable-water-quality::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/v/variable/0.png/0.png);padding: 0; }
+div.@a59763@ian@coastline-2d-stepped-shoreline-variable-water-quality::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60167@ian@estuary-2d-seasonally-closed {max-width:75px; max-height:75px; }
+.@a60167@ian@estuary-2d-seasonally-closed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/v/variable/0.png/0.png);padding: 0; }
+div.@a60167@ian@estuary-2d-seasonally-closed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6c2578a020f16fc2cda7b7ed78e3bf59:050a8df05fff5345fd19000c7b5b964e:4ddb42793a59c1b7bfff1539dfc4d068$ */

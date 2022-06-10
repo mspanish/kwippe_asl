@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1537@bon@body-awareness-8007 {max-width:75px; max-height:75px; }
+.@a1537@bon@body-awareness-8007::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/body_awareness/0.png/0.png);padding: 0; }
+div.@a1537@bon@body-awareness-8007::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0ee621eb6f628af1bbdfbe9cd22ec36b:d17fdb846f2e6263ff3c2d17d36d9d34:4ddb42793a59c1b7bfff1539dfc4d068$ */

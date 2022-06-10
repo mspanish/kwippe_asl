@@ -1,0 +1,37 @@
+{
+    "sign": "other",
+    "signer": "asl2english",
+    "uid": 1287,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 12,
+            "nd": 12
+        },
+        "end": {
+            "d": 14,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest",
+        "R-shoulder"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

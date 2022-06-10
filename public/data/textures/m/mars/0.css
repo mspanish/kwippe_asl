@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36204@met@mars {max-width:75px; max-height:75px; }
+.@a36204@met@mars::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mars/0.png/0.png);padding: 0; }
+div.@a36204@met@mars::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38132@mul@mars {max-width:75px; max-height:75px; }
+.@a38132@mul@mars::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mars/0.png/0.png);padding: 0; }
+div.@a38132@mul@mars::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a886@awe@mars-stroke-h {max-width:75px; max-height:75px; }
+.@a886@awe@mars-stroke-h::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mars/0.png/0.png);padding: 0; }
+div.@a886@awe@mars-stroke-h::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a887@awe@mars-stroke-v {max-width:75px; max-height:75px; }
+.@a887@awe@mars-stroke-v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mars/0.png/0.png);padding: 0; }
+div.@a887@awe@mars-stroke-v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a888@awe@mars-stroke {max-width:75px; max-height:75px; }
+.@a888@awe@mars-stroke::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mars/0.png/0.png);padding: 0; }
+div.@a888@awe@mars-stroke::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a889@awe@mars {max-width:75px; max-height:75px; }
+.@a889@awe@mars::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mars/0.png/0.png);padding: 0; }
+div.@a889@awe@mars::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12931@gameicons-delapouite@mars-curiosity {max-width:75px; max-height:75px; }
+.@b12931@gameicons-delapouite@mars-curiosity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mars/0.png/0.png);padding: 0; }
+div.@b12931@gameicons-delapouite@mars-curiosity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12932@gameicons-delapouite@mars-pathfinder {max-width:75px; max-height:75px; }
+.@b12932@gameicons-delapouite@mars-pathfinder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/mars/0.png/0.png);padding: 0; }
+div.@b12932@gameicons-delapouite@mars-pathfinder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0a66453ed78627cef17595123ecdf257:d3e577b1644d5a826924f8bf1c2e5c7f:4ddb42793a59c1b7bfff1539dfc4d068$ */

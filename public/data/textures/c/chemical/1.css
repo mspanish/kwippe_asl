@@ -1,0 +1,152 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59691@ian@chemostat {max-width:75px; max-height:75px; }
+.@a59691@ian@chemostat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59691@ian@chemostat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59853@ian@concentration-intermittent-sulfate {max-width:75px; max-height:75px; }
+.@a59853@ian@concentration-intermittent-sulfate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59853@ian@concentration-intermittent-sulfate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59855@ian@concentration-intermittent {max-width:75px; max-height:75px; }
+.@a59855@ian@concentration-intermittent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59855@ian@concentration-intermittent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59856@ian@concentration-low-ammonium {max-width:75px; max-height:75px; }
+.@a59856@ian@concentration-low-ammonium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59856@ian@concentration-low-ammonium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59857@ian@concentration-low-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a59857@ian@concentration-low-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59857@ian@concentration-low-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59860@ian@concentration-low-dissolved-oxygen {max-width:75px; max-height:75px; }
+.@a59860@ian@concentration-low-dissolved-oxygen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59860@ian@concentration-low-dissolved-oxygen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59861@ian@concentration-low-nitrate {max-width:75px; max-height:75px; }
+.@a59861@ian@concentration-low-nitrate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59861@ian@concentration-low-nitrate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59862@ian@concentration-low-nitrite {max-width:75px; max-height:75px; }
+.@a59862@ian@concentration-low-nitrite::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59862@ian@concentration-low-nitrite::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59863@ian@concentration-low-nitrogen {max-width:75px; max-height:75px; }
+.@a59863@ian@concentration-low-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59863@ian@concentration-low-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59864@ian@concentration-low-np {max-width:75px; max-height:75px; }
+.@a59864@ian@concentration-low-np::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59864@ian@concentration-low-np::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59865@ian@concentration-low-oxygen {max-width:75px; max-height:75px; }
+.@a59865@ian@concentration-low-oxygen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59865@ian@concentration-low-oxygen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59866@ian@concentration-low-ozone {max-width:75px; max-height:75px; }
+.@a59866@ian@concentration-low-ozone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59866@ian@concentration-low-ozone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59868@ian@concentration-low-phosphate {max-width:75px; max-height:75px; }
+.@a59868@ian@concentration-low-phosphate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59868@ian@concentration-low-phosphate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59869@ian@concentration-low-phosphorus {max-width:75px; max-height:75px; }
+.@a59869@ian@concentration-low-phosphorus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59869@ian@concentration-low-phosphorus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59871@ian@concentration-low-salinity {max-width:75px; max-height:75px; }
+.@a59871@ian@concentration-low-salinity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59871@ian@concentration-low-salinity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59872@ian@concentration-low-silicate {max-width:75px; max-height:75px; }
+.@a59872@ian@concentration-low-silicate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59872@ian@concentration-low-silicate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59873@ian@concentration-low-sulfate {max-width:75px; max-height:75px; }
+.@a59873@ian@concentration-low-sulfate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59873@ian@concentration-low-sulfate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59875@ian@concentration-low {max-width:75px; max-height:75px; }
+.@a59875@ian@concentration-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59875@ian@concentration-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59876@ian@concentration-zero-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a59876@ian@concentration-zero-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59876@ian@concentration-zero-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59877@ian@concentration-zero {max-width:75px; max-height:75px; }
+.@a59877@ian@concentration-zero::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59877@ian@concentration-zero::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59880@ian@conductivity-inputs {max-width:75px; max-height:75px; }
+.@a59880@ian@conductivity-inputs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59880@ian@conductivity-inputs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59979@ian@delta-high-del-13c {max-width:75px; max-height:75px; }
+.@a59979@ian@delta-high-del-13c::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59979@ian@delta-high-del-13c::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59980@ian@delta-high-del-15n {max-width:75px; max-height:75px; }
+.@a59980@ian@delta-high-del-15n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59980@ian@delta-high-del-15n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59981@ian@delta-high {max-width:75px; max-height:75px; }
+.@a59981@ian@delta-high::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59981@ian@delta-high::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59982@ian@delta-intermittent-del-13c {max-width:75px; max-height:75px; }
+.@a59982@ian@delta-intermittent-del-13c::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59982@ian@delta-intermittent-del-13c::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59983@ian@delta-intermittent-del-15n {max-width:75px; max-height:75px; }
+.@a59983@ian@delta-intermittent-del-15n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59983@ian@delta-intermittent-del-15n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59984@ian@delta-intermittent {max-width:75px; max-height:75px; }
+.@a59984@ian@delta-intermittent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59984@ian@delta-intermittent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59985@ian@delta-low-del-13c {max-width:75px; max-height:75px; }
+.@a59985@ian@delta-low-del-13c::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59985@ian@delta-low-del-13c::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59986@ian@delta-low-del-15n {max-width:75px; max-height:75px; }
+.@a59986@ian@delta-low-del-15n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59986@ian@delta-low-del-15n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59987@ian@delta-low {max-width:75px; max-height:75px; }
+.@a59987@ian@delta-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a59987@ian@delta-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60204@ian@exotic-plant-management {max-width:75px; max-height:75px; }
+.@a60204@ian@exotic-plant-management::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60204@ian@exotic-plant-management::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60718@ian@limitation-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a60718@ian@limitation-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60718@ian@limitation-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60719@ian@limitation-carbon {max-width:75px; max-height:75px; }
+.@a60719@ian@limitation-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60719@ian@limitation-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60721@ian@limitation-exclusive {max-width:75px; max-height:75px; }
+.@a60721@ian@limitation-exclusive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60721@ian@limitation-exclusive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60724@ian@limitation-nitrogen {max-width:75px; max-height:75px; }
+.@a60724@ian@limitation-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60724@ian@limitation-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60725@ian@limitation-phosphorus {max-width:75px; max-height:75px; }
+.@a60725@ian@limitation-phosphorus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60725@ian@limitation-phosphorus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60726@ian@limitation-primary {max-width:75px; max-height:75px; }
+.@a60726@ian@limitation-primary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60726@ian@limitation-primary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60727@ian@limitation-secondary {max-width:75px; max-height:75px; }
+.@a60727@ian@limitation-secondary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60727@ian@limitation-secondary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60728@ian@limitation {max-width:75px; max-height:75px; }
+.@a60728@ian@limitation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a60728@ian@limitation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61165@ian@ph-acidic {max-width:75px; max-height:75px; }
+.@a61165@ian@ph-acidic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a61165@ian@ph-acidic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61166@ian@ph-alkaline {max-width:75px; max-height:75px; }
+.@a61166@ian@ph-alkaline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a61166@ian@ph-alkaline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61167@ian@ph-neutral {max-width:75px; max-height:75px; }
+.@a61167@ian@ph-neutral::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a61167@ian@ph-neutral::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61521@ian@salinity-extremes {max-width:75px; max-height:75px; }
+.@a61521@ian@salinity-extremes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.6316758747698%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a61521@ian@salinity-extremes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61817@ian@toxic-sign {max-width:75px; max-height:75px; }
+.@a61817@ian@toxic-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.6316758747698%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@a61817@ian@toxic-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13921@gameicons-lorc@chemical-bolt {max-width:75px; max-height:75px; }
+.@b13921@gameicons-lorc@chemical-bolt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 99.6316758747698%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@b13921@gameicons-lorc@chemical-bolt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13922@gameicons-lorc@chemical-drop {max-width:75px; max-height:75px; }
+.@b13922@gameicons-lorc@chemical-drop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 99.6316758747698%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@b13922@gameicons-lorc@chemical-drop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13923@gameicons-lorc@chemical-tank {max-width:75px; max-height:75px; }
+.@b13923@gameicons-lorc@chemical-tank::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 99.6316758747698%;background-size: 618.6666666666666% 824%;background-image: url(./textures/c/chemical/1.png/1.png);padding: 0; }
+div.@b13923@gameicons-lorc@chemical-tank::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8fdc607ac1e4be721261262161948829:80ebc58d0e74d9baf4c0f48a37706753:8f961ce18cf321a204892ea60f8c861d$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25873@gli@seeds-turnip {max-width:75px; max-height:75px; }
+.@a25873@gli@seeds-turnip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/turnip/0.png/0.png);padding: 0; }
+div.@a25873@gli@seeds-turnip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26001@gli@turnip {max-width:75px; max-height:75px; }
+.@a26001@gli@turnip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/turnip/0.png/0.png);padding: 0; }
+div.@a26001@gli@turnip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26019@gli@vegetable-turnip {max-width:75px; max-height:75px; }
+.@a26019@gli@vegetable-turnip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/turnip/0.png/0.png);padding: 0; }
+div.@a26019@gli@vegetable-turnip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39093@mul@turnip {max-width:75px; max-height:75px; }
+.@a39093@mul@turnip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/turnip/0.png/0.png);padding: 0; }
+div.@a39093@mul@turnip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56098@web@turnip {max-width:75px; max-height:75px; }
+.@a56098@web@turnip::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/turnip/0.png/0.png);padding: 0; }
+div.@a56098@web@turnip::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1d17303163cad391c15a32cf0cb7e88c:dcfc9931fbf7e2ea1416cb0e88772396:4ddb42793a59c1b7bfff1539dfc4d068$ */

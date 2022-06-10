@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2275@bon@rules-fire-safety-6054 {max-width:75px; max-height:75px; }
+.@a2275@bon@rules-fire-safety-6054::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/rules_fire_safety/0.png/0.png);padding: 0; }
+div.@a2275@bon@rules-fire-safety-6054::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0b935d8ebfb21d7064580860792501b1:1cf9717398205b5686b957b8467a13d7:4ddb42793a59c1b7bfff1539dfc4d068$ */

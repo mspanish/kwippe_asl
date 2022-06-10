@@ -1,0 +1,37 @@
+{
+    "sign": "stepladder",
+    "signer": "asl2english",
+    "uid": 1723,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 23,
+            "nd": 36
+        },
+        "end": {
+            "d": 36,
+            "nd": 23
+        }
+    },
+    "regions": [
+        "chest",
+        "forehead"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "plural",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

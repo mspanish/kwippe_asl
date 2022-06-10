@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12121@gameicons-delapouite@3d-meeple {max-width:75px; max-height:75px; }
+.@b12121@gameicons-delapouite@3d-meeple::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/meeple/0.png/0.png);padding: 0; }
+div.@b12121@gameicons-delapouite@3d-meeple::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12124@gameicons-delapouite@abbot-meeple {max-width:75px; max-height:75px; }
+.@b12124@gameicons-delapouite@abbot-meeple::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/meeple/0.png/0.png);padding: 0; }
+div.@b12124@gameicons-delapouite@abbot-meeple::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12944@gameicons-delapouite@meeple-group {max-width:75px; max-height:75px; }
+.@b12944@gameicons-delapouite@meeple-group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/meeple/0.png/0.png);padding: 0; }
+div.@b12944@gameicons-delapouite@meeple-group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12945@gameicons-delapouite@meeple-king {max-width:75px; max-height:75px; }
+.@b12945@gameicons-delapouite@meeple-king::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/meeple/0.png/0.png);padding: 0; }
+div.@b12945@gameicons-delapouite@meeple-king::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12946@gameicons-delapouite@meeple {max-width:75px; max-height:75px; }
+.@b12946@gameicons-delapouite@meeple::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/meeple/0.png/0.png);padding: 0; }
+div.@b12946@gameicons-delapouite@meeple::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:135ee3ffc5a18e0f704e56499c302232:27eced276d34a4a8dd2018717839c763:4ddb42793a59c1b7bfff1539dfc4d068$ */

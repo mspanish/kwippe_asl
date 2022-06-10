@@ -1,0 +1,37 @@
+{
+    "sign": "peak-mountain",
+    "signer": "asl2english",
+    "uid": 1325,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 18
+        },
+        "end": {
+            "d": 36,
+            "nd": null
+        }
+    },
+    "regions": [
+        "stomach",
+        "chin"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

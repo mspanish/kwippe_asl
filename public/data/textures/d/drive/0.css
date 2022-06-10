@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2192@bon@playing-beetle-drive-6034 {max-width:75px; max-height:75px; }
+.@a2192@bon@playing-beetle-drive-6034::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/drive/0.png/0.png);padding: 0; }
+div.@a2192@bon@playing-beetle-drive-6034::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43@aac@drive-2 {max-width:75px; max-height:75px; }
+.@a43@aac@drive-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/drive/0.png/0.png);padding: 0; }
+div.@a43@aac@drive-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44@aac@drive {max-width:75px; max-height:75px; }
+.@a44@aac@drive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/drive/0.png/0.png);padding: 0; }
+div.@a44@aac@drive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:93498799ad974be41e148c2623f4d2bc:4590c17d733934458b1cc9f509f72466:4ddb42793a59c1b7bfff1539dfc4d068$ */

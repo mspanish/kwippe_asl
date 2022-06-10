@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a42472@nog@lobster-animals-nature {max-width:75px; max-height:75px; }
+.@a42472@nog@lobster-animals-nature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/lobster/0.png/0.png);padding: 0; }
+div.@a42472@nog@lobster-animals-nature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59494@ian@bioindicators {max-width:75px; max-height:75px; }
+.@a59494@ian@bioindicators::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/lobster/0.png/0.png);padding: 0; }
+div.@a59494@ian@bioindicators::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60504@ian@homarus-gammarus {max-width:75px; max-height:75px; }
+.@a60504@ian@homarus-gammarus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/lobster/0.png/0.png);padding: 0; }
+div.@a60504@ian@homarus-gammarus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61110@ian@panulirus-argus-phyllosoma {max-width:75px; max-height:75px; }
+.@a61110@ian@panulirus-argus-phyllosoma::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/lobster/0.png/0.png);padding: 0; }
+div.@a61110@ian@panulirus-argus-phyllosoma::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61111@ian@panulirus-argus-puerulus {max-width:75px; max-height:75px; }
+.@a61111@ian@panulirus-argus-puerulus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/lobster/0.png/0.png);padding: 0; }
+div.@a61111@ian@panulirus-argus-puerulus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61112@ian@panulirus-argus-side {max-width:75px; max-height:75px; }
+.@a61112@ian@panulirus-argus-side::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/lobster/0.png/0.png);padding: 0; }
+div.@a61112@ian@panulirus-argus-side::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61496@ian@rock-lobster {max-width:75px; max-height:75px; }
+.@a61496@ian@rock-lobster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/l/lobster/0.png/0.png);padding: 0; }
+div.@a61496@ian@rock-lobster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:772b8f1fc32beb261f4978b89355cdbd:7dc40f2321809a19d8b03949e71d9e51:4ddb42793a59c1b7bfff1539dfc4d068$ */

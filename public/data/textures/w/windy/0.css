@@ -1,0 +1,89 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27867@icf@wind-cloud {max-width:75px; max-height:75px; }
+.@a27867@icf@wind-cloud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a27867@icf@wind-cloud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27868@icf@wind {max-width:75px; max-height:75px; }
+.@a27868@icf@wind::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a27868@icf@wind::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35843@mat@weather-windy-variant {max-width:75px; max-height:75px; }
+.@a35843@mat@weather-windy-variant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a35843@mat@weather-windy-variant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35845@mat@weather-windy {max-width:75px; max-height:75px; }
+.@a35845@mat@weather-windy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a35845@mat@weather-windy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36411@met@wind {max-width:75px; max-height:75px; }
+.@a36411@met@wind::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a36411@met@wind::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36413@met@windy {max-width:75px; max-height:75px; }
+.@a36413@met@windy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a36413@met@windy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36414@met@windy2 {max-width:75px; max-height:75px; }
+.@a36414@met@windy2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a36414@met@windy2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36415@met@windy3 {max-width:75px; max-height:75px; }
+.@a36415@met@windy3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a36415@met@windy3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36416@met@windy4 {max-width:75px; max-height:75px; }
+.@a36416@met@windy4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a36416@met@windy4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36417@met@windy5 {max-width:75px; max-height:75px; }
+.@a36417@met@windy5::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a36417@met@windy5::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52328@typ@weather-windy-cloudy {max-width:75px; max-height:75px; }
+.@a52328@typ@weather-windy-cloudy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a52328@typ@weather-windy-cloudy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52330@typ@weather-windy {max-width:75px; max-height:75px; }
+.@a52330@typ@weather-windy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a52330@typ@weather-windy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56179@web@wind {max-width:75px; max-height:75px; }
+.@a56179@web@wind::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a56179@web@wind::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a569@ara@wind-flag {max-width:75px; max-height:75px; }
+.@a569@ara@wind-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a569@ara@wind-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58145@xei@windy-variant {max-width:75px; max-height:75px; }
+.@a58145@xei@windy-variant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a58145@xei@windy-variant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58146@xei@windy-wind {max-width:75px; max-height:75px; }
+.@a58146@xei@windy-wind::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a58146@xei@windy-wind::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58392@baianet@group {max-width:75px; max-height:75px; }
+.@a58392@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a58392@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58412@baianet@group {max-width:75px; max-height:75px; }
+.@a58412@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a58412@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59118@baianet@group {max-width:75px; max-height:75px; }
+.@a59118@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a59118@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59398@ian@atmospheric-wind-rain {max-width:75px; max-height:75px; }
+.@a59398@ian@atmospheric-wind-rain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a59398@ian@atmospheric-wind-rain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62231@ian@weather-wind-01 {max-width:75px; max-height:75px; }
+.@a62231@ian@weather-wind-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a62231@ian@weather-wind-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62232@ian@weather-wind-02 {max-width:75px; max-height:75px; }
+.@a62232@ian@weather-wind-02::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a62232@ian@weather-wind-02::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62233@ian@weather-wind-03 {max-width:75px; max-height:75px; }
+.@a62233@ian@weather-wind-03::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@a62233@ian@weather-wind-03::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15078@gameicons-lorc@wind-hole {max-width:75px; max-height:75px; }
+.@b15078@gameicons-lorc@wind-hole::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@b15078@gameicons-lorc@wind-hole::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15079@gameicons-lorc@wind-slap {max-width:75px; max-height:75px; }
+.@b15079@gameicons-lorc@wind-slap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@b15079@gameicons-lorc@wind-slap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15080@gameicons-lorc@windy-stripes {max-width:75px; max-height:75px; }
+.@b15080@gameicons-lorc@windy-stripes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/w/windy/0.png/0.png);padding: 0; }
+div.@b15080@gameicons-lorc@windy-stripes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:588397ee544d625b6f975981e74827f0:764a5d496ec668348c9d758f23217050:4ddb42793a59c1b7bfff1539dfc4d068$ */

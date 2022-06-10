@@ -1,0 +1,37 @@
+{
+    "sign": "beans",
+    "signer": "asl2english",
+    "uid": 116,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 71,
+            "nd": 21
+        },
+        "end": {
+            "d": 60,
+            "nd": 71
+        }
+    },
+    "regions": [
+        "chin-area",
+        "chin-area"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

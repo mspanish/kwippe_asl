@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59354@ian@apartment-buildings {max-width:75px; max-height:75px; }
+.@a59354@ian@apartment-buildings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/u/units/0.png/0.png);padding: 0; }
+div.@a59354@ian@apartment-buildings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60294@ian@floating-grow-out-units {max-width:75px; max-height:75px; }
+.@a60294@ian@floating-grow-out-units::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/u/units/0.png/0.png);padding: 0; }
+div.@a60294@ian@floating-grow-out-units::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61896@ian@urban-apartment-building-1 {max-width:75px; max-height:75px; }
+.@a61896@ian@urban-apartment-building-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/u/units/0.png/0.png);padding: 0; }
+div.@a61896@ian@urban-apartment-building-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61897@ian@urban-apartment-building-2 {max-width:75px; max-height:75px; }
+.@a61897@ian@urban-apartment-building-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/u/units/0.png/0.png);padding: 0; }
+div.@a61897@ian@urban-apartment-building-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61898@ian@urban-apartment-building-3 {max-width:75px; max-height:75px; }
+.@a61898@ian@urban-apartment-building-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/u/units/0.png/0.png);padding: 0; }
+div.@a61898@ian@urban-apartment-building-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:96195eaf88dddf3b64c3169879d1d276:645f00990fe0a04c6480148708ec6786:4ddb42793a59c1b7bfff1539dfc4d068$ */

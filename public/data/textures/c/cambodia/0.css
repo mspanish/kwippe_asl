@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16131@emo@kh {max-width:75px; max-height:75px; }
+.@a16131@emo@kh::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cambodia/0.png/0.png);padding: 0; }
+div.@a16131@emo@kh::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37021@mul@cambodia {max-width:75px; max-height:75px; }
+.@a37021@mul@cambodia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cambodia/0.png/0.png);padding: 0; }
+div.@a37021@mul@cambodia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37487@mul@cambodia {max-width:75px; max-height:75px; }
+.@a37487@mul@cambodia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cambodia/0.png/0.png);padding: 0; }
+div.@a37487@mul@cambodia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12325@gameicons-delapouite@cambodia {max-width:75px; max-height:75px; }
+.@b12325@gameicons-delapouite@cambodia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cambodia/0.png/0.png);padding: 0; }
+div.@b12325@gameicons-delapouite@cambodia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2421@wikim-all@flag_of_cambodia {max-width:75px; max-height:75px; }
+.@d2421@wikim-all@flag_of_cambodia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/cambodia/0.png/0.png);padding: 0; }
+div.@d2421@wikim-all@flag_of_cambodia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:39d420d3c6806e00b33658a4de6dacf8:3eafc4e7ca2e1e2bf0f1c23cac48f5d5:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14837@gameicons-lorc@spiral-thrust {max-width:75px; max-height:75px; }
+.@b14837@gameicons-lorc@spiral-thrust::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/spiral_thrust/0.png/0.png);padding: 0; }
+div.@b14837@gameicons-lorc@spiral-thrust::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a0f25492ee835efe76d3d61f3523c0b9:e3dbf2d82b63daf5af58f6b76502b68f:4ddb42793a59c1b7bfff1539dfc4d068$ */

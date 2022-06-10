@@ -1,0 +1,45 @@
+{
+    "sign": "shirt",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "f",
+            "nd": null
+        },
+        "end": {
+            "d": "5",
+            "nd": "5"
+        }
+    },
+    "regions": {
+        "morph1_general": "Body",
+        "morph1_specific": "TorsoTop",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 1,
+        "morph2_general": "Body",
+        "morph2_specific": "TorsoTop",
+        "morph2_specific_second": "TorsoBottom",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 2.867,
+    "category": "Clothing"
+}

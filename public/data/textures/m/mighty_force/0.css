@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12959@gameicons-delapouite@mighty-force {max-width:75px; max-height:75px; }
+.@b12959@gameicons-delapouite@mighty-force::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/mighty_force/0.png/0.png);padding: 0; }
+div.@b12959@gameicons-delapouite@mighty-force::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e61780f16cbcc1df66fcc69bdfdd2cce:07b10caf289b48499bc0e41eadcffb6e:4ddb42793a59c1b7bfff1539dfc4d068$ */

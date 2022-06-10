@@ -1,0 +1,137 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14861@em2@dragon-face {max-width:75px; max-height:75px; }
+.@a14861@em2@dragon-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a14861@em2@dragon-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14862@em2@dragon {max-width:75px; max-height:75px; }
+.@a14862@em2@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a14862@em2@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15931@emo@dragon-face {max-width:75px; max-height:75px; }
+.@a15931@emo@dragon-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a15931@emo@dragon-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15932@emo@dragon {max-width:75px; max-height:75px; }
+.@a15932@emo@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a15932@emo@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17404@fir@u1f409-dragonside {max-width:75px; max-height:75px; }
+.@a17404@fir@u1f409-dragonside::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a17404@fir@u1f409-dragonside::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17445@fir@u1f432-dragonhead {max-width:75px; max-height:75px; }
+.@a17445@fir@u1f432-dragonhead::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a17445@fir@u1f432-dragonhead::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26274@her@dragon-displayed {max-width:75px; max-height:75px; }
+.@a26274@her@dragon-displayed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a26274@her@dragon-displayed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26275@her@dragon-dormant-2 {max-width:75px; max-height:75px; }
+.@a26275@her@dragon-dormant-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a26275@her@dragon-dormant-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26276@her@dragon-dormant {max-width:75px; max-height:75px; }
+.@a26276@her@dragon-dormant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a26276@her@dragon-dormant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26277@her@dragon-in-annulo {max-width:75px; max-height:75px; }
+.@a26277@her@dragon-in-annulo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a26277@her@dragon-in-annulo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26278@her@dragon-passant-2 {max-width:75px; max-height:75px; }
+.@a26278@her@dragon-passant-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a26278@her@dragon-passant-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26279@her@dragon-passant {max-width:75px; max-height:75px; }
+.@a26279@her@dragon-passant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a26279@her@dragon-passant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26280@her@dragon-rampant {max-width:75px; max-height:75px; }
+.@a26280@her@dragon-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a26280@her@dragon-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26281@her@dragon-sejant-affronty {max-width:75px; max-height:75px; }
+.@a26281@her@dragon-sejant-affronty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a26281@her@dragon-sejant-affronty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28342@jqe@dragon-face {max-width:75px; max-height:75px; }
+.@a28342@jqe@dragon-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a28342@jqe@dragon-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28343@jqe@dragon {max-width:75px; max-height:75px; }
+.@a28343@jqe@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a28343@jqe@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39560@noc@dragon-face {max-width:75px; max-height:75px; }
+.@a39560@noc@dragon-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a39560@noc@dragon-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39561@noc@dragon {max-width:75px; max-height:75px; }
+.@a39561@noc@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a39561@noc@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41428-1@nog@dragon {max-width:75px; max-height:75px; }
+.@a41428-1@nog@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a41428-1@nog@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41428@nog@dragon {max-width:75px; max-height:75px; }
+.@a41428@nog@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a41428@nog@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41430@nog@dragon-face-animals-nature {max-width:75px; max-height:75px; }
+.@a41430@nog@dragon-face-animals-nature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a41430@nog@dragon-face-animals-nature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41436@nog@dragon_animals-nature_0az9p {max-width:75px; max-height:75px; }
+.@a41436@nog@dragon_animals-nature_0az9p::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a41436@nog@dragon_animals-nature_0az9p::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44285@not@dragon-face {max-width:75px; max-height:75px; }
+.@a44285@not@dragon-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a44285@not@dragon-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44286@not@dragon {max-width:75px; max-height:75px; }
+.@a44286@not@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a44286@not@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45053@oa1@dragon-36 {max-width:75px; max-height:75px; }
+.@a45053@oa1@dragon-36::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a45053@oa1@dragon-36::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50381@tw2@dragon-face {max-width:75px; max-height:75px; }
+.@a50381@tw2@dragon-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a50381@tw2@dragon-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50382@tw2@dragon {max-width:75px; max-height:75px; }
+.@a50382@tw2@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a50382@tw2@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51217@twe@dragon-face {max-width:75px; max-height:75px; }
+.@a51217@twe@dragon-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a51217@twe@dragon-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51218@twe@dragon {max-width:75px; max-height:75px; }
+.@a51218@twe@dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a51218@twe@dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61183@ian@phycodurus-spp {max-width:75px; max-height:75px; }
+.@a61183@ian@phycodurus-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a61183@ian@phycodurus-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62148@ian@varanus-komodoensis {max-width:75px; max-height:75px; }
+.@a62148@ian@varanus-komodoensis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@a62148@ian@varanus-komodoensis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12514@gameicons-delapouite@dragon-orb {max-width:75px; max-height:75px; }
+.@b12514@gameicons-delapouite@dragon-orb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b12514@gameicons-delapouite@dragon-orb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12515@gameicons-delapouite@drakkar-dragon {max-width:75px; max-height:75px; }
+.@b12515@gameicons-delapouite@drakkar-dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b12515@gameicons-delapouite@drakkar-dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13376@gameicons-delapouite@spiked-dragon-head {max-width:75px; max-height:75px; }
+.@b13376@gameicons-delapouite@spiked-dragon-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b13376@gameicons-delapouite@spiked-dragon-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13667@gameicons-faithtoken@dragon-head {max-width:75px; max-height:75px; }
+.@b13667@gameicons-faithtoken@dragon-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b13667@gameicons-faithtoken@dragon-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14064@gameicons-lorc@double-dragon {max-width:75px; max-height:75px; }
+.@b14064@gameicons-lorc@double-dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b14064@gameicons-lorc@double-dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14071@gameicons-lorc@dragon-balls {max-width:75px; max-height:75px; }
+.@b14071@gameicons-lorc@dragon-balls::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 0.5141388174807198%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b14071@gameicons-lorc@dragon-balls::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14072@gameicons-lorc@dragon-breath {max-width:75px; max-height:75px; }
+.@b14072@gameicons-lorc@dragon-breath::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 20.308483290488432%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b14072@gameicons-lorc@dragon-breath::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14073@gameicons-lorc@dragon-head {max-width:75px; max-height:75px; }
+.@b14073@gameicons-lorc@dragon-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 40.102827763496144%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b14073@gameicons-lorc@dragon-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14074@gameicons-lorc@dragon-spiral {max-width:75px; max-height:75px; }
+.@b14074@gameicons-lorc@dragon-spiral::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 59.897172236503856%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b14074@gameicons-lorc@dragon-spiral::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14715@gameicons-lorc@sea-dragon {max-width:75px; max-height:75px; }
+.@b14715@gameicons-lorc@sea-dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 79.69151670951157%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@b14715@gameicons-lorc@sea-dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4538@wikim-sodacan@badge_of_the_rouge_dragon_pursuivant {max-width:75px; max-height:75px; }
+.@d4538@wikim-sodacan@badge_of_the_rouge_dragon_pursuivant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 99.48586118251929%;background-size: 721.3333333333334% 618.6666666666666%;background-image: url(./textures/d/dragon/0.png/0.png);padding: 0; }
+div.@d4538@wikim-sodacan@badge_of_the_rouge_dragon_pursuivant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2d39103b49a4c7f0f008cda54b0e2f3b:5311f0da0a5cb878f05f2777c1052eb3:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2290@bon@sandwich-tin-2551 {max-width:75px; max-height:75px; }
+.@a2290@bon@sandwich-tin-2551::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tin/0.png/0.png);padding: 0; }
+div.@a2290@bon@sandwich-tin-2551::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2559@bon@tin-2568 {max-width:75px; max-height:75px; }
+.@a2559@bon@tin-2568::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tin/0.png/0.png);padding: 0; }
+div.@a2559@bon@tin-2568::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36737@mul@cake-tin {max-width:75px; max-height:75px; }
+.@a36737@mul@cake-tin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tin/0.png/0.png);padding: 0; }
+div.@a36737@mul@cake-tin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38310@mul@open-tin-to {max-width:75px; max-height:75px; }
+.@a38310@mul@open-tin-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tin/0.png/0.png);padding: 0; }
+div.@a38310@mul@open-tin-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39010@mul@tin-can {max-width:75px; max-height:75px; }
+.@a39010@mul@tin-can::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tin/0.png/0.png);padding: 0; }
+div.@a39010@mul@tin-can::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39011@mul@tin-foil {max-width:75px; max-height:75px; }
+.@a39011@mul@tin-foil::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tin/0.png/0.png);padding: 0; }
+div.@a39011@mul@tin-foil::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39012@mul@tin {max-width:75px; max-height:75px; }
+.@a39012@mul@tin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tin/0.png/0.png);padding: 0; }
+div.@a39012@mul@tin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1183d797bba5e2cb201f5faa6344c67f:49da3272cfab2b58fcd4bf61bbec7dc5:4ddb42793a59c1b7bfff1539dfc4d068$ */

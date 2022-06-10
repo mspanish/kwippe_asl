@@ -1,0 +1,37 @@
+{
+    "sign": "home+work",
+    "signer": "asl2english",
+    "uid": 792,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 51,
+            "nd": 82
+        },
+        "end": {
+            "d": 65,
+            "nd": null
+        }
+    },
+    "regions": [
+        "R-cheek",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

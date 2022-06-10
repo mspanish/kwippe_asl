@@ -1,0 +1,92 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1235@bat@floppy {max-width:75px; max-height:75px; }
+.@a1235@bat@floppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a1235@bat@floppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14429@ele@floppy-1 {max-width:75px; max-height:75px; }
+.@a14429@ele@floppy-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a14429@ele@floppy-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14430@ele@floppy {max-width:75px; max-height:75px; }
+.@a14430@ele@floppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a14430@ele@floppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14949@em2@floppy-disk {max-width:75px; max-height:75px; }
+.@a14949@em2@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a14949@em2@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16270@emo@floppy-disk {max-width:75px; max-height:75px; }
+.@a16270@emo@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a16270@emo@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17585@fir@u1f4be-floppydisk2 {max-width:75px; max-height:75px; }
+.@a17585@fir@u1f4be-floppydisk2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a17585@fir@u1f4be-floppydisk2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17793@fir@blackhardshellfloppy {max-width:75px; max-height:75px; }
+.@a17793@fir@blackhardshellfloppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a17793@fir@blackhardshellfloppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17794@fir@whitehardshellfloppy {max-width:75px; max-height:75px; }
+.@a17794@fir@whitehardshellfloppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a17794@fir@whitehardshellfloppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17795@fir@softshellfloppy {max-width:75px; max-height:75px; }
+.@a17795@fir@softshellfloppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a17795@fir@softshellfloppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27489@icf@floppy-disk {max-width:75px; max-height:75px; }
+.@a27489@icf@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a27489@icf@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28409@jqe@floppy-disk {max-width:75px; max-height:75px; }
+.@a28409@jqe@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a28409@jqe@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30181@lib@floppy {max-width:75px; max-height:75px; }
+.@a30181@lib@floppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a30181@lib@floppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30682@lin@floppydisk {max-width:75px; max-height:75px; }
+.@a30682@lin@floppydisk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a30682@lin@floppydisk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33613@mat@floppy {max-width:75px; max-height:75px; }
+.@a33613@mat@floppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a33613@mat@floppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36117@met@floppy-disk {max-width:75px; max-height:75px; }
+.@a36117@met@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a36117@met@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38661@mul@save {max-width:75px; max-height:75px; }
+.@a38661@mul@save::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a38661@mul@save::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39649@noc@floppy-disk {max-width:75px; max-height:75px; }
+.@a39649@noc@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a39649@noc@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41778@nog@floppy-disk-objects {max-width:75px; max-height:75px; }
+.@a41778@nog@floppy-disk-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a41778@nog@floppy-disk-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44353@not@floppy-disk {max-width:75px; max-height:75px; }
+.@a44353@not@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a44353@not@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46811@pap@media-floppy-symbolic {max-width:75px; max-height:75px; }
+.@a46811@pap@media-floppy-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a46811@pap@media-floppy-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47496@pic@floppy-disk {max-width:75px; max-height:75px; }
+.@a47496@pic@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a47496@pic@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48172@roc@floppy {max-width:75px; max-height:75px; }
+.@a48172@roc@floppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a48172@roc@floppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49760@str@703-floppy-disk {max-width:75px; max-height:75px; }
+.@a49760@str@703-floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a49760@str@703-floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50452@tw2@floppy-disk {max-width:75px; max-height:75px; }
+.@a50452@tw2@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a50452@tw2@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51276@twe@floppy-disk {max-width:75px; max-height:75px; }
+.@a51276@twe@floppy-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a51276@twe@floppy-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a782@awe@floppy-o {max-width:75px; max-height:75px; }
+.@a782@awe@floppy-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@a782@awe@floppy-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8744@web@floppy {max-width:75px; max-height:75px; }
+.@b8744@web@floppy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/s/save/0.png/0.png);padding: 0; }
+div.@b8744@web@floppy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4e7949acd1bf9c19093daa4988c0ba1a:32772362bedaccca72a897040725cbfe:4ddb42793a59c1b7bfff1539dfc4d068$ */

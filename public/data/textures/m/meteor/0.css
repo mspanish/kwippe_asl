@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a34353@mat@meteor {max-width:75px; max-height:75px; }
+.@a34353@mat@meteor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/meteor/0.png/0.png);padding: 0; }
+div.@a34353@mat@meteor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55297@web@meteor {max-width:75px; max-height:75px; }
+.@a55297@web@meteor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/meteor/0.png/0.png);padding: 0; }
+div.@a55297@web@meteor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55298@web@meteorite {max-width:75px; max-height:75px; }
+.@a55298@web@meteorite::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/meteor/0.png/0.png);padding: 0; }
+div.@a55298@web@meteorite::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13878@gameicons-lorc@burning-meteor {max-width:75px; max-height:75px; }
+.@b13878@gameicons-lorc@burning-meteor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/meteor/0.png/0.png);padding: 0; }
+div.@b13878@gameicons-lorc@burning-meteor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14223@gameicons-lorc@fragmented-meteor {max-width:75px; max-height:75px; }
+.@b14223@gameicons-lorc@fragmented-meteor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/meteor/0.png/0.png);padding: 0; }
+div.@b14223@gameicons-lorc@fragmented-meteor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14499@gameicons-lorc@meteor-impact {max-width:75px; max-height:75px; }
+.@b14499@gameicons-lorc@meteor-impact::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/meteor/0.png/0.png);padding: 0; }
+div.@b14499@gameicons-lorc@meteor-impact::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dce9db46c6622cfd4c714248336df2f8:a3dc1004e16ed93f6104700e42d7ae89:4ddb42793a59c1b7bfff1539dfc4d068$ */

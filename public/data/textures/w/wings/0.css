@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a49777@str@720-money-with-wings {max-width:75px; max-height:75px; }
+.@a49777@str@720-money-with-wings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wings/0.png/0.png);padding: 0; }
+div.@a49777@str@720-money-with-wings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60831@ian@medical-caduceus {max-width:75px; max-height:75px; }
+.@a60831@ian@medical-caduceus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wings/0.png/0.png);padding: 0; }
+div.@a60831@ian@medical-caduceus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12584@gameicons-delapouite@fairy-wings {max-width:75px; max-height:75px; }
+.@b12584@gameicons-delapouite@fairy-wings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wings/0.png/0.png);padding: 0; }
+div.@b12584@gameicons-delapouite@fairy-wings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15172@gameicons-sbed@evil-wings {max-width:75px; max-height:75px; }
+.@b15172@gameicons-sbed@evil-wings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/wings/0.png/0.png);padding: 0; }
+div.@b15172@gameicons-sbed@evil-wings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:68dbfe03318fae19210c59563cc1ffdb:d8f0426424db3d51dbad911be26fdcfe:4ddb42793a59c1b7bfff1539dfc4d068$ */

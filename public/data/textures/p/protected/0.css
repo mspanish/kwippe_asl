@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59745@ian@coastline-2d-estuary-to-deep-reef {max-width:75px; max-height:75px; }
+.@a59745@ian@coastline-2d-estuary-to-deep-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/protected/0.png/0.png);padding: 0; }
+div.@a59745@ian@coastline-2d-estuary-to-deep-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60129@ian@epinephelus-itajara-adult-01 {max-width:75px; max-height:75px; }
+.@a60129@ian@epinephelus-itajara-adult-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/protected/0.png/0.png);padding: 0; }
+div.@a60129@ian@epinephelus-itajara-adult-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60418@ian@habitat-2d-protected-sand {max-width:75px; max-height:75px; }
+.@a60418@ian@habitat-2d-protected-sand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/protected/0.png/0.png);padding: 0; }
+div.@a60418@ian@habitat-2d-protected-sand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61382@ian@reef-2d-protected {max-width:75px; max-height:75px; }
+.@a61382@ian@reef-2d-protected::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/protected/0.png/0.png);padding: 0; }
+div.@a61382@ian@reef-2d-protected::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d518aa2eb1211c27f66ef885be039023:3889b81160a866c839613d6a2c3c7aa6:4ddb42793a59c1b7bfff1539dfc4d068$ */

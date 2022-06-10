@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14624@em2@bacon {max-width:75px; max-height:75px; }
+.@a14624@em2@bacon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bacon/0.png/0.png);padding: 0; }
+div.@a14624@em2@bacon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15679@emo@bacon {max-width:75px; max-height:75px; }
+.@a15679@emo@bacon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bacon/0.png/0.png);padding: 0; }
+div.@a15679@emo@bacon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36499@mul@bacon {max-width:75px; max-height:75px; }
+.@a36499@mul@bacon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bacon/0.png/0.png);padding: 0; }
+div.@a36499@mul@bacon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39307@noc@bacon {max-width:75px; max-height:75px; }
+.@a39307@noc@bacon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bacon/0.png/0.png);padding: 0; }
+div.@a39307@noc@bacon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40482@nog@bacon-food-drink {max-width:75px; max-height:75px; }
+.@a40482@nog@bacon-food-drink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bacon/0.png/0.png);padding: 0; }
+div.@a40482@nog@bacon-food-drink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12196@gameicons-delapouite@bacon {max-width:75px; max-height:75px; }
+.@b12196@gameicons-delapouite@bacon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bacon/0.png/0.png);padding: 0; }
+div.@b12196@gameicons-delapouite@bacon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8114@web@bacon {max-width:75px; max-height:75px; }
+.@b8114@web@bacon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bacon/0.png/0.png);padding: 0; }
+div.@b8114@web@bacon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:53cc42bea485e12389293c20fd55461e:5b56d561b3c9d7c2b6c0f612b5b6889f:4ddb42793a59c1b7bfff1539dfc4d068$ */

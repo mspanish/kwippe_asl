@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59296@ian@alfalfa-with-roots {max-width:75px; max-height:75px; }
+.@a59296@ian@alfalfa-with-roots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/forage/0.png/0.png);padding: 0; }
+div.@a59296@ian@alfalfa-with-roots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59297@ian@alfalfa {max-width:75px; max-height:75px; }
+.@a59297@ian@alfalfa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/forage/0.png/0.png);padding: 0; }
+div.@a59297@ian@alfalfa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59474@ian@beaver-slide-hay-bailer {max-width:75px; max-height:75px; }
+.@a59474@ian@beaver-slide-hay-bailer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/forage/0.png/0.png);padding: 0; }
+div.@a59474@ian@beaver-slide-hay-bailer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c9bec153055ab820caf9579e82169f9a:cab87b26ff0a6efa0a2fb706d295d056:4ddb42793a59c1b7bfff1539dfc4d068$ */

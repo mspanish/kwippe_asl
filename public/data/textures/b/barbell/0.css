@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a502@ara@sport-dumbbell-1 {max-width:75px; max-height:75px; }
+.@a502@ara@sport-dumbbell-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barbell/0.png/0.png);padding: 0; }
+div.@a502@ara@sport-dumbbell-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8107@df-gym@bar {max-width:75px; max-height:75px; }
+.@a8107@df-gym@bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barbell/0.png/0.png);padding: 0; }
+div.@a8107@df-gym@bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8108@df-gym@braceleft {max-width:75px; max-height:75px; }
+.@a8108@df-gym@braceleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barbell/0.png/0.png);padding: 0; }
+div.@a8108@df-gym@braceleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8127@df-gym@h {max-width:75px; max-height:75px; }
+.@a8127@df-gym@h::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barbell/0.png/0.png);padding: 0; }
+div.@a8127@df-gym@h::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8128@df-gym@i {max-width:75px; max-height:75px; }
+.@a8128@df-gym@i::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barbell/0.png/0.png);padding: 0; }
+div.@a8128@df-gym@i::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8139@df-gym@p {max-width:75px; max-height:75px; }
+.@a8139@df-gym@p::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barbell/0.png/0.png);padding: 0; }
+div.@a8139@df-gym@p::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8159@df-gym@u {max-width:75px; max-height:75px; }
+.@a8159@df-gym@u::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/barbell/0.png/0.png);padding: 0; }
+div.@a8159@df-gym@u::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b8caae81057a5ffc65dfddc73ea7f503:2488b136f3249f715557307710ce3045:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37408@mul@fennel {max-width:75px; max-height:75px; }
+.@a37408@mul@fennel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/fennel/0.png/0.png);padding: 0; }
+div.@a37408@mul@fennel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61721@ian@stuckenia-pectinata {max-width:75px; max-height:75px; }
+.@a61721@ian@stuckenia-pectinata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/fennel/0.png/0.png);padding: 0; }
+div.@a61721@ian@stuckenia-pectinata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cf37c7ef9ebd736b3566205cbb8b9c71:69f487e804f3083639654eb6ae92c4c2:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59950@ian@dactylis-glomerata {max-width:75px; max-height:75px; }
+.@a59950@ian@dactylis-glomerata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cocksfoot/0.png/0.png);padding: 0; }
+div.@a59950@ian@dactylis-glomerata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ff325d818e093c430f5fe98cffc3dc1:0245660eee015cac3921bc8aeafcef60:4ddb42793a59c1b7bfff1539dfc4d068$ */

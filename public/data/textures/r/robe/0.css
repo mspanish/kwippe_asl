@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37273@mul@dressing-gown {max-width:75px; max-height:75px; }
+.@a37273@mul@dressing-gown::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/robe/0.png/0.png);padding: 0; }
+div.@a37273@mul@dressing-gown::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14669@gameicons-lorc@robe {max-width:75px; max-height:75px; }
+.@b14669@gameicons-lorc@robe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/robe/0.png/0.png);padding: 0; }
+div.@b14669@gameicons-lorc@robe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4519@wikim-sodacan@badge_of_the_blue_mantle_pursuivant {max-width:75px; max-height:75px; }
+.@d4519@wikim-sodacan@badge_of_the_blue_mantle_pursuivant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/robe/0.png/0.png);padding: 0; }
+div.@d4519@wikim-sodacan@badge_of_the_blue_mantle_pursuivant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4582@wikim-sodacan@ermine_robe_uuu28heraldryuuu29 {max-width:75px; max-height:75px; }
+.@d4582@wikim-sodacan@ermine_robe_uuu28heraldryuuu29::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/robe/0.png/0.png);padding: 0; }
+div.@d4582@wikim-sodacan@ermine_robe_uuu28heraldryuuu29::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1fe54d79b8045d5769f39743717ab66f:df900458057747f93e75d276e748b33a:4ddb42793a59c1b7bfff1539dfc4d068$ */

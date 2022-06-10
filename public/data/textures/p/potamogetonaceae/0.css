@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61275@ian@potamogeton-crispus {max-width:75px; max-height:75px; }
+.@a61275@ian@potamogeton-crispus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/potamogetonaceae/0.png/0.png);padding: 0; }
+div.@a61275@ian@potamogeton-crispus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61276@ian@potamogeton-perfoliatus {max-width:75px; max-height:75px; }
+.@a61276@ian@potamogeton-perfoliatus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/potamogetonaceae/0.png/0.png);padding: 0; }
+div.@a61276@ian@potamogeton-perfoliatus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61721@ian@stuckenia-pectinata {max-width:75px; max-height:75px; }
+.@a61721@ian@stuckenia-pectinata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/potamogetonaceae/0.png/0.png);padding: 0; }
+div.@a61721@ian@stuckenia-pectinata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7c23f8e385afc9eb9c8749fcf5fc29a0:23f7cd6d3df7df2a633f9f52e881fee4:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,38 @@
+{
+    "sign": "marry",
+    "signer": "asl2english",
+    "uid": 993,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 36,
+            "nd": 36
+        },
+        "end": {
+            "d": 35,
+            "nd": null
+        }
+    },
+    "regions": [
+        0,
+        1,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

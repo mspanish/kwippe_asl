@@ -1,0 +1,37 @@
+{
+    "sign": "twist",
+    "signer": "asl2english",
+    "uid": 1918,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 80,
+            "nd": 21
+        },
+        "end": {
+            "d": 35,
+            "nd": 80
+        }
+    },
+    "regions": [
+        "hand",
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

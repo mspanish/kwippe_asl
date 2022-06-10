@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60431@ian@halimeda-discoidea {max-width:75px; max-height:75px; }
+.@a60431@ian@halimeda-discoidea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/halimedaceae/0.png/0.png);padding: 0; }
+div.@a60431@ian@halimeda-discoidea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60432@ian@halimeda-spp {max-width:75px; max-height:75px; }
+.@a60432@ian@halimeda-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/halimedaceae/0.png/0.png);padding: 0; }
+div.@a60432@ian@halimeda-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1cbbd5387e14c576af62651dfbc7a207:ec3646cea261f5f1e0a90965be2bb41d:4ddb42793a59c1b7bfff1539dfc4d068$ */

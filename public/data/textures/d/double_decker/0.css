@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36713@mul@bus-double-decker {max-width:75px; max-height:75px; }
+.@a36713@mul@bus-double-decker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/double_decker/0.png/0.png);padding: 0; }
+div.@a36713@mul@bus-double-decker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58494@baianet@group {max-width:75px; max-height:75px; }
+.@a58494@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/double_decker/0.png/0.png);padding: 0; }
+div.@a58494@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6502@df-england@asciitilde {max-width:75px; max-height:75px; }
+.@a6502@df-england@asciitilde::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/double_decker/0.png/0.png);padding: 0; }
+div.@a6502@df-england@asciitilde::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6513@df-england@brokenbar {max-width:75px; max-height:75px; }
+.@a6513@df-england@brokenbar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/double_decker/0.png/0.png);padding: 0; }
+div.@a6513@df-england@brokenbar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6528@df-england@equal {max-width:75px; max-height:75px; }
+.@a6528@df-england@equal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/double_decker/0.png/0.png);padding: 0; }
+div.@a6528@df-england@equal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6532@df-england@four {max-width:75px; max-height:75px; }
+.@a6532@df-england@four::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/double_decker/0.png/0.png);padding: 0; }
+div.@a6532@df-england@four::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6549@df-england@o {max-width:75px; max-height:75px; }
+.@a6549@df-england@o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/double_decker/0.png/0.png);padding: 0; }
+div.@a6549@df-england@o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6570@df-england@t {max-width:75px; max-height:75px; }
+.@a6570@df-england@t::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/double_decker/0.png/0.png);padding: 0; }
+div.@a6570@df-england@t::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4853e91bb1dd794e71b552face36f901:1a933e873e615d9ba0de4338d580990a:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14327@gameicons-lorc@honeycomb {max-width:75px; max-height:75px; }
+.@b14327@gameicons-lorc@honeycomb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/honeycomb/0.png/0.png);padding: 0; }
+div.@b14327@gameicons-lorc@honeycomb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8d5ae8fbae6f06b55806301d865b6017:ad5064a2553697e149cacd79b830ac9c:4ddb42793a59c1b7bfff1539dfc4d068$ */

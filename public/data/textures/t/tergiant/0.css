@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26511@her@salamander-tergiant {max-width:75px; max-height:75px; }
+.@a26511@her@salamander-tergiant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tergiant/0.png/0.png);padding: 0; }
+div.@a26511@her@salamander-tergiant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26515@her@scorpion-tergiant {max-width:75px; max-height:75px; }
+.@a26515@her@scorpion-tergiant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tergiant/0.png/0.png);padding: 0; }
+div.@a26515@her@scorpion-tergiant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26583@her@wasp-tergiant {max-width:75px; max-height:75px; }
+.@a26583@her@wasp-tergiant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tergiant/0.png/0.png);padding: 0; }
+div.@a26583@her@wasp-tergiant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1167ea342b892b6c4ef6478859ad00ac:9a78ca6846b41fae24e3366b9e40fab6:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60661@ian@lateral-marker-international-port {max-width:75px; max-height:75px; }
+.@a60661@ian@lateral-marker-international-port::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lateral/0.png/0.png);padding: 0; }
+div.@a60661@ian@lateral-marker-international-port::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60662@ian@lateral-marker-international-starboard {max-width:75px; max-height:75px; }
+.@a60662@ian@lateral-marker-international-starboard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lateral/0.png/0.png);padding: 0; }
+div.@a60662@ian@lateral-marker-international-starboard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60663@ian@lateral-marker-usa-port {max-width:75px; max-height:75px; }
+.@a60663@ian@lateral-marker-usa-port::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lateral/0.png/0.png);padding: 0; }
+div.@a60663@ian@lateral-marker-usa-port::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60664@ian@lateral-marker-usa-starboard {max-width:75px; max-height:75px; }
+.@a60664@ian@lateral-marker-usa-starboard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/l/lateral/0.png/0.png);padding: 0; }
+div.@a60664@ian@lateral-marker-usa-starboard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:435d61c42d373353fff7c5dfc3c4b434:acfbd0e5ba1d8f76a4237e6bd720e0b4:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61362@ian@rana-clamitans-melanota-adult {max-width:75px; max-height:75px; }
+.@a61362@ian@rana-clamitans-melanota-adult::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/melanota/0.png/0.png);padding: 0; }
+div.@a61362@ian@rana-clamitans-melanota-adult::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ef149374e55620397e611d02872bdbc7:a6890ac6c97acb3d16bb47167e7d5e88:4ddb42793a59c1b7bfff1539dfc4d068$ */

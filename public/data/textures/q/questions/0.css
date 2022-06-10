@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2236@bon@questions-6040 {max-width:75px; max-height:75px; }
+.@a2236@bon@questions-6040::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/q/questions/0.png/0.png);padding: 0; }
+div.@a2236@bon@questions-6040::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2237@bon@questions-8061 {max-width:75px; max-height:75px; }
+.@a2237@bon@questions-8061::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/q/questions/0.png/0.png);padding: 0; }
+div.@a2237@bon@questions-8061::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2683@bon@workshop-asking-questions-8527 {max-width:75px; max-height:75px; }
+.@a2683@bon@workshop-asking-questions-8527::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/q/questions/0.png/0.png);padding: 0; }
+div.@a2683@bon@workshop-asking-questions-8527::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9aed26dabfcc97b59efeb2f2e008d077:b3335a6952f4818ff3de26fb350a8f8a:4ddb42793a59c1b7bfff1539dfc4d068$ */

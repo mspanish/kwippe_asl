@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61573@ian@seagrass-grazer {max-width:75px; max-height:75px; }
+.@a61573@ian@seagrass-grazer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/grazer/0.png/0.png);padding: 0; }
+div.@a61573@ian@seagrass-grazer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ba94d33dd4bfc0bc3cdae168aea86d37:499eaf5092476f88b98b335076f791f8:4ddb42793a59c1b7bfff1539dfc4d068$ */

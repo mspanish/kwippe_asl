@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38954@mul@tape-recorder {max-width:75px; max-height:75px; }
+.@a38954@mul@tape-recorder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/tape_recorder/0.png/0.png);padding: 0; }
+div.@a38954@mul@tape-recorder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9ac07fa4be3c1b2731ba04d79a96c0bf:3cb31d4e8d9858629826abd5a43212c4:4ddb42793a59c1b7bfff1539dfc4d068$ */

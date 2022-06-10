@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14189@gameicons-lorc@flame-tunnel {max-width:75px; max-height:75px; }
+.@b14189@gameicons-lorc@flame-tunnel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/flame_tunnel/0.png/0.png);padding: 0; }
+div.@b14189@gameicons-lorc@flame-tunnel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7d42c6f161d121e1f0e537c5993520f1:d80b375dc1ccdd929e8e8cd67ca16ec4:4ddb42793a59c1b7bfff1539dfc4d068$ */

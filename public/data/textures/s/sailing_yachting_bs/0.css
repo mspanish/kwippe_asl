@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2285@bon@sailing-yachting-bs-8501-9049 {max-width:75px; max-height:75px; }
+.@a2285@bon@sailing-yachting-bs-8501-9049::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sailing_yachting_bs/0.png/0.png);padding: 0; }
+div.@a2285@bon@sailing-yachting-bs-8501-9049::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fb500c873314b704e3f7fcdda6c0c2d9:3c26e2ba39918f1736cb5c4aa5b203fe:4ddb42793a59c1b7bfff1539dfc4d068$ */

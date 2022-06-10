@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27785@icf@sunset {max-width:75px; max-height:75px; }
+.@a27785@icf@sunset::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a27785@icf@sunset::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31084@lin@sundown {max-width:75px; max-height:75px; }
+.@a31084@lin@sundown::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a31084@lin@sundown::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31085@lin@sunset {max-width:75px; max-height:75px; }
+.@a31085@lin@sunset::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a31085@lin@sunset::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35837@mat@weather-sunset-down {max-width:75px; max-height:75px; }
+.@a35837@mat@weather-sunset-down::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a35837@mat@weather-sunset-down::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35839@mat@weather-sunset-up {max-width:75px; max-height:75px; }
+.@a35839@mat@weather-sunset-up::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a35839@mat@weather-sunset-up::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35841@mat@weather-sunset {max-width:75px; max-height:75px; }
+.@a35841@mat@weather-sunset::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a35841@mat@weather-sunset::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53529@vaa@sun-down {max-width:75px; max-height:75px; }
+.@a53529@vaa@sun-down::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a53529@vaa@sun-down::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55990@web@sunset {max-width:75px; max-height:75px; }
+.@a55990@web@sunset::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a55990@web@sunset::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56721@win@image-sunset {max-width:75px; max-height:75px; }
+.@a56721@win@image-sunset::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a56721@win@image-sunset::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57379@win@weather-sun-set {max-width:75px; max-height:75px; }
+.@a57379@win@weather-sun-set::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a57379@win@weather-sun-set::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58043@xei@sunset-down {max-width:75px; max-height:75px; }
+.@a58043@xei@sunset-down::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a58043@xei@sunset-down::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58044@xei@sunset-up {max-width:75px; max-height:75px; }
+.@a58044@xei@sunset-up::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a58044@xei@sunset-up::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58045@xei@sunset {max-width:75px; max-height:75px; }
+.@a58045@xei@sunset::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@a58045@xei@sunset::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13441@gameicons-delapouite@sunset {max-width:75px; max-height:75px; }
+.@b13441@gameicons-delapouite@sunset::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/s/sun_down/0.png/0.png);padding: 0; }
+div.@b13441@gameicons-delapouite@sunset::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2686c9311f110c9859b09116499ec8aa:4ef4755bab21ca9423658b11337e5321:4ddb42793a59c1b7bfff1539dfc4d068$ */

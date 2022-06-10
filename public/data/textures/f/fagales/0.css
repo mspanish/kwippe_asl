@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59485@ian@betula-spp {max-width:75px; max-height:75px; }
+.@a59485@ian@betula-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fagales/0.png/0.png);padding: 0; }
+div.@a59485@ian@betula-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60205@ian@fagus-grandifolia-leaves {max-width:75px; max-height:75px; }
+.@a60205@ian@fagus-grandifolia-leaves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fagales/0.png/0.png);padding: 0; }
+div.@a60205@ian@fagus-grandifolia-leaves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60206@ian@fagus-grandifolia {max-width:75px; max-height:75px; }
+.@a60206@ian@fagus-grandifolia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/f/fagales/0.png/0.png);padding: 0; }
+div.@a60206@ian@fagus-grandifolia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:be2cf97431545f52f80975836db907a1:10152b51769a5ccec42ad7a85801bb89:4ddb42793a59c1b7bfff1539dfc4d068$ */

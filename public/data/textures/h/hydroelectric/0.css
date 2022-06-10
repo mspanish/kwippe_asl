@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60107@ian@energy-hydroelectric-dam {max-width:75px; max-height:75px; }
+.@a60107@ian@energy-hydroelectric-dam::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hydroelectric/0.png/0.png);padding: 0; }
+div.@a60107@ian@energy-hydroelectric-dam::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60108@ian@energy-hydroelectric-plant {max-width:75px; max-height:75px; }
+.@a60108@ian@energy-hydroelectric-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hydroelectric/0.png/0.png);padding: 0; }
+div.@a60108@ian@energy-hydroelectric-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60109@ian@energy-hydroelectric-turbine {max-width:75px; max-height:75px; }
+.@a60109@ian@energy-hydroelectric-turbine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hydroelectric/0.png/0.png);padding: 0; }
+div.@a60109@ian@energy-hydroelectric-turbine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4dac248ada7629e4c8c8bfbc0c919a5f:cd5cbf584cbbe234f22632fce61fc2f6:4ddb42793a59c1b7bfff1539dfc4d068$ */

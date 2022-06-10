@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14955@gameicons-lorc@tesla-coil {max-width:75px; max-height:75px; }
+.@b14955@gameicons-lorc@tesla-coil::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tesla/0.png/0.png);padding: 0; }
+div.@b14955@gameicons-lorc@tesla-coil::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14956@gameicons-lorc@tesla-turret {max-width:75px; max-height:75px; }
+.@b14956@gameicons-lorc@tesla-turret::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tesla/0.png/0.png);padding: 0; }
+div.@b14956@gameicons-lorc@tesla-turret::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15234@gameicons-sbed@tesla {max-width:75px; max-height:75px; }
+.@b15234@gameicons-sbed@tesla::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tesla/0.png/0.png);padding: 0; }
+div.@b15234@gameicons-sbed@tesla::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0a9f69e9f71e3ef25f61f949e8c51367:2f69f4b27f850d2f8be6d03888dde37d:4ddb42793a59c1b7bfff1539dfc4d068$ */

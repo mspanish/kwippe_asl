@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15481@em2@synagogue {max-width:75px; max-height:75px; }
+.@a15481@em2@synagogue::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/synagogue/0.png/0.png);padding: 0; }
+div.@a15481@em2@synagogue::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16858@emo@synagogue {max-width:75px; max-height:75px; }
+.@a16858@emo@synagogue::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/synagogue/0.png/0.png);padding: 0; }
+div.@a16858@emo@synagogue::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40199@noc@synagogue {max-width:75px; max-height:75px; }
+.@a40199@noc@synagogue::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/synagogue/0.png/0.png);padding: 0; }
+div.@a40199@noc@synagogue::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43672@nog@synagogue-travel-places {max-width:75px; max-height:75px; }
+.@a43672@nog@synagogue-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/synagogue/0.png/0.png);padding: 0; }
+div.@a43672@nog@synagogue-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50935@tw2@synagogue {max-width:75px; max-height:75px; }
+.@a50935@tw2@synagogue::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/synagogue/0.png/0.png);padding: 0; }
+div.@a50935@tw2@synagogue::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b60d7974ea2586500a314e2ce4849edc:2f1a19a46714d0a05600e3999adb19bb:4ddb42793a59c1b7bfff1539dfc4d068$ */

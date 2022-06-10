@@ -1,0 +1,37 @@
+{
+    "sign": "angel",
+    "signer": "asl2english",
+    "uid": 51,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 24,
+            "nd": 23
+        },
+        "end": {
+            "d": 36,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "above-right-shoulder"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

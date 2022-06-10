@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60363@ian@generic-tree-spring {max-width:75px; max-height:75px; }
+.@a60363@ian@generic-tree-spring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/flowers/0.png/0.png);padding: 0; }
+div.@a60363@ian@generic-tree-spring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61510@ian@ruppia-megacarpa-with-flowers {max-width:75px; max-height:75px; }
+.@a61510@ian@ruppia-megacarpa-with-flowers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/flowers/0.png/0.png);padding: 0; }
+div.@a61510@ian@ruppia-megacarpa-with-flowers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a7375@df-fotograami-flower@b {max-width:75px; max-height:75px; }
+.@a7375@df-fotograami-flower@b::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/flowers/0.png/0.png);padding: 0; }
+div.@a7375@df-fotograami-flower@b::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a7378@df-fotograami-flower@e {max-width:75px; max-height:75px; }
+.@a7378@df-fotograami-flower@e::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/flowers/0.png/0.png);padding: 0; }
+div.@a7378@df-fotograami-flower@e::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a7387@df-fotograami-flower@j {max-width:75px; max-height:75px; }
+.@a7387@df-fotograami-flower@j::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/flowers/0.png/0.png);padding: 0; }
+div.@a7387@df-fotograami-flower@j::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a7392@df-fotograami-flower@n {max-width:75px; max-height:75px; }
+.@a7392@df-fotograami-flower@n::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/flowers/0.png/0.png);padding: 0; }
+div.@a7392@df-fotograami-flower@n::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5875a73228f540898de6f4a8aac4ee27:a96b559bd353c2f92370693053d9b134:4ddb42793a59c1b7bfff1539dfc4d068$ */

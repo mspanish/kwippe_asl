@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15492@em2@telephone-receiver {max-width:75px; max-height:75px; }
+.@a15492@em2@telephone-receiver::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a15492@em2@telephone-receiver::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16867@emo@telephone-receiver {max-width:75px; max-height:75px; }
+.@a16867@emo@telephone-receiver::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a16867@emo@telephone-receiver::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17751@fir@righthandphone {max-width:75px; max-height:75px; }
+.@a17751@fir@righthandphone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a17751@fir@righthandphone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26985@ibm@phone-call-16 {max-width:75px; max-height:75px; }
+.@a26985@ibm@phone-call-16::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a26985@ibm@phone-call-16::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26986@ibm@phone-call-b {max-width:75px; max-height:75px; }
+.@a26986@ibm@phone-call-b::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a26986@ibm@phone-call-b::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26987@ibm@phone-call-r {max-width:75px; max-height:75px; }
+.@a26987@ibm@phone-call-r::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a26987@ibm@phone-call-r::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26988@ibm@phone-call-t {max-width:75px; max-height:75px; }
+.@a26988@ibm@phone-call-t::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a26988@ibm@phone-call-t::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30267@lib@map-telephone {max-width:75px; max-height:75px; }
+.@a30267@lib@map-telephone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a30267@lib@map-telephone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31707@lug@phone-hang-up {max-width:75px; max-height:75px; }
+.@a31707@lug@phone-hang-up::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a31707@lug@phone-hang-up::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34721@mat@phone-hangup {max-width:75px; max-height:75px; }
+.@a34721@mat@phone-hangup::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a34721@mat@phone-hangup::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38419@mul@phone-picture-video {max-width:75px; max-height:75px; }
+.@a38419@mul@phone-picture-video::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a38419@mul@phone-picture-video::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38982@mul@text-phone {max-width:75px; max-height:75px; }
+.@a38982@mul@text-phone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a38982@mul@text-phone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44793@not@telephone-receiver {max-width:75px; max-height:75px; }
+.@a44793@not@telephone-receiver::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a44793@not@telephone-receiver::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46286@osm@amenity-telephone-14 {max-width:75px; max-height:75px; }
+.@a46286@osm@amenity-telephone-14::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a46286@osm@amenity-telephone-14::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46922@pap@phone-symbolic {max-width:75px; max-height:75px; }
+.@a46922@pap@phone-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a46922@pap@phone-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49012@ssj@emergency-phone {max-width:75px; max-height:75px; }
+.@a49012@ssj@emergency-phone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a49012@ssj@emergency-phone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49157@ssj@telephone {max-width:75px; max-height:75px; }
+.@a49157@ssj@telephone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a49157@ssj@telephone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52136@typ@phone-outline {max-width:75px; max-height:75px; }
+.@a52136@typ@phone-outline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a52136@typ@phone-outline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52138@typ@phone {max-width:75px; max-height:75px; }
+.@a52138@typ@phone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@a52138@typ@phone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13098@gameicons-delapouite@phone {max-width:75px; max-height:75px; }
+.@b13098@gameicons-delapouite@phone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/p/phone/0.png/0.png);padding: 0; }
+div.@b13098@gameicons-delapouite@phone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6eb68fb2158ed1ae05527aea531404f5:899aa95abb844e2a879e47b372c0812f:4ddb42793a59c1b7bfff1539dfc4d068$ */

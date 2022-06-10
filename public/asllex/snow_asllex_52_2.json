@@ -1,0 +1,45 @@
+{
+    "sign": "snow",
+    "signer": "aslLex",
+    "uid": 3130,
+    "synonyms": "snow, snowing, SNOW5O",
+    "handshapes": {
+        "begin": {
+            "d": "flatspread_5",
+            "nd": null
+        },
+        "end": {
+            "d": "5",
+            "nd": "5"
+        }
+    },
+    "regions": {
+        "morph1_general": "Body",
+        "morph1_specific": "TorsoTop",
+        "morph1_specific_second": "BodyAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 2.0,
+    "frequency": 3.097,
+    "category": "Outside Things and Places to Go"
+}

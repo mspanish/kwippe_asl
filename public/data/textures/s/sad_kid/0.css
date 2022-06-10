@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48749@solver@1-sad-kid {max-width:75px; max-height:75px; }
+.@a48749@solver@1-sad-kid::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/sad_kid/0.png/0.png);padding: 0; }
+div.@a48749@solver@1-sad-kid::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c6fb45f83a6a99c12395fcbd7380a0a6:d24c3f948233f477e44888900ebbe8b2:4ddb42793a59c1b7bfff1539dfc4d068$ */

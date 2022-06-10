@@ -1,0 +1,37 @@
+{
+    "sign": "pat-on-back",
+    "signer": "asl2english",
+    "uid": 1317,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": null
+        },
+        "end": {
+            "d": 18,
+            "nd": null
+        }
+    },
+    "regions": [
+        "above-left-shoulder",
+        "above-left-shoulder"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            -1,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

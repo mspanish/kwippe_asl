@@ -1,0 +1,37 @@
+{
+    "sign": "heaven",
+    "signer": "asl2english",
+    "uid": 771,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": null
+        },
+        "end": {
+            "d": 30,
+            "nd": 24
+        }
+    },
+    "regions": [
+        "chest",
+        "upper-area"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

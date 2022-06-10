@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27416@icf@ecommerce-payment-hand-coins {max-width:75px; max-height:75px; }
+.@a27416@icf@ecommerce-payment-hand-coins::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.25839793281653745% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@a27416@icf@ecommerce-payment-hand-coins::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27938@ico@coins {max-width:75px; max-height:75px; }
+.@a27938@ico@coins::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 10.20671834625323% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@a27938@ico@coins::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31347@lug@coin {max-width:75px; max-height:75px; }
+.@a31347@lug@coin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.155038759689923% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@a31347@lug@coin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33061@mat@coin {max-width:75px; max-height:75px; }
+.@a33061@mat@coin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 30.103359173126616% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@a33061@mat@coin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33063@mat@coins {max-width:75px; max-height:75px; }
+.@a33063@mat@coins::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.05167958656331% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@a33063@mat@coins::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36031@met@coins {max-width:75px; max-height:75px; }
+.@a36031@met@coins::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@a36031@met@coins::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53131@vaa@coins {max-width:75px; max-height:75px; }
+.@a53131@vaa@coins::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.94832041343669% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@a53131@vaa@coins::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12410@gameicons-delapouite@coins-pile {max-width:75px; max-height:75px; }
+.@b12410@gameicons-delapouite@coins-pile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 69.89664082687338% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@b12410@gameicons-delapouite@coins-pile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12411@gameicons-delapouite@coins {max-width:75px; max-height:75px; }
+.@b12411@gameicons-delapouite@coins::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.84496124031008% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@b12411@gameicons-delapouite@coins::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13549@gameicons-delapouite@two-coins {max-width:75px; max-height:75px; }
+.@b13549@gameicons-delapouite@two-coins::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 89.79328165374677% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@b13549@gameicons-delapouite@two-coins::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8466@web@coins {max-width:75px; max-height:75px; }
+.@b8466@web@coins::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.74160206718346% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/c/coins/0.png/0.png);padding: 0; }
+div.@b8466@web@coins::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:23b166ab9da91500620ef3b0d9149001:597827af457a3a2a863f6e3520cf7732:4ddb42793a59c1b7bfff1539dfc4d068$ */

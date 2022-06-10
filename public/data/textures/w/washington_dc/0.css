@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d3714@wikim-all@seal_of_the_district_of_columbia {max-width:75px; max-height:75px; }
+.@d3714@wikim-all@seal_of_the_district_of_columbia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/washington_dc/0.png/0.png);padding: 0; }
+div.@d3714@wikim-all@seal_of_the_district_of_columbia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a80b99cb2b363a63cfd3ab924755e748:57b19d4ac74fa090524b0cb4970180cd:4ddb42793a59c1b7bfff1539dfc4d068$ */

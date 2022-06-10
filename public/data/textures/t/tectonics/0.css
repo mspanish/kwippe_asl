@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61222@ian@plate-tectonics-subduction-zone-and-mid-ocean-ridge {max-width:75px; max-height:75px; }
+.@a61222@ian@plate-tectonics-subduction-zone-and-mid-ocean-ridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/tectonics/0.png/0.png);padding: 0; }
+div.@a61222@ian@plate-tectonics-subduction-zone-and-mid-ocean-ridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:21f2b617c06a3e06861d1e0bbb6b3cc2:1e2b9b55648e7eca2582ce48a83d1d3a:4ddb42793a59c1b7bfff1539dfc4d068$ */

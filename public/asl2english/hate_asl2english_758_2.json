@@ -1,0 +1,37 @@
+{
+    "sign": "hate",
+    "signer": "asl2english",
+    "uid": 758,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 32,
+            "nd": 4
+        },
+        "end": {
+            "d": 10,
+            "nd": 39
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

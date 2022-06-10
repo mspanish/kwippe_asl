@@ -1,0 +1,37 @@
+{
+    "sign": "bake-oven",
+    "signer": "asl2english",
+    "uid": 97,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 37,
+            "nd": 37
+        },
+        "end": {
+            "d": 18,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "chest",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

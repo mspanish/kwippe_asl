@@ -1,0 +1,37 @@
+{
+    "sign": "a-level-above",
+    "signer": "asl2english",
+    "uid": 1,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 24,
+            "nd": 24
+        },
+        "end": {
+            "d": 24,
+            "nd": 24
+        }
+    },
+    "regions": [
+        "chest",
+        "upper-area"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

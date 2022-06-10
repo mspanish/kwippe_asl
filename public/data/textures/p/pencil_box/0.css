@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38396@mul@pencil-box {max-width:75px; max-height:75px; }
+.@a38396@mul@pencil-box::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/pencil_box/0.png/0.png);padding: 0; }
+div.@a38396@mul@pencil-box::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:72206795814d330b576d75661c39a5be:87cd74a1fcd58a7ec3d46dfc5b9888d0:4ddb42793a59c1b7bfff1539dfc4d068$ */

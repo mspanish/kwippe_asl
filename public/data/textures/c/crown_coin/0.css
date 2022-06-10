@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13994@gameicons-lorc@crown-coin {max-width:75px; max-height:75px; }
+.@b13994@gameicons-lorc@crown-coin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/crown_coin/0.png/0.png);padding: 0; }
+div.@b13994@gameicons-lorc@crown-coin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8faf901dc4d73374edab2c92ff08b727:75775152b3d221ec6e70b6b718d900fc:4ddb42793a59c1b7bfff1539dfc4d068$ */

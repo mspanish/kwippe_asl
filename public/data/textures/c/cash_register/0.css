@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25387@gli@cash-register {max-width:75px; max-height:75px; }
+.@a25387@gli@cash-register::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cash_register/0.png/0.png);padding: 0; }
+div.@a25387@gli@cash-register::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29562@knl@cash-register {max-width:75px; max-height:75px; }
+.@a29562@knl@cash-register::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cash_register/0.png/0.png);padding: 0; }
+div.@a29562@knl@cash-register::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b3a5e73601b6e7f9bdf70a4e022b2ac2:624952afa4ae54a42035b1d21bbeb5c3:4ddb42793a59c1b7bfff1539dfc4d068$ */

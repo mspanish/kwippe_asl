@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60600@ian@island-barrier-with-mud-banks {max-width:75px; max-height:75px; }
+.@a60600@ian@island-barrier-with-mud-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/banks/0.png/0.png);padding: 0; }
+div.@a60600@ian@island-barrier-with-mud-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60601@ian@island-coves-and-sandy-banks {max-width:75px; max-height:75px; }
+.@a60601@ian@island-coves-and-sandy-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/banks/0.png/0.png);padding: 0; }
+div.@a60601@ian@island-coves-and-sandy-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60602@ian@island-mud-banks {max-width:75px; max-height:75px; }
+.@a60602@ian@island-mud-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/banks/0.png/0.png);padding: 0; }
+div.@a60602@ian@island-mud-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61471@ian@river-3d-meandering-with-sandy-banks {max-width:75px; max-height:75px; }
+.@a61471@ian@river-3d-meandering-with-sandy-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/banks/0.png/0.png);padding: 0; }
+div.@a61471@ian@river-3d-meandering-with-sandy-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61476@ian@river-3d-sandy-bottom {max-width:75px; max-height:75px; }
+.@a61476@ian@river-3d-sandy-bottom::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/banks/0.png/0.png);padding: 0; }
+div.@a61476@ian@river-3d-sandy-bottom::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61713@ian@stream-3d-sandy-banks-in-valley {max-width:75px; max-height:75px; }
+.@a61713@ian@stream-3d-sandy-banks-in-valley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/banks/0.png/0.png);padding: 0; }
+div.@a61713@ian@stream-3d-sandy-banks-in-valley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61918@ian@urban-downtown-fiji {max-width:75px; max-height:75px; }
+.@a61918@ian@urban-downtown-fiji::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/banks/0.png/0.png);padding: 0; }
+div.@a61918@ian@urban-downtown-fiji::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62088@ian@usa-nc-bogue-sound {max-width:75px; max-height:75px; }
+.@a62088@ian@usa-nc-bogue-sound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/banks/0.png/0.png);padding: 0; }
+div.@a62088@ian@usa-nc-bogue-sound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1263e88e739c229762357c8dd4bfb5d1:80973652479b334955ad246ab4fdc821:4ddb42793a59c1b7bfff1539dfc4d068$ */

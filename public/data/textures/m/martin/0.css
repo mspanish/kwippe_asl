@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61961@ian@usa-de-md-va-coastal-bays {max-width:75px; max-height:75px; }
+.@a61961@ian@usa-de-md-va-coastal-bays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/martin/0.png/0.png);padding: 0; }
+div.@a61961@ian@usa-de-md-va-coastal-bays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62051@ian@usa-md-st-martin-river-3d-watershed {max-width:75px; max-height:75px; }
+.@a62051@ian@usa-md-st-martin-river-3d-watershed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/martin/0.png/0.png);padding: 0; }
+div.@a62051@ian@usa-md-st-martin-river-3d-watershed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62052@ian@usa-md-st-martin-river-watershed-locator-map {max-width:75px; max-height:75px; }
+.@a62052@ian@usa-md-st-martin-river-watershed-locator-map::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/martin/0.png/0.png);padding: 0; }
+div.@a62052@ian@usa-md-st-martin-river-watershed-locator-map::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62053@ian@usa-md-st-martin-river-watershed {max-width:75px; max-height:75px; }
+.@a62053@ian@usa-md-st-martin-river-watershed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/martin/0.png/0.png);padding: 0; }
+div.@a62053@ian@usa-md-st-martin-river-watershed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:603642ec6743641687c164c1bb49f788:d23f282f1ff10bf06e91d5b967de5c89:4ddb42793a59c1b7bfff1539dfc4d068$ */

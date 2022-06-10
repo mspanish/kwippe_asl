@@ -1,0 +1,80 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a234@ara@bank-note {max-width:75px; max-height:75px; }
+.@a234@ara@bank-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a234@ara@bank-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30632@lin@document-note {max-width:75px; max-height:75px; }
+.@a30632@lin@document-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a30632@lin@document-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30698@lin@folder-note {max-width:75px; max-height:75px; }
+.@a30698@lin@folder-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a30698@lin@folder-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30831@lin@mail-note {max-width:75px; max-height:75px; }
+.@a30831@lin@mail-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a30831@lin@mail-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30852@lin@message-note {max-width:75px; max-height:75px; }
+.@a30852@lin@message-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a30852@lin@message-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30886@lin@note-single {max-width:75px; max-height:75px; }
+.@a30886@lin@note-single::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a30886@lin@note-single::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31038@lin@smartphone-note {max-width:75px; max-height:75px; }
+.@a31038@lin@smartphone-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a31038@lin@smartphone-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31091@lin@tablet-note {max-width:75px; max-height:75px; }
+.@a31091@lin@tablet-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a31091@lin@tablet-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34415@mat@music-note-bluetooth-off {max-width:75px; max-height:75px; }
+.@a34415@mat@music-note-bluetooth-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34415@mat@music-note-bluetooth-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34417@mat@music-note-bluetooth {max-width:75px; max-height:75px; }
+.@a34417@mat@music-note-bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34417@mat@music-note-bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34419@mat@music-note-eighth {max-width:75px; max-height:75px; }
+.@a34419@mat@music-note-eighth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34419@mat@music-note-eighth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34421@mat@music-note-half {max-width:75px; max-height:75px; }
+.@a34421@mat@music-note-half::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34421@mat@music-note-half::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34423@mat@music-note-off {max-width:75px; max-height:75px; }
+.@a34423@mat@music-note-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34423@mat@music-note-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34425@mat@music-note-quarter {max-width:75px; max-height:75px; }
+.@a34425@mat@music-note-quarter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34425@mat@music-note-quarter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34427@mat@music-note-sixteenth {max-width:75px; max-height:75px; }
+.@a34427@mat@music-note-sixteenth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34427@mat@music-note-sixteenth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34429@mat@music-note-whole {max-width:75px; max-height:75px; }
+.@a34429@mat@music-note-whole::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34429@mat@music-note-whole::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34431@mat@music-note {max-width:75px; max-height:75px; }
+.@a34431@mat@music-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a34431@mat@music-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39901@noc@musical-note {max-width:75px; max-height:75px; }
+.@a39901@noc@musical-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a39901@noc@musical-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44537@not@musical-note {max-width:75px; max-height:75px; }
+.@a44537@not@musical-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a44537@not@musical-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48114@roc@clef-2 {max-width:75px; max-height:75px; }
+.@a48114@roc@clef-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a48114@roc@clef-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54502@wav@music-note {max-width:75px; max-height:75px; }
+.@a54502@wav@music-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@a54502@wav@music-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12673@gameicons-delapouite@g-clef {max-width:75px; max-height:75px; }
+.@b12673@gameicons-delapouite@g-clef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@b12673@gameicons-delapouite@g-clef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14031@gameicons-lorc@death-note {max-width:75px; max-height:75px; }
+.@b14031@gameicons-lorc@death-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/n/note/0.png/0.png);padding: 0; }
+div.@b14031@gameicons-lorc@death-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0ed115f6f8b06db572a9d3db36a66155:42b42b6a5727054974fbb0f800b47fc1:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16183@emo@nr {max-width:75px; max-height:75px; }
+.@a16183@emo@nr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nauru/0.png/0.png);padding: 0; }
+div.@a16183@emo@nr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37083@mul@nauru {max-width:75px; max-height:75px; }
+.@a37083@mul@nauru::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nauru/0.png/0.png);padding: 0; }
+div.@a37083@mul@nauru::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37566@mul@nauru {max-width:75px; max-height:75px; }
+.@a37566@mul@nauru::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nauru/0.png/0.png);padding: 0; }
+div.@a37566@mul@nauru::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2013@wikim-all@coat_of_arms_of_nauru {max-width:75px; max-height:75px; }
+.@d2013@wikim-all@coat_of_arms_of_nauru::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nauru/0.png/0.png);padding: 0; }
+div.@d2013@wikim-all@coat_of_arms_of_nauru::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2300@wikim-all@euronauru {max-width:75px; max-height:75px; }
+.@d2300@wikim-all@euronauru::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nauru/0.png/0.png);padding: 0; }
+div.@d2300@wikim-all@euronauru::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2603@wikim-all@flag_of_nauru {max-width:75px; max-height:75px; }
+.@d2603@wikim-all@flag_of_nauru::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/n/nauru/0.png/0.png);padding: 0; }
+div.@d2603@wikim-all@flag_of_nauru::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:75a27783769ab4835442baddde4cc972:fd5881b0231c6497ad19c415f08cb11b:4ddb42793a59c1b7bfff1539dfc4d068$ */

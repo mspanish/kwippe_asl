@@ -1,0 +1,37 @@
+{
+    "sign": "make-bubbles",
+    "signer": "asl2english",
+    "uid": 984,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 65,
+            "nd": null
+        },
+        "end": {
+            "d": 45,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chin",
+        "high-right"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            1,
+            1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,45 @@
+{
+    "sign": "fork_3",
+    "signer": "aslLex",
+    "uid": 1992,
+    "synonyms": "fork, utensil",
+    "handshapes": {
+        "begin": {
+            "d": "v",
+            "nd": "B"
+        },
+        "end": {
+            "d": "v",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "Palm",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Head",
+        "morph2_specific": "HeadAway",
+        "morph2_specific_second": null,
+        "morph2_contact": 0.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "None",
+        "morph2_repeat": 0.0
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 3,
+    "complexity": null,
+    "frequency": 4.44,
+    "category": null
+}

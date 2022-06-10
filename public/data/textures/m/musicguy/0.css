@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48824@solver@3-musicguy {max-width:75px; max-height:75px; }
+.@a48824@solver@3-musicguy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/musicguy/0.png/0.png);padding: 0; }
+div.@a48824@solver@3-musicguy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:378d2c867fe7fbb29ed504b547aa5b8b:4482b1f800bf64692030e45d919bd38c:4ddb42793a59c1b7bfff1539dfc4d068$ */

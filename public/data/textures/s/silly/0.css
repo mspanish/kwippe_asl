@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a169@aac@silly {max-width:75px; max-height:75px; }
+.@a169@aac@silly::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/silly/0.png/0.png);padding: 0; }
+div.@a169@aac@silly::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a3567@darkemoji@emoji-darkemoji-0028 {max-width:75px; max-height:75px; }
+.@a3567@darkemoji@emoji-darkemoji-0028::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/silly/0.png/0.png);padding: 0; }
+div.@a3567@darkemoji@emoji-darkemoji-0028::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58891@baianet@group {max-width:75px; max-height:75px; }
+.@a58891@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/silly/0.png/0.png);padding: 0; }
+div.@a58891@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1da55a6dfdeb713ec7a27c7f068f4b23:6e484305250392d17f312d13d64fe224:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "pager",
+    "signer": "asl2english",
+    "uid": 1297,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 2,
+            "nd": null
+        },
+        "end": {
+            "d": 50,
+            "nd": null
+        }
+    },
+    "regions": [
+        "waist",
+        "low-right"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            1,
+            -1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

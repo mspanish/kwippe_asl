@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a40805@nog@brick-travel-places {max-width:75px; max-height:75px; }
+.@a40805@nog@brick-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@a40805@nog@brick-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41028@nog@church_travel-places_7etc4 {max-width:75px; max-height:75px; }
+.@a41028@nog@church_travel-places_7etc4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@a41028@nog@church_travel-places_7etc4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47819@plateau@cervisia {max-width:75px; max-height:75px; }
+.@a47819@plateau@cervisia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@a47819@plateau@cervisia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47848@plateau@firewall-brick-background {max-width:75px; max-height:75px; }
+.@a47848@plateau@firewall-brick-background::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@a47848@plateau@firewall-brick-background::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12294@gameicons-delapouite@brick-pile {max-width:75px; max-height:75px; }
+.@b12294@gameicons-delapouite@brick-pile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b12294@gameicons-delapouite@brick-pile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12295@gameicons-delapouite@brick-wall {max-width:75px; max-height:75px; }
+.@b12295@gameicons-delapouite@brick-wall::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b12295@gameicons-delapouite@brick-wall::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12394@gameicons-delapouite@clay-brick {max-width:75px; max-height:75px; }
+.@b12394@gameicons-delapouite@clay-brick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b12394@gameicons-delapouite@clay-brick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12799@gameicons-delapouite@i-brick {max-width:75px; max-height:75px; }
+.@b12799@gameicons-delapouite@i-brick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b12799@gameicons-delapouite@i-brick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12823@gameicons-delapouite@j-brick {max-width:75px; max-height:75px; }
+.@b12823@gameicons-delapouite@j-brick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b12823@gameicons-delapouite@j-brick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12863@gameicons-delapouite@l-brick {max-width:75px; max-height:75px; }
+.@b12863@gameicons-delapouite@l-brick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b12863@gameicons-delapouite@l-brick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13019@gameicons-delapouite@o-brick {max-width:75px; max-height:75px; }
+.@b13019@gameicons-delapouite@o-brick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b13019@gameicons-delapouite@o-brick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13241@gameicons-delapouite@s-brick {max-width:75px; max-height:75px; }
+.@b13241@gameicons-delapouite@s-brick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b13241@gameicons-delapouite@s-brick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13455@gameicons-delapouite@t-brick {max-width:75px; max-height:75px; }
+.@b13455@gameicons-delapouite@t-brick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b13455@gameicons-delapouite@t-brick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13659@gameicons-delapouite@z-brick {max-width:75px; max-height:75px; }
+.@b13659@gameicons-delapouite@z-brick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@b13659@gameicons-delapouite@z-brick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1555@wikim-all@american_bond {max-width:75px; max-height:75px; }
+.@d1555@wikim-all@american_bond::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@d1555@wikim-all@american_bond::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2171@wikim-all@english_bond {max-width:75px; max-height:75px; }
+.@d2171@wikim-all@english_bond::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@d2171@wikim-all@english_bond::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2793@wikim-all@flemish_bond {max-width:75px; max-height:75px; }
+.@d2793@wikim-all@flemish_bond::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@d2793@wikim-all@flemish_bond::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3581@wikim-all@rat-trap_bond {max-width:75px; max-height:75px; }
+.@d3581@wikim-all@rat-trap_bond::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@d3581@wikim-all@rat-trap_bond::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3619@wikim-all@running_bond {max-width:75px; max-height:75px; }
+.@d3619@wikim-all@running_bond::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/brick/0.png/0.png);padding: 0; }
+div.@d3619@wikim-all@running_bond::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7bb274809e56941713f8776f53a794b0:b816516867711b12424c135eabd1c667:4ddb42793a59c1b7bfff1539dfc4d068$ */

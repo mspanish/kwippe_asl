@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1681@bon@counselling-and-behavioural-sciences-3010 {max-width:75px; max-height:75px; }
+.@a1681@bon@counselling-and-behavioural-sciences-3010::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/behavioural/0.png/0.png);padding: 0; }
+div.@a1681@bon@counselling-and-behavioural-sciences-3010::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d61454257d54c4e24ed30273cb0d527b:ffce01f2a76db53c812224e3b738dc6f:4ddb42793a59c1b7bfff1539dfc4d068$ */

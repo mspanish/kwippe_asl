@@ -1,0 +1,140 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15497@em2@thermometer {max-width:75px; max-height:75px; }
+.@a15497@em2@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3683241252302026% 0.5141388174807198%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a15497@em2@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16873@emo@thermometer {max-width:75px; max-height:75px; }
+.@a16873@emo@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3683241252302026% 20.308483290488432%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a16873@emo@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17196@fir@u1f321-thermometer {max-width:75px; max-height:75px; }
+.@a17196@fir@u1f321-thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3683241252302026% 40.102827763496144%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a17196@fir@u1f321-thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27797@icf@temperature-thermometer-cold {max-width:75px; max-height:75px; }
+.@a27797@icf@temperature-thermometer-cold::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3683241252302026% 59.897172236503856%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a27797@icf@temperature-thermometer-cold::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27798@icf@temperature-thermometer-hot {max-width:75px; max-height:75px; }
+.@a27798@icf@temperature-thermometer-hot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3683241252302026% 79.69151670951157%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a27798@icf@temperature-thermometer-hot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27799@icf@temperature-thermometer-warm {max-width:75px; max-height:75px; }
+.@a27799@icf@temperature-thermometer-warm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.3683241252302026% 99.48586118251929%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a27799@icf@temperature-thermometer-warm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28842@jqe@thermometer {max-width:75px; max-height:75px; }
+.@a28842@jqe@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 14.548802946593002% 0.5141388174807198%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a28842@jqe@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29957@knl@thermometer {max-width:75px; max-height:75px; }
+.@a29957@knl@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 14.548802946593002% 20.308483290488432%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a29957@knl@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35499@mat@thermometer-lines {max-width:75px; max-height:75px; }
+.@a35499@mat@thermometer-lines::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 14.548802946593002% 40.102827763496144%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a35499@mat@thermometer-lines::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35501@mat@thermometer {max-width:75px; max-height:75px; }
+.@a35501@mat@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 14.548802946593002% 59.897172236503856%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a35501@mat@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36351@met@thermometer {max-width:75px; max-height:75px; }
+.@a36351@met@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 14.548802946593002% 79.69151670951157%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a36351@met@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36352@met@thermometer2 {max-width:75px; max-height:75px; }
+.@a36352@met@thermometer2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 14.548802946593002% 99.48586118251929%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a36352@met@thermometer2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38984@mul@thermometer-2 {max-width:75px; max-height:75px; }
+.@a38984@mul@thermometer-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 28.7292817679558% 0.5141388174807198%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a38984@mul@thermometer-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38985@mul@thermometer {max-width:75px; max-height:75px; }
+.@a38985@mul@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 28.7292817679558% 20.308483290488432%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a38985@mul@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41652@nog@face-thermometer_smileys-people_1ff2q {max-width:75px; max-height:75px; }
+.@a41652@nog@face-thermometer_smileys-people_1ff2q::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 28.7292817679558% 40.102827763496144%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a41652@nog@face-thermometer_smileys-people_1ff2q::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43714@nog@thermometer-travel-places {max-width:75px; max-height:75px; }
+.@a43714@nog@thermometer-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 28.7292817679558% 59.897172236503856%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a43714@nog@thermometer-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47943@plateau@temperature {max-width:75px; max-height:75px; }
+.@a47943@plateau@temperature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 28.7292817679558% 79.69151670951157%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a47943@plateau@temperature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50950@tw2@thermometer {max-width:75px; max-height:75px; }
+.@a50950@tw2@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 28.7292817679558% 99.48586118251929%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a50950@tw2@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52246@typ@thermometer {max-width:75px; max-height:75px; }
+.@a52246@typ@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 42.9097605893186% 0.5141388174807198%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a52246@typ@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53830@videoplasty@thermometer_flat_icon_vector {max-width:75px; max-height:75px; }
+.@a53830@videoplasty@thermometer_flat_icon_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 42.9097605893186% 20.308483290488432%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a53830@videoplasty@thermometer_flat_icon_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56048@web@thermometer-1 {max-width:75px; max-height:75px; }
+.@a56048@web@thermometer-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 42.9097605893186% 40.102827763496144%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a56048@web@thermometer-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57257@win@thermometer-celcius {max-width:75px; max-height:75px; }
+.@a57257@win@thermometer-celcius::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 42.9097605893186% 59.897172236503856%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a57257@win@thermometer-celcius::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57258@win@thermometer-digital {max-width:75px; max-height:75px; }
+.@a57258@win@thermometer-digital::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 42.9097605893186% 79.69151670951157%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a57258@win@thermometer-digital::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57259@win@thermometer-fahrenheit {max-width:75px; max-height:75px; }
+.@a57259@win@thermometer-fahrenheit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 42.9097605893186% 99.48586118251929%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a57259@win@thermometer-fahrenheit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57260@win@thermometer-honeywell {max-width:75px; max-height:75px; }
+.@a57260@win@thermometer-honeywell::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 57.0902394106814% 0.5141388174807198%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a57260@win@thermometer-honeywell::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57261@win@thermometer-kelvin {max-width:75px; max-height:75px; }
+.@a57261@win@thermometer-kelvin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 57.0902394106814% 20.308483290488432%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a57261@win@thermometer-kelvin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57262@win@thermometer-signs {max-width:75px; max-height:75px; }
+.@a57262@win@thermometer-signs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 57.0902394106814% 40.102827763496144%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a57262@win@thermometer-signs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57263@win@thermometer {max-width:75px; max-height:75px; }
+.@a57263@win@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 57.0902394106814% 59.897172236503856%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a57263@win@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58061@xei@thermometer {max-width:75px; max-height:75px; }
+.@a58061@xei@thermometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 57.0902394106814% 79.69151670951157%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a58061@xei@thermometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58589@baianet@group {max-width:75px; max-height:75px; }
+.@a58589@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 57.0902394106814% 99.48586118251929%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a58589@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58608@baianet@group {max-width:75px; max-height:75px; }
+.@a58608@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 71.2707182320442% 0.5141388174807198%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a58608@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58627@baianet@group {max-width:75px; max-height:75px; }
+.@a58627@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 71.2707182320442% 20.308483290488432%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a58627@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58645@baianet@group {max-width:75px; max-height:75px; }
+.@a58645@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 71.2707182320442% 40.102827763496144%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a58645@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58664@baianet@group {max-width:75px; max-height:75px; }
+.@a58664@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 71.2707182320442% 59.897172236503856%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a58664@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58704@baianet@group {max-width:75px; max-height:75px; }
+.@a58704@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 71.2707182320442% 79.69151670951157%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a58704@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61783@ian@temperature-high {max-width:75px; max-height:75px; }
+.@a61783@ian@temperature-high::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 71.2707182320442% 99.48586118251929%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a61783@ian@temperature-high::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61784@ian@temperature-low {max-width:75px; max-height:75px; }
+.@a61784@ian@temperature-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 85.451197053407% 0.5141388174807198%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a61784@ian@temperature-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61785@ian@temperature-moderate {max-width:75px; max-height:75px; }
+.@a61785@ian@temperature-moderate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 85.451197053407% 20.308483290488432%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a61785@ian@temperature-moderate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61786@ian@temperature-variation {max-width:75px; max-height:75px; }
+.@a61786@ian@temperature-variation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 85.451197053407% 40.102827763496144%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a61786@ian@temperature-variation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61787@ian@temperature-very-high {max-width:75px; max-height:75px; }
+.@a61787@ian@temperature-very-high::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 85.451197053407% 59.897172236503856%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@a61787@ian@temperature-very-high::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13478@gameicons-delapouite@thermometer-cold {max-width:75px; max-height:75px; }
+.@b13478@gameicons-delapouite@thermometer-cold::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 85.451197053407% 79.69151670951157%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@b13478@gameicons-delapouite@thermometer-cold::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13479@gameicons-delapouite@thermometer-hot {max-width:75px; max-height:75px; }
+.@b13479@gameicons-delapouite@thermometer-hot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 85.451197053407% 99.48586118251929%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@b13479@gameicons-delapouite@thermometer-hot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14958@gameicons-lorc@thermometer-scale {max-width:75px; max-height:75px; }
+.@b14958@gameicons-lorc@thermometer-scale::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.6316758747698% 0.5141388174807198%;background-size: 824% 618.6666666666666%;background-image: url(./textures/t/thermometer/0.png/0.png);padding: 0; }
+div.@b14958@gameicons-lorc@thermometer-scale::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:30555f09043de7a897432e80d7abb83f:a73d0962aaf273e5e2d0f4da2fb84f3c:4ddb42793a59c1b7bfff1539dfc4d068$ */

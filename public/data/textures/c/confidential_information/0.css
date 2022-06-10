@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1667@bon@confidential-information-5033 {max-width:75px; max-height:75px; }
+.@a1667@bon@confidential-information-5033::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/confidential_information/0.png/0.png);padding: 0; }
+div.@a1667@bon@confidential-information-5033::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1668@bon@confidential-information-5755 {max-width:75px; max-height:75px; }
+.@a1668@bon@confidential-information-5755::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/confidential_information/0.png/0.png);padding: 0; }
+div.@a1668@bon@confidential-information-5755::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1669@bon@confidential-information-8020 {max-width:75px; max-height:75px; }
+.@a1669@bon@confidential-information-8020::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/confidential_information/0.png/0.png);padding: 0; }
+div.@a1669@bon@confidential-information-8020::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c2d1e937aa74a99fa45893dfd94c8f42:cd61a0b8e7c65a2059d8f71623f04c62:4ddb42793a59c1b7bfff1539dfc4d068$ */

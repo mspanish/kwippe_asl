@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15188@em2@necktie {max-width:75px; max-height:75px; }
+.@a15188@em2@necktie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/necktie/0.png/0.png);padding: 0; }
+div.@a15188@em2@necktie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16520@emo@necktie {max-width:75px; max-height:75px; }
+.@a16520@emo@necktie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/necktie/0.png/0.png);padding: 0; }
+div.@a16520@emo@necktie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28606@jqe@necktie {max-width:75px; max-height:75px; }
+.@a28606@jqe@necktie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/necktie/0.png/0.png);padding: 0; }
+div.@a28606@jqe@necktie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44541@not@necktie {max-width:75px; max-height:75px; }
+.@a44541@not@necktie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/necktie/0.png/0.png);padding: 0; }
+div.@a44541@not@necktie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49476@str@419-necktie {max-width:75px; max-height:75px; }
+.@a49476@str@419-necktie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/necktie/0.png/0.png);padding: 0; }
+div.@a49476@str@419-necktie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50690@tw2@necktie {max-width:75px; max-height:75px; }
+.@a50690@tw2@necktie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/necktie/0.png/0.png);padding: 0; }
+div.@a50690@tw2@necktie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51452@twe@necktie {max-width:75px; max-height:75px; }
+.@a51452@twe@necktie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/necktie/0.png/0.png);padding: 0; }
+div.@a51452@twe@necktie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d885b2aa92cda2fe2d76cf4ccdf5703f:39fedfe6b6f85bd6a583e37ceb109d21:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59813@ian@computer {max-width:75px; max-height:75px; }
+.@a59813@ian@computer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/electronic/0.png/0.png);padding: 0; }
+div.@a59813@ian@computer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59814@ian@computer2 {max-width:75px; max-height:75px; }
+.@a59814@ian@computer2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/electronic/0.png/0.png);padding: 0; }
+div.@a59814@ian@computer2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59815@ian@computer3 {max-width:75px; max-height:75px; }
+.@a59815@ian@computer3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/electronic/0.png/0.png);padding: 0; }
+div.@a59815@ian@computer3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:900d361816d372348da4d920e6607ee6:ee9a7e5ba3d59a4904fbc997033c5e20:4ddb42793a59c1b7bfff1539dfc4d068$ */

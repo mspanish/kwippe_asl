@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59740@ian@coastline-2d-catchment-river-nearshore-offshore-reefs {max-width:75px; max-height:75px; }
+.@a59740@ian@coastline-2d-catchment-river-nearshore-offshore-reefs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nearshore/0.png/0.png);padding: 0; }
+div.@a59740@ian@coastline-2d-catchment-river-nearshore-offshore-reefs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59742@ian@coastline-2d-closed-estuary-nearshore-reefs {max-width:75px; max-height:75px; }
+.@a59742@ian@coastline-2d-closed-estuary-nearshore-reefs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nearshore/0.png/0.png);padding: 0; }
+div.@a59742@ian@coastline-2d-closed-estuary-nearshore-reefs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59748@ian@coastline-2d-nearshore-reef {max-width:75px; max-height:75px; }
+.@a59748@ian@coastline-2d-nearshore-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nearshore/0.png/0.png);padding: 0; }
+div.@a59748@ian@coastline-2d-nearshore-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59749@ian@coastline-2d-open-estuary-nearshore-reef {max-width:75px; max-height:75px; }
+.@a59749@ian@coastline-2d-open-estuary-nearshore-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nearshore/0.png/0.png);padding: 0; }
+div.@a59749@ian@coastline-2d-open-estuary-nearshore-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61380@ian@reef-2d-nearshore {max-width:75px; max-height:75px; }
+.@a61380@ian@reef-2d-nearshore::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nearshore/0.png/0.png);padding: 0; }
+div.@a61380@ian@reef-2d-nearshore::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9f360c9098154dc5af079e250c2e4a09:dcb4f664f6841c5ce5210b162d296048:4ddb42793a59c1b7bfff1539dfc4d068$ */

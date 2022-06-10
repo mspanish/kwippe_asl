@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2405@bon@storage-iron-6279 {max-width:75px; max-height:75px; }
+.@a2405@bon@storage-iron-6279::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/storage_iron/0.png/0.png);padding: 0; }
+div.@a2405@bon@storage-iron-6279::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5b43eb096fed2efa10e2a7dbe322dc78:e323c9d034169440d842af3ee9d0f244:4ddb42793a59c1b7bfff1539dfc4d068$ */

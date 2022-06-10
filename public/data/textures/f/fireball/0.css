@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14177@gameicons-lorc@fireball {max-width:75px; max-height:75px; }
+.@b14177@gameicons-lorc@fireball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/fireball/0.png/0.png);padding: 0; }
+div.@b14177@gameicons-lorc@fireball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5a58f134aa5cb4a3731328b2ece86374:e835a9da6723302a24f857a2bf4f0ffe:4ddb42793a59c1b7bfff1539dfc4d068$ */

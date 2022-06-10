@@ -1,0 +1,37 @@
+{
+    "sign": "lipstick",
+    "signer": "asl2english",
+    "uid": 943,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 21,
+            "nd": 21
+        },
+        "end": {
+            "d": 49,
+            "nd": 49
+        }
+    },
+    "regions": [
+        "mouth",
+        "mouth"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "circle",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

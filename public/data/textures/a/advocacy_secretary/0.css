@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1466@bon@advocacy-secretary-7003 {max-width:75px; max-height:75px; }
+.@a1466@bon@advocacy-secretary-7003::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/advocacy_secretary/0.png/0.png);padding: 0; }
+div.@a1466@bon@advocacy-secretary-7003::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:34da5ceaa240ea9cca48c3a5124f13a3:7d55caab88e68e3f3c878929a4ae2f85:4ddb42793a59c1b7bfff1539dfc4d068$ */

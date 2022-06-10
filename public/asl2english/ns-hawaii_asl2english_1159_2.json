@@ -1,0 +1,37 @@
+{
+    "sign": "ns-hawaii",
+    "signer": "asl2english",
+    "uid": 1159,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 24,
+            "nd": 4
+        },
+        "end": {
+            "d": 23,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest",
+        "right"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

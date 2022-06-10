@@ -1,0 +1,37 @@
+{
+    "sign": "xylophone",
+    "signer": "asl2english",
+    "uid": 2061,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 80,
+            "nd": 80
+        },
+        "end": {
+            "d": 80,
+            "nd": 80
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "plural"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

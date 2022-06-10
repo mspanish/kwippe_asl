@@ -1,0 +1,37 @@
+{
+    "sign": "cop+research",
+    "signer": "asl2english",
+    "uid": 344,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 30,
+            "nd": 18
+        },
+        "end": {
+            "d": 1,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "L-shoulder",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

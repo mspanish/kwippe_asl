@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16@aac@bleed {max-width:75px; max-height:75px; }
+.@a16@aac@bleed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/bleed/0.png/0.png);padding: 0; }
+div.@a16@aac@bleed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:615a28ad575e42f9de9783aba99df6dd:305c782d925cc73dc3fa5a1688ac7336:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61178@ian@photosynthesis-respiration {max-width:75px; max-height:75px; }
+.@a61178@ian@photosynthesis-respiration::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/respiration/0.png/0.png);padding: 0; }
+div.@a61178@ian@photosynthesis-respiration::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61313@ian@process-respiration-high {max-width:75px; max-height:75px; }
+.@a61313@ian@process-respiration-high::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/respiration/0.png/0.png);padding: 0; }
+div.@a61313@ian@process-respiration-high::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61314@ian@process-respiration-low {max-width:75px; max-height:75px; }
+.@a61314@ian@process-respiration-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/respiration/0.png/0.png);padding: 0; }
+div.@a61314@ian@process-respiration-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61315@ian@process-respiration {max-width:75px; max-height:75px; }
+.@a61315@ian@process-respiration::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/respiration/0.png/0.png);padding: 0; }
+div.@a61315@ian@process-respiration::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61405@ian@respiration {max-width:75px; max-height:75px; }
+.@a61405@ian@respiration::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/respiration/0.png/0.png);padding: 0; }
+div.@a61405@ian@respiration::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0af06b2c5467f85ce8b41501f66c7582:216abe50a795f210263fc21029a1971f:4ddb42793a59c1b7bfff1539dfc4d068$ */

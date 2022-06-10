@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60115@ian@energy-solar-panels-3 {max-width:75px; max-height:75px; }
+.@a60115@ian@energy-solar-panels-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/v/voltaic/0.png/0.png);padding: 0; }
+div.@a60115@ian@energy-solar-panels-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5686862b30ba4f32aa83a21fde8295e1:8bf3e5453c1c2f8eb44cc34332e51d7a:4ddb42793a59c1b7bfff1539dfc4d068$ */

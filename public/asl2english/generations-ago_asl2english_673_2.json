@@ -1,0 +1,37 @@
+{
+    "sign": "generations-ago",
+    "signer": "asl2english",
+    "uid": 673,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 18
+        },
+        "end": {
+            "d": null,
+            "nd": 24
+        }
+    },
+    "regions": [
+        "R-shoulder",
+        "above-right-shoulder"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            -1
+        ],
+        "type": "circle"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

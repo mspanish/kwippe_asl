@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59970@ian@deep-sea-mining-bulk-cutter {max-width:75px; max-height:75px; }
+.@a59970@ian@deep-sea-mining-bulk-cutter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/metals/0.png/0.png);padding: 0; }
+div.@a59970@ian@deep-sea-mining-bulk-cutter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool {max-width:75px; max-height:75px; }
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/metals/0.png/0.png);padding: 0; }
+div.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59972@ian@deep-sea-mining-support-vessel {max-width:75px; max-height:75px; }
+.@a59972@ian@deep-sea-mining-support-vessel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/m/metals/0.png/0.png);padding: 0; }
+div.@a59972@ian@deep-sea-mining-support-vessel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4f11555b2f2ab9e57c14c2e2a391cc40:1783b4a79356018bd6fb6981d45b5671:4ddb42793a59c1b7bfff1539dfc4d068$ */

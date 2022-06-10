@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59896@ian@corbicula-fluminea {max-width:75px; max-height:75px; }
+.@a59896@ian@corbicula-fluminea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/veneroida/0.png/0.png);padding: 0; }
+div.@a59896@ian@corbicula-fluminea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60059@ian@dreissena-polymorpha {max-width:75px; max-height:75px; }
+.@a60059@ian@dreissena-polymorpha::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/veneroida/0.png/0.png);padding: 0; }
+div.@a60059@ian@dreissena-polymorpha::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60846@ian@mercenaria-mercenaria {max-width:75px; max-height:75px; }
+.@a60846@ian@mercenaria-mercenaria::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/veneroida/0.png/0.png);padding: 0; }
+div.@a60846@ian@mercenaria-mercenaria::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61226@ian@plebidonax-deltoides {max-width:75px; max-height:75px; }
+.@a61226@ian@plebidonax-deltoides::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/veneroida/0.png/0.png);padding: 0; }
+div.@a61226@ian@plebidonax-deltoides::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61366@ian@razor-clam {max-width:75px; max-height:75px; }
+.@a61366@ian@razor-clam::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/v/veneroida/0.png/0.png);padding: 0; }
+div.@a61366@ian@razor-clam::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3de0aac1074227d5540f196032574448:53e5a10443debe40d71f6111f7b73850:4ddb42793a59c1b7bfff1539dfc4d068$ */

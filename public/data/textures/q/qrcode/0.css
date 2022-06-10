@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29174@jqu@qrcode {max-width:75px; max-height:75px; }
+.@a29174@jqu@qrcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a29174@jqu@qrcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30319@lib@qrcode {max-width:75px; max-height:75px; }
+.@a30319@lib@qrcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a30319@lib@qrcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31747@lug@qrcode {max-width:75px; max-height:75px; }
+.@a31747@lug@qrcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a31747@lug@qrcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34887@mat@qrcode {max-width:75px; max-height:75px; }
+.@a34887@mat@qrcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a34887@mat@qrcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36268@met@qrcode {max-width:75px; max-height:75px; }
+.@a36268@met@qrcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a36268@met@qrcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53443@vaa@qrcode {max-width:75px; max-height:75px; }
+.@a53443@vaa@qrcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a53443@vaa@qrcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55670@web@qrcode {max-width:75px; max-height:75px; }
+.@a55670@web@qrcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a55670@web@qrcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57071@win@qr {max-width:75px; max-height:75px; }
+.@a57071@win@qr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a57071@win@qr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a949@awe@qrcode {max-width:75px; max-height:75px; }
+.@a949@awe@qrcode::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/q/qrcode/0.png/0.png);padding: 0; }
+div.@a949@awe@qrcode::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b7eb234002629c438d0c4713bdaf3658:fd941de71a654ccfbdbe8e5ba13ffebd:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26458@her@one-headed-chess-knight {max-width:75px; max-height:75px; }
+.@a26458@her@one-headed-chess-knight::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/k/knight/0.png/0.png);padding: 0; }
+div.@a26458@her@one-headed-chess-knight::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12247@gameicons-delapouite@black-knight-helm {max-width:75px; max-height:75px; }
+.@b12247@gameicons-delapouite@black-knight-helm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/k/knight/0.png/0.png);padding: 0; }
+div.@b12247@gameicons-delapouite@black-knight-helm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15345@gameicons-skoll@mounted-knight {max-width:75px; max-height:75px; }
+.@b15345@gameicons-skoll@mounted-knight::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/k/knight/0.png/0.png);padding: 0; }
+div.@b15345@gameicons-skoll@mounted-knight::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1824@wikim-all@cavalier_galop {max-width:75px; max-height:75px; }
+.@d1824@wikim-all@cavalier_galop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/k/knight/0.png/0.png);padding: 0; }
+div.@d1824@wikim-all@cavalier_galop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1877@wikim-all@chevalier_terrassant_un_dragon {max-width:75px; max-height:75px; }
+.@d1877@wikim-all@chevalier_terrassant_un_dragon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/k/knight/0.png/0.png);padding: 0; }
+div.@d1877@wikim-all@chevalier_terrassant_un_dragon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2863@wikim-all@huuuc3uuua9raldique_meuble_chevalier {max-width:75px; max-height:75px; }
+.@d2863@wikim-all@huuuc3uuua9raldique_meuble_chevalier::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/k/knight/0.png/0.png);padding: 0; }
+div.@d2863@wikim-all@huuuc3uuua9raldique_meuble_chevalier::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3273@wikim-all@meuble_huuuc3uuua9raldique_homme_uuuc3uuua9puuuc3uuua9e {max-width:75px; max-height:75px; }
+.@d3273@wikim-all@meuble_huuuc3uuua9raldique_homme_uuuc3uuua9puuuc3uuua9e::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/k/knight/0.png/0.png);padding: 0; }
+div.@d3273@wikim-all@meuble_huuuc3uuua9raldique_homme_uuuc3uuua9puuuc3uuua9e::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3315@wikim-all@meuble_huuuc3uuua9raldique_soldat_en_armure {max-width:75px; max-height:75px; }
+.@d3315@wikim-all@meuble_huuuc3uuua9raldique_soldat_en_armure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/k/knight/0.png/0.png);padding: 0; }
+div.@d3315@wikim-all@meuble_huuuc3uuua9raldique_soldat_en_armure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:378ad6fb819a1442087e5713615baa3f:c3141c9ea13b77f45bbfbec2af53e10f:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13978@gameicons-lorc@croc-jaws {max-width:75px; max-height:75px; }
+.@b13978@gameicons-lorc@croc-jaws::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/j/jaws/0.png/0.png);padding: 0; }
+div.@b13978@gameicons-lorc@croc-jaws::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14366@gameicons-lorc@insect-jaws {max-width:75px; max-height:75px; }
+.@b14366@gameicons-lorc@insect-jaws::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/j/jaws/0.png/0.png);padding: 0; }
+div.@b14366@gameicons-lorc@insect-jaws::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14543@gameicons-lorc@needle-jaws {max-width:75px; max-height:75px; }
+.@b14543@gameicons-lorc@needle-jaws::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/j/jaws/0.png/0.png);padding: 0; }
+div.@b14543@gameicons-lorc@needle-jaws::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c0676f01081a15d83913b52e83d14e30:1098827c4be62a399688251929b3bccf:4ddb42793a59c1b7bfff1539dfc4d068$ */

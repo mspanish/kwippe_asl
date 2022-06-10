@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59375@ian@arctic-drilling {max-width:75px; max-height:75px; }
+.@a59375@ian@arctic-drilling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@a59375@ian@arctic-drilling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59502@ian@blowout-preventer {max-width:75px; max-height:75px; }
+.@a59502@ian@blowout-preventer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@a59502@ian@blowout-preventer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59740@ian@coastline-2d-catchment-river-nearshore-offshore-reefs {max-width:75px; max-height:75px; }
+.@a59740@ian@coastline-2d-catchment-river-nearshore-offshore-reefs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@a59740@ian@coastline-2d-catchment-river-nearshore-offshore-reefs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60150@ian@estuary-2d-barrier-island {max-width:75px; max-height:75px; }
+.@a60150@ian@estuary-2d-barrier-island::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@a60150@ian@estuary-2d-barrier-island::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60151@ian@estuary-2d-channels-and-offshore-sandrift {max-width:75px; max-height:75px; }
+.@a60151@ian@estuary-2d-channels-and-offshore-sandrift::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@a60151@ian@estuary-2d-channels-and-offshore-sandrift::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60154@ian@estuary-2d-closed-with-offshore-sandbars {max-width:75px; max-height:75px; }
+.@a60154@ian@estuary-2d-closed-with-offshore-sandbars::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@a60154@ian@estuary-2d-closed-with-offshore-sandbars::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60156@ian@estuary-2d-continental-island-offshore-reef {max-width:75px; max-height:75px; }
+.@a60156@ian@estuary-2d-continental-island-offshore-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@a60156@ian@estuary-2d-continental-island-offshore-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60170@ian@estuary-2d-tropical-with-offshore-reef {max-width:75px; max-height:75px; }
+.@a60170@ian@estuary-2d-tropical-with-offshore-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@a60170@ian@estuary-2d-tropical-with-offshore-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13026@gameicons-delapouite@offshore-platform {max-width:75px; max-height:75px; }
+.@b13026@gameicons-delapouite@offshore-platform::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/o/offshore/0.png/0.png);padding: 0; }
+div.@b13026@gameicons-delapouite@offshore-platform::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dec8b9ac5d44c5b86f35cab4819c58e0:ed5cefb76c7c69d09c05dad8383fb801:4ddb42793a59c1b7bfff1539dfc4d068$ */

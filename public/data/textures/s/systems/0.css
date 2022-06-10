@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61255@ian@poorly-understood-systems {max-width:75px; max-height:75px; }
+.@a61255@ian@poorly-understood-systems::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/systems/0.png/0.png);padding: 0; }
+div.@a61255@ian@poorly-understood-systems::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61458@ian@river-3d-comparison-natural-vs-developed {max-width:75px; max-height:75px; }
+.@a61458@ian@river-3d-comparison-natural-vs-developed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/systems/0.png/0.png);padding: 0; }
+div.@a61458@ian@river-3d-comparison-natural-vs-developed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4f77820224f1a3b834d5cad3aba06a6b:5af9bd6ab4d87f40e021d8ab75f43b46:4ddb42793a59c1b7bfff1539dfc4d068$ */

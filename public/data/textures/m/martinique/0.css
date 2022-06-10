@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16164@emo@mq {max-width:75px; max-height:75px; }
+.@a16164@emo@mq::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/martinique/0.png/0.png);padding: 0; }
+div.@a16164@emo@mq::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1753@wikim-all@blasonmartinique {max-width:75px; max-height:75px; }
+.@d1753@wikim-all@blasonmartinique::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/martinique/0.png/0.png);padding: 0; }
+div.@d1753@wikim-all@blasonmartinique::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2004@wikim-all@coat_of_arms_of_martinique {max-width:75px; max-height:75px; }
+.@d2004@wikim-all@coat_of_arms_of_martinique::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/martinique/0.png/0.png);padding: 0; }
+div.@d2004@wikim-all@coat_of_arms_of_martinique::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4503@wikim-sodacan@arms_of_the_french_empire {max-width:75px; max-height:75px; }
+.@d4503@wikim-sodacan@arms_of_the_french_empire::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/martinique/0.png/0.png);padding: 0; }
+div.@d4503@wikim-sodacan@arms_of_the_french_empire::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a48f33235d715e66b794f9098206c66a:061e217a3d8d1ca7a96ec91cb76f8e7e:4ddb42793a59c1b7bfff1539dfc4d068$ */

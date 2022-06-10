@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14936@em2@fire {max-width:75px; max-height:75px; }
+.@a14936@em2@fire::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/campfire/0.png/0.png);padding: 0; }
+div.@a14936@em2@fire::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58525@baianet@group {max-width:75px; max-height:75px; }
+.@a58525@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/campfire/0.png/0.png);padding: 0; }
+div.@a58525@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59590@ian@campfire {max-width:75px; max-height:75px; }
+.@a59590@ian@campfire::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/campfire/0.png/0.png);padding: 0; }
+div.@a59590@ian@campfire::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13888@gameicons-lorc@campfire {max-width:75px; max-height:75px; }
+.@b13888@gameicons-lorc@campfire::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/campfire/0.png/0.png);padding: 0; }
+div.@b13888@gameicons-lorc@campfire::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8290@web@campfire {max-width:75px; max-height:75px; }
+.@b8290@web@campfire::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/campfire/0.png/0.png);padding: 0; }
+div.@b8290@web@campfire::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0546385c88ccc469a988159a5a0348b4:2154ff2fcfc3045735b64ce0af5367ed:4ddb42793a59c1b7bfff1539dfc4d068$ */

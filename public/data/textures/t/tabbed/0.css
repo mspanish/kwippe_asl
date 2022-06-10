@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a42826@nog@notebook-decorative-cover-objects {max-width:75px; max-height:75px; }
+.@a42826@nog@notebook-decorative-cover-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/tabbed/0.png/0.png);padding: 0; }
+div.@a42826@nog@notebook-decorative-cover-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47878@plateau@lab-notebook {max-width:75px; max-height:75px; }
+.@a47878@plateau@lab-notebook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/tabbed/0.png/0.png);padding: 0; }
+div.@a47878@plateau@lab-notebook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ca8f2a6bbb45dac0532784f4f0be13d9:b132c2f24f1c5805e9dd7988a9c50c9e:4ddb42793a59c1b7bfff1539dfc4d068$ */

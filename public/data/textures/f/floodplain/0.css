@@ -1,0 +1,47 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59743@ian@coastline-2d-coastal-floodplain {max-width:75px; max-height:75px; }
+.@a59743@ian@coastline-2d-coastal-floodplain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a59743@ian@coastline-2d-coastal-floodplain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61452@ian@river-3d-braided-coastal {max-width:75px; max-height:75px; }
+.@a61452@ian@river-3d-braided-coastal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61452@ian@river-3d-braided-coastal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61466@ian@river-3d-floodplain {max-width:75px; max-height:75px; }
+.@a61466@ian@river-3d-floodplain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61466@ian@river-3d-floodplain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61468@ian@river-3d-foothills-sandy-riverbed {max-width:75px; max-height:75px; }
+.@a61468@ian@river-3d-foothills-sandy-riverbed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61468@ian@river-3d-foothills-sandy-riverbed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61471@ian@river-3d-meandering-with-sandy-banks {max-width:75px; max-height:75px; }
+.@a61471@ian@river-3d-meandering-with-sandy-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61471@ian@river-3d-meandering-with-sandy-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61472@ian@river-3d-mountain-lake {max-width:75px; max-height:75px; }
+.@a61472@ian@river-3d-mountain-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61472@ian@river-3d-mountain-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61473@ian@river-3d-mountains-plain {max-width:75px; max-height:75px; }
+.@a61473@ian@river-3d-mountains-plain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61473@ian@river-3d-mountains-plain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61484@ian@river-3d-with-stream {max-width:75px; max-height:75px; }
+.@a61484@ian@river-3d-with-stream::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61484@ian@river-3d-with-stream::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61488@ian@river-valley-3d-gentle-slope {max-width:75px; max-height:75px; }
+.@a61488@ian@river-valley-3d-gentle-slope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61488@ian@river-valley-3d-gentle-slope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61489@ian@river-valley-3d-steep-slope {max-width:75px; max-height:75px; }
+.@a61489@ian@river-valley-3d-steep-slope::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61489@ian@river-valley-3d-steep-slope::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61709@ian@stream-3d-braided {max-width:75px; max-height:75px; }
+.@a61709@ian@stream-3d-braided::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61709@ian@stream-3d-braided::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61713@ian@stream-3d-sandy-banks-in-valley {max-width:75px; max-height:75px; }
+.@a61713@ian@stream-3d-sandy-banks-in-valley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/f/floodplain/0.png/0.png);padding: 0; }
+div.@a61713@ian@stream-3d-sandy-banks-in-valley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:39c64afc862822b654ee1d37b2482059:902e00f3483805de6cfd62c52a2ea9db:4ddb42793a59c1b7bfff1539dfc4d068$ */

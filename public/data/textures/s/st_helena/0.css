@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37611@mul@st_helena {max-width:75px; max-height:75px; }
+.@a37611@mul@st_helena::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/st_helena/0.png/0.png);padding: 0; }
+div.@a37611@mul@st_helena::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:34525734e46b64b7640100634ac930f6:a211295a6dd7289ec9510865a8511cf0:4ddb42793a59c1b7bfff1539dfc4d068$ */

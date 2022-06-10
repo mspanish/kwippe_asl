@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27948@ico@cut {max-width:75px; max-height:75px; }
+.@a27948@ico@cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a27948@ico@cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30147@lib@cut {max-width:75px; max-height:75px; }
+.@a30147@lib@cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a30147@lib@cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33115@mat@content-cut {max-width:75px; max-height:75px; }
+.@a33115@mat@content-cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a33115@mat@content-cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37177@mul@cut-and-paste {max-width:75px; max-height:75px; }
+.@a37177@mul@cut-and-paste::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a37177@mul@cut-and-paste::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37178@mul@cut {max-width:75px; max-height:75px; }
+.@a37178@mul@cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a37178@mul@cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49925@the@cut {max-width:75px; max-height:75px; }
+.@a49925@the@cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a49925@the@cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54092@wav@content-cut {max-width:75px; max-height:75px; }
+.@a54092@wav@content-cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a54092@wav@content-cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54110@wav@cut {max-width:75px; max-height:75px; }
+.@a54110@wav@cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a54110@wav@cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57613@xei@cut {max-width:75px; max-height:75px; }
+.@a57613@xei@cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a57613@xei@cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59695@ian@chisel {max-width:75px; max-height:75px; }
+.@a59695@ian@chisel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a59695@ian@chisel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60463@ian@hand-pruners {max-width:75px; max-height:75px; }
+.@a60463@ian@hand-pruners::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a60463@ian@hand-pruners::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60876@ian@mining-open-cut-mine {max-width:75px; max-height:75px; }
+.@a60876@ian@mining-open-cut-mine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@a60876@ian@mining-open-cut-mine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14021@gameicons-lorc@cut-palm {max-width:75px; max-height:75px; }
+.@b14021@gameicons-lorc@cut-palm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@b14021@gameicons-lorc@cut-palm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8531@web@cut {max-width:75px; max-height:75px; }
+.@b8531@web@cut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@b8531@web@cut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8532@web@cuthere {max-width:75px; max-height:75px; }
+.@b8532@web@cuthere::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/cut/0.png/0.png);padding: 0; }
+div.@b8532@web@cuthere::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:53413a98fa3dcb64868fc13ae6605933:f6f5b2614d20a4d8186e3a2dd0437849:4ddb42793a59c1b7bfff1539dfc4d068$ */

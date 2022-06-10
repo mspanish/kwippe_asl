@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14002@gameicons-lorc@crystal-bars {max-width:75px; max-height:75px; }
+.@b14002@gameicons-lorc@crystal-bars::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/crystal_bars/0.png/0.png);padding: 0; }
+div.@b14002@gameicons-lorc@crystal-bars::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:43b61993930899b8a7e1c55fd0d05f06:a0de3c060891a337190207aaa73ceb78:4ddb42793a59c1b7bfff1539dfc4d068$ */

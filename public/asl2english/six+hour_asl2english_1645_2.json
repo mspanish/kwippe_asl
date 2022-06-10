@@ -1,0 +1,37 @@
+{
+    "sign": "six+hour",
+    "signer": "asl2english",
+    "uid": 1645,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 8,
+            "nd": 18
+        },
+        "end": {
+            "d": 1,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "chin",
+        "chin"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12552@gameicons-delapouite@eight-ball {max-width:75px; max-height:75px; }
+.@b12552@gameicons-delapouite@eight-ball::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/eight_ball/0.png/0.png);padding: 0; }
+div.@b12552@gameicons-delapouite@eight-ball::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:875fdcf76c13c4c3b93ad6967c09b2b4:366e23feb84ad551deb2c6b6faed7e62:4ddb42793a59c1b7bfff1539dfc4d068$ */

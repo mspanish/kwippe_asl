@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59444@ian@bai-palauan-meeting-place {max-width:75px; max-height:75px; }
+.@a59444@ian@bai-palauan-meeting-place::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hut/0.png/0.png);padding: 0; }
+div.@a59444@ian@bai-palauan-meeting-place::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59622@ian@castor-canadensis-hut {max-width:75px; max-height:75px; }
+.@a59622@ian@castor-canadensis-hut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hut/0.png/0.png);padding: 0; }
+div.@a59622@ian@castor-canadensis-hut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61137@ian@pearl-farm-hut {max-width:75px; max-height:75px; }
+.@a61137@ian@pearl-farm-hut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hut/0.png/0.png);padding: 0; }
+div.@a61137@ian@pearl-farm-hut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61392@ian@reef_fishing_hut {max-width:75px; max-height:75px; }
+.@a61392@ian@reef_fishing_hut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hut/0.png/0.png);padding: 0; }
+div.@a61392@ian@reef_fishing_hut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12796@gameicons-delapouite@hut {max-width:75px; max-height:75px; }
+.@b12796@gameicons-delapouite@hut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/h/hut/0.png/0.png);padding: 0; }
+div.@b12796@gameicons-delapouite@hut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:693aad0ae0b34bf901341a23b852dfdb:60f0566bd20db6215b86902e1f7e0837:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36901@mul@clean-shoes-to {max-width:75px; max-height:75px; }
+.@a36901@mul@clean-shoes-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/shoes/0.png/0.png);padding: 0; }
+div.@a36901@mul@clean-shoes-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15274@gameicons-skoll@cement-shoes {max-width:75px; max-height:75px; }
+.@b15274@gameicons-skoll@cement-shoes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/shoes/0.png/0.png);padding: 0; }
+div.@b15274@gameicons-skoll@cement-shoes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a69042e023b9d01d9df05d418aee721b:3f7e9d37c2db5004a38621b6cc849978:4ddb42793a59c1b7bfff1539dfc4d068$ */

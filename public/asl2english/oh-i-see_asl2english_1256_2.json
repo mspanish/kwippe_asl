@@ -1,0 +1,37 @@
+{
+    "sign": "oh-i-see",
+    "signer": "asl2english",
+    "uid": 1256,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 81,
+            "nd": 81
+        },
+        "end": {
+            "d": 57,
+            "nd": 57
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

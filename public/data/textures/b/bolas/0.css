@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12795@gameicons-delapouite@hunting-bolas {max-width:75px; max-height:75px; }
+.@b12795@gameicons-delapouite@hunting-bolas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bolas/0.png/0.png);padding: 0; }
+div.@b12795@gameicons-delapouite@hunting-bolas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13798@gameicons-lorc@black-hole-bolas {max-width:75px; max-height:75px; }
+.@b13798@gameicons-lorc@black-hole-bolas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bolas/0.png/0.png);padding: 0; }
+div.@b13798@gameicons-lorc@black-hole-bolas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13813@gameicons-lorc@bolas {max-width:75px; max-height:75px; }
+.@b13813@gameicons-lorc@bolas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bolas/0.png/0.png);padding: 0; }
+div.@b13813@gameicons-lorc@bolas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2b23b2f02ffaea985474f2ee4d9f6dc2:fc697e9750cf8c6551bb70114b7ffaf8:4ddb42793a59c1b7bfff1539dfc4d068$ */

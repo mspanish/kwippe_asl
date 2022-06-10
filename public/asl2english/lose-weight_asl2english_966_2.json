@@ -1,0 +1,37 @@
+{
+    "sign": "lose-weight",
+    "signer": "asl2english",
+    "uid": 966,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 59,
+            "nd": 59
+        },
+        "end": {
+            "d": 38,
+            "nd": 38
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

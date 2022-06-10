@@ -1,0 +1,62 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14940@em2@first-quarter-moon-symbol {max-width:75px; max-height:75px; }
+.@a14940@em2@first-quarter-moon-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a14940@em2@first-quarter-moon-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15094@em2@last-quarter-moon-symbol {max-width:75px; max-height:75px; }
+.@a15094@em2@last-quarter-moon-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a15094@em2@last-quarter-moon-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16002@emo@first-quarter-moon {max-width:75px; max-height:75px; }
+.@a16002@emo@first-quarter-moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a16002@emo@first-quarter-moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16419@emo@last-quarter-moon {max-width:75px; max-height:75px; }
+.@a16419@emo@last-quarter-moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a16419@emo@last-quarter-moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17182@fir@u1f313-firstquartermoon {max-width:75px; max-height:75px; }
+.@a17182@fir@u1f313-firstquartermoon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a17182@fir@u1f313-firstquartermoon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17186@fir@u1f317-lastquartermoon {max-width:75px; max-height:75px; }
+.@a17186@fir@u1f317-lastquartermoon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a17186@fir@u1f317-lastquartermoon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27655@icf@moon-waning-quarter {max-width:75px; max-height:75px; }
+.@a27655@icf@moon-waning-quarter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a27655@icf@moon-waning-quarter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28401@jqe@first-quarter-moon-symbol {max-width:75px; max-height:75px; }
+.@a28401@jqe@first-quarter-moon-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a28401@jqe@first-quarter-moon-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28527@jqe@last-quarter-moon-symbol {max-width:75px; max-height:75px; }
+.@a28527@jqe@last-quarter-moon-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a28527@jqe@last-quarter-moon-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44344@not@first-quarter-moon-symbol {max-width:75px; max-height:75px; }
+.@a44344@not@first-quarter-moon-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a44344@not@first-quarter-moon-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44474@not@last-quarter-moon-symbol {max-width:75px; max-height:75px; }
+.@a44474@not@last-quarter-moon-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a44474@not@last-quarter-moon-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49694@str@637-first-quarter-moon {max-width:75px; max-height:75px; }
+.@a49694@str@637-first-quarter-moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a49694@str@637-first-quarter-moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51268@twe@first-quarter-moon-symbol {max-width:75px; max-height:75px; }
+.@a51268@twe@first-quarter-moon-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a51268@twe@first-quarter-moon-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51388@twe@last-quarter-moon-symbol {max-width:75px; max-height:75px; }
+.@a51388@twe@last-quarter-moon-symbol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a51388@twe@last-quarter-moon-symbol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56886@win@moon-first-quarter {max-width:75px; max-height:75px; }
+.@a56886@win@moon-first-quarter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a56886@win@moon-first-quarter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56890@win@moon-third-quarter {max-width:75px; max-height:75px; }
+.@a56890@win@moon-third-quarter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a56890@win@moon-third-quarter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60904@ian@moon-first-quarter {max-width:75px; max-height:75px; }
+.@a60904@ian@moon-first-quarter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/q/quarter/0.png/0.png);padding: 0; }
+div.@a60904@ian@moon-first-quarter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0374d5cf4cd92640c0d86274a4479124:c529be6184e1be6bec4fff09f2de35b8:4ddb42793a59c1b7bfff1539dfc4d068$ */

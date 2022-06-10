@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26176@her@bearded-axe {max-width:75px; max-height:75px; }
+.@a26176@her@bearded-axe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.25839793281653745% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@a26176@her@bearded-axe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26391@her@hatchet {max-width:75px; max-height:75px; }
+.@a26391@her@hatchet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 10.20671834625323% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@a26391@her@hatchet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27578@icf@hatchet {max-width:75px; max-height:75px; }
+.@a27578@icf@hatchet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.155038759689923% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@a27578@icf@hatchet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29639@knl@hatchet {max-width:75px; max-height:75px; }
+.@a29639@knl@hatchet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 30.103359173126616% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@a29639@knl@hatchet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40459@nog@axe-objects-tool {max-width:75px; max-height:75px; }
+.@a40459@nog@axe-objects-tool::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.05167958656331% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@a40459@nog@axe-objects-tool::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12190@gameicons-delapouite@axe-in-log {max-width:75px; max-height:75px; }
+.@b12190@gameicons-delapouite@axe-in-log::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@b12190@gameicons-delapouite@axe-in-log::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12298@gameicons-delapouite@broken-axe {max-width:75px; max-height:75px; }
+.@b12298@gameicons-delapouite@broken-axe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.94832041343669% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@b12298@gameicons-delapouite@broken-axe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12740@gameicons-delapouite@hatchet {max-width:75px; max-height:75px; }
+.@b12740@gameicons-delapouite@hatchet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 69.89664082687338% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@b12740@gameicons-delapouite@hatchet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14163@gameicons-lorc@fire-axe {max-width:75px; max-height:75px; }
+.@b14163@gameicons-lorc@fire-axe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.84496124031008% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@b14163@gameicons-lorc@fire-axe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14301@gameicons-lorc@hatchets {max-width:75px; max-height:75px; }
+.@b14301@gameicons-lorc@hatchets::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 89.79328165374677% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@b14301@gameicons-lorc@hatchets::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15095@gameicons-lorc@wood-axe {max-width:75px; max-height:75px; }
+.@b15095@gameicons-lorc@wood-axe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.74160206718346% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/h/hatchet/0.png/0.png);padding: 0; }
+div.@b15095@gameicons-lorc@wood-axe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:64c762703d2711a6ffea429d80bd96cd:43497b0552ca74651b6a96c36f005a9e:4ddb42793a59c1b7bfff1539dfc4d068$ */

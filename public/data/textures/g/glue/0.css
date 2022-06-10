@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1890@bon@glue-1771 {max-width:75px; max-height:75px; }
+.@a1890@bon@glue-1771::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glue/0.png/0.png);padding: 0; }
+div.@a1890@bon@glue-1771::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1891@bon@glue-and-glue-spreader1772 {max-width:75px; max-height:75px; }
+.@a1891@bon@glue-and-glue-spreader1772::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glue/0.png/0.png);padding: 0; }
+div.@a1891@bon@glue-and-glue-spreader1772::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1892@bon@glue-spreader-1773 {max-width:75px; max-height:75px; }
+.@a1892@bon@glue-spreader-1773::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glue/0.png/0.png);padding: 0; }
+div.@a1892@bon@glue-spreader-1773::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37783@mul@glue-stick {max-width:75px; max-height:75px; }
+.@a37783@mul@glue-stick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glue/0.png/0.png);padding: 0; }
+div.@a37783@mul@glue-stick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37784@mul@glue {max-width:75px; max-height:75px; }
+.@a37784@mul@glue::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glue/0.png/0.png);padding: 0; }
+div.@a37784@mul@glue::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a8ae6d95dae228c8012b35fc1c23d187:0d20f96723bc75aeb8a8355e0e87ac5d:4ddb42793a59c1b7bfff1539dfc4d068$ */

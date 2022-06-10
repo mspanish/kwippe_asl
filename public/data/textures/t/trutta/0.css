@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61525@ian@salmo-trutta {max-width:75px; max-height:75px; }
+.@a61525@ian@salmo-trutta::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/trutta/0.png/0.png);padding: 0; }
+div.@a61525@ian@salmo-trutta::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:612a7fff9c5cd16f66b33a274facf20c:b508146c79d6c176d1a68a9a6e49985d:4ddb42793a59c1b7bfff1539dfc4d068$ */

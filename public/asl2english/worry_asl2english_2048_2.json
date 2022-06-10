@@ -1,0 +1,37 @@
+{
+    "sign": "worry",
+    "signer": "asl2english",
+    "uid": 2048,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 46,
+            "nd": 46
+        },
+        "end": {
+            "d": 20,
+            "nd": 20
+        }
+    },
+    "regions": [
+        "forehead",
+        "chin"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

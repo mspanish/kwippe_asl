@@ -1,0 +1,289 @@
+{
+  "skeleton": {
+    "images": ".",
+    "spine": "4.0.63"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "background",
+      "x": -0.5,
+      "y": 0.5,
+      "parent": "root"
+    },
+    {
+      "name": "body",
+      "x": -1,
+      "y": -317,
+      "parent": "root"
+    },
+    {
+      "name": "faceshape",
+      "x": -0.5,
+      "y": 100,
+      "parent": "root"
+    },
+    {
+      "name": "ears",
+      "x": -1,
+      "y": 17.5,
+      "parent": "faceshape"
+    },
+    {
+      "name": "mouth",
+      "x": 2,
+      "y": -307.5,
+      "parent": "faceshape"
+    },
+    {
+      "name": "eyesback",
+      "x": 0,
+      "y": -39.5,
+      "parent": "faceshape"
+    },
+    {
+      "name": "eyesiris",
+      "x": 0,
+      "y": -42,
+      "parent": "faceshape"
+    },
+    {
+      "name": "eyesfront",
+      "x": 0,
+      "y": -39.5,
+      "parent": "faceshape"
+    },
+    {
+      "name": "eyebrows",
+      "x": 0,
+      "y": 48,
+      "parent": "faceshape"
+    },
+    {
+      "name": "hairfront",
+      "x": -13.5,
+      "y": -99.5,
+      "parent": "faceshape"
+    },
+    {
+      "name": "hairback",
+      "x": -4.5,
+      "y": -188,
+      "parent": "faceshape"
+    },
+    {
+      "name": "clothes",
+      "x": -0.5,
+      "y": -125,
+      "parent": "body"
+    },
+     {
+      "name": "clothes_bottom",
+      "x": 220,
+      "y": -680,
+      "parent": "body"
+    },   
+    {
+      "name": "nose",
+      "x": 2.5,
+      "y": -170,
+      "parent": "faceshape"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background",
+      "bone": "background",
+      "attachment": "background"
+    },
+    {
+      "name": "hairback",
+      "bone": "hairback",
+      "attachment": "hairback"
+    },
+    {
+      "name": "ears",
+      "bone": "ears",
+      "attachment": "ears"
+    },
+    {
+      "name": "body",
+      "bone": "body",
+      "attachment": "body"
+    },
+    {
+      "name": "faceshape",
+      "bone": "faceshape",
+      "attachment": "faceshape"
+    },
+    {
+      "name": "mouth",
+      "bone": "mouth",
+      "attachment": "mouth"
+    },
+    {
+      "name": "eyesback",
+      "bone": "eyesback",
+      "attachment": "eyesback"
+    },
+    {
+      "name": "eyesiris",
+      "bone": "eyesiris",
+      "attachment": "eyesiris"
+    },
+    {
+      "name": "eyesfront",
+      "bone": "eyesfront",
+      "attachment": "eyesfront"
+    },
+    {
+      "name": "eyebrows",
+      "bone": "eyebrows",
+      "attachment": "eyebrows"
+    },
+    {
+      "name": "hairfront",
+      "bone": "hairfront",
+      "attachment": "hairfront"
+    },
+    {
+      "name": "clothes",
+      "bone": "clothes",
+      "attachment": "clothes"
+    },
+    {
+      "name": "clothes_bottom",
+      "bone": "clothes_bottom",
+      "attachment": "clothes_bottom"
+    },    
+    {
+      "name": "nose",
+      "bone": "nose",
+      "attachment": "nose"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "background": {
+          "background": {
+            "x": 0,
+            "y": 0,
+            "width": 1599,
+            "height": 999
+          }
+        },
+        "body": {
+          "body": {
+            "x": 0,
+            "y": 0,
+            "width": 920,
+            "height": 364
+          }
+        },
+        "faceshape": {
+          "faceshape": {
+            "x": 0,
+            "y": 0,
+            "width": 617,
+            "height": 800
+          }
+        },
+        "ears": {
+          "ears": {
+            "x": 0,
+            "y": 0,
+            "width": 682,
+            "height": 209
+          }
+        },
+        "mouth": {
+          "mouth": {
+            "x": 0,
+            "y": 0,
+            "width": 199,
+            "height": 97
+          }
+        },
+        "eyesback": {
+          "eyesback": {
+            "x": 0,
+            "y": 0,
+            "width": 389,
+            "height": 99
+          }
+        },
+        "eyesiris": {
+          "eyesiris": {
+            "x": 0,
+            "y": 0,
+            "width": 343,
+            "height": 88
+          }
+        },
+        "eyesfront": {
+          "eyesfront": {
+            "x": 0,
+            "y": 0,
+            "width": 479,
+            "height": 249
+          }
+        },
+        "eyebrows": {
+          "eyebrows": {
+            "x": 0,
+            "y": 0,
+            "width": 455,
+            "height": 46
+          }
+        },
+        "hairfront": {
+          "hairfront": {
+            "x": 0,
+            "y": 0,
+            "width": 790,
+            "height": 999
+          }
+        },
+        "hairback": {
+          "hairback": {
+            "x": 0,
+            "y": 0,
+            "width": 692,
+            "height": 822
+          }
+        },
+        "clothes": {
+          "clothes": {
+            "x": 0,
+            "y": 0,
+            "width": 699,
+            "height": 114
+          }
+        },
+        "clothes_bottom": {
+          "clothes_bottom": {
+            "x": 0,
+            "y": 0,
+            "width": 1000,
+            "height": 1000          
+          }
+        },        
+        "nose": {
+          "nose": {
+            "x": 0,
+            "y": 0,
+            "width": 136,
+            "height": 90
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  }
+}

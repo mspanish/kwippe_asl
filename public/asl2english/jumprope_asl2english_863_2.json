@@ -1,0 +1,37 @@
+{
+    "sign": "jumprope",
+    "signer": "asl2english",
+    "uid": 863,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 80,
+            "nd": 80
+        },
+        "end": {
+            "d": 80,
+            "nd": 80
+        }
+    },
+    "regions": [
+        "right",
+        "right"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

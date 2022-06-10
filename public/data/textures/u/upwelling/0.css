@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60708@ian@light-meter {max-width:75px; max-height:75px; }
+.@a60708@ian@light-meter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/u/upwelling/0.png/0.png);padding: 0; }
+div.@a60708@ian@light-meter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61895@ian@upwelling {max-width:75px; max-height:75px; }
+.@a61895@ian@upwelling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/u/upwelling/0.png/0.png);padding: 0; }
+div.@a61895@ian@upwelling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e59d0aa95c65f416710c0d6b5d5ad8dd:0909a052b75f8ef140704b1ffb01d008:4ddb42793a59c1b7bfff1539dfc4d068$ */

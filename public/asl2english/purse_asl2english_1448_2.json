@@ -1,0 +1,37 @@
+{
+    "sign": "purse",
+    "signer": "asl2english",
+    "uid": 1448,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 36,
+            "nd": null
+        },
+        "end": {
+            "d": 36,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest",
+        "chest"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            1,
+            0,
+            0
+        ]
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

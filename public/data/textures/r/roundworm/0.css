@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59390@ian@ascaris-spp {max-width:75px; max-height:75px; }
+.@a59390@ian@ascaris-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/roundworm/0.png/0.png);padding: 0; }
+div.@a59390@ian@ascaris-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:769d740e0a1ee955128bc43355564cbc:86867f132679db160dbb6a1b7a9d8f21:4ddb42793a59c1b7bfff1539dfc4d068$ */

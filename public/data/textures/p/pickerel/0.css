@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60149@ian@esox-niger {max-width:75px; max-height:75px; }
+.@a60149@ian@esox-niger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pickerel/0.png/0.png);padding: 0; }
+div.@a60149@ian@esox-niger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61363@ian@rana-palustris-adult {max-width:75px; max-height:75px; }
+.@a61363@ian@rana-palustris-adult::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pickerel/0.png/0.png);padding: 0; }
+div.@a61363@ian@rana-palustris-adult::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61534@ian@sander-vitreus {max-width:75px; max-height:75px; }
+.@a61534@ian@sander-vitreus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pickerel/0.png/0.png);padding: 0; }
+div.@a61534@ian@sander-vitreus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3a5883047cb9302b7e779c882fc99d9a:e8be6bc61b5d2d71754677537d88ee4f:4ddb42793a59c1b7bfff1539dfc4d068$ */

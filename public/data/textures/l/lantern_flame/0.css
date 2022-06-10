@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14397@gameicons-lorc@lantern-flame {max-width:75px; max-height:75px; }
+.@b14397@gameicons-lorc@lantern-flame::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/lantern_flame/0.png/0.png);padding: 0; }
+div.@b14397@gameicons-lorc@lantern-flame::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d80f74eddfddab82357639941d6d3321:51c4256eecc80842f4a3eb178cbbfe9a:4ddb42793a59c1b7bfff1539dfc4d068$ */

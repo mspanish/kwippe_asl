@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38529@mul@pureed-food-2 {max-width:75px; max-height:75px; }
+.@a38529@mul@pureed-food-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/pureed_food/0.png/0.png);padding: 0; }
+div.@a38529@mul@pureed-food-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38530@mul@pureed-food {max-width:75px; max-height:75px; }
+.@a38530@mul@pureed-food::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/pureed_food/0.png/0.png);padding: 0; }
+div.@a38530@mul@pureed-food::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:77abb418b0ba838b0ca51b36ca16877b:bc60319f8d30071febc6799f4e9a329c:4ddb42793a59c1b7bfff1539dfc4d068$ */

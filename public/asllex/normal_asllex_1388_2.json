@@ -1,0 +1,45 @@
+{
+    "sign": "normal",
+    "signer": "aslLex",
+    "uid": 1559,
+    "synonyms": "national, native, natural, naturally, nature, normal, normally, of course",
+    "handshapes": {
+        "begin": {
+            "d": "h",
+            "nd": "B"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "HandAway",
+        "morph1_specific_second": "PalmBack",
+        "morph1_contact": null,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "Circular",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 4.0,
+    "frequency": 5.556,
+    "category": null
+}

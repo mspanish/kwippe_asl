@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61280@ian@powerboat-sportfisher {max-width:75px; max-height:75px; }
+.@a61280@ian@powerboat-sportfisher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/motorized/0.png/0.png);padding: 0; }
+div.@a61280@ian@powerboat-sportfisher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ed3b5f89b8b9161c72fb5ae1562b6ec3:9988d8291b752808e3b32881044bec78:4ddb42793a59c1b7bfff1539dfc4d068$ */

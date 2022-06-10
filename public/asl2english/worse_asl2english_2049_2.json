@@ -1,0 +1,37 @@
+{
+    "sign": "worse",
+    "signer": "asl2english",
+    "uid": 2049,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 58,
+            "nd": 58
+        },
+        "end": {
+            "d": 58,
+            "nd": 58
+        }
+    },
+    "regions": [
+        "high-right",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            0,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "nephew",
+    "signer": "asl2english",
+    "uid": 1076,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 28,
+            "nd": null
+        },
+        "end": {
+            "d": 28,
+            "nd": null
+        }
+    },
+    "regions": [
+        "forehead",
+        "forehead"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

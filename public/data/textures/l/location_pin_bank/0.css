@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a389@ara@location-pin-bank-2 {max-width:75px; max-height:75px; }
+.@a389@ara@location-pin-bank-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/location_pin_bank/0.png/0.png);padding: 0; }
+div.@a389@ara@location-pin-bank-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:83c52413c8156679a156a55793de9ad1:27088b29b763d1a9401b9c6c212a09d1:4ddb42793a59c1b7bfff1539dfc4d068$ */

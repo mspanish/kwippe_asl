@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14513@gameicons-lorc@missile-mech {max-width:75px; max-height:75px; }
+.@b14513@gameicons-lorc@missile-mech::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/missile_mech/0.png/0.png);padding: 0; }
+div.@b14513@gameicons-lorc@missile-mech::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1f910fda113231e9a8345d606f48cb28:dfd1725c8aec503642d1a91f69a50875:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60099@ian@eleocharis-dulcis {max-width:75px; max-height:75px; }
+.@a60099@ian@eleocharis-dulcis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/eleocharis/0.png/0.png);padding: 0; }
+div.@a60099@ian@eleocharis-dulcis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60100@ian@eleocharis-spp {max-width:75px; max-height:75px; }
+.@a60100@ian@eleocharis-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/eleocharis/0.png/0.png);padding: 0; }
+div.@a60100@ian@eleocharis-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8cc9c9412c93e95029398a7d332d91ea:db09bcbd1a2442a559d1a200e86b3196:4ddb42793a59c1b7bfff1539dfc4d068$ */

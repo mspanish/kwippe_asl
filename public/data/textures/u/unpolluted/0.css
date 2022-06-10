@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62190@ian@water-quality {max-width:75px; max-height:75px; }
+.@a62190@ian@water-quality::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/u/unpolluted/0.png/0.png);padding: 0; }
+div.@a62190@ian@water-quality::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4cdafa81b8f5f72abc415e76635a0095:ace89b7705b17a06f907327150f7eda6:4ddb42793a59c1b7bfff1539dfc4d068$ */

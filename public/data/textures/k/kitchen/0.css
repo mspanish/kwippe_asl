@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2023@bon@kitchen-4049 {max-width:75px; max-height:75px; }
+.@a2023@bon@kitchen-4049::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/k/kitchen/0.png/0.png);padding: 0; }
+div.@a2023@bon@kitchen-4049::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2024@bon@kitchen-6262 {max-width:75px; max-height:75px; }
+.@a2024@bon@kitchen-6262::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/k/kitchen/0.png/0.png);padding: 0; }
+div.@a2024@bon@kitchen-6262::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12853@gameicons-delapouite@kitchen-scale {max-width:75px; max-height:75px; }
+.@b12853@gameicons-delapouite@kitchen-scale::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/k/kitchen/0.png/0.png);padding: 0; }
+div.@b12853@gameicons-delapouite@kitchen-scale::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14390@gameicons-lorc@kitchen-knives {max-width:75px; max-height:75px; }
+.@b14390@gameicons-lorc@kitchen-knives::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/k/kitchen/0.png/0.png);padding: 0; }
+div.@b14390@gameicons-lorc@kitchen-knives::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:548e55fa7411d810cbe6fe372988886b:b9ef9a133fa055ce1769dcc3d493c83f:4ddb42793a59c1b7bfff1539dfc4d068$ */

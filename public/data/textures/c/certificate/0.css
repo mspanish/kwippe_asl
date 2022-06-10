@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27356@icf@document-certificate {max-width:75px; max-height:75px; }
+.@a27356@icf@document-certificate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/certificate/0.png/0.png);padding: 0; }
+div.@a27356@icf@document-certificate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28992@jqu@certificate {max-width:75px; max-height:75px; }
+.@a28992@jqu@certificate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/certificate/0.png/0.png);padding: 0; }
+div.@a28992@jqu@certificate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30119@lib@certificate {max-width:75px; max-height:75px; }
+.@a30119@lib@certificate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/certificate/0.png/0.png);padding: 0; }
+div.@a30119@lib@certificate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32843@mat@certificate {max-width:75px; max-height:75px; }
+.@a32843@mat@certificate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/certificate/0.png/0.png);padding: 0; }
+div.@a32843@mat@certificate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36813@mul@certificate {max-width:75px; max-height:75px; }
+.@a36813@mul@certificate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/certificate/0.png/0.png);padding: 0; }
+div.@a36813@mul@certificate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46541@pap@application-certificate-symbolic {max-width:75px; max-height:75px; }
+.@a46541@pap@application-certificate-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/certificate/0.png/0.png);padding: 0; }
+div.@a46541@pap@application-certificate-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a676@awe@certificate {max-width:75px; max-height:75px; }
+.@a676@awe@certificate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/certificate/0.png/0.png);padding: 0; }
+div.@a676@awe@certificate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8317@web@certificate {max-width:75px; max-height:75px; }
+.@b8317@web@certificate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/certificate/0.png/0.png);padding: 0; }
+div.@b8317@web@certificate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d4480f32b655c652e6185d8d5d202578:60dc1e1ca774bb73ee7af7eaa9fc07d0:4ddb42793a59c1b7bfff1539dfc4d068$ */

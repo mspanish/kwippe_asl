@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13041@gameicons-delapouite@organigram {max-width:75px; max-height:75px; }
+.@b13041@gameicons-delapouite@organigram::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/organigram/0.png/0.png);padding: 0; }
+div.@b13041@gameicons-delapouite@organigram::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:410f345d6b0fc1c0d48521c86cae1b13:e6f86f9e84d42caabe3a579cf458d44c:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1509@bon@bake-tray-2500 {max-width:75px; max-height:75px; }
+.@a1509@bon@bake-tray-2500::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tray/0.png/0.png);padding: 0; }
+div.@a1509@bon@bake-tray-2500::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1678@bon@cool-tray-2517 {max-width:75px; max-height:75px; }
+.@a1678@bon@cool-tray-2517::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tray/0.png/0.png);padding: 0; }
+div.@a1678@bon@cool-tray-2517::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2155@bon@paint-tray-1781 {max-width:75px; max-height:75px; }
+.@a2155@bon@paint-tray-1781::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tray/0.png/0.png);padding: 0; }
+div.@a2155@bon@paint-tray-1781::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2600@bon@tray-2569 {max-width:75px; max-height:75px; }
+.@a2600@bon@tray-2569::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tray/0.png/0.png);padding: 0; }
+div.@a2600@bon@tray-2569::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36513@mul@baking-tray {max-width:75px; max-height:75px; }
+.@a36513@mul@baking-tray::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tray/0.png/0.png);padding: 0; }
+div.@a36513@mul@baking-tray::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39071@mul@tray {max-width:75px; max-height:75px; }
+.@a39071@mul@tray::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tray/0.png/0.png);padding: 0; }
+div.@a39071@mul@tray::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13061@gameicons-delapouite@paper-tray {max-width:75px; max-height:75px; }
+.@b13061@gameicons-delapouite@paper-tray::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/tray/0.png/0.png);padding: 0; }
+div.@b13061@gameicons-delapouite@paper-tray::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:50308bd88e08d82d591d33da3125f69a:3e365cf7f478db22cb0f4968ad338c59:4ddb42793a59c1b7bfff1539dfc4d068$ */

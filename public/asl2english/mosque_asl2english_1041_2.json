@@ -1,0 +1,37 @@
+{
+    "sign": "mosque",
+    "signer": "asl2english",
+    "uid": 1041,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 27,
+            "nd": 20
+        },
+        "end": {
+            "d": 27,
+            "nd": 20
+        }
+    },
+    "regions": [
+        "hand",
+        "hand"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

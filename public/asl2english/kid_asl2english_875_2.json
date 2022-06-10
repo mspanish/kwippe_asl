@@ -1,0 +1,37 @@
+{
+    "sign": "kid",
+    "signer": "asl2english",
+    "uid": 875,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 25,
+            "nd": null
+        },
+        "end": {
+            "d": 25,
+            "nd": null
+        }
+    },
+    "regions": [
+        "mouth",
+        "mouth"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

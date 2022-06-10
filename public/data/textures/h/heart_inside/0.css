@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14308@gameicons-lorc@heart-inside {max-width:75px; max-height:75px; }
+.@b14308@gameicons-lorc@heart-inside::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/heart_inside/0.png/0.png);padding: 0; }
+div.@b14308@gameicons-lorc@heart-inside::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fcfb5cce59a25ab30edcd993b6aad6fb:fd0b46d9eb2deaf8769ff587ecddbdd9:4ddb42793a59c1b7bfff1539dfc4d068$ */

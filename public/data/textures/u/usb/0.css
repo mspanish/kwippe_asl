@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a30036@knl@usb {max-width:75px; max-height:75px; }
+.@a30036@knl@usb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/usb/0.png/0.png);padding: 0; }
+div.@a30036@knl@usb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31136@lin@usb {max-width:75px; max-height:75px; }
+.@a31136@lin@usb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/usb/0.png/0.png);padding: 0; }
+div.@a31136@lin@usb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39118@mul@usb-stick {max-width:75px; max-height:75px; }
+.@a39118@mul@usb-stick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/usb/0.png/0.png);padding: 0; }
+div.@a39118@mul@usb-stick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56117@web@usbflash {max-width:75px; max-height:75px; }
+.@a56117@web@usbflash::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/usb/0.png/0.png);padding: 0; }
+div.@a56117@web@usbflash::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56118@web@usbplug {max-width:75px; max-height:75px; }
+.@a56118@web@usbplug::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/usb/0.png/0.png);padding: 0; }
+div.@a56118@web@usbplug::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58102@xei@usb-drive {max-width:75px; max-height:75px; }
+.@a58102@xei@usb-drive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/usb/0.png/0.png);padding: 0; }
+div.@a58102@xei@usb-drive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58641@baianet@group {max-width:75px; max-height:75px; }
+.@a58641@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/usb/0.png/0.png);padding: 0; }
+div.@a58641@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13567@gameicons-delapouite@usb-key {max-width:75px; max-height:75px; }
+.@b13567@gameicons-delapouite@usb-key::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/usb/0.png/0.png);padding: 0; }
+div.@b13567@gameicons-delapouite@usb-key::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d544501ce4676c72af965703f46d58ee:b24c270e94ab340ff1ba7c0779e9a573:4ddb42793a59c1b7bfff1539dfc4d068$ */

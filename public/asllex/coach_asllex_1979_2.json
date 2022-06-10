@@ -1,0 +1,45 @@
+{
+    "sign": "coach",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "c",
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Body",
+        "morph1_specific": "Shoulder",
+        "morph1_specific_second": "BodyAway",
+        "morph1_contact": null,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 1,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 2.0,
+    "frequency": 1.333,
+    "category": null
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "rabbit",
+    "signer": "asl2english",
+    "uid": 1466,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 75,
+            "nd": null
+        },
+        "end": {
+            "d": 86,
+            "nd": 86
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

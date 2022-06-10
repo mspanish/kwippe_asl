@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a430@ara@photo-portrait {max-width:75px; max-height:75px; }
+.@a430@ara@photo-portrait::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/portrait/0.png/0.png);padding: 0; }
+div.@a430@ara@photo-portrait::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54625@wav@portrait {max-width:75px; max-height:75px; }
+.@a54625@wav@portrait::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/portrait/0.png/0.png);padding: 0; }
+div.@a54625@wav@portrait::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54806@wav@stay-current-portrait {max-width:75px; max-height:75px; }
+.@a54806@wav@stay-current-portrait::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/portrait/0.png/0.png);padding: 0; }
+div.@a54806@wav@stay-current-portrait::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54808@wav@stay-primary-portrait {max-width:75px; max-height:75px; }
+.@a54808@wav@stay-primary-portrait::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/portrait/0.png/0.png);padding: 0; }
+div.@a54808@wav@stay-primary-portrait::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55613@web@portrait {max-width:75px; max-height:75px; }
+.@a55613@web@portrait::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/p/portrait/0.png/0.png);padding: 0; }
+div.@a55613@web@portrait::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a23fd00e9f98b165c74f4788825791bd:7177bfdc4c745dc3226c44f10a932409:4ddb42793a59c1b7bfff1539dfc4d068$ */

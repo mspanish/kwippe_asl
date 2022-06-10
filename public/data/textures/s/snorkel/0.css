@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a32077@map@scuba-diving {max-width:75px; max-height:75px; }
+.@a32077@map@scuba-diving::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/snorkel/0.png/0.png);padding: 0; }
+div.@a32077@map@scuba-diving::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41365@nog@diving-mask-activities-sport {max-width:75px; max-height:75px; }
+.@a41365@nog@diving-mask-activities-sport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/snorkel/0.png/0.png);padding: 0; }
+div.@a41365@nog@diving-mask-activities-sport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58415@baianet@group {max-width:75px; max-height:75px; }
+.@a58415@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/snorkel/0.png/0.png);padding: 0; }
+div.@a58415@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61400@ian@research-snorkeller {max-width:75px; max-height:75px; }
+.@a61400@ian@research-snorkeller::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/snorkel/0.png/0.png);padding: 0; }
+div.@a61400@ian@research-snorkeller::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61646@ian@snorkelling-child {max-width:75px; max-height:75px; }
+.@a61646@ian@snorkelling-child::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/snorkel/0.png/0.png);padding: 0; }
+div.@a61646@ian@snorkelling-child::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61647@ian@snorkelling-woman {max-width:75px; max-height:75px; }
+.@a61647@ian@snorkelling-woman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/snorkel/0.png/0.png);padding: 0; }
+div.@a61647@ian@snorkelling-woman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15221@gameicons-sbed@snorkel {max-width:75px; max-height:75px; }
+.@b15221@gameicons-sbed@snorkel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/snorkel/0.png/0.png);padding: 0; }
+div.@b15221@gameicons-sbed@snorkel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:af6554b73196eccb00cae0b589eb00ce:c50426004661fc3fef4163c108901e39:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36941@mul@collar-pet {max-width:75px; max-height:75px; }
+.@a36941@mul@collar-pet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pet/0.png/0.png);padding: 0; }
+div.@a36941@mul@collar-pet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38411@mul@pet-blanket {max-width:75px; max-height:75px; }
+.@a38411@mul@pet-blanket::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pet/0.png/0.png);padding: 0; }
+div.@a38411@mul@pet-blanket::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38412@mul@pet-brush {max-width:75px; max-height:75px; }
+.@a38412@mul@pet-brush::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pet/0.png/0.png);padding: 0; }
+div.@a38412@mul@pet-brush::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38413@mul@pet-carrier {max-width:75px; max-height:75px; }
+.@a38413@mul@pet-carrier::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pet/0.png/0.png);padding: 0; }
+div.@a38413@mul@pet-carrier::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38415@mul@pet-comb {max-width:75px; max-height:75px; }
+.@a38415@mul@pet-comb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pet/0.png/0.png);padding: 0; }
+div.@a38415@mul@pet-comb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61153@ian@pet-waste-station {max-width:75px; max-height:75px; }
+.@a61153@ian@pet-waste-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/pet/0.png/0.png);padding: 0; }
+div.@a61153@ian@pet-waste-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:114ef19198c3add094d960d6d3f25bb7:4152dc9d4e558f25213679dab2950b70:4ddb42793a59c1b7bfff1539dfc4d068$ */

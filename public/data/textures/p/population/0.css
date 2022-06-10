@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59494@ian@bioindicators {max-width:75px; max-height:75px; }
+.@a59494@ian@bioindicators::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/population/0.png/0.png);padding: 0; }
+div.@a59494@ian@bioindicators::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60081@ian@effects-gains {max-width:75px; max-height:75px; }
+.@a60081@ian@effects-gains::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/population/0.png/0.png);padding: 0; }
+div.@a60081@ian@effects-gains::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60898@ian@monitoring-deer-population-count {max-width:75px; max-height:75px; }
+.@a60898@ian@monitoring-deer-population-count::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/population/0.png/0.png);padding: 0; }
+div.@a60898@ian@monitoring-deer-population-count::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61277@ian@potential-seagrass-habitat {max-width:75px; max-height:75px; }
+.@a61277@ian@potential-seagrass-habitat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/population/0.png/0.png);padding: 0; }
+div.@a61277@ian@potential-seagrass-habitat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61573@ian@seagrass-grazer {max-width:75px; max-height:75px; }
+.@a61573@ian@seagrass-grazer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/population/0.png/0.png);padding: 0; }
+div.@a61573@ian@seagrass-grazer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61574@ian@seagrass-growth {max-width:75px; max-height:75px; }
+.@a61574@ian@seagrass-growth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/population/0.png/0.png);padding: 0; }
+div.@a61574@ian@seagrass-growth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61585@ian@seagrass-loss-recovery {max-width:75px; max-height:75px; }
+.@a61585@ian@seagrass-loss-recovery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/population/0.png/0.png);padding: 0; }
+div.@a61585@ian@seagrass-loss-recovery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61586@ian@seagrass-loss {max-width:75px; max-height:75px; }
+.@a61586@ian@seagrass-loss::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/population/0.png/0.png);padding: 0; }
+div.@a61586@ian@seagrass-loss::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:19600d60c0af36e72a56cd89d166992d:76f32697ed866a9668929351eead05d4:4ddb42793a59c1b7bfff1539dfc4d068$ */

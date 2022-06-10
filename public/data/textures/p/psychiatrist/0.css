@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2224@bon@psychiatrist-5516 {max-width:75px; max-height:75px; }
+.@a2224@bon@psychiatrist-5516::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/psychiatrist/0.png/0.png);padding: 0; }
+div.@a2224@bon@psychiatrist-5516::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2225@bon@psychiatrist-7054 {max-width:75px; max-height:75px; }
+.@a2225@bon@psychiatrist-7054::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/psychiatrist/0.png/0.png);padding: 0; }
+div.@a2225@bon@psychiatrist-7054::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d460bed571b341e334b8232163fbcf33:ee99f0dd2b4b22ab1f8c2ff1a6fb3ccd:4ddb42793a59c1b7bfff1539dfc4d068$ */

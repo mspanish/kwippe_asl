@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36866@mul@chips-packet {max-width:75px; max-height:75px; }
+.@a36866@mul@chips-packet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/chips/0.png/0.png);padding: 0; }
+div.@a36866@mul@chips-packet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36867@mul@chips {max-width:75px; max-height:75px; }
+.@a36867@mul@chips::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/chips/0.png/0.png);padding: 0; }
+div.@a36867@mul@chips::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37439@mul@fish-and-chips {max-width:75px; max-height:75px; }
+.@a37439@mul@fish-and-chips::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/chips/0.png/0.png);padding: 0; }
+div.@a37439@mul@fish-and-chips::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37748@mul@frozen-chips {max-width:75px; max-height:75px; }
+.@a37748@mul@frozen-chips::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/chips/0.png/0.png);padding: 0; }
+div.@a37748@mul@frozen-chips::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38944@mul@takeaway-burger-and-chips {max-width:75px; max-height:75px; }
+.@a38944@mul@takeaway-burger-and-chips::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/chips/0.png/0.png);padding: 0; }
+div.@a38944@mul@takeaway-burger-and-chips::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12383@gameicons-delapouite@chips-bag {max-width:75px; max-height:75px; }
+.@b12383@gameicons-delapouite@chips-bag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/chips/0.png/0.png);padding: 0; }
+div.@b12383@gameicons-delapouite@chips-bag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:12e1ff92774e306dce0927ebc92d6b67:fa7893ccb46478244dac5d315d0d6917:4ddb42793a59c1b7bfff1539dfc4d068$ */

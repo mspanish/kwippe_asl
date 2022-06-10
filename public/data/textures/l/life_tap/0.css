@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14419@gameicons-lorc@life-tap {max-width:75px; max-height:75px; }
+.@b14419@gameicons-lorc@life-tap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/life_tap/0.png/0.png);padding: 0; }
+div.@b14419@gameicons-lorc@life-tap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6a5280da7e4ee3b9a3ec991eff954f1b:756fda19fde81daf7d28e9cdb7dde070:4ddb42793a59c1b7bfff1539dfc4d068$ */

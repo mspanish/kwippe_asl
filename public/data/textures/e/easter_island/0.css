@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25909@gli@statue_foot_1 {max-width:75px; max-height:75px; }
+.@a25909@gli@statue_foot_1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/easter_island/0.png/0.png);padding: 0; }
+div.@a25909@gli@statue_foot_1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25910@gli@statue_foot_2 {max-width:75px; max-height:75px; }
+.@a25910@gli@statue_foot_2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/easter_island/0.png/0.png);padding: 0; }
+div.@a25910@gli@statue_foot_2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25911@gli@statue_head_1 {max-width:75px; max-height:75px; }
+.@a25911@gli@statue_head_1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/easter_island/0.png/0.png);padding: 0; }
+div.@a25911@gli@statue_head_1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25912@gli@statue_head_2 {max-width:75px; max-height:75px; }
+.@a25912@gli@statue_head_2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/easter_island/0.png/0.png);padding: 0; }
+div.@a25912@gli@statue_head_2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45450@ope@monument_faim8 {max-width:75px; max-height:75px; }
+.@a45450@ope@monument_faim8::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/easter_island/0.png/0.png);padding: 0; }
+div.@a45450@ope@monument_faim8::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:592d6df130bf80d0881ae49367fe0e89:4e03c434ba83f84821eda8507704fbc0:4ddb42793a59c1b7bfff1539dfc4d068$ */

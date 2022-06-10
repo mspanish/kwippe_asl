@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16988@emo@wind-blowing-face {max-width:75px; max-height:75px; }
+.@a16988@emo@wind-blowing-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blowing/0.png/0.png);padding: 0; }
+div.@a16988@emo@wind-blowing-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28913@jqe@wind-blowing-face {max-width:75px; max-height:75px; }
+.@a28913@jqe@wind-blowing-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blowing/0.png/0.png);padding: 0; }
+div.@a28913@jqe@wind-blowing-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40310@noc@wind-blowing-face {max-width:75px; max-height:75px; }
+.@a40310@noc@wind-blowing-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blowing/0.png/0.png);padding: 0; }
+div.@a40310@noc@wind-blowing-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43943@nog@wind-blowing-face-travel-places {max-width:75px; max-height:75px; }
+.@a43943@nog@wind-blowing-face-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blowing/0.png/0.png);padding: 0; }
+div.@a43943@nog@wind-blowing-face-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49212@str@014-face-blowing-a-kiss {max-width:75px; max-height:75px; }
+.@a49212@str@014-face-blowing-a-kiss::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blowing/0.png/0.png);padding: 0; }
+div.@a49212@str@014-face-blowing-a-kiss::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51023@tw2@wind-blowing-face {max-width:75px; max-height:75px; }
+.@a51023@tw2@wind-blowing-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blowing/0.png/0.png);padding: 0; }
+div.@a51023@tw2@wind-blowing-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b10045@em2@wind-blowing-face {max-width:75px; max-height:75px; }
+.@b10045@em2@wind-blowing-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/blowing/0.png/0.png);padding: 0; }
+div.@b10045@em2@wind-blowing-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7b9d7fe49c559bf2107726fd4f9c3659:21a17431fd80125287fad0bb7ce96307:4ddb42793a59c1b7bfff1539dfc4d068$ */

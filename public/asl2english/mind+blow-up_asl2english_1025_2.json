@@ -1,0 +1,35 @@
+{
+    "sign": "mind+blow-up",
+    "signer": "asl2english",
+    "uid": 1025,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": null
+        },
+        "end": {
+            "d": 18,
+            "nd": 82
+        }
+    },
+    "regions": [
+        "forehead",
+        "chest"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            "0, -1, 0"
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

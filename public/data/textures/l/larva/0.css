@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59893@ian@coral-larvae {max-width:75px; max-height:75px; }
+.@a59893@ian@coral-larvae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/larva/0.png/0.png);padding: 0; }
+div.@a59893@ian@coral-larvae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59918@ian@crustacean-nauplius {max-width:75px; max-height:75px; }
+.@a59918@ian@crustacean-nauplius::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/larva/0.png/0.png);padding: 0; }
+div.@a59918@ian@crustacean-nauplius::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60823@ian@mayfly-larva {max-width:75px; max-height:75px; }
+.@a60823@ian@mayfly-larva::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/larva/0.png/0.png);padding: 0; }
+div.@a60823@ian@mayfly-larva::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61120@ian@paralichthys-dentatus-larval {max-width:75px; max-height:75px; }
+.@a61120@ian@paralichthys-dentatus-larval::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/larva/0.png/0.png);padding: 0; }
+div.@a61120@ian@paralichthys-dentatus-larval::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61702@ian@stonefly-larva {max-width:75px; max-height:75px; }
+.@a61702@ian@stonefly-larva::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/l/larva/0.png/0.png);padding: 0; }
+div.@a61702@ian@stonefly-larva::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:97f8a407d166336293ab5ab06ea16690:14105aac07b3d3082d87b4399d4fcad1:4ddb42793a59c1b7bfff1539dfc4d068$ */

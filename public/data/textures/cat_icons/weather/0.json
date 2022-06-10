@@ -1,0 +1,121 @@
+
+{
+
+"city": { 
+	"vb": "35 35 -0 -0",
+ },
+"city~dusk": { 
+	"vb": "35 35 -0 -0",
+ },
+"city~foggy-cloudy": { 
+	"vb": "35 35 -0 -35",
+ },
+"city~starry_night": { 
+	"vb": "35 35 -35 -0",
+ },
+"city~starry_night~window": { 
+	"vb": "35 35 -0 -70",
+ },
+"city~sunset": { 
+	"vb": "35 35 -35 -35",
+ },
+"cloud-cloudy": { 
+	"vb": "35 29 -315 -33",
+ },
+"cloud-cloudy~lightning": { 
+	"vb": "29 35 -311 -91",
+ },
+"cloud-cloudy~moon": { 
+	"vb": "35 35 -70 -0",
+ },
+"cloud-cloudy~partially_sunny": { 
+	"vb": "35 35 -35 -70",
+ },
+"fog-foggy": { 
+	"vb": "35 21 -0 -105",
+ },
+"moon": { 
+	"vb": "35 33 -245 -70",
+ },
+"rain-rainy": { 
+	"vb": "35 35 -70 -35",
+ },
+"rain-rainy~drop-droplet": { 
+	"vb": "25 35 -350 -0",
+ },
+"rain-rainy~drop-droplet~multiple": { 
+	"vb": "35 35 -105 -0",
+ },
+"rain-rainy~heavy": { 
+	"vb": "31 19 -280 -105",
+ },
+"rain-rainy~partially_sunny": { 
+	"vb": "35 35 -70 -70",
+ },
+"rain-rainy~thunder-lightening": { 
+	"vb": "29 35 -340 -91",
+ },
+"rainbow": { 
+	"vb": "35 35 -105 -35",
+ },
+"snow-snowy": { 
+	"vb": "35 35 -140 -0",
+ },
+"snow-snowy~heavy": { 
+	"vb": "33 35 -280 -35",
+ },
+"storm": { 
+	"vb": "35 35 -105 -70",
+ },
+"sun-sunny": { 
+	"vb": "35 35 -140 -35",
+ },
+"sun-sunny~sunrise-sun_up-morning": { 
+	"vb": "35 35 -175 -0",
+ },
+"sun-sunny~sunrise-sun_up-morning~icons": { 
+	"vb": "35 35 -140 -70",
+ },
+"sun-sunny~sunset-sun_down-night": { 
+	"vb": "35 25 -245 -103",
+ },
+"thermometer-temperature": { 
+	"vb": "13 35 -350 -35",
+ },
+"umbrella": { 
+	"vb": "35 35 -175 -35",
+ },
+"umbrella~closed": { 
+	"vb": "35 35 -210 -0",
+ },
+"umbrella~rain": { 
+	"vb": "35 35 -175 -70",
+ },
+"umbrella~sun-beach": { 
+	"vb": "35 35 -210 -35",
+ },
+"wave": { 
+	"vb": "35 35 -245 -0",
+ },
+"wave~icons": { 
+	"vb": "35 33 -315 -0",
+ },
+"weather": { 
+	"vb": "35 35 -0 -0",
+ },
+"wind-windy": { 
+	"vb": "35 29 -313 -62",
+ },
+"wind-windy~blowing": { 
+	"vb": "35 35 -210 -70",
+ },
+"wind-windy~chime": { 
+	"vb": "35 35 -245 -35",
+ },
+"wind-windy~mill": { 
+	"vb": "31 35 -280 -70",
+ },
+"wind-windy~sock": { 
+	"vb": "35 35 -280 -0",
+ },
+}

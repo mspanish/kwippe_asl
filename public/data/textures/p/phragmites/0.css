@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61181@ian@phragmites-australis-singular {max-width:75px; max-height:75px; }
+.@a61181@ian@phragmites-australis-singular::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/phragmites/0.png/0.png);padding: 0; }
+div.@a61181@ian@phragmites-australis-singular::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61182@ian@phragmites-australis {max-width:75px; max-height:75px; }
+.@a61182@ian@phragmites-australis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/phragmites/0.png/0.png);padding: 0; }
+div.@a61182@ian@phragmites-australis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dbc4f7e4ef8ff9b1360e454ff5adc9e9:9639d7474cc72ecec86a207d323d8971:4ddb42793a59c1b7bfff1539dfc4d068$ */

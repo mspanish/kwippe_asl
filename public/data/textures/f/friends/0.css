@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1831@bon@felt-you-had-no-friends-5276 {max-width:75px; max-height:75px; }
+.@a1831@bon@felt-you-had-no-friends-5276::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/f/friends/0.png/0.png);padding: 0; }
+div.@a1831@bon@felt-you-had-no-friends-5276::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1875@bon@friends-5770 {max-width:75px; max-height:75px; }
+.@a1875@bon@friends-5770::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/f/friends/0.png/0.png);padding: 0; }
+div.@a1875@bon@friends-5770::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56@aac@friends {max-width:75px; max-height:75px; }
+.@a56@aac@friends::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/f/friends/0.png/0.png);padding: 0; }
+div.@a56@aac@friends::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13482@gameicons-delapouite@three-friends {max-width:75px; max-height:75px; }
+.@b13482@gameicons-delapouite@three-friends::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/f/friends/0.png/0.png);padding: 0; }
+div.@b13482@gameicons-delapouite@three-friends::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:477a919fae1266fedc03206b01ff19cb:5ed1351ebe786650793cf3f3bd0ca639:4ddb42793a59c1b7bfff1539dfc4d068$ */

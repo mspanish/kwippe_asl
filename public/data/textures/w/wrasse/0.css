@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59682@ian@cheilinus-spp-1 {max-width:75px; max-height:75px; }
+.@a59682@ian@cheilinus-spp-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/wrasse/0.png/0.png);padding: 0; }
+div.@a59682@ian@cheilinus-spp-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59683@ian@cheilinus-spp-2 {max-width:75px; max-height:75px; }
+.@a59683@ian@cheilinus-spp-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/wrasse/0.png/0.png);padding: 0; }
+div.@a59683@ian@cheilinus-spp-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59899@ian@coris-julis {max-width:75px; max-height:75px; }
+.@a59899@ian@coris-julis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/wrasse/0.png/0.png);padding: 0; }
+div.@a59899@ian@coris-julis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fe3ca0bb383a5d5bf76e95861de7171e:4e5b050db9b7dea156450084664d0763:4ddb42793a59c1b7bfff1539dfc4d068$ */

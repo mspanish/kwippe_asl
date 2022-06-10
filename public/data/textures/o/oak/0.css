@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60738@ian@lobaria-pulmonaria {max-width:75px; max-height:75px; }
+.@a60738@ian@lobaria-pulmonaria::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/oak/0.png/0.png);padding: 0; }
+div.@a60738@ian@lobaria-pulmonaria::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12073@gameicons-cathelineau@holy-oak {max-width:75px; max-height:75px; }
+.@b12073@gameicons-cathelineau@holy-oak::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/oak/0.png/0.png);padding: 0; }
+div.@b12073@gameicons-cathelineau@holy-oak::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14549@gameicons-lorc@oak {max-width:75px; max-height:75px; }
+.@b14549@gameicons-lorc@oak::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/oak/0.png/0.png);padding: 0; }
+div.@b14549@gameicons-lorc@oak::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3042@wikim-all@heraldry_oak_leaf {max-width:75px; max-height:75px; }
+.@d3042@wikim-all@heraldry_oak_leaf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/oak/0.png/0.png);padding: 0; }
+div.@d3042@wikim-all@heraldry_oak_leaf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3043@wikim-all@heraldry_oak_leaf_fructed {max-width:75px; max-height:75px; }
+.@d3043@wikim-all@heraldry_oak_leaf_fructed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/oak/0.png/0.png);padding: 0; }
+div.@d3043@wikim-all@heraldry_oak_leaf_fructed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3422@wikim-all@oak {max-width:75px; max-height:75px; }
+.@d3422@wikim-all@oak::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/oak/0.png/0.png);padding: 0; }
+div.@d3422@wikim-all@oak::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4933f31c201df017799ae83298a1fd84:4266d83a71192f1e056fc82fc2eb338a:4ddb42793a59c1b7bfff1539dfc4d068$ */

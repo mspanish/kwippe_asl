@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38217@mul@mouthwash-1 {max-width:75px; max-height:75px; }
+.@a38217@mul@mouthwash-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mouthwash/0.png/0.png);padding: 0; }
+div.@a38217@mul@mouthwash-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38218@mul@mouthwash {max-width:75px; max-height:75px; }
+.@a38218@mul@mouthwash::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mouthwash/0.png/0.png);padding: 0; }
+div.@a38218@mul@mouthwash::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c84d3f08e9fcf7f03d29b2eeaa881ea4:e836d4ecdb7ce928f2cda4c34330be40:4ddb42793a59c1b7bfff1539dfc4d068$ */

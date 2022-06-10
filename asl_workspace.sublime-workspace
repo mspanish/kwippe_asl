@@ -1,0 +1,928 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.svelte",
+			"settings":
+			{
+				"buffer_size": 8328,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAIwYAAAAAAAAjRgAAAAAAAAAAAAAjRgAAAAAAACRGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjBgAAAAAAACMGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAJEYAAAAAAAAvxgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkRgAAAAAAACRGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					5,
+					"left_delete",
+					null,
+					"BQAAALgYAAAAAAAAuBgAAAAAAAABAAAAZbcYAAAAAAAAtxgAAAAAAAABAAAAbLYYAAAAAAAAthgAAAAAAAABAAAAebUYAAAAAAAAtRgAAAAAAAABAAAAdLQYAAAAAAAAtBgAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAuRgAAAAAAAC5GAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "icons"
+					},
+					"BQAAALQYAAAAAAAAtRgAAAAAAAAAAAAAtRgAAAAAAAC2GAAAAAAAAAAAAAC2GAAAAAAAALcYAAAAAAAAAAAAALcYAAAAAAAAuBgAAAAAAAAAAAAAuBgAAAAAAAC5GAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtBgAAAAAAAC0GAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJEYAAAAAAAAkRgAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAlRgAAAAAAACVGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAIwYAAAAAAAAjRgAAAAAAAAAAAAAjRgAAAAAAACRGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjBgAAAAAAACMGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					2,
+					"left_delete",
+					null,
+					"AgAAAI0YAAAAAAAAjRgAAAAAAAAEAAAAICAgIIwYAAAAAAAAjBgAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAkRgAAAAAAACRGAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/routes/Editor.svelte",
+			"settings":
+			{
+				"buffer_size": 47121,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAKCjAAAAAAAAzqMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoKMAAAAAAACgowAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "editor"
+					},
+					"BwAAAMOjAAAAAAAAxKMAAAAAAAAAAAAAxKMAAAAAAADEowAAAAAAAAUAAABzdHlsZcSjAAAAAAAAxaMAAAAAAAAAAAAAxaMAAAAAAADGowAAAAAAAAAAAADGowAAAAAAAMejAAAAAAAAAAAAAMejAAAAAAAAyKMAAAAAAAAAAAAAyKMAAAAAAADJowAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyKMAAAAAAADDowAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/components/NavbarSubPuppet.svelte",
+			"redo_stack":
+			[
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " --"
+					},
+					"AwAAAIEMAAAAAAAAgQwAAAAAAAABAAAALYAMAAAAAAAAgAwAAAAAAAABAAAALX8MAAAAAAAAfwwAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAggwAAAAAAACCDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEcMAAAAAAAARwwAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAASAwAAAAAAABIDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "!--"
+					},
+					"AwAAAEYMAAAAAAAARgwAAAAAAAABAAAALUUMAAAAAAAARQwAAAAAAAABAAAALUQMAAAAAAAARAwAAAAAAAABAAAAIQ",
+					"AQAAAAAAAAABAAAARwwAAAAAAABHDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AwAAAEQMAAAAAAAARQwAAAAAAAAAAAAARQwAAAAAAABGDAAAAAAAAAAAAABGDAAAAAAAAEcMAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAwAAAAAAABEDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "~--"
+					},
+					"AwAAAEYMAAAAAAAARgwAAAAAAAABAAAALUUMAAAAAAAARQwAAAAAAAABAAAALUQMAAAAAAAARAwAAAAAAAABAAAAfg",
+					"AQAAAAAAAAABAAAARwwAAAAAAABHDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAM0AAAAAAAAAzQAAAAAAAAABAAAAL8wAAAAAAAAAzAAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 4005,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src/components/PuppetCharacter.svelte",
+			"settings":
+			{
+				"buffer_size": 812,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					2,
+					"left_delete",
+					null,
+					"AgAAABEDAAAAAAAAEQMAAAAAAAABAAAAbxADAAAAAAAAEAMAAAAAAAABAAAAYg",
+					"AQAAAAAAAAABAAAAEgMAAAAAAAASAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					2,
+					"left_delete",
+					null,
+					"AgAAADkDAAAAAAAAOQMAAAAAAAASAAAAPGgyPmNoYXJhY3RlcjwvaDI+OAMAAAAAAAA4AwAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAASwMAAAAAAAA5AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					2,
+					"left_delete",
+					null,
+					"AgAAABIDAAAAAAAAEgMAAAAAAAAaAAAAb25Nb3VudChhc3luYygpID0+IHsKCn0pOwoRAwAAAAAAABEDAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAALAMAAAAAAAASAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEgAAAAAAAAASAAAAAAAAAABAAAAMUcAAAAAAAAARwAAAAAAAAABAAAACUYAAAAAAAAARgAAAAAAAAABAAAAVA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "T"
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPcBAAAAAAAA9wEAAAAAAAABAAAAL/YBAAAAAAAA9gEAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAA+AEAAAAAAAD4AQAAAAAAAAAAAAAAADdA"
+				],
+				[
+					21,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB8CAAAAAAAAHwIAAAAAAAABAAAALx4CAAAAAAAAHgIAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAIAIAAAAAAAAgAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/?192.168.1.21/git/aa_kwippe_asl/src/routes/Editor.svelte",
+		"/?192.168.1.21/Pictures/sign_language/asl2english/asl_svelte/src/routes/__layout.svelte",
+		"/?192.168.1.21/git/aa_kwippe_asl/vite.config.js",
+		"/?192.168.1.21/git/aa_lms_svelte/src/components/NavbarPuppet.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/components/NavbarSubPuppet.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/routes/Editor.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/components/Import.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/components/tools/PuppetCode.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/components/PuppetCharacter.svelte",
+		"/?192.168.1.21/Pictures/sign_language/asl2english/asl_svelte/src/global.css",
+		"/?192.168.1.21/git/aa_lms_svelte/public/global.css",
+		"/?192.168.1.21/git/aa_kwippe_asl/src/App.svelte",
+		"/?192.168.1.21/git/aa_kwippe_asl/index.html",
+		"/?192.168.1.21/git/aa_kwippe_asl/src/app.css",
+		"/?192.168.1.21/git/aa_lms_svelte/rollup.config.js",
+		"/?192.168.1.21/git/aa_kwippe_asl/jsconfig.json",
+		"/?192.168.1.21/git/aa_kwippe_asl/package.json",
+		"/?192.168.1.21/git/aa_kwippe_asl/src/vite-env.d.ts",
+		"/?192.168.1.21/git/aa_lms_svelte/src/app.css",
+		"/?192.168.1.21/git/aa_lms_svelte/src/app.html",
+		"/?192.168.1.21/git/aa_lms_svelte/src/components/EquationEditor.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/routes/Dashboard.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/routes/Home.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/App.svelte",
+		"/?192.168.1.21/git/aa_lms_svelte/src/main.js",
+		"/?192.168.1.21/git/aa_lms_svelte/src/store.js",
+		"/C/Users/mspan/Documents/game_of_thrones.txt",
+		"/C/Users/mspan/Documents/JROTC_camp_items_list.txt",
+		"/?192.168.1.21/git/aa_lms_svelte/src/components/tools/PuppetDesign.svelte",
+		"/C/Users/mspan/AppData/Roaming/Sublime Text/Packages/BracketFlasher/BracketFlasher.sublime-settings"
+	],
+	"find":
+	{
+		"height": 47.3777777778
+	},
+	"find_in_files":
+	{
+		"height": 125.866666667,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app.css",
+			"style.css",
+			"EquationEditor",
+			"default",
+			"canvas",
+			"kwippeWordMenu",
+			"getKwippeSignData",
+			"getKwippeSignData ",
+			"kwippeWordMenu",
+			"getKwippeWordDirectory",
+			"word",
+			"getKwippe",
+			".json",
+			"async",
+			"async(",
+			"async",
+			"async(",
+			"async",
+			".json",
+			"$",
+			"getKwippeSignData",
+			"'puppet'",
+			"tooltip",
+			"removeTooltip",
+			"'puppet'",
+			"ObjectQuickColor",
+			"'puppet'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "\\\\192.168.1.21\\git\\aa_kwippe_asl"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.svelte",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6284,
+								6284
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Svelte/Svelte.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6035.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/routes/Editor.svelte",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41929,
+								41929
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										41933,
+										41934
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										41920,
+										41921
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Svelte/Svelte.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 33380.9777778,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/NavbarSubPuppet.svelte",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Svelte/Svelte.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/PuppetCharacter.svelte",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Svelte/Svelte.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.044444444,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.8444444444
+	},
+	"input":
+	{
+		"height": 46.2222222222
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 87.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 237.466666667,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 901.466666667
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

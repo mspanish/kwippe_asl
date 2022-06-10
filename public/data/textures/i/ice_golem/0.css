@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12802@gameicons-delapouite@ice-golem {max-width:75px; max-height:75px; }
+.@b12802@gameicons-delapouite@ice-golem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/i/ice_golem/0.png/0.png);padding: 0; }
+div.@b12802@gameicons-delapouite@ice-golem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:52d08b8c43f44f25fa1ba8ca821de011:71c93c979355859ffcfdbaece52763a9:4ddb42793a59c1b7bfff1539dfc4d068$ */

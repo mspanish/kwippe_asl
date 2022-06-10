@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16253@emo@ve {max-width:75px; max-height:75px; }
+.@a16253@emo@ve::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/venezuela/0.png/0.png);padding: 0; }
+div.@a16253@emo@ve::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37649@mul@venezuela {max-width:75px; max-height:75px; }
+.@a37649@mul@venezuela::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/venezuela/0.png/0.png);padding: 0; }
+div.@a37649@mul@venezuela::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13578@gameicons-delapouite@venezuela {max-width:75px; max-height:75px; }
+.@b13578@gameicons-delapouite@venezuela::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/venezuela/0.png/0.png);padding: 0; }
+div.@b13578@gameicons-delapouite@venezuela::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2771@wikim-all@flag_of_venezuela {max-width:75px; max-height:75px; }
+.@d2771@wikim-all@flag_of_venezuela::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/venezuela/0.png/0.png);padding: 0; }
+div.@d2771@wikim-all@flag_of_venezuela::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e283bdfceddc4868ccbf388e9217bb35:089ddeceaf64a54258f55b77c42064c9:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,86 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a30392@lib@tech-bluetooth {max-width:75px; max-height:75px; }
+.@a30392@lib@tech-bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a30392@lib@tech-bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32539@mat@bluetooth-audio {max-width:75px; max-height:75px; }
+.@a32539@mat@bluetooth-audio::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a32539@mat@bluetooth-audio::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32541@mat@bluetooth-connect {max-width:75px; max-height:75px; }
+.@a32541@mat@bluetooth-connect::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a32541@mat@bluetooth-connect::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32543@mat@bluetooth-off {max-width:75px; max-height:75px; }
+.@a32543@mat@bluetooth-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a32543@mat@bluetooth-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32545@mat@bluetooth-settings {max-width:75px; max-height:75px; }
+.@a32545@mat@bluetooth-settings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a32545@mat@bluetooth-settings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32547@mat@bluetooth-transfer {max-width:75px; max-height:75px; }
+.@a32547@mat@bluetooth-transfer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a32547@mat@bluetooth-transfer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32549@mat@bluetooth {max-width:75px; max-height:75px; }
+.@a32549@mat@bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a32549@mat@bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35976@met@bluetooth {max-width:75px; max-height:75px; }
+.@a35976@met@bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a35976@met@bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46582@pap@bluetooth:active-symbolic {max-width:75px; max-height:75px; }
+.@a46582@pap@bluetooth:active-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a46582@pap@bluetooth:active-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46583@pap@bluetooth-disabled-symbolic {max-width:75px; max-height:75px; }
+.@a46583@pap@bluetooth-disabled-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a46583@pap@bluetooth-disabled-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46584@pap@bluetooth-symbolic {max-width:75px; max-height:75px; }
+.@a46584@pap@bluetooth-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a46584@pap@bluetooth-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48085@roc@bluetooth {max-width:75px; max-height:75px; }
+.@a48085@roc@bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a48085@roc@bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53960@wav@bluetooth-audio {max-width:75px; max-height:75px; }
+.@a53960@wav@bluetooth-audio::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a53960@wav@bluetooth-audio::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53961@wav@bluetooth-connected {max-width:75px; max-height:75px; }
+.@a53961@wav@bluetooth-connected::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a53961@wav@bluetooth-connected::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53962@wav@bluetooth-disabled {max-width:75px; max-height:75px; }
+.@a53962@wav@bluetooth-disabled::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a53962@wav@bluetooth-disabled::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53963@wav@bluetooth-searching {max-width:75px; max-height:75px; }
+.@a53963@wav@bluetooth-searching::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a53963@wav@bluetooth-searching::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53964@wav@bluetooth {max-width:75px; max-height:75px; }
+.@a53964@wav@bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a53964@wav@bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54723@wav@settings-bluetooth {max-width:75px; max-height:75px; }
+.@a54723@wav@settings-bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a54723@wav@settings-bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56461@win@connection-bluetooth {max-width:75px; max-height:75px; }
+.@a56461@win@connection-bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a56461@win@connection-bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57466@xei@bluetooth-off {max-width:75px; max-height:75px; }
+.@a57466@xei@bluetooth-off::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a57466@xei@bluetooth-off::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57467@xei@bluetooth-on {max-width:75px; max-height:75px; }
+.@a57467@xei@bluetooth-on::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a57467@xei@bluetooth-on::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57468@xei@bluetooth-search {max-width:75px; max-height:75px; }
+.@a57468@xei@bluetooth-search::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a57468@xei@bluetooth-search::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57469@xei@bluetooth {max-width:75px; max-height:75px; }
+.@a57469@xei@bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@a57469@xei@bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8168@web@bluetooth {max-width:75px; max-height:75px; }
+.@b8168@web@bluetooth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@b8168@web@bluetooth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8169@web@bluetoothconnected {max-width:75px; max-height:75px; }
+.@b8169@web@bluetoothconnected::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/b/bluetooth/0.png/0.png);padding: 0; }
+div.@b8169@web@bluetoothconnected::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:004a7a1646d0b1d866b3c48b147c3f10:8e9ef997823a1d9422e75d2707ec995a:4ddb42793a59c1b7bfff1539dfc4d068$ */

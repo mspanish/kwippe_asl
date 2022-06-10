@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59274@ian@actinophrys-sol {max-width:75px; max-height:75px; }
+.@a59274@ian@actinophrys-sol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/heliozoa/0.png/0.png);padding: 0; }
+div.@a59274@ian@actinophrys-sol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:24e9513e8f773ba406f713435c1daa1b:fc88cb7d4c0d5f9e60fbca77f52fca6c:4ddb42793a59c1b7bfff1539dfc4d068$ */

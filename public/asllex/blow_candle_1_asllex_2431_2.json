@@ -1,0 +1,45 @@
+{
+    "sign": "blow_candle_1",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "flat_o",
+            "nd": "1"
+        },
+        "end": {
+            "d": "flatspread_5",
+            "nd": "1"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Mouth",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "HandAway",
+        "morph2_specific_second": null,
+        "morph2_contact": 0.0,
+        "morph2_signtype": "AsymmetricalDifferentHandshape",
+        "morph2_movement": "None",
+        "morph2_repeat": 0.0
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": null,
+    "frequency": 3.385,
+    "category": null
+}

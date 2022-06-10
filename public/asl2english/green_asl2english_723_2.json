@@ -1,0 +1,37 @@
+{
+    "sign": "green",
+    "signer": "asl2english",
+    "uid": 723,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 53,
+            "nd": 73
+        },
+        "end": {
+            "d": 26,
+            "nd": 53
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

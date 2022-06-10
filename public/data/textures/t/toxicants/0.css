@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60573@ian@inputs-nutrients-toxins-sediment {max-width:75px; max-height:75px; }
+.@a60573@ian@inputs-nutrients-toxins-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/toxicants/0.png/0.png);padding: 0; }
+div.@a60573@ian@inputs-nutrients-toxins-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60581@ian@inputs-toxicants {max-width:75px; max-height:75px; }
+.@a60581@ian@inputs-toxicants::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/toxicants/0.png/0.png);padding: 0; }
+div.@a60581@ian@inputs-toxicants::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60582@ian@inputs-toxics {max-width:75px; max-height:75px; }
+.@a60582@ian@inputs-toxics::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/toxicants/0.png/0.png);padding: 0; }
+div.@a60582@ian@inputs-toxics::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61818@ian@toxicants-high {max-width:75px; max-height:75px; }
+.@a61818@ian@toxicants-high::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/toxicants/0.png/0.png);padding: 0; }
+div.@a61818@ian@toxicants-high::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61819@ian@toxicants-low {max-width:75px; max-height:75px; }
+.@a61819@ian@toxicants-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/toxicants/0.png/0.png);padding: 0; }
+div.@a61819@ian@toxicants-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61820@ian@toxicants-organo-chlorine {max-width:75px; max-height:75px; }
+.@a61820@ian@toxicants-organo-chlorine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/toxicants/0.png/0.png);padding: 0; }
+div.@a61820@ian@toxicants-organo-chlorine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b07d94011c650ad623c438fe6cc35226:e713afccb8c1fcc1375ce2a81ed07812:4ddb42793a59c1b7bfff1539dfc4d068$ */

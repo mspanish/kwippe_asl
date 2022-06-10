@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48762@solver@1-was-kissing {max-width:75px; max-height:75px; }
+.@a48762@solver@1-was-kissing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/was_kissing/0.png/0.png);padding: 0; }
+div.@a48762@solver@1-was-kissing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a13c9f0c20748e83083d41d54429f484:8e1e39a88527e8f455dc03754910901d:4ddb42793a59c1b7bfff1539dfc4d068$ */

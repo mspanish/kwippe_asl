@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13727@gameicons-lorc@armor-vest {max-width:75px; max-height:75px; }
+.@b13727@gameicons-lorc@armor-vest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/armor_vest/0.png/0.png);padding: 0; }
+div.@b13727@gameicons-lorc@armor-vest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c3f1b0f291c1f07c4dbb31b3a6f5cbe5:a05a5f344e2d5baf50ed0f71dae4c7dd:4ddb42793a59c1b7bfff1539dfc4d068$ */

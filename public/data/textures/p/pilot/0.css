@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37898@mul@helmet-pilot {max-width:75px; max-height:75px; }
+.@a37898@mul@helmet-pilot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pilot/0.png/0.png);padding: 0; }
+div.@a37898@mul@helmet-pilot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38435@mul@pilot-1a {max-width:75px; max-height:75px; }
+.@a38435@mul@pilot-1a::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pilot/0.png/0.png);padding: 0; }
+div.@a38435@mul@pilot-1a::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38436@mul@pilot-2a {max-width:75px; max-height:75px; }
+.@a38436@mul@pilot-2a::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pilot/0.png/0.png);padding: 0; }
+div.@a38436@mul@pilot-2a::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49340@str@174-man-pilot-2 {max-width:75px; max-height:75px; }
+.@a49340@str@174-man-pilot-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pilot/0.png/0.png);padding: 0; }
+div.@a49340@str@174-man-pilot-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49341@str@176-woman-pilot-2 {max-width:75px; max-height:75px; }
+.@a49341@str@176-woman-pilot-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pilot/0.png/0.png);padding: 0; }
+div.@a49341@str@176-woman-pilot-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50604@tw2@man-1-2-airplane {max-width:75px; max-height:75px; }
+.@a50604@tw2@man-1-2-airplane::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pilot/0.png/0.png);padding: 0; }
+div.@a50604@tw2@man-1-2-airplane::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50633@tw2@man-4-airplane {max-width:75px; max-height:75px; }
+.@a50633@tw2@man-4-airplane::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pilot/0.png/0.png);padding: 0; }
+div.@a50633@tw2@man-4-airplane::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f68e738a9cb134fb5d8f885df13ded46:f53d762c1cde14c4094fe3c1e69a3aa0:4ddb42793a59c1b7bfff1539dfc4d068$ */

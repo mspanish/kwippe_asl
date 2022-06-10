@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12905@gameicons-delapouite@loincloth {max-width:75px; max-height:75px; }
+.@b12905@gameicons-delapouite@loincloth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/loincloth/0.png/0.png);padding: 0; }
+div.@b12905@gameicons-delapouite@loincloth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9fd6d9c26bc69d04666d31dd30b1b627:fee7af9fa37f934cb9b84087503a41b9:4ddb42793a59c1b7bfff1539dfc4d068$ */

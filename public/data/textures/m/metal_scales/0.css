@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14498@gameicons-lorc@metal-scales {max-width:75px; max-height:75px; }
+.@b14498@gameicons-lorc@metal-scales::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/metal_scales/0.png/0.png);padding: 0; }
+div.@b14498@gameicons-lorc@metal-scales::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a9c7b06033b2270e09866c616110e820:dad636e9f74142c6aa11bc9c6c098e7a:4ddb42793a59c1b7bfff1539dfc4d068$ */

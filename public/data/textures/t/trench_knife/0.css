@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15410@gameicons-skoll@trench-knife {max-width:75px; max-height:75px; }
+.@b15410@gameicons-skoll@trench-knife::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/trench_knife/0.png/0.png);padding: 0; }
+div.@b15410@gameicons-skoll@trench-knife::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8813ca722ce6263e70d29bd1c205ca80:f703c3cbe052aa546488ab3b95f4ce4c:4ddb42793a59c1b7bfff1539dfc4d068$ */

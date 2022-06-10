@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1621@bon@clinic-nutrition-5021 {max-width:75px; max-height:75px; }
+.@a1621@bon@clinic-nutrition-5021::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/n/nutrition/0.png/0.png);padding: 0; }
+div.@a1621@bon@clinic-nutrition-5021::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59338@ian@animal-nutrition {max-width:75px; max-height:75px; }
+.@a59338@ian@animal-nutrition::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/n/nutrition/0.png/0.png);padding: 0; }
+div.@a59338@ian@animal-nutrition::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2020c8876375ab72fd693277f737fed0:8bc5e86ed0405777a62999a8943f88c3:4ddb42793a59c1b7bfff1539dfc4d068$ */

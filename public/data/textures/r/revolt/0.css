@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12108@gameicons-darkzaitzev@revolt {max-width:75px; max-height:75px; }
+.@b12108@gameicons-darkzaitzev@revolt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/r/revolt/0.png/0.png);padding: 0; }
+div.@b12108@gameicons-darkzaitzev@revolt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15215@gameicons-sbed@revolt {max-width:75px; max-height:75px; }
+.@b15215@gameicons-sbed@revolt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/r/revolt/0.png/0.png);padding: 0; }
+div.@b15215@gameicons-sbed@revolt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:75cb7c7cf122df0299be97731371b266:cf393e6bd8ce51e6a6f330e4617f1224:4ddb42793a59c1b7bfff1539dfc4d068$ */

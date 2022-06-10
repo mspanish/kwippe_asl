@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60614@ian@juniperus-virginiana-leaves {max-width:75px; max-height:75px; }
+.@a60614@ian@juniperus-virginiana-leaves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/juniper/0.png/0.png);padding: 0; }
+div.@a60614@ian@juniperus-virginiana-leaves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60615@ian@juniperus-virginiana {max-width:75px; max-height:75px; }
+.@a60615@ian@juniperus-virginiana::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/j/juniper/0.png/0.png);padding: 0; }
+div.@a60615@ian@juniperus-virginiana::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:db173428024fff92b887eeccb83961f4:ad836bd034b0955b78650d7ae9e3c86f:4ddb42793a59c1b7bfff1539dfc4d068$ */

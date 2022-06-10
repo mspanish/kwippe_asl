@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1475@bon@alarm-button-1-4000 {max-width:75px; max-height:75px; }
+.@a1475@bon@alarm-button-1-4000::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/alarm/0.png/0.png);padding: 0; }
+div.@a1475@bon@alarm-button-1-4000::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1476@bon@alarm-button-2-4001 {max-width:75px; max-height:75px; }
+.@a1476@bon@alarm-button-2-4001::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/alarm/0.png/0.png);padding: 0; }
+div.@a1476@bon@alarm-button-2-4001::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1477@bon@alarm-button-3-4002 {max-width:75px; max-height:75px; }
+.@a1477@bon@alarm-button-3-4002::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/alarm/0.png/0.png);padding: 0; }
+div.@a1477@bon@alarm-button-3-4002::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1478@bon@alarm-cord-1-4003 {max-width:75px; max-height:75px; }
+.@a1478@bon@alarm-cord-1-4003::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/alarm/0.png/0.png);padding: 0; }
+div.@a1478@bon@alarm-cord-1-4003::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1479@bon@alarm-pull-cord-2-4004 {max-width:75px; max-height:75px; }
+.@a1479@bon@alarm-pull-cord-2-4004::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/alarm/0.png/0.png);padding: 0; }
+div.@a1479@bon@alarm-pull-cord-2-4004::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1480@bon@alarm-pull-cord-3-4005 {max-width:75px; max-height:75px; }
+.@a1480@bon@alarm-pull-cord-3-4005::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/alarm/0.png/0.png);padding: 0; }
+div.@a1480@bon@alarm-pull-cord-3-4005::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1840@bon@fire-alarm-4038 {max-width:75px; max-height:75px; }
+.@a1840@bon@fire-alarm-4038::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/alarm/0.png/0.png);padding: 0; }
+div.@a1840@bon@fire-alarm-4038::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13207@gameicons-delapouite@ringing-alarm {max-width:75px; max-height:75px; }
+.@b13207@gameicons-delapouite@ringing-alarm::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/alarm/0.png/0.png);padding: 0; }
+div.@b13207@gameicons-delapouite@ringing-alarm::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5d690815add584779da53ad2461c9a5d:2bf72fbb5417284484db50d7ee457bca:4ddb42793a59c1b7bfff1539dfc4d068$ */

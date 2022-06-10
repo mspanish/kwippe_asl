@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14745@gameicons-lorc@shiny-entrance {max-width:75px; max-height:75px; }
+.@b14745@gameicons-lorc@shiny-entrance::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/shiny_entrance/0.png/0.png);padding: 0; }
+div.@b14745@gameicons-lorc@shiny-entrance::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7a1acb38a80b5d329a330235f6951353:5809b3a5e78458e0afbb00dfc11fb053:4ddb42793a59c1b7bfff1539dfc4d068$ */

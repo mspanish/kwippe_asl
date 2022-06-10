@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1515@bon@barbecue-1002 {max-width:75px; max-height:75px; }
+.@a1515@bon@barbecue-1002::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/barbecue/0.png/0.png);padding: 0; }
+div.@a1515@bon@barbecue-1002::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1516@bon@barbecue-2502 {max-width:75px; max-height:75px; }
+.@a1516@bon@barbecue-2502::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/barbecue/0.png/0.png);padding: 0; }
+div.@a1516@bon@barbecue-2502::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12211@gameicons-delapouite@barbecue {max-width:75px; max-height:75px; }
+.@b12211@gameicons-delapouite@barbecue::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/barbecue/0.png/0.png);padding: 0; }
+div.@b12211@gameicons-delapouite@barbecue::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ec8344e719bbfba4781343502af64595:8d08b7bb8d54a9fcdeb4632b1b1ad52b:4ddb42793a59c1b7bfff1539dfc4d068$ */

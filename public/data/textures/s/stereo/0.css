@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a17648@fir@u1f4fe-portablestereo {max-width:75px; max-height:75px; }
+.@a17648@fir@u1f4fe-portablestereo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/stereo/0.png/0.png);padding: 0; }
+div.@a17648@fir@u1f4fe-portablestereo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38867@mul@stereo {max-width:75px; max-height:75px; }
+.@a38867@mul@stereo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/stereo/0.png/0.png);padding: 0; }
+div.@a38867@mul@stereo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a03de439eb22afbfcd6f91076286ff89:df39cf7f4b5e7e7c8d11926c3473039b:4ddb42793a59c1b7bfff1539dfc4d068$ */

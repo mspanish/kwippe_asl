@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2269@bon@rolling-pin-2549 {max-width:75px; max-height:75px; }
+.@a2269@bon@rolling-pin-2549::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/r/rolling/0.png/0.png);padding: 0; }
+div.@a2269@bon@rolling-pin-2549::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14676@gameicons-lorc@rolling-energy {max-width:75px; max-height:75px; }
+.@b14676@gameicons-lorc@rolling-energy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/r/rolling/0.png/0.png);padding: 0; }
+div.@b14676@gameicons-lorc@rolling-energy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:44037930c0f588cfa1699a430ab8c259:64db19ab1e4572a956f4398caf811aff:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59706@ian@chromodoris-coi {max-width:75px; max-height:75px; }
+.@a59706@ian@chromodoris-coi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/o/orthogastropoda/0.png/0.png);padding: 0; }
+div.@a59706@ian@chromodoris-coi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60737@ian@littoraria-spp {max-width:75px; max-height:75px; }
+.@a60737@ian@littoraria-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/o/orthogastropoda/0.png/0.png);padding: 0; }
+div.@a60737@ian@littoraria-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:73f27ad6c807a3a1a28e1cc45e10082a:2f4cdee8db9f5934b29a5d7203bfa335:4ddb42793a59c1b7bfff1539dfc4d068$ */

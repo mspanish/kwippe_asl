@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59834@ian@concentration-high-turbidity {max-width:75px; max-height:75px; }
+.@a59834@ian@concentration-high-turbidity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/turbidity/0.png/0.png);padding: 0; }
+div.@a59834@ian@concentration-high-turbidity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59854@ian@concentration-intermittent-turbidity {max-width:75px; max-height:75px; }
+.@a59854@ian@concentration-intermittent-turbidity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/turbidity/0.png/0.png);padding: 0; }
+div.@a59854@ian@concentration-intermittent-turbidity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59874@ian@concentration-low-turbidity {max-width:75px; max-height:75px; }
+.@a59874@ian@concentration-low-turbidity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/turbidity/0.png/0.png);padding: 0; }
+div.@a59874@ian@concentration-low-turbidity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60829@ian@measuring-secchi {max-width:75px; max-height:75px; }
+.@a60829@ian@measuring-secchi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/turbidity/0.png/0.png);padding: 0; }
+div.@a60829@ian@measuring-secchi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60830@ian@measuring-secchi2 {max-width:75px; max-height:75px; }
+.@a60830@ian@measuring-secchi2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/turbidity/0.png/0.png);padding: 0; }
+div.@a60830@ian@measuring-secchi2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61604@ian@secchi-disk {max-width:75px; max-height:75px; }
+.@a61604@ian@secchi-disk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/turbidity/0.png/0.png);padding: 0; }
+div.@a61604@ian@secchi-disk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bce6f1cb7763fd10dd81c09389ba27dc:f348a6279aff3f412beb9b1f23f3dd59:4ddb42793a59c1b7bfff1539dfc4d068$ */

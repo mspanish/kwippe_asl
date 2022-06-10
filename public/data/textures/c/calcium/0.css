@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59895@ian@coralline-algae {max-width:75px; max-height:75px; }
+.@a59895@ian@coralline-algae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/calcium/0.png/0.png);padding: 0; }
+div.@a59895@ian@coralline-algae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61293@ian@process-calcification {max-width:75px; max-height:75px; }
+.@a61293@ian@process-calcification::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/calcium/0.png/0.png);padding: 0; }
+div.@a61293@ian@process-calcification::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61294@ian@process-calcium-dissolution {max-width:75px; max-height:75px; }
+.@a61294@ian@process-calcium-dissolution::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/calcium/0.png/0.png);padding: 0; }
+div.@a61294@ian@process-calcium-dissolution::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61295@ian@process-calcium-in {max-width:75px; max-height:75px; }
+.@a61295@ian@process-calcium-in::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/calcium/0.png/0.png);padding: 0; }
+div.@a61295@ian@process-calcium-in::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61296@ian@process-calcium-out {max-width:75px; max-height:75px; }
+.@a61296@ian@process-calcium-out::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/calcium/0.png/0.png);padding: 0; }
+div.@a61296@ian@process-calcium-out::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ec90659453b58c1deb2c50b4f9c56eb:3df5db2616a6e961c93ce49cf53aeec5:4ddb42793a59c1b7bfff1539dfc4d068$ */

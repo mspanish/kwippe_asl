@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2618@bon@urine-specimin-1-5069 {max-width:75px; max-height:75px; }
+.@a2618@bon@urine-specimin-1-5069::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/u/urine/0.png/0.png);padding: 0; }
+div.@a2618@bon@urine-specimin-1-5069::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2619@bon@urine-specimin-2-5070 {max-width:75px; max-height:75px; }
+.@a2619@bon@urine-specimin-2-5070::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/u/urine/0.png/0.png);padding: 0; }
+div.@a2619@bon@urine-specimin-2-5070::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f5e4e0c3437c031dd6af310edf0fb05c:417270b77d19bf76f877f47196cafaca:4ddb42793a59c1b7bfff1539dfc4d068$ */

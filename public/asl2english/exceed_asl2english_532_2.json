@@ -1,0 +1,37 @@
+{
+    "sign": "exceed",
+    "signer": "asl2english",
+    "uid": 532,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 24,
+            "nd": 24
+        },
+        "end": {
+            "d": 23,
+            "nd": 23
+        }
+    },
+    "regions": [
+        "chest",
+        "upper-area"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

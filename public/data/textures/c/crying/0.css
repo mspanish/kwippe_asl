@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48771@solver@2-crying-guy {max-width:75px; max-height:75px; }
+.@a48771@solver@2-crying-guy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crying/0.png/0.png);padding: 0; }
+div.@a48771@solver@2-crying-guy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49286@str@088-anxious-face {max-width:75px; max-height:75px; }
+.@a49286@str@088-anxious-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crying/0.png/0.png);padding: 0; }
+div.@a49286@str@088-anxious-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4245@wikim-ladyofhats@big_eyes {max-width:75px; max-height:75px; }
+.@d4245@wikim-ladyofhats@big_eyes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crying/0.png/0.png);padding: 0; }
+div.@d4245@wikim-ladyofhats@big_eyes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4285@wikim-ladyofhats@sad {max-width:75px; max-height:75px; }
+.@d4285@wikim-ladyofhats@sad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crying/0.png/0.png);padding: 0; }
+div.@d4285@wikim-ladyofhats@sad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4299@wikim-ladyofhats@whatface {max-width:75px; max-height:75px; }
+.@d4299@wikim-ladyofhats@whatface::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/crying/0.png/0.png);padding: 0; }
+div.@d4299@wikim-ladyofhats@whatface::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bec28ce4c7570ab080d3ba79c04568f6:253931d6630c85ae5b3f47da4479fabd:4ddb42793a59c1b7bfff1539dfc4d068$ */

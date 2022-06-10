@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62165@ian@volcano-3d-caldera {max-width:75px; max-height:75px; }
+.@a62165@ian@volcano-3d-caldera::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/eruption/0.png/0.png);padding: 0; }
+div.@a62165@ian@volcano-3d-caldera::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14126@gameicons-lorc@eruption {max-width:75px; max-height:75px; }
+.@b14126@gameicons-lorc@eruption::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/e/eruption/0.png/0.png);padding: 0; }
+div.@b14126@gameicons-lorc@eruption::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8e9eb4f7c0ba52208ad113440120afd0:a8fb001a82d542483bb99ce18e166bc9:4ddb42793a59c1b7bfff1539dfc4d068$ */

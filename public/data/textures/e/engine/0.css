@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25513@gli@engine {max-width:75px; max-height:75px; }
+.@a25513@gli@engine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/e/engine/0.png/0.png);padding: 0; }
+div.@a25513@gli@engine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37349@mul@engine {max-width:75px; max-height:75px; }
+.@a37349@mul@engine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/e/engine/0.png/0.png);padding: 0; }
+div.@a37349@mul@engine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59506@ian@boat-powerboat {max-width:75px; max-height:75px; }
+.@a59506@ian@boat-powerboat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/e/engine/0.png/0.png);padding: 0; }
+div.@a59506@ian@boat-powerboat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61264@ian@portable-generator {max-width:75px; max-height:75px; }
+.@a61264@ian@portable-generator::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/e/engine/0.png/0.png);padding: 0; }
+div.@a61264@ian@portable-generator::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8584747030c74c1160ac34cedc155658:72f2eb058d9c9b7d2a84b42f67fc3629:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,47 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14801@em2@credit-card {max-width:75px; max-height:75px; }
+.@a14801@em2@credit-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a14801@em2@credit-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15881@emo@credit-card {max-width:75px; max-height:75px; }
+.@a15881@emo@credit-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a15881@emo@credit-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17574@fir@u1f4b3-creditcard {max-width:75px; max-height:75px; }
+.@a17574@fir@u1f4b3-creditcard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a17574@fir@u1f4b3-creditcard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27898@ico@bank-cards {max-width:75px; max-height:75px; }
+.@a27898@ico@bank-cards::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a27898@ico@bank-cards::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28303@jqe@credit-card {max-width:75px; max-height:75px; }
+.@a28303@jqe@credit-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a28303@jqe@credit-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29595@knl@credit-card {max-width:75px; max-height:75px; }
+.@a29595@knl@credit-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a29595@knl@credit-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36520@mul@bank-card {max-width:75px; max-height:75px; }
+.@a36520@mul@bank-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a36520@mul@bank-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39501@noc@credit-card {max-width:75px; max-height:75px; }
+.@a39501@noc@credit-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a39501@noc@credit-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41220@nog@credit-card-objects {max-width:75px; max-height:75px; }
+.@a41220@nog@credit-card-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a41220@nog@credit-card-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50340@tw2@credit-card {max-width:75px; max-height:75px; }
+.@a50340@tw2@credit-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a50340@tw2@credit-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51183@twe@credit-card {max-width:75px; max-height:75px; }
+.@a51183@twe@credit-card::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a51183@twe@credit-card::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53840@videoplasty@wallet_flat_icon {max-width:75px; max-height:75px; }
+.@a53840@videoplasty@wallet_flat_icon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/c/credit_card/0.png/0.png);padding: 0; }
+div.@a53840@videoplasty@wallet_flat_icon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:21b7b206ba7fd470c75118d94a86b5ac:3b8363d44a3b7085b500da55c680a656:4ddb42793a59c1b7bfff1539dfc4d068$ */

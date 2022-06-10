@@ -1,0 +1,37 @@
+{
+    "sign": "pumps",
+    "signer": "asl2english",
+    "uid": 1443,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 71,
+            "nd": 71
+        },
+        "end": {
+            "d": 71,
+            "nd": 71
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

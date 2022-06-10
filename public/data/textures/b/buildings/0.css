@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60115@ian@energy-solar-panels-3 {max-width:75px; max-height:75px; }
+.@a60115@ian@energy-solar-panels-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/buildings/0.png/0.png);padding: 0; }
+div.@a60115@ian@energy-solar-panels-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61552@ian@school-samoa {max-width:75px; max-height:75px; }
+.@a61552@ian@school-samoa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/buildings/0.png/0.png);padding: 0; }
+div.@a61552@ian@school-samoa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61918@ian@urban-downtown-fiji {max-width:75px; max-height:75px; }
+.@a61918@ian@urban-downtown-fiji::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/buildings/0.png/0.png);padding: 0; }
+div.@a61918@ian@urban-downtown-fiji::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3257@wikim-all@stone_henge {max-width:75px; max-height:75px; }
+.@d3257@wikim-all@stone_henge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/buildings/0.png/0.png);padding: 0; }
+div.@d3257@wikim-all@stone_henge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ddb56a956b48a912a34433fe51672238:dae1398bf8ea816fb18714d6814bf717:4ddb42793a59c1b7bfff1539dfc4d068$ */

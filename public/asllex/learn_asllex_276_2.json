@@ -1,0 +1,45 @@
+{
+    "sign": "learn",
+    "signer": "aslLex",
+    "uid": 170,
+    "synonyms": "learn",
+    "handshapes": {
+        "begin": {
+            "d": "flatspread_5",
+            "nd": "B"
+        },
+        "end": {
+            "d": "flat_o",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "Palm",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Head",
+        "morph2_specific": "Forehead",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 2.0,
+    "frequency": 6.2,
+    "category": "Action Signs"
+}

@@ -1,0 +1,80 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15426@em2@snowman-without-snow {max-width:75px; max-height:75px; }
+.@a15426@em2@snowman-without-snow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a15426@em2@snowman-without-snow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15427@em2@snowman {max-width:75px; max-height:75px; }
+.@a15427@em2@snowman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a15427@em2@snowman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16800@emo@snowman {max-width:75px; max-height:75px; }
+.@a16800@emo@snowman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a16800@emo@snowman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16801@emo@snowman2 {max-width:75px; max-height:75px; }
+.@a16801@emo@snowman2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a16801@emo@snowman2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a18084@fir@u26c4-snowmanwithoutsnow {max-width:75px; max-height:75px; }
+.@a18084@fir@u26c4-snowmanwithoutsnow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a18084@fir@u26c4-snowmanwithoutsnow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25606@gli@k03_snowman_01 {max-width:75px; max-height:75px; }
+.@a25606@gli@k03_snowman_01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a25606@gli@k03_snowman_01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28789@jqe@snowman-without-snow {max-width:75px; max-height:75px; }
+.@a28789@jqe@snowman-without-snow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a28789@jqe@snowman-without-snow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29821@knl@snowman {max-width:75px; max-height:75px; }
+.@a29821@knl@snowman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a29821@knl@snowman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40145@noc@snowman-without-snow {max-width:75px; max-height:75px; }
+.@a40145@noc@snowman-without-snow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a40145@noc@snowman-without-snow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40146@noc@snowman {max-width:75px; max-height:75px; }
+.@a40146@noc@snowman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a40146@noc@snowman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43520@nog@snowman-without-snow-travel-places {max-width:75px; max-height:75px; }
+.@a43520@nog@snowman-without-snow-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a43520@nog@snowman-without-snow-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44726@not@snowman-without-snow {max-width:75px; max-height:75px; }
+.@a44726@not@snowman-without-snow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a44726@not@snowman-without-snow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45667@ope@nicubunu_snowman-winter {max-width:75px; max-height:75px; }
+.@a45667@ope@nicubunu_snowman-winter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a45667@ope@nicubunu_snowman-winter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49712@str@655-snowman {max-width:75px; max-height:75px; }
+.@a49712@str@655-snowman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a49712@str@655-snowman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50886@tw2@snowman {max-width:75px; max-height:75px; }
+.@a50886@tw2@snowman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a50886@tw2@snowman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51615@twe@snowman-without-snow {max-width:75px; max-height:75px; }
+.@a51615@twe@snowman-without-snow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a51615@twe@snowman-without-snow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5243@df-christmasicons@two {max-width:75px; max-height:75px; }
+.@a5243@df-christmasicons@two::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a5243@df-christmasicons@two::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5248@df-christmasicons@w {max-width:75px; max-height:75px; }
+.@a5248@df-christmasicons@w::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a5248@df-christmasicons@w::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61648@ian@snowman-melted {max-width:75px; max-height:75px; }
+.@a61648@ian@snowman-melted::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a61648@ian@snowman-melted::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61649@ian@snowman {max-width:75px; max-height:75px; }
+.@a61649@ian@snowman::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a61649@ian@snowman::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8428@df-journaldingbats4@asterisk {max-width:75px; max-height:75px; }
+.@a8428@df-journaldingbats4@asterisk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a8428@df-journaldingbats4@asterisk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8466@df-journaldingbats4@parenleft {max-width:75px; max-height:75px; }
+.@a8466@df-journaldingbats4@parenleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a8466@df-journaldingbats4@parenleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8467@df-journaldingbats4@parenright {max-width:75px; max-height:75px; }
+.@a8467@df-journaldingbats4@parenright::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/s/snowman/0.png/0.png);padding: 0; }
+div.@a8467@df-journaldingbats4@parenright::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:56cfcb6b05a9c115ee90a92820505398:e45e1856abced9611cd126fe033f2282:4ddb42793a59c1b7bfff1539dfc4d068$ */

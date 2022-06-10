@@ -1,0 +1,45 @@
+{
+    "sign": "actor",
+    "signer": "aslLex",
+    "uid": 2049,
+    "synonyms": "act, acting, actor, actress, entertainer, performer, thespian",
+    "handshapes": {
+        "begin": {
+            "d": "a",
+            "nd": "a"
+        },
+        "end": {
+            "d": "open_b",
+            "nd": "open_b"
+        }
+    },
+    "regions": {
+        "morph1_general": "Body",
+        "morph1_specific": "TorsoTop",
+        "morph1_specific_second": "BodyAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Circular",
+        "morph1_repeat": 1,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 3.0,
+    "frequency": 4.44,
+    "category": null
+}

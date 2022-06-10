@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13450@gameicons-delapouite@switch-weapon {max-width:75px; max-height:75px; }
+.@b13450@gameicons-delapouite@switch-weapon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/switch_weapon/0.png/0.png);padding: 0; }
+div.@b13450@gameicons-delapouite@switch-weapon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:78c322ac5a3b425356b72cb3dd58565c:ff65d28c752d7a8a85d4f85aa4fa695e:4ddb42793a59c1b7bfff1539dfc4d068$ */

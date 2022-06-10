@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60876@ian@mining-open-cut-mine {max-width:75px; max-height:75px; }
+.@a60876@ian@mining-open-cut-mine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/q/quarry/0.png/0.png);padding: 0; }
+div.@a60876@ian@mining-open-cut-mine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60877@ian@mining-quarry {max-width:75px; max-height:75px; }
+.@a60877@ian@mining-quarry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/q/quarry/0.png/0.png);padding: 0; }
+div.@a60877@ian@mining-quarry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2975089adc5fa220b6a1ac01b99b9d5e:1c6c97e8a88bee8740d9cf06c7e6451b:4ddb42793a59c1b7bfff1539dfc4d068$ */

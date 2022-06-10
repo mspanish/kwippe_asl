@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26261@her@daffodil-profile {max-width:75px; max-height:75px; }
+.@a26261@her@daffodil-profile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/daffodil/0.png/0.png);padding: 0; }
+div.@a26261@her@daffodil-profile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37185@mul@daffodil {max-width:75px; max-height:75px; }
+.@a37185@mul@daffodil::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/d/daffodil/0.png/0.png);padding: 0; }
+div.@a37185@mul@daffodil::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2f6407ace8d87eeb229b08369f69bab1:a30c71eda0958afd19c6d66941fc111a:4ddb42793a59c1b7bfff1539dfc4d068$ */

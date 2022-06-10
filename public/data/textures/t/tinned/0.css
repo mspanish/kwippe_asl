@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39013@mul@tinned-apricots {max-width:75px; max-height:75px; }
+.@a39013@mul@tinned-apricots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/tinned/0.png/0.png);padding: 0; }
+div.@a39013@mul@tinned-apricots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:024d526d8b2e9ee471d99927555dbbc8:42e1399ea93b427562f00bfae8f5de98:4ddb42793a59c1b7bfff1539dfc4d068$ */

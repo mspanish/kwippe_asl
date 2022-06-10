@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60525@ian@hydra-budding {max-width:75px; max-height:75px; }
+.@a60525@ian@hydra-budding::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/asexual/0.png/0.png);padding: 0; }
+div.@a60525@ian@hydra-budding::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2da73e90ec7cb5ca19891896db6f1eb3:f1374e20b42f25ff017e64dc2fe681cb:4ddb42793a59c1b7bfff1539dfc4d068$ */

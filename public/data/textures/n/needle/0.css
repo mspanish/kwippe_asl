@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61698@ian@stipa-viridula {max-width:75px; max-height:75px; }
+.@a61698@ian@stipa-viridula::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/needle/0.png/0.png);padding: 0; }
+div.@a61698@ian@stipa-viridula::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14542@gameicons-lorc@needle-drill {max-width:75px; max-height:75px; }
+.@b14542@gameicons-lorc@needle-drill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/needle/0.png/0.png);padding: 0; }
+div.@b14542@gameicons-lorc@needle-drill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14543@gameicons-lorc@needle-jaws {max-width:75px; max-height:75px; }
+.@b14543@gameicons-lorc@needle-jaws::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/needle/0.png/0.png);padding: 0; }
+div.@b14543@gameicons-lorc@needle-jaws::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14724@gameicons-lorc@sewing-needle {max-width:75px; max-height:75px; }
+.@b14724@gameicons-lorc@sewing-needle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/needle/0.png/0.png);padding: 0; }
+div.@b14724@gameicons-lorc@sewing-needle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15009@gameicons-lorc@triple-needle {max-width:75px; max-height:75px; }
+.@b15009@gameicons-lorc@triple-needle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/needle/0.png/0.png);padding: 0; }
+div.@b15009@gameicons-lorc@triple-needle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:81ea4090506101f6161ba642a60ee711:e25af98f4593c6bede810ae210e1fc64:4ddb42793a59c1b7bfff1539dfc4d068$ */

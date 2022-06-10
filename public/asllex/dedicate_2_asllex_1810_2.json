@@ -1,0 +1,45 @@
+{
+    "sign": "dedicate_2",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "bent_1",
+            "nd": "bent_1"
+        },
+        "end": {
+            "d": "h",
+            "nd": "h"
+        }
+    },
+    "regions": {
+        "morph1_general": "Neutral",
+        "morph1_specific": "Neutral",
+        "morph1_specific_second": "Neutral",
+        "morph1_contact": 1.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 0,
+        "morph2_general": "Head",
+        "morph2_specific": "Forehead",
+        "morph2_specific_second": "HeadAway",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Curved",
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 2.792,
+    "category": null
+}

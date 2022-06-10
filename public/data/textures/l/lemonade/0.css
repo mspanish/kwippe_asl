@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a13997@digerati@lemonade {max-width:75px; max-height:75px; }
+.@a13997@digerati@lemonade::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/lemonade/0.png/0.png);padding: 0; }
+div.@a13997@digerati@lemonade::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38059@mul@lemonade-2 {max-width:75px; max-height:75px; }
+.@a38059@mul@lemonade-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/lemonade/0.png/0.png);padding: 0; }
+div.@a38059@mul@lemonade-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38060@mul@lemonade {max-width:75px; max-height:75px; }
+.@a38060@mul@lemonade::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/l/lemonade/0.png/0.png);padding: 0; }
+div.@a38060@mul@lemonade::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1a18a7e905b94971d0a3222f7f44c0d2:53039bc472ee198b4e3497a3626ca0a2:4ddb42793a59c1b7bfff1539dfc4d068$ */

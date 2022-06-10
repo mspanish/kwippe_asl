@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12332@gameicons-delapouite@candy-canes {max-width:75px; max-height:75px; }
+.@b12332@gameicons-delapouite@candy-canes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/candy_canes/0.png/0.png);padding: 0; }
+div.@b12332@gameicons-delapouite@candy-canes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5d3dc35246957f81e0fbaf9885d528fc:279db6d6a92bc0d4687e04de5f0701aa:4ddb42793a59c1b7bfff1539dfc4d068$ */

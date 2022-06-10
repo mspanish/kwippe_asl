@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16088@emo@fr {max-width:75px; max-height:75px; }
+.@a16088@emo@fr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@a16088@emo@fr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17110@fir@franceflag {max-width:75px; max-height:75px; }
+.@a17110@fir@franceflag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@a17110@fir@franceflag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37040@mul@france {max-width:75px; max-height:75px; }
+.@a37040@mul@france::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@a37040@mul@france::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49824@str@767-france {max-width:75px; max-height:75px; }
+.@a49824@str@767-france::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@a49824@str@767-france::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12656@gameicons-delapouite@france {max-width:75px; max-height:75px; }
+.@b12656@gameicons-delapouite@france::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@b12656@gameicons-delapouite@france::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2482@wikim-all@flag_of_france {max-width:75px; max-height:75px; }
+.@d2482@wikim-all@flag_of_france::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@d2482@wikim-all@flag_of_france::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4497@wikim-sodacan@arms_of_the_dauphin_of_france {max-width:75px; max-height:75px; }
+.@d4497@wikim-sodacan@arms_of_the_dauphin_of_france::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@d4497@wikim-sodacan@arms_of_the_dauphin_of_france::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4501@wikim-sodacan@arms_of_the_french_empire {max-width:75px; max-height:75px; }
+.@d4501@wikim-sodacan@arms_of_the_french_empire::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@d4501@wikim-sodacan@arms_of_the_french_empire::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4671@wikim-sodacan@torse_of_a_chevalier_of_france {max-width:75px; max-height:75px; }
+.@d4671@wikim-sodacan@torse_of_a_chevalier_of_france::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/france/0.png/0.png);padding: 0; }
+div.@d4671@wikim-sodacan@torse_of_a_chevalier_of_france::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e53ccef0ecf6d2ddc9d7fbf8b9c10115:57a5550779c8426271f0645fce27e8da:4ddb42793a59c1b7bfff1539dfc4d068$ */

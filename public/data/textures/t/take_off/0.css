@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14590@em2@airplane-departure {max-width:75px; max-height:75px; }
+.@a14590@em2@airplane-departure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/take_off/0.png/0.png);padding: 0; }
+div.@a14590@em2@airplane-departure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15627@emo@airplane-departure {max-width:75px; max-height:75px; }
+.@a15627@emo@airplane-departure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/take_off/0.png/0.png);padding: 0; }
+div.@a15627@emo@airplane-departure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28143@jqe@airplane-departure {max-width:75px; max-height:75px; }
+.@a28143@jqe@airplane-departure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/take_off/0.png/0.png);padding: 0; }
+div.@a28143@jqe@airplane-departure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39274@noc@airplane-departure {max-width:75px; max-height:75px; }
+.@a39274@noc@airplane-departure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/take_off/0.png/0.png);padding: 0; }
+div.@a39274@noc@airplane-departure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40376@nog@airplane-departure-travel-places {max-width:75px; max-height:75px; }
+.@a40376@nog@airplane-departure-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/take_off/0.png/0.png);padding: 0; }
+div.@a40376@nog@airplane-departure-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50169@tw2@airplane-departure {max-width:75px; max-height:75px; }
+.@a50169@tw2@airplane-departure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/t/take_off/0.png/0.png);padding: 0; }
+div.@a50169@tw2@airplane-departure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f9fb7fd0ece8c83e9c20169d23ebbd0d:3959e45e2eed6820c5175e4ed3fc7ffd:4ddb42793a59c1b7bfff1539dfc4d068$ */

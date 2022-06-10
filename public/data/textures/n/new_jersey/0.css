@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d3695@wikim-all@seal_of_new_jersey {max-width:75px; max-height:75px; }
+.@d3695@wikim-all@seal_of_new_jersey::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/n/new_jersey/0.png/0.png);padding: 0; }
+div.@d3695@wikim-all@seal_of_new_jersey::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5a3d3d8d8afb5b854697283e00f40e95:fa69d6651bf16668e20ed8e9e988dc7a:4ddb42793a59c1b7bfff1539dfc4d068$ */

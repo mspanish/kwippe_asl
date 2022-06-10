@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a41876@nog@genie-smileys-people {max-width:75px; max-height:75px; }
+.@a41876@nog@genie-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/genie/0.png/0.png);padding: 0; }
+div.@a41876@nog@genie-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50474@tw2@genie-gypsy {max-width:75px; max-height:75px; }
+.@a50474@tw2@genie-gypsy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/genie/0.png/0.png);padding: 0; }
+div.@a50474@tw2@genie-gypsy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50475@tw2@genie {max-width:75px; max-height:75px; }
+.@a50475@tw2@genie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/genie/0.png/0.png);padding: 0; }
+div.@a50475@tw2@genie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5e053a2c7cdd49c6d1221cb157d0a5cf:4f05e651b0015acecbe96a496b1c272c:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,59 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14741@em2@chequered-flag {max-width:75px; max-height:75px; }
+.@a14741@em2@chequered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a14741@em2@chequered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15792@emo@checkered-flag {max-width:75px; max-height:75px; }
+.@a15792@emo@checkered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a15792@emo@checkered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27978@ico@finish_flag {max-width:75px; max-height:75px; }
+.@a27978@ico@finish_flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a27978@ico@finish_flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28255@jqe@chequered-flag {max-width:75px; max-height:75px; }
+.@a28255@jqe@chequered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a28255@jqe@chequered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29063@jqu@flag-checkered {max-width:75px; max-height:75px; }
+.@a29063@jqu@flag-checkered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a29063@jqu@flag-checkered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33571@mat@flag-checkered-variant {max-width:75px; max-height:75px; }
+.@a33571@mat@flag-checkered-variant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a33571@mat@flag-checkered-variant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33573@mat@flag-checkered {max-width:75px; max-height:75px; }
+.@a33573@mat@flag-checkered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a33573@mat@flag-checkered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39421@noc@chequered-flag {max-width:75px; max-height:75px; }
+.@a39421@noc@chequered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a39421@noc@chequered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40979@nog@chequered-flag-flags {max-width:75px; max-height:75px; }
+.@a40979@nog@chequered-flag-flags::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a40979@nog@chequered-flag-flags::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44177@not@chequered-flag {max-width:75px; max-height:75px; }
+.@a44177@not@chequered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a44177@not@chequered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50291@tw2@chequered-flag {max-width:75px; max-height:75px; }
+.@a50291@tw2@chequered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a50291@tw2@chequered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51144@twe@chequered-flag {max-width:75px; max-height:75px; }
+.@a51144@twe@chequered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a51144@twe@chequered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53250@vaa@flag-checkered {max-width:75px; max-height:75px; }
+.@a53250@vaa@flag-checkered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a53250@vaa@flag-checkered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55680@web@race-flag {max-width:75px; max-height:75px; }
+.@a55680@web@race-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a55680@web@race-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a778@awe@flag-checkered {max-width:75px; max-height:75px; }
+.@a778@awe@flag-checkered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@a778@awe@flag-checkered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12371@gameicons-delapouite@checkered-flag {max-width:75px; max-height:75px; }
+.@b12371@gameicons-delapouite@checkered-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/r/racing/0.png/0.png);padding: 0; }
+div.@b12371@gameicons-delapouite@checkered-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5620e33a30494a5e6b711e4bd8dc5380:3376ce39b2941926fc87cd3542b1272f:4ddb42793a59c1b7bfff1539dfc4d068$ */

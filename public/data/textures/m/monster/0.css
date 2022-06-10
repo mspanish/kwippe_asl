@@ -1,0 +1,56 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25549@gli@goulish-creature {max-width:75px; max-height:75px; }
+.@a25549@gli@goulish-creature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a25549@gli@goulish-creature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25726@gli@mustache-monster {max-width:75px; max-height:75px; }
+.@a25726@gli@mustache-monster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a25726@gli@mustache-monster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29594@knl@creature-zombie {max-width:75px; max-height:75px; }
+.@a29594@knl@creature-zombie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 0.6410256410256411%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a29594@knl@creature-zombie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29674@knl@monster-3 {max-width:75px; max-height:75px; }
+.@a29674@knl@monster-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a29674@knl@monster-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29675@knl@monster-4 {max-width:75px; max-height:75px; }
+.@a29675@knl@monster-4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a29675@knl@monster-4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29677@knl@monster-6 {max-width:75px; max-height:75px; }
+.@a29677@knl@monster-6::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 25.32051282051282%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a29677@knl@monster-6::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29678@knl@monster-7 {max-width:75px; max-height:75px; }
+.@a29678@knl@monster-7::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a29678@knl@monster-7::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29679@knl@monster-8 {max-width:75px; max-height:75px; }
+.@a29679@knl@monster-8::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a29679@knl@monster-8::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38203@mul@monster {max-width:75px; max-height:75px; }
+.@a38203@mul@monster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a38203@mul@monster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46043@opg@dinosaur {max-width:75px; max-height:75px; }
+.@a46043@opg@dinosaur::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a46043@opg@dinosaur::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46157@opg@monster {max-width:75px; max-height:75px; }
+.@a46157@opg@monster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a46157@opg@monster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47834@plateau@desura-alien-monster {max-width:75px; max-height:75px; }
+.@a47834@plateau@desura-alien-monster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 74.67948717948718%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a47834@plateau@desura-alien-monster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a9548@df-monstermash@1127 {max-width:75px; max-height:75px; }
+.@a9548@df-monstermash@1127::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@a9548@df-monstermash@1127::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12617@gameicons-delapouite@fish-monster {max-width:75px; max-height:75px; }
+.@b12617@gameicons-delapouite@fish-monster::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@b12617@gameicons-delapouite@fish-monster::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14523@gameicons-lorc@monster-grasp {max-width:75px; max-height:75px; }
+.@b14523@gameicons-lorc@monster-grasp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 99.35897435897436%;background-size: 310.6666666666667% 516%;background-image: url(./textures/m/monster/0.png/0.png);padding: 0; }
+div.@b14523@gameicons-lorc@monster-grasp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b9f6d9205d10cacd18371bf928184b45:c766a114a8b498ac2567711d88db765e:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59556@ian@buoy {max-width:75px; max-height:75px; }
+.@a59556@ian@buoy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@a59556@ian@buoy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59557@ian@buoy2 {max-width:75px; max-height:75px; }
+.@a59557@ian@buoy2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@a59557@ian@buoy2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59635@ian@cbos-buoy {max-width:75px; max-height:75px; }
+.@a59635@ian@cbos-buoy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@a59635@ian@cbos-buoy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60294@ian@floating-grow-out-units {max-width:75px; max-height:75px; }
+.@a60294@ian@floating-grow-out-units::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@a60294@ian@floating-grow-out-units::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60295@ian@floating-solar-powered-transmitter {max-width:75px; max-height:75px; }
+.@a60295@ian@floating-solar-powered-transmitter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@a60295@ian@floating-solar-powered-transmitter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62177@ian@warning-buoy {max-width:75px; max-height:75px; }
+.@a62177@ian@warning-buoy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@a62177@ian@warning-buoy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12636@gameicons-delapouite@floating-platforms {max-width:75px; max-height:75px; }
+.@b12636@gameicons-delapouite@floating-platforms::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@b12636@gameicons-delapouite@floating-platforms::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12637@gameicons-delapouite@floating-tentacles {max-width:75px; max-height:75px; }
+.@b12637@gameicons-delapouite@floating-tentacles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@b12637@gameicons-delapouite@floating-tentacles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14200@gameicons-lorc@floating-crystal {max-width:75px; max-height:75px; }
+.@b14200@gameicons-lorc@floating-crystal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/floating/0.png/0.png);padding: 0; }
+div.@b14200@gameicons-lorc@floating-crystal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b58f1dafd76974a60406aa2ba8a9d71c:44072a4e2af5cc0a65ee17ba2c37edf5:4ddb42793a59c1b7bfff1539dfc4d068$ */

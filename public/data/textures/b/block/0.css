@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60935@ian@mountain-range-3d-fault-block {max-width:75px; max-height:75px; }
+.@a60935@ian@mountain-range-3d-fault-block::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/block/0.png/0.png);padding: 0; }
+div.@a60935@ian@mountain-range-3d-fault-block::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62096@ian@usa-ny-gardiners-bay {max-width:75px; max-height:75px; }
+.@a62096@ian@usa-ny-gardiners-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/block/0.png/0.png);padding: 0; }
+div.@a62096@ian@usa-ny-gardiners-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62102@ian@usa-ri-narragansett-bay {max-width:75px; max-height:75px; }
+.@a62102@ian@usa-ri-narragansett-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/block/0.png/0.png);padding: 0; }
+div.@a62102@ian@usa-ri-narragansett-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12177@gameicons-delapouite@ascending-block {max-width:75px; max-height:75px; }
+.@b12177@gameicons-delapouite@ascending-block::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/block/0.png/0.png);padding: 0; }
+div.@b12177@gameicons-delapouite@ascending-block::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14234@gameicons-lorc@frozen-block {max-width:75px; max-height:75px; }
+.@b14234@gameicons-lorc@frozen-block::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/block/0.png/0.png);padding: 0; }
+div.@b14234@gameicons-lorc@frozen-block::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14882@gameicons-lorc@stone-block {max-width:75px; max-height:75px; }
+.@b14882@gameicons-lorc@stone-block::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/block/0.png/0.png);padding: 0; }
+div.@b14882@gameicons-lorc@stone-block::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:067edbb74fd1f8e1c530fcd6b5d84ea8:59378dc58ddc6d5d6e029edaa2be49c7:4ddb42793a59c1b7bfff1539dfc4d068$ */

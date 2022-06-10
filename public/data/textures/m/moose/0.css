@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a44970@oa1@2-moose {max-width:75px; max-height:75px; }
+.@a44970@oa1@2-moose::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/moose/0.png/0.png);padding: 0; }
+div.@a44970@oa1@2-moose::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59295@ian@alces-alces {max-width:75px; max-height:75px; }
+.@a59295@ian@alces-alces::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/moose/0.png/0.png);padding: 0; }
+div.@a59295@ian@alces-alces::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fa5e6e12f30b3d9a178c90b3be3f88d3:ce84b26fc72555284f9c835cbcd30030:4ddb42793a59c1b7bfff1539dfc4d068$ */

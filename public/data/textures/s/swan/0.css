@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26549@her@swan-naiant {max-width:75px; max-height:75px; }
+.@a26549@her@swan-naiant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/swan/0.png/0.png);padding: 0; }
+div.@a26549@her@swan-naiant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38913@mul@swan {max-width:75px; max-height:75px; }
+.@a38913@mul@swan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/swan/0.png/0.png);padding: 0; }
+div.@a38913@mul@swan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43666@nog@swan-animals-nature {max-width:75px; max-height:75px; }
+.@a43666@nog@swan-animals-nature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/swan/0.png/0.png);padding: 0; }
+div.@a43666@nog@swan-animals-nature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59733@ian@cnidoglanis-macrocephalus {max-width:75px; max-height:75px; }
+.@a59733@ian@cnidoglanis-macrocephalus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/swan/0.png/0.png);padding: 0; }
+div.@a59733@ian@cnidoglanis-macrocephalus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14916@gameicons-lorc@swan-breeze {max-width:75px; max-height:75px; }
+.@b14916@gameicons-lorc@swan-breeze::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/swan/0.png/0.png);padding: 0; }
+div.@b14916@gameicons-lorc@swan-breeze::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14917@gameicons-lorc@swan {max-width:75px; max-height:75px; }
+.@b14917@gameicons-lorc@swan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/swan/0.png/0.png);padding: 0; }
+div.@b14917@gameicons-lorc@swan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:245d57aa7a5ccb58aed72b116c49e63e:51024566538690f7e1055faceb5c7915:4ddb42793a59c1b7bfff1539dfc4d068$ */

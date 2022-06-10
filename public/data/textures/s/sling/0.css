@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38781@mul@sling {max-width:75px; max-height:75px; }
+.@a38781@mul@sling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sling/0.png/0.png);padding: 0; }
+div.@a38781@mul@sling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12167@gameicons-delapouite@arm-sling {max-width:75px; max-height:75px; }
+.@b12167@gameicons-delapouite@arm-sling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sling/0.png/0.png);padding: 0; }
+div.@b12167@gameicons-delapouite@arm-sling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13335@gameicons-delapouite@sling {max-width:75px; max-height:75px; }
+.@b13335@gameicons-delapouite@sling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/sling/0.png/0.png);padding: 0; }
+div.@b13335@gameicons-delapouite@sling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:af57a0b3c30d46dbaf028aa2f7a95309:ec6fa7485990fb774426e812c1dc0fb9:4ddb42793a59c1b7bfff1539dfc4d068$ */

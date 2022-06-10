@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1794@bon@family-juvenile-female-5765 {max-width:75px; max-height:75px; }
+.@a1794@bon@family-juvenile-female-5765::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/family_juvenile_female/0.png/0.png);padding: 0; }
+div.@a1794@bon@family-juvenile-female-5765::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1795@bon@family-juvenile-female-7029 {max-width:75px; max-height:75px; }
+.@a1795@bon@family-juvenile-female-7029::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/family_juvenile_female/0.png/0.png);padding: 0; }
+div.@a1795@bon@family-juvenile-female-7029::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7b01bad276698c4590f66ab256f90fb1:0ed56ccb7defa14651261b484c4970ae:4ddb42793a59c1b7bfff1539dfc4d068$ */

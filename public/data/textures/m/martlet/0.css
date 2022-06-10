@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26439@her@martlet {max-width:75px; max-height:75px; }
+.@a26439@her@martlet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/martlet/0.png/0.png);padding: 0; }
+div.@a26439@her@martlet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6910219209c5004ea5abc21a59776e55:3652c76ce7c44206b7795516e522a6bd:4ddb42793a59c1b7bfff1539dfc4d068$ */

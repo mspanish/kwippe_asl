@@ -1,0 +1,37 @@
+{
+    "sign": "frustrated-thwarted",
+    "signer": "asl2english",
+    "uid": 657,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 20,
+            "nd": null
+        },
+        "end": {
+            "d": 20,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest-front",
+        "mouth"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

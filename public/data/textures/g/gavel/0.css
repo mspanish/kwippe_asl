@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29076@jqu@gavel {max-width:75px; max-height:75px; }
+.@a29076@jqu@gavel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@a29076@jqu@gavel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31995@map@courthouse {max-width:75px; max-height:75px; }
+.@a31995@map@courthouse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@a31995@map@courthouse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33841@mat@gavel {max-width:75px; max-height:75px; }
+.@a33841@mat@gavel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@a33841@mat@gavel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53273@vaa@gavel {max-width:75px; max-height:75px; }
+.@a53273@vaa@gavel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@a53273@vaa@gavel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54289@wav@gavel {max-width:75px; max-height:75px; }
+.@a54289@wav@gavel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@a54289@wav@gavel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a795@awe@gavel {max-width:75px; max-height:75px; }
+.@a795@awe@gavel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@a795@awe@gavel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12207@gameicons-delapouite@banging-gavel {max-width:75px; max-height:75px; }
+.@b12207@gameicons-delapouite@banging-gavel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@b12207@gameicons-delapouite@banging-gavel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14241@gameicons-lorc@gavel {max-width:75px; max-height:75px; }
+.@b14241@gameicons-lorc@gavel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@b14241@gameicons-lorc@gavel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8803@web@gavel {max-width:75px; max-height:75px; }
+.@b8803@web@gavel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/g/gavel/0.png/0.png);padding: 0; }
+div.@b8803@web@gavel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dc8203a15bfa295f980e9ed7bab11361:f2b80e36aad8d9180b49abd31f21081a:4ddb42793a59c1b7bfff1539dfc4d068$ */

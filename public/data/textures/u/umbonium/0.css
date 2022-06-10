@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61885@ian@umbonium-vestiarum {max-width:75px; max-height:75px; }
+.@a61885@ian@umbonium-vestiarum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/u/umbonium/0.png/0.png);padding: 0; }
+div.@a61885@ian@umbonium-vestiarum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d2b19ae4da53d9c0171c6cb7fafae8c8:766d6c97572967ba388d1d4c32ba4111:4ddb42793a59c1b7bfff1539dfc4d068$ */

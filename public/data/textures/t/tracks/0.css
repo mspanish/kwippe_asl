@@ -1,0 +1,77 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13497@gameicons-delapouite@tire-tracks {max-width:75px; max-height:75px; }
+.@b13497@gameicons-delapouite@tire-tracks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@b13497@gameicons-delapouite@tire-tracks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13575@gameicons-delapouite@velociraptor-tracks {max-width:75px; max-height:75px; }
+.@b13575@gameicons-delapouite@velociraptor-tracks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@b13575@gameicons-delapouite@velociraptor-tracks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14941@gameicons-lorc@tear-tracks {max-width:75px; max-height:75px; }
+.@b14941@gameicons-lorc@tear-tracks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@b14941@gameicons-lorc@tear-tracks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1065@mutcd@panama_191 {max-width:75px; max-height:75px; }
+.@d1065@mutcd@panama_191::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d1065@mutcd@panama_191::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1142@mutcd@peru_192 {max-width:75px; max-height:75px; }
+.@d1142@mutcd@peru_192::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d1142@mutcd@peru_192::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1223@mutcd@philippines_193 {max-width:75px; max-height:75px; }
+.@d1223@mutcd@philippines_193::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d1223@mutcd@philippines_193::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d123@mutcd@australia_178 {max-width:75px; max-height:75px; }
+.@d123@mutcd@australia_178::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d123@mutcd@australia_178::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1303@mutcd@thailand_194 {max-width:75px; max-height:75px; }
+.@d1303@mutcd@thailand_194::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d1303@mutcd@thailand_194::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1348@mutcd@united_states_195 {max-width:75px; max-height:75px; }
+.@d1348@mutcd@united_states_195::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d1348@mutcd@united_states_195::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1475@mutcd@uruguay_196 {max-width:75px; max-height:75px; }
+.@d1475@mutcd@uruguay_196::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d1475@mutcd@uruguay_196::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d210@mutcd@brazil_179 {max-width:75px; max-height:75px; }
+.@d210@mutcd@brazil_179::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d210@mutcd@brazil_179::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d292@mutcd@canada_180 {max-width:75px; max-height:75px; }
+.@d292@mutcd@canada_180::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d292@mutcd@canada_180::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d373@mutcd@canada_ontario_181 {max-width:75px; max-height:75px; }
+.@d373@mutcd@canada_ontario_181::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d373@mutcd@canada_ontario_181::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d44@mutcd@argentina_177 {max-width:75px; max-height:75px; }
+.@d44@mutcd@argentina_177::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d44@mutcd@argentina_177::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d457@mutcd@canada_quebec_182 {max-width:75px; max-height:75px; }
+.@d457@mutcd@canada_quebec_182::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d457@mutcd@canada_quebec_182::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d545@mutcd@chile_183 {max-width:75px; max-height:75px; }
+.@d545@mutcd@chile_183::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d545@mutcd@chile_183::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d625@mutcd@colombia_184 {max-width:75px; max-height:75px; }
+.@d625@mutcd@colombia_184::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d625@mutcd@colombia_184::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d798@mutcd@japan_186 {max-width:75px; max-height:75px; }
+.@d798@mutcd@japan_186::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d798@mutcd@japan_186::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d831@mutcd@liberia_187 {max-width:75px; max-height:75px; }
+.@d831@mutcd@liberia_187::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d831@mutcd@liberia_187::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d878@mutcd@malaysia_188 {max-width:75px; max-height:75px; }
+.@d878@mutcd@malaysia_188::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d878@mutcd@malaysia_188::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d913@mutcd@mexico_189 {max-width:75px; max-height:75px; }
+.@d913@mutcd@mexico_189::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d913@mutcd@mexico_189::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d985@mutcd@new_zealand_190 {max-width:75px; max-height:75px; }
+.@d985@mutcd@new_zealand_190::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/t/tracks/0.png/0.png);padding: 0; }
+div.@d985@mutcd@new_zealand_190::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cff8fd899fdbefde05fc487e51e304dc:e46c6374210e6a31407e8bef00c9d10d:4ddb42793a59c1b7bfff1539dfc4d068$ */

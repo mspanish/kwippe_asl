@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2646@bon@wash-the-dishes-2572 {max-width:75px; max-height:75px; }
+.@a2646@bon@wash-the-dishes-2572::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/wash_the_dishes/0.png/0.png);padding: 0; }
+div.@a2646@bon@wash-the-dishes-2572::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cb73ec467c45fa446e034554b0d4015f:212d88f6e11015b3d226cf2bb6a573f9:4ddb42793a59c1b7bfff1539dfc4d068$ */

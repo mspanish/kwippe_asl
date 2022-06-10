@@ -1,0 +1,45 @@
+{
+    "sign": "bee_1",
+    "signer": "aslLex",
+    "uid": 2102,
+    "synonyms": "bee, bug, bumblebee, honeybee, insect, sting",
+    "handshapes": {
+        "begin": {
+            "d": "f",
+            "nd": null
+        },
+        "end": {
+            "d": "closed_b",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "CheekNose",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Head",
+        "morph2_specific": "CheekNose",
+        "morph2_specific_second": "Other",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 3.4,
+    "category": "Animals"
+}

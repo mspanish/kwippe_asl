@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26495@her@raven-migrant {max-width:75px; max-height:75px; }
+.@a26495@her@raven-migrant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/raven_migrant/0.png/0.png);padding: 0; }
+div.@a26495@her@raven-migrant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:db9b295c41b0b60adea68e34aee1a4fc:fafba76d172b0b546bcf09bc53670183:4ddb42793a59c1b7bfff1539dfc4d068$ */

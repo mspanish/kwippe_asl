@@ -1,0 +1,37 @@
+{
+    "sign": "ns-el-salvador",
+    "signer": "asl2english",
+    "uid": 1150,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 43,
+            "nd": null
+        },
+        "end": {
+            "d": 43,
+            "nd": null
+        }
+    },
+    "regions": [
+        "L-shoulder",
+        "waist"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            -1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2014@bon@jug-empty-2534 {max-width:75px; max-height:75px; }
+.@a2014@bon@jug-empty-2534::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/j/jug/0.png/0.png);padding: 0; }
+div.@a2014@bon@jug-empty-2534::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2015@bon@jug-full-2535 {max-width:75px; max-height:75px; }
+.@a2015@bon@jug-full-2535::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/j/jug/0.png/0.png);padding: 0; }
+div.@a2015@bon@jug-full-2535::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2468@bon@task-fill-the-water-jug-6076 {max-width:75px; max-height:75px; }
+.@a2468@bon@task-fill-the-water-jug-6076::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/j/jug/0.png/0.png);padding: 0; }
+div.@a2468@bon@task-fill-the-water-jug-6076::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2658@bon@water-jug-2574 {max-width:75px; max-height:75px; }
+.@a2658@bon@water-jug-2574::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/j/jug/0.png/0.png);padding: 0; }
+div.@a2658@bon@water-jug-2574::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38147@mul@measuring-jug {max-width:75px; max-height:75px; }
+.@a38147@mul@measuring-jug::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/j/jug/0.png/0.png);padding: 0; }
+div.@a38147@mul@measuring-jug::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12837@gameicons-delapouite@jug {max-width:75px; max-height:75px; }
+.@b12837@gameicons-delapouite@jug::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/j/jug/0.png/0.png);padding: 0; }
+div.@b12837@gameicons-delapouite@jug::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2063dda81cb04b2ed0bad54ed8b529e8:728b60207196b2933c81e0daebd951de:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "third",
+    "signer": "asl2english",
+    "uid": 1841,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 2,
+            "nd": null
+        },
+        "end": {
+            "d": 2,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

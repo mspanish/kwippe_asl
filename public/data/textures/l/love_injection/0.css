@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14455@gameicons-lorc@love-injection {max-width:75px; max-height:75px; }
+.@b14455@gameicons-lorc@love-injection::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/love_injection/0.png/0.png);padding: 0; }
+div.@b14455@gameicons-lorc@love-injection::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d74fee1e1119d5c273d83892f22c3d4b:54eac59bfaf130dc6ef27ca8c492a1ba:4ddb42793a59c1b7bfff1539dfc4d068$ */

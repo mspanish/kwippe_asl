@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16054@emo@ck {max-width:75px; max-height:75px; }
+.@a16054@emo@ck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cook_islands/0.png/0.png);padding: 0; }
+div.@a16054@emo@ck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37500@mul@cook_islands {max-width:75px; max-height:75px; }
+.@a37500@mul@cook_islands::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cook_islands/0.png/0.png);padding: 0; }
+div.@a37500@mul@cook_islands::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2061@wikim-all@coat_of_arms_of_the_cook_islands {max-width:75px; max-height:75px; }
+.@d2061@wikim-all@coat_of_arms_of_the_cook_islands::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cook_islands/0.png/0.png);padding: 0; }
+div.@d2061@wikim-all@coat_of_arms_of_the_cook_islands::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:aecc8bd389fbfd85b94e239a4c682495:860978059c6050ac94e333e9b1095316:4ddb42793a59c1b7bfff1539dfc4d068$ */

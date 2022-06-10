@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13586@gameicons-delapouite@viking-head {max-width:75px; max-height:75px; }
+.@b13586@gameicons-delapouite@viking-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/viking/0.png/0.png);padding: 0; }
+div.@b13586@gameicons-delapouite@viking-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13587@gameicons-delapouite@viking-helmet {max-width:75px; max-height:75px; }
+.@b13587@gameicons-delapouite@viking-helmet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/viking/0.png/0.png);padding: 0; }
+div.@b13587@gameicons-delapouite@viking-helmet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13588@gameicons-delapouite@viking-longhouse {max-width:75px; max-height:75px; }
+.@b13588@gameicons-delapouite@viking-longhouse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/v/viking/0.png/0.png);padding: 0; }
+div.@b13588@gameicons-delapouite@viking-longhouse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:00a27e3adfb9ea32e99d2c59208d363c:fc4b0bb2a700b7572b46964347ecbb53:4ddb42793a59c1b7bfff1539dfc4d068$ */

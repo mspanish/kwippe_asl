@@ -1,0 +1,101 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59974@ian@deepwater-research-station {max-width:75px; max-height:75px; }
+.@a59974@ian@deepwater-research-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a59974@ian@deepwater-research-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60081@ian@effects-gains {max-width:75px; max-height:75px; }
+.@a60081@ian@effects-gains::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60081@ian@effects-gains::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60083@ian@effects-losses {max-width:75px; max-height:75px; }
+.@a60083@ian@effects-losses::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60083@ian@effects-losses::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60087@ian@effects-reclamation {max-width:75px; max-height:75px; }
+.@a60087@ian@effects-reclamation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60087@ian@effects-reclamation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60088@ian@effects-restricted-tidal-exchange {max-width:75px; max-height:75px; }
+.@a60088@ian@effects-restricted-tidal-exchange::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60088@ian@effects-restricted-tidal-exchange::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60092@ian@effects-zonal-shift {max-width:75px; max-height:75px; }
+.@a60092@ian@effects-zonal-shift::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60092@ian@effects-zonal-shift::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60414@ian@habitat-2d-exposed-sand-with-calcareous-base {max-width:75px; max-height:75px; }
+.@a60414@ian@habitat-2d-exposed-sand-with-calcareous-base::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60414@ian@habitat-2d-exposed-sand-with-calcareous-base::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60415@ian@habitat-2d-good-versus-bad {max-width:75px; max-height:75px; }
+.@a60415@ian@habitat-2d-good-versus-bad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60415@ian@habitat-2d-good-versus-bad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60416@ian@habitat-2d-intertidal-mud {max-width:75px; max-height:75px; }
+.@a60416@ian@habitat-2d-intertidal-mud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60416@ian@habitat-2d-intertidal-mud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60417@ian@habitat-2d-intertidal-mudflat {max-width:75px; max-height:75px; }
+.@a60417@ian@habitat-2d-intertidal-mudflat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60417@ian@habitat-2d-intertidal-mudflat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60418@ian@habitat-2d-protected-sand {max-width:75px; max-height:75px; }
+.@a60418@ian@habitat-2d-protected-sand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60418@ian@habitat-2d-protected-sand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60419@ian@habitat-2d-reef {max-width:75px; max-height:75px; }
+.@a60419@ian@habitat-2d-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60419@ian@habitat-2d-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60420@ian@habitat-2d-sand-and-reef {max-width:75px; max-height:75px; }
+.@a60420@ian@habitat-2d-sand-and-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60420@ian@habitat-2d-sand-and-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60421@ian@habitat-2d-subtidal-mud {max-width:75px; max-height:75px; }
+.@a60421@ian@habitat-2d-subtidal-mud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60421@ian@habitat-2d-subtidal-mud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60422@ian@habitat-2d-underwater-shoreline {max-width:75px; max-height:75px; }
+.@a60422@ian@habitat-2d-underwater-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a60422@ian@habitat-2d-underwater-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61277@ian@potential-seagrass-habitat {max-width:75px; max-height:75px; }
+.@a61277@ian@potential-seagrass-habitat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61277@ian@potential-seagrass-habitat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61377@ian@reef-2d-deep-habitat {max-width:75px; max-height:75px; }
+.@a61377@ian@reef-2d-deep-habitat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61377@ian@reef-2d-deep-habitat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61463@ian@river-3d-cross-vane-weir-1 {max-width:75px; max-height:75px; }
+.@a61463@ian@river-3d-cross-vane-weir-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61463@ian@river-3d-cross-vane-weir-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61464@ian@river-3d-cross-vane-weir-2 {max-width:75px; max-height:75px; }
+.@a61464@ian@river-3d-cross-vane-weir-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61464@ian@river-3d-cross-vane-weir-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61575@ian@seagrass-habitat-coastal {max-width:75px; max-height:75px; }
+.@a61575@ian@seagrass-habitat-coastal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61575@ian@seagrass-habitat-coastal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61576@ian@seagrass-habitat-deep {max-width:75px; max-height:75px; }
+.@a61576@ian@seagrass-habitat-deep::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61576@ian@seagrass-habitat-deep::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61577@ian@seagrass-habitat-intertidal {max-width:75px; max-height:75px; }
+.@a61577@ian@seagrass-habitat-intertidal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61577@ian@seagrass-habitat-intertidal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61578@ian@seagrass-habitat-reef {max-width:75px; max-height:75px; }
+.@a61578@ian@seagrass-habitat-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61578@ian@seagrass-habitat-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61579@ian@seagrass-habitat-rivers {max-width:75px; max-height:75px; }
+.@a61579@ian@seagrass-habitat-rivers::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61579@ian@seagrass-habitat-rivers::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61580@ian@seagrass-habitat-subtidal {max-width:75px; max-height:75px; }
+.@a61580@ian@seagrass-habitat-subtidal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61580@ian@seagrass-habitat-subtidal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61585@ian@seagrass-loss-recovery {max-width:75px; max-height:75px; }
+.@a61585@ian@seagrass-loss-recovery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61585@ian@seagrass-loss-recovery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61586@ian@seagrass-loss {max-width:75px; max-height:75px; }
+.@a61586@ian@seagrass-loss::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61586@ian@seagrass-loss::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61589@ian@seagrass-restoration {max-width:75px; max-height:75px; }
+.@a61589@ian@seagrass-restoration::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61589@ian@seagrass-restoration::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61889@ian@undersea-habitat {max-width:75px; max-height:75px; }
+.@a61889@ian@undersea-habitat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@a61889@ian@undersea-habitat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12721@gameicons-delapouite@habitat-dome {max-width:75px; max-height:75px; }
+.@b12721@gameicons-delapouite@habitat-dome::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/h/habitat/0.png/0.png);padding: 0; }
+div.@b12721@gameicons-delapouite@habitat-dome::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:db5ad5ddcc11d534fcdb9a492b41ed6d:029a5779dfa740e7c990b1e68b8e08b9:4ddb42793a59c1b7bfff1539dfc4d068$ */

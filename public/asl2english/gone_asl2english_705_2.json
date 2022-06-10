@@ -1,0 +1,37 @@
+{
+    "sign": "gone",
+    "signer": "asl2english",
+    "uid": 705,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 4,
+            "nd": 39
+        },
+        "end": {
+            "d": 35,
+            "nd": 51
+        }
+    },
+    "regions": [
+        "chin-area",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "change"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

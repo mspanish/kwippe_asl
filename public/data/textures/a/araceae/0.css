@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61142@ian@peltandra-virginica {max-width:75px; max-height:75px; }
+.@a61142@ian@peltandra-virginica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/araceae/0.png/0.png);padding: 0; }
+div.@a61142@ian@peltandra-virginica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:00f3c32e2c17432698a056dbf22d7a6a:366830f1868cb137db99c79be055cc95:4ddb42793a59c1b7bfff1539dfc4d068$ */

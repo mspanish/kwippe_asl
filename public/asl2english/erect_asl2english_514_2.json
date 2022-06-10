@@ -1,0 +1,37 @@
+{
+    "sign": "erect",
+    "signer": "asl2english",
+    "uid": 514,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 36,
+            "nd": 18
+        },
+        "end": {
+            "d": 39,
+            "nd": 4
+        }
+    },
+    "regions": [
+        "chest",
+        "nose"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

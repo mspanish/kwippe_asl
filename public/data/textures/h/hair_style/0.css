@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a40517@nog@bald-component-hair-style {max-width:75px; max-height:75px; }
+.@a40517@nog@bald-component-hair-style::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hair_style/0.png/0.png);padding: 0; }
+div.@a40517@nog@bald-component-hair-style::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43206@nog@red-hair-component-hair-style {max-width:75px; max-height:75px; }
+.@a43206@nog@red-hair-component-hair-style::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hair_style/0.png/0.png);padding: 0; }
+div.@a43206@nog@red-hair-component-hair-style::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43920@nog@white-hair-component-hair-style {max-width:75px; max-height:75px; }
+.@a43920@nog@white-hair-component-hair-style::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hair_style/0.png/0.png);padding: 0; }
+div.@a43920@nog@white-hair-component-hair-style::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0cd7c2a521719d8c39ca7c8fdb6bc368:212151ccba9f407455fd3a6c7baa8f52:4ddb42793a59c1b7bfff1539dfc4d068$ */

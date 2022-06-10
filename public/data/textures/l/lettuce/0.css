@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25556@gli@green-leaf {max-width:75px; max-height:75px; }
+.@a25556@gli@green-leaf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/lettuce/0.png/0.png);padding: 0; }
+div.@a25556@gli@green-leaf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26013@gli@vegetable-green-leaf {max-width:75px; max-height:75px; }
+.@a26013@gli@vegetable-green-leaf::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/lettuce/0.png/0.png);padding: 0; }
+div.@a26013@gli@vegetable-green-leaf::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38066@mul@lettuce {max-width:75px; max-height:75px; }
+.@a38066@mul@lettuce::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/lettuce/0.png/0.png);padding: 0; }
+div.@a38066@mul@lettuce::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42399@nog@leafy-green-food-drink {max-width:75px; max-height:75px; }
+.@a42399@nog@leafy-green-food-drink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/lettuce/0.png/0.png);padding: 0; }
+div.@a42399@nog@leafy-green-food-drink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58583@baianet@group {max-width:75px; max-height:75px; }
+.@a58583@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/lettuce/0.png/0.png);padding: 0; }
+div.@a58583@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61884@ian@ulva-spp {max-width:75px; max-height:75px; }
+.@a61884@ian@ulva-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/lettuce/0.png/0.png);padding: 0; }
+div.@a61884@ian@ulva-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6bf6111a970f530d981f037fdacfafc4:b59b0e1e97e4d559f8d25ef49ee645e8:4ddb42793a59c1b7bfff1539dfc4d068$ */

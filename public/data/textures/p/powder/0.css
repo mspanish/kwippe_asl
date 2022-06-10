@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1512@bon@baking-powder-2256 {max-width:75px; max-height:75px; }
+.@a1512@bon@baking-powder-2256::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/powder/0.png/0.png);padding: 0; }
+div.@a1512@bon@baking-powder-2256::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36512@mul@baking-powder {max-width:75px; max-height:75px; }
+.@a36512@mul@baking-powder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/powder/0.png/0.png);padding: 0; }
+div.@a36512@mul@baking-powder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38507@mul@powder-puff {max-width:75px; max-height:75px; }
+.@a38507@mul@powder-puff::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/powder/0.png/0.png);padding: 0; }
+div.@a38507@mul@powder-puff::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39168@mul@washing-powder {max-width:75px; max-height:75px; }
+.@a39168@mul@washing-powder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/powder/0.png/0.png);padding: 0; }
+div.@a39168@mul@washing-powder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13155@gameicons-delapouite@powder-bag {max-width:75px; max-height:75px; }
+.@b13155@gameicons-delapouite@powder-bag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/powder/0.png/0.png);padding: 0; }
+div.@b13155@gameicons-delapouite@powder-bag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14621@gameicons-lorc@powder {max-width:75px; max-height:75px; }
+.@b14621@gameicons-lorc@powder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/powder/0.png/0.png);padding: 0; }
+div.@b14621@gameicons-lorc@powder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6b02d020dd88692631dfea38fa638c6b:3b14e0e12bee0b50957f36bdd9149982:4ddb42793a59c1b7bfff1539dfc4d068$ */

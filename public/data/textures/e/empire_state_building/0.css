@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a58174@ope@boort_boort_art_deco_empire_state_building {max-width:75px; max-height:75px; }
+.@a58174@ope@boort_boort_art_deco_empire_state_building::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/empire_state_building/0.png/0.png);padding: 0; }
+div.@a58174@ope@boort_boort_art_deco_empire_state_building::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e064fba5c5b82b7a648b7746d3d1a9ff:c9f2f9a7b51f6fe251684e460379d2fa:4ddb42793a59c1b7bfff1539dfc4d068$ */

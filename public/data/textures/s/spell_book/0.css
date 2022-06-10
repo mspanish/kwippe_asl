@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13372@gameicons-delapouite@spell-book {max-width:75px; max-height:75px; }
+.@b13372@gameicons-delapouite@spell-book::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/spell_book/0.png/0.png);padding: 0; }
+div.@b13372@gameicons-delapouite@spell-book::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7a7782e251146c98c03e6f58a617952a:fd61813a53e8e280fe3c0cd99b940359:4ddb42793a59c1b7bfff1539dfc4d068$ */

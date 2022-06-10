@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a45799@ope@qubodup_cartoon_tipi_tent_with_red_flag {max-width:75px; max-height:75px; }
+.@a45799@ope@qubodup_cartoon_tipi_tent_with_red_flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/tee_pee/0.png/0.png);padding: 0; }
+div.@a45799@ope@qubodup_cartoon_tipi_tent_with_red_flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58164@ope@artfavor_teepee {max-width:75px; max-height:75px; }
+.@a58164@ope@artfavor_teepee::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/tee_pee/0.png/0.png);padding: 0; }
+div.@a58164@ope@artfavor_teepee::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0707f4253ca6ff821327aac5a394bfb5:6a60a043dde0c40d44d14ace81831037:4ddb42793a59c1b7bfff1539dfc4d068$ */

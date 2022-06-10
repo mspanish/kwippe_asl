@@ -1,0 +1,45 @@
+{
+    "sign": "waiter",
+    "signer": "aslLex",
+    "uid": 3116,
+    "synonyms": "server, waiter, waitress",
+    "handshapes": {
+        "begin": {
+            "d": "open_b",
+            "nd": "open_b"
+        },
+        "end": {
+            "d": "open_b",
+            "nd": "open_b"
+        }
+    },
+    "regions": {
+        "morph1_general": "Neutral",
+        "morph1_specific": "Neutral",
+        "morph1_specific_second": "Neutral",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 1,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 4.484,
+    "category": null
+}

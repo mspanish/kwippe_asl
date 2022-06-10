@@ -1,0 +1,116 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36613@mul@boat {max-width:75px; max-height:75px; }
+.@a36613@mul@boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a36613@mul@boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37813@mul@gravy-boat {max-width:75px; max-height:75px; }
+.@a37813@mul@gravy-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a37813@mul@gravy-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38616@mul@rowing-boat {max-width:75px; max-height:75px; }
+.@a38616@mul@rowing-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a38616@mul@rowing-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48887@solver@6-boat-search {max-width:75px; max-height:75px; }
+.@a48887@solver@6-boat-search::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a48887@solver@6-boat-search::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58221@baianet@group {max-width:75px; max-height:75px; }
+.@a58221@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a58221@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58253@baianet@group {max-width:75px; max-height:75px; }
+.@a58253@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a58253@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59504@ian@boat-dinghy {max-width:75px; max-height:75px; }
+.@a59504@ian@boat-dinghy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a59504@ian@boat-dinghy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59505@ian@boat-ngalawa-traditional-swahili-boat {max-width:75px; max-height:75px; }
+.@a59505@ian@boat-ngalawa-traditional-swahili-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a59505@ian@boat-ngalawa-traditional-swahili-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59542@ian@brigantine {max-width:75px; max-height:75px; }
+.@a59542@ian@brigantine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a59542@ian@brigantine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59990@ian@dema-fisher {max-width:75px; max-height:75px; }
+.@a59990@ian@dema-fisher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a59990@ian@dema-fisher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60056@ian@dredge {max-width:75px; max-height:75px; }
+.@a60056@ian@dredge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60056@ian@dredge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60057@ian@dredge2 {max-width:75px; max-height:75px; }
+.@a60057@ian@dredge2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60057@ian@dredge2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60058@ian@dredge3 {max-width:75px; max-height:75px; }
+.@a60058@ian@dredge3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60058@ian@dredge3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60075@ian@economic-indicators {max-width:75px; max-height:75px; }
+.@a60075@ian@economic-indicators::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60075@ian@economic-indicators::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60077@ian@education-boat-indonesian {max-width:75px; max-height:75px; }
+.@a60077@ian@education-boat-indonesian::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60077@ian@education-boat-indonesian::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60275@ian@fisher {max-width:75px; max-height:75px; }
+.@a60275@ian@fisher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60275@ian@fisher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60511@ian@hospitality-liveaboard-dive-boat {max-width:75px; max-height:75px; }
+.@a60511@ian@hospitality-liveaboard-dive-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60511@ian@hospitality-liveaboard-dive-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60913@ian@mooring-buoy {max-width:75px; max-height:75px; }
+.@a60913@ian@mooring-buoy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60913@ian@mooring-buoy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60914@ian@mooring {max-width:75px; max-height:75px; }
+.@a60914@ian@mooring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a60914@ian@mooring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61401@ian@research-vessel {max-width:75px; max-height:75px; }
+.@a61401@ian@research-vessel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a61401@ian@research-vessel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61402@ian@research-vessel2 {max-width:75px; max-height:75px; }
+.@a61402@ian@research-vessel2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a61402@ian@research-vessel2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61503@ian@rowing {max-width:75px; max-height:75px; }
+.@a61503@ian@rowing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a61503@ian@rowing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61814@ian@tour-boat {max-width:75px; max-height:75px; }
+.@a61814@ian@tour-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a61814@ian@tour-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61826@ian@trading-keelboat {max-width:75px; max-height:75px; }
+.@a61826@ian@trading-keelboat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a61826@ian@trading-keelboat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62201@ian@water-transport {max-width:75px; max-height:75px; }
+.@a62201@ian@water-transport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@a62201@ian@water-transport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12253@gameicons-delapouite@boat-fishing {max-width:75px; max-height:75px; }
+.@b12253@gameicons-delapouite@boat-fishing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@b12253@gameicons-delapouite@boat-fishing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12254@gameicons-delapouite@boat-horizon {max-width:75px; max-height:75px; }
+.@b12254@gameicons-delapouite@boat-horizon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@b12254@gameicons-delapouite@boat-horizon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12255@gameicons-delapouite@boat-propeller {max-width:75px; max-height:75px; }
+.@b12255@gameicons-delapouite@boat-propeller::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@b12255@gameicons-delapouite@boat-propeller::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13058@gameicons-delapouite@paper-boat {max-width:75px; max-height:75px; }
+.@b13058@gameicons-delapouite@paper-boat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@b13058@gameicons-delapouite@paper-boat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13304@gameicons-delapouite@ship-wreck {max-width:75px; max-height:75px; }
+.@b13304@gameicons-delapouite@ship-wreck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@b13304@gameicons-delapouite@ship-wreck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2092@wikim-all@container-158362 {max-width:75px; max-height:75px; }
+.@d2092@wikim-all@container-158362::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@d2092@wikim-all@container-158362::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3058@wikim-all@hungarian-1858 {max-width:75px; max-height:75px; }
+.@d3058@wikim-all@hungarian-1858::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@d3058@wikim-all@hungarian-1858::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3392@wikim-all@nisshin_maru {max-width:75px; max-height:75px; }
+.@d3392@wikim-all@nisshin_maru::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@d3392@wikim-all@nisshin_maru::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3580@wikim-all@rainbow_warrior-1 {max-width:75px; max-height:75px; }
+.@d3580@wikim-all@rainbow_warrior-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@d3580@wikim-all@rainbow_warrior-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3815@wikim-all@steamship_die_weser_1817 {max-width:75px; max-height:75px; }
+.@d3815@wikim-all@steamship_die_weser_1817::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/b/boat/0.png/0.png);padding: 0; }
+div.@d3815@wikim-all@steamship_die_weser_1817::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4f3d9631856c1c836aa4d70cd3ca4324:90118a2423aca16794642616d4a3a029:4ddb42793a59c1b7bfff1539dfc4d068$ */

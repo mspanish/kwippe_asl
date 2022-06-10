@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@e13158@gameicons-delapouite@prayer-beads-rosary {max-width:75px; max-height:75px; }
+.@e13158@gameicons-delapouite@prayer-beads-rosary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rosary/0.png/0.png);padding: 0; }
+div.@e13158@gameicons-delapouite@prayer-beads-rosary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@e15297@em2@rosary {max-width:75px; max-height:75px; }
+.@e15297@em2@rosary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rosary/0.png/0.png);padding: 0; }
+div.@e15297@em2@rosary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@e43115@nog@rosary {max-width:75px; max-height:75px; }
+.@e43115@nog@rosary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rosary/0.png/0.png);padding: 0; }
+div.@e43115@nog@rosary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1390324636bf58a805823f8ea0b26794:40000021285aa91e0fe7cfb4e4d304ef:4ddb42793a59c1b7bfff1539dfc4d068$ */

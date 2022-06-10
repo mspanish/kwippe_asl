@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a10367@df-otherspace@p {max-width:75px; max-height:75px; }
+.@a10367@df-otherspace@p::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a10367@df-otherspace@p::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a10383@df-otherspace@three {max-width:75px; max-height:75px; }
+.@a10383@df-otherspace@three::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a10383@df-otherspace@three::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15358@em2@satellite-antenna {max-width:75px; max-height:75px; }
+.@a15358@em2@satellite-antenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a15358@em2@satellite-antenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16736@emo@satellite {max-width:75px; max-height:75px; }
+.@a16736@emo@satellite::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a16736@emo@satellite::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17619@fir@u1f4e1-satelliteantenna {max-width:75px; max-height:75px; }
+.@a17619@fir@u1f4e1-satelliteantenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a17619@fir@u1f4e1-satelliteantenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27077@ibm@satellite-dish-r {max-width:75px; max-height:75px; }
+.@a27077@ibm@satellite-dish-r::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a27077@ibm@satellite-dish-r::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27078@ibm@satellite-dish-t {max-width:75px; max-height:75px; }
+.@a27078@ibm@satellite-dish-t::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a27078@ibm@satellite-dish-t::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28742@jqe@satellite-antenna {max-width:75px; max-height:75px; }
+.@a28742@jqe@satellite-antenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a28742@jqe@satellite-antenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40078@noc@satellite-antenna {max-width:75px; max-height:75px; }
+.@a40078@noc@satellite-antenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a40078@noc@satellite-antenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43323@nog@satellite-antenna-objects {max-width:75px; max-height:75px; }
+.@a43323@nog@satellite-antenna-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a43323@nog@satellite-antenna-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44680@not@satellite-antenna {max-width:75px; max-height:75px; }
+.@a44680@not@satellite-antenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a44680@not@satellite-antenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45800@ope@qubodup_simple_space_platform_game_stuff_3 {max-width:75px; max-height:75px; }
+.@a45800@ope@qubodup_simple_space_platform_game_stuff_3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a45800@ope@qubodup_simple_space_platform_game_stuff_3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47656@pic@satellite-ground {max-width:75px; max-height:75px; }
+.@a47656@pic@satellite-ground::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a47656@pic@satellite-ground::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47918@plateau@satellite-dish {max-width:75px; max-height:75px; }
+.@a47918@plateau@satellite-dish::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a47918@plateau@satellite-dish::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49767@str@710-satellite-antenna {max-width:75px; max-height:75px; }
+.@a49767@str@710-satellite-antenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a49767@str@710-satellite-antenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50836@tw2@satellite-antenna {max-width:75px; max-height:75px; }
+.@a50836@tw2@satellite-antenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a50836@tw2@satellite-antenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51578@twe@satellite-antenna {max-width:75px; max-height:75px; }
+.@a51578@twe@satellite-antenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a51578@twe@satellite-antenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57424@xei@antenna {max-width:75px; max-height:75px; }
+.@a57424@xei@antenna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a57424@xei@antenna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59806@ian@communications-satellite-dish {max-width:75px; max-height:75px; }
+.@a59806@ian@communications-satellite-dish::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a59806@ian@communications-satellite-dish::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61543@ian@satellite-tracked-drifter {max-width:75px; max-height:75px; }
+.@a61543@ian@satellite-tracked-drifter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/a/antenna/0.png/0.png);padding: 0; }
+div.@a61543@ian@satellite-tracked-drifter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d980ae2abaf8c8550d96e0f3e546df1a:73ce93b4bb13f5e2de2e59399f180914:4ddb42793a59c1b7bfff1539dfc4d068$ */

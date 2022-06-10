@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61060@ian@ornithorhynchus-anatinus {max-width:75px; max-height:75px; }
+.@a61060@ian@ornithorhynchus-anatinus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/monotremata/0.png/0.png);padding: 0; }
+div.@a61060@ian@ornithorhynchus-anatinus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e62d65d31f0adee7b1c971ad02ee2a41:ec55d2fd2e44c795404df51100b02ef2:4ddb42793a59c1b7bfff1539dfc4d068$ */

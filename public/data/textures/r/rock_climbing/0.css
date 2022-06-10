@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a35379@mat@summit {max-width:75px; max-height:75px; }
+.@a35379@mat@summit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/rock_climbing/0.png/0.png);padding: 0; }
+div.@a35379@mat@summit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36907@mul@climbing-rock {max-width:75px; max-height:75px; }
+.@a36907@mul@climbing-rock::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/rock_climbing/0.png/0.png);padding: 0; }
+div.@a36907@mul@climbing-rock::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50819@tw2@rock-climbing-1 {max-width:75px; max-height:75px; }
+.@a50819@tw2@rock-climbing-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/rock_climbing/0.png/0.png);padding: 0; }
+div.@a50819@tw2@rock-climbing-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50820@tw2@rock-climbing {max-width:75px; max-height:75px; }
+.@a50820@tw2@rock-climbing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/rock_climbing/0.png/0.png);padding: 0; }
+div.@a50820@tw2@rock-climbing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61495@ian@rock-climbing {max-width:75px; max-height:75px; }
+.@a61495@ian@rock-climbing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/rock_climbing/0.png/0.png);padding: 0; }
+div.@a61495@ian@rock-climbing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b6a597f7075720cfd6b23209d28702a2:7eecdc12174464a9512b63d3d5912c8b:4ddb42793a59c1b7bfff1539dfc4d068$ */

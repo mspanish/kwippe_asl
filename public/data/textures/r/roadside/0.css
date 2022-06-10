@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61493@ian@roadside-trash {max-width:75px; max-height:75px; }
+.@a61493@ian@roadside-trash::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/r/roadside/0.png/0.png);padding: 0; }
+div.@a61493@ian@roadside-trash::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:63e87969e352eaf9e2736a1637ac65a6:6af73cda41b5d7fb8731ee624766bfc9:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "ns-miami",
+    "signer": "asl2english",
+    "uid": 1177,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 27,
+            "nd": 27
+        },
+        "end": {
+            "d": 52,
+            "nd": 52
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "boy+round flat",
+    "signer": "asl2english",
+    "uid": 198,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 74,
+            "nd": 38
+        },
+        "end": {
+            "d": 18,
+            "nd": null
+        }
+    },
+    "regions": [
+        "forehead",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15462@em2@station {max-width:75px; max-height:75px; }
+.@a15462@em2@station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.25839793281653745% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a15462@em2@station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16831@emo@station {max-width:75px; max-height:75px; }
+.@a16831@emo@station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 10.20671834625323% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a16831@emo@station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17961@fir@u1f689-station {max-width:75px; max-height:75px; }
+.@a17961@fir@u1f689-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.155038759689923% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a17961@fir@u1f689-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28813@jqe@station {max-width:75px; max-height:75px; }
+.@a28813@jqe@station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 30.103359173126616% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a28813@jqe@station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40181@noc@station {max-width:75px; max-height:75px; }
+.@a40181@noc@station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.05167958656331% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a40181@noc@station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43611@nog@station-travel-places {max-width:75px; max-height:75px; }
+.@a43611@nog@station-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a43611@nog@station-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50916@tw2@station {max-width:75px; max-height:75px; }
+.@a50916@tw2@station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.94832041343669% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a50916@tw2@station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59974@ian@deepwater-research-station {max-width:75px; max-height:75px; }
+.@a59974@ian@deepwater-research-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 69.89664082687338% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a59974@ian@deepwater-research-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60110@ian@energy-nuclear-power-station {max-width:75px; max-height:75px; }
+.@a60110@ian@energy-nuclear-power-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.84496124031008% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a60110@ian@energy-nuclear-power-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60113@ian@energy-power-station {max-width:75px; max-height:75px; }
+.@a60113@ian@energy-power-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 89.79328165374677% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a60113@ian@energy-power-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61925@ian@urban-public-toilet {max-width:75px; max-height:75px; }
+.@a61925@ian@urban-public-toilet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.74160206718346% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/s/station/0.png/0.png);padding: 0; }
+div.@a61925@ian@urban-public-toilet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b97fbd18e94ce6c1b0cc87c77383c572:4115db5252b13505664271424c8e8d5b:4ddb42793a59c1b7bfff1539dfc4d068$ */

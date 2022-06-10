@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d2127@wikim-all@eastern_orthodox_hieromonk_-_vestments {max-width:75px; max-height:75px; }
+.@d2127@wikim-all@eastern_orthodox_hieromonk_-_vestments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eastern_orthodox/0.png/0.png);padding: 0; }
+div.@d2127@wikim-all@eastern_orthodox_hieromonk_-_vestments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2128@wikim-all@eastern_orthodox_monk_-_vestments {max-width:75px; max-height:75px; }
+.@d2128@wikim-all@eastern_orthodox_monk_-_vestments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eastern_orthodox/0.png/0.png);padding: 0; }
+div.@d2128@wikim-all@eastern_orthodox_monk_-_vestments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2129@wikim-all@eastern_orthodox_priest_-_vestments {max-width:75px; max-height:75px; }
+.@d2129@wikim-all@eastern_orthodox_priest_-_vestments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eastern_orthodox/0.png/0.png);padding: 0; }
+div.@d2129@wikim-all@eastern_orthodox_priest_-_vestments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2130@wikim-all@eastern_orthodox_reader_-_vestments {max-width:75px; max-height:75px; }
+.@d2130@wikim-all@eastern_orthodox_reader_-_vestments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eastern_orthodox/0.png/0.png);padding: 0; }
+div.@d2130@wikim-all@eastern_orthodox_reader_-_vestments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2846@wikim-all@greek_orthodox_bishop_-_choir_dress {max-width:75px; max-height:75px; }
+.@d2846@wikim-all@greek_orthodox_bishop_-_choir_dress::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eastern_orthodox/0.png/0.png);padding: 0; }
+div.@d2846@wikim-all@greek_orthodox_bishop_-_choir_dress::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3797@wikim-all@slavic_orthodox_bishop_-_choir_dress {max-width:75px; max-height:75px; }
+.@d3797@wikim-all@slavic_orthodox_bishop_-_choir_dress::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eastern_orthodox/0.png/0.png);padding: 0; }
+div.@d3797@wikim-all@slavic_orthodox_bishop_-_choir_dress::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3798@wikim-all@slavic_orthodox_metropolitan_-_choir_dress {max-width:75px; max-height:75px; }
+.@d3798@wikim-all@slavic_orthodox_metropolitan_-_choir_dress::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eastern_orthodox/0.png/0.png);padding: 0; }
+div.@d3798@wikim-all@slavic_orthodox_metropolitan_-_choir_dress::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3799@wikim-all@slavic_orthodox_schemamonk_-_vestments {max-width:75px; max-height:75px; }
+.@d3799@wikim-all@slavic_orthodox_schemamonk_-_vestments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/eastern_orthodox/0.png/0.png);padding: 0; }
+div.@d3799@wikim-all@slavic_orthodox_schemamonk_-_vestments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8a80f641dc1921a12775e93f8ecf1fcd:949daa70126d986b21aa8b06b0752a7c:4ddb42793a59c1b7bfff1539dfc4d068$ */

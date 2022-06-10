@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38135@mul@mascara {max-width:75px; max-height:75px; }
+.@a38135@mul@mascara::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/mascara/0.png/0.png);padding: 0; }
+div.@a38135@mul@mascara::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:879670a039a3588d55ecca2b87c4092c:cd5a0f82e6d3af67f5b75a4560816911:4ddb42793a59c1b7bfff1539dfc4d068$ */

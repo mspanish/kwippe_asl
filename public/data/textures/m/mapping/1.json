@@ -1,0 +1,31 @@
+
+{
+
+"@a61020@ian@nun-buoy-port": { 
+	"vb": "31 75 -75 -150",
+ },
+"@a61021@ian@nun-buoy-starboard": { 
+	"vb": "31 75 -106 -150",
+ },
+"@a61396@ian@regulatory-marker-danger": { 
+	"vb": "75 75 -0 -0",
+ },
+"@a61397@ian@regulatory-marker-keep-out": { 
+	"vb": "75 75 -0 -75",
+ },
+"@a61398@ian@regulatory-marker-speed-limit": { 
+	"vb": "75 75 -0 -150",
+ },
+"@a61545@ian@scale-bar-km-vs-miles": { 
+	"vb": "75 13 -0 -225",
+ },
+"@a61546@ian@scale-bar": { 
+	"vb": "75 7 -0 -238",
+ },
+"@a61703@ian@storm-warning-gale": { 
+	"vb": "55 75 -75 -0",
+ },
+"@a61705@ian@storm-warning-small-craft-advisory": { 
+	"vb": "55 75 -75 -75",
+ },
+}

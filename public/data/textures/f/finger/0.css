@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37421@mul@finger-painting {max-width:75px; max-height:75px; }
+.@a37421@mul@finger-painting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/finger/0.png/0.png);padding: 0; }
+div.@a37421@mul@finger-painting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37422@mul@finger-puppet {max-width:75px; max-height:75px; }
+.@a37422@mul@finger-puppet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/finger/0.png/0.png);padding: 0; }
+div.@a37422@mul@finger-puppet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37423@mul@finger {max-width:75px; max-height:75px; }
+.@a37423@mul@finger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/finger/0.png/0.png);padding: 0; }
+div.@a37423@mul@finger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60997@ian@neoesperiopsis-rigida {max-width:75px; max-height:75px; }
+.@a60997@ian@neoesperiopsis-rigida::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/finger/0.png/0.png);padding: 0; }
+div.@a60997@ian@neoesperiopsis-rigida::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12311@gameicons-delapouite@button-finger {max-width:75px; max-height:75px; }
+.@b12311@gameicons-delapouite@button-finger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/finger/0.png/0.png);padding: 0; }
+div.@b12311@gameicons-delapouite@button-finger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14781@gameicons-lorc@smoking-finger {max-width:75px; max-height:75px; }
+.@b14781@gameicons-lorc@smoking-finger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/finger/0.png/0.png);padding: 0; }
+div.@b14781@gameicons-lorc@smoking-finger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6ae1fa6a9ec1d4dc77043fd6e26459af:854ec3f9283e10d6d7479f22ae300a57:4ddb42793a59c1b7bfff1539dfc4d068$ */

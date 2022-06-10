@@ -1,0 +1,154 @@
+
+{
+
+"camera": { 
+	"vb": "35 33 -124 -140",
+ },
+"camera~flash": { 
+	"vb": "33 35 -70 -105",
+ },
+"camera~flash~off": { 
+	"vb": "35 35 -0 -0",
+ },
+"camera~icon": { 
+	"vb": "35 35 -35 -0",
+ },
+"camera~outline": { 
+	"vb": "35 33 -130 -105",
+ },
+"camera~silhouette": { 
+	"vb": "35 33 -130 -209",
+ },
+"camera~silhouette~off": { 
+	"vb": "35 35 -70 -0",
+ },
+"camera~timer": { 
+	"vb": "35 35 -105 -0",
+ },
+"cassette": { 
+	"vb": "35 23 -200 -217",
+ },
+"cassette~audio": { 
+	"vb": "35 29 -194 -136",
+ },
+"cinema": { 
+	"vb": "35 35 -140 -0",
+ },
+"control_knob": { 
+	"vb": "35 33 -138 -173",
+ },
+"control_knob~multiple": { 
+	"vb": "23 35 -210 -0",
+ },
+"disc-dvd-blueray": { 
+	"vb": "35 35 -175 -0",
+ },
+"disc-dvd-blueray~icon": { 
+	"vb": "31 35 -70 -210",
+ },
+"disc-dvd-blueray~mini": { 
+	"vb": "35 35 -0 -35",
+ },
+"disc-dvd-blueray~player": { 
+	"vb": "35 35 -0 -70",
+ },
+"fax_machine": { 
+	"vb": "35 35 -0 -105",
+ },
+"gaming-video_game": { 
+	"vb": "35 34 -103 -175",
+ },
+"gaming-video_game~controller": { 
+	"vb": "35 25 -200 -192",
+ },
+"gaming-video_game~joystick": { 
+	"vb": "33 35 -70 -140",
+ },
+"gaming-video_game~pacman": { 
+	"vb": "33 35 -70 -175",
+ },
+"gaming-video_game~pacman~ghost": { 
+	"vb": "35 35 -0 -140",
+ },
+"headphones": { 
+	"vb": "35 35 -0 -175",
+ },
+"headphones~icon": { 
+	"vb": "35 35 -0 -210",
+ },
+"headphones~silhouette": { 
+	"vb": "35 33 -159 -138",
+ },
+"keyboard": { 
+	"vb": "35 35 -35 -35",
+ },
+"keyboard~icon": { 
+	"vb": "35 35 -70 -35",
+ },
+"media": { 
+	"vb": "35 34 -103 -175",
+ },
+"microphone": { 
+	"vb": "35 35 -105 -35",
+ },
+"microphone~off": { 
+	"vb": "29 35 -101 -210",
+ },
+"microphone~outline": { 
+	"vb": "21 35 -103 -140",
+ },
+"microphone~silhouette": { 
+	"vb": "23 35 -210 -35",
+ },
+"mobile-cell_phone": { 
+	"vb": "23 35 -210 -70",
+ },
+"mobile-cell_phone~mute": { 
+	"vb": "35 27 -194 -165",
+ },
+"mobile-cell_phone~not_allowed": { 
+	"vb": "35 35 -140 -35",
+ },
+"mobile-cell_phone~off": { 
+	"vb": "35 35 -175 -35",
+ },
+"mobile-cell_phone~outline": { 
+	"vb": "27 35 -103 -105",
+ },
+"mobile-cell_phone~vibrate": { 
+	"vb": "35 35 -35 -70",
+ },
+"mobile-cell_phone~with_arrow": { 
+	"vb": "35 35 -35 -105",
+ },
+"network-wireless": { 
+	"vb": "35 35 -35 -140",
+ },
+"network-wireless~acquiring": { 
+	"vb": "35 35 -35 -175",
+ },
+"network-wireless~antenna": { 
+	"vb": "35 35 -35 -210",
+ },
+"network-wireless~signal": { 
+	"vb": "35 35 -70 -70",
+ },
+"pager": { 
+	"vb": "35 27 -165 -206",
+ },
+"printer": { 
+	"vb": "35 35 -105 -70",
+ },
+"printer~icon": { 
+	"vb": "35 35 -140 -70",
+ },
+"projector": { 
+	"vb": "35 31 -165 -105",
+ },
+"radio": { 
+	"vb": "35 31 -200 -105",
+ },
+"record-vinyl": { 
+	"vb": "35 35 -175 -70",
+ },
+}

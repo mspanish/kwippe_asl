@@ -1,0 +1,45 @@
+{
+    "sign": "chew_4",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "5",
+            "nd": "5"
+        },
+        "end": {
+            "d": "a",
+            "nd": "a"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Mouth",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "FingerBack",
+        "morph2_specific_second": "FingerBack",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": 1.0
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": null,
+    "frequency": 3.542,
+    "category": null
+}

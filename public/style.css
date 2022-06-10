@@ -1,0 +1,193 @@
+body{
+    margin: 0;
+}
+
+div, form{
+    box-sizing: border-box;
+}
+.choices {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 1.2rem;
+}
+.alert {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100vw;
+    height: 80px;
+    font-size: 2vw;
+    font-style: italic;
+    text-align: center;
+    color: #201b1b;
+    line-height: 80px;  
+    pointer-events: none;
+    opacity: .9;
+    animation:alert-fade 0.5s 1;
+    -webkit-animation:alert-fade 0.5s 1;
+    animation-fill-mode: forwards;
+    animation-delay:2.5s;
+    -webkit-animation-delay:1s; /* Safari and Chrome */
+    -webkit-animation-fill-mode: forwards;    
+}
+.alert-success {
+    background-color: #8bcaa3;
+}
+.alert-danger {
+    background-color: #ff9595;
+}
+@keyframes alert-fade{
+    from {opacity :.9;}
+    to {opacity :0;}
+}
+
+@-webkit-keyframes alert-fade{
+    from {opacity :.9;}
+    to {opacity :0;}
+}
+h1, h2, h3, h4, h5, h6{
+    margin: 0 0 0.5em 0;
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+.loud {
+    width: 100%;
+    font-size: 4vw;
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 600;
+    letter-spacing: 3px;
+    padding-top: 40px;
+    word-spacing: 10px;
+    padding-bottom: 50px;
+    color: #08416d;
+/*font-family: 'Prompt', sans-serif;
+font-family: 'Reem Kufi', sans-serif;*/
+}
+.intro{
+    padding: 40px;
+    font-size: 1.5rem;
+    font-family: monospace;
+}
+
+.copy {
+    margin: 0 auto;
+    padding: 30px;
+    width: 50%;
+    margin-top: -60px;
+}
+textarea {
+    display: block !important;
+}
+.bitcoin {
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/12/02/57/bitcoin-2136339_960_720.png);
+    background-size: 130px;
+    background-repeat: no-repeat;
+    background-position-x: -20px;
+    background-position-y: -30px;	
+}
+.welcome {
+    width: 100%;
+    font-size: 2vw;
+    text-align: center;
+    letter-spacing: 6px;
+    padding-top: 20px;;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+.hero {
+    width: 70% !important;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    padding: 80px;
+    transform: translateY(30px);
+    border-radius: 50px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    box-shadow: 1px 1px 1px #eee;
+	font-size: 2.5vw;
+	letter-spacing: normal !important;
+}
+.adminTitle {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-right: 30px;
+}
+h1{
+    font-size: 2em;
+}
+code {
+    font-family: menlo, inconsolata, monospace;
+    font-size: calc(1em - 2px);
+    color: #555;
+    background-color: #f0f0f0;
+    padding: 0.2em 0.4em;
+    border-radius: 2px;
+}
+
+	nav {
+		border-bottom: 1px solid rgba(255,62,0,0.1);
+		font-weight: 300;
+		padding: 0 1em;
+		background-color: white;
+		font-family: arial;
+		font-size: 1rem;
+		letter-spacing: 2px;
+		height: 70px;
+        display: flex;
+	}
+
+	ul {
+		margin: 0;
+		padding: 0;
+	}
+
+	/* clearfix */
+	ul::after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+
+	li {
+		display: block;
+		float: left;
+	}
+
+	a {
+		text-decoration: none;
+		padding: 1em 0.5em;
+		display: block;
+	}
+	
+img{
+    width: 100%;
+    max-width: 400px;
+    margin: 0 0 1em 0;
+    border-radius: 90px;
+}
+figure{
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+figcaption {
+    font-family: monospace;
+}
+
+.top{
+    padding:0;
+    height: 610px;
+} 
+
+
+@media (min-width: 480px{
+    h1 {
+        font-size: 4em;
+    }
+}

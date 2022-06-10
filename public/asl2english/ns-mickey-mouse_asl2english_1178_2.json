@@ -1,0 +1,37 @@
+{
+    "sign": "ns-mickey-mouse",
+    "signer": "asl2english",
+    "uid": 1178,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 35,
+            "nd": 35
+        },
+        "end": {
+            "d": 35,
+            "nd": 35
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "forehead"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

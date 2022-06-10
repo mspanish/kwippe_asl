@@ -1,0 +1,65 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26665@ibm@bubble {max-width:75px; max-height:75px; }
+.@a26665@ibm@bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a26665@ibm@bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26948@ibm@network {max-width:75px; max-height:75px; }
+.@a26948@ibm@network::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a26948@ibm@network::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32855@mat@bubble {max-width:75px; max-height:75px; }
+.@a32855@mat@bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a32855@mat@bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32861@mat@gantt {max-width:75px; max-height:75px; }
+.@a32861@mat@gantt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a32861@mat@gantt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32863@mat@histogram {max-width:75px; max-height:75px; }
+.@a32863@mat@histogram::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a32863@mat@histogram::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32871@mat@scatterplot_hexbin {max-width:75px; max-height:75px; }
+.@a32871@mat@scatterplot_hexbin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a32871@mat@scatterplot_hexbin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32873@mat@timeline {max-width:75px; max-height:75px; }
+.@a32873@mat@timeline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a32873@mat@timeline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33479@mat@file {max-width:75px; max-height:75px; }
+.@a33479@mat@file::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a33479@mat@file::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53076@vaa@grid {max-width:75px; max-height:75px; }
+.@a53076@vaa@grid::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a53076@vaa@grid::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53337@vaa@line_bar {max-width:75px; max-height:75px; }
+.@a53337@vaa@line_bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a53337@vaa@line_bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53419@vaa@pie_bar {max-width:75px; max-height:75px; }
+.@a53419@vaa@pie_bar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a53419@vaa@pie_bar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53442@vaa@pyramid {max-width:75px; max-height:75px; }
+.@a53442@vaa@pyramid::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a53442@vaa@pyramid::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53474@vaa@scatter {max-width:75px; max-height:75px; }
+.@a53474@vaa@scatter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a53474@vaa@scatter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54501@wav@multiline {max-width:75px; max-height:75px; }
+.@a54501@wav@multiline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a54501@wav@multiline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55139@web@infographic {max-width:75px; max-height:75px; }
+.@a55139@web@infographic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a55139@web@infographic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55150@web@insert_pie {max-width:75px; max-height:75px; }
+.@a55150@web@insert_pie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a55150@web@insert_pie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57556@xei@pyramid {max-width:75px; max-height:75px; }
+.@a57556@xei@pyramid::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a57556@xei@pyramid::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61211@ian@planning-trio {max-width:75px; max-height:75px; }
+.@a61211@ian@planning-trio::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/c/chart/0.png/0.png);padding: 0; }
+div.@a61211@ian@planning-trio::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c39c563e66e60d76d3a32412debd4afd:0c23edb2b3ce78c025f02bd5f073fe6d:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59426@ian@aviation-airliner-runway {max-width:75px; max-height:75px; }
+.@a59426@ian@aviation-airliner-runway::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/commercial/0.png/0.png);padding: 0; }
+div.@a59426@ian@aviation-airliner-runway::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59427@ian@aviation-airport-terminal {max-width:75px; max-height:75px; }
+.@a59427@ian@aviation-airport-terminal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/commercial/0.png/0.png);padding: 0; }
+div.@a59427@ian@aviation-airport-terminal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59428@ian@aviation-airport {max-width:75px; max-height:75px; }
+.@a59428@ian@aviation-airport::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/commercial/0.png/0.png);padding: 0; }
+div.@a59428@ian@aviation-airport::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60237@ian@fertilizer-factory {max-width:75px; max-height:75px; }
+.@a60237@ian@fertilizer-factory::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/commercial/0.png/0.png);padding: 0; }
+div.@a60237@ian@fertilizer-factory::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e7ced036c35171494331fcd0cd497f5c:3d1a42088f90fe08825de7e5bb8a72c3:4ddb42793a59c1b7bfff1539dfc4d068$ */

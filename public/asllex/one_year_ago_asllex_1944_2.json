@@ -1,0 +1,45 @@
+{
+    "sign": "one_year_ago",
+    "signer": "aslLex",
+    "uid": 1543,
+    "synonyms": "a year ago, before, last year, one year ago, past year, previously, this year past, time",
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": "S"
+        },
+        "end": {
+            "d": "1",
+            "nd": "S"
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "FingerRadial",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Body",
+        "morph2_specific": "BodyAway",
+        "morph2_specific_second": "BodyAway",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "AsymmetricalDifferentHandshape",
+        "morph2_movement": "Curved",
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 2.0,
+    "frequency": 4.821,
+    "category": null
+}

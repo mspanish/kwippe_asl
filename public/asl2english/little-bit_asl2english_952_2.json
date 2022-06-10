@@ -1,0 +1,37 @@
+{
+    "sign": "little-bit",
+    "signer": "asl2english",
+    "uid": 952,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 80,
+            "nd": 12
+        },
+        "end": {
+            "d": 80,
+            "nd": 14
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

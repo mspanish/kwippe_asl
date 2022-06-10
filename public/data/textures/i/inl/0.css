@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60041@ian@distichlis-spicata {max-width:75px; max-height:75px; }
+.@a60041@ian@distichlis-spicata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/inl/0.png/0.png);padding: 0; }
+div.@a60041@ian@distichlis-spicata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61878@ian@typha-xglauca {max-width:75px; max-height:75px; }
+.@a61878@ian@typha-xglauca::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/inl/0.png/0.png);padding: 0; }
+div.@a61878@ian@typha-xglauca::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61957@ian@usa-de-delaware-inland-bays {max-width:75px; max-height:75px; }
+.@a61957@ian@usa-de-delaware-inland-bays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/inl/0.png/0.png);padding: 0; }
+div.@a61957@ian@usa-de-delaware-inland-bays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62094@ian@usa-nj-new-jersey-inland-bays {max-width:75px; max-height:75px; }
+.@a62094@ian@usa-nj-new-jersey-inland-bays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/inl/0.png/0.png);padding: 0; }
+div.@a62094@ian@usa-nj-new-jersey-inland-bays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:eec1f367ddfb77b59942e5452be3f874:7f1c4c7fb0a27a118d3acc2767227cb4:4ddb42793a59c1b7bfff1539dfc4d068$ */

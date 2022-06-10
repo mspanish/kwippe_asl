@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29025@jqu@crosshairs {max-width:75px; max-height:75px; }
+.@a29025@jqu@crosshairs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crosshairs/0.png/0.png);padding: 0; }
+div.@a29025@jqu@crosshairs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30146@lib@crosshairs {max-width:75px; max-height:75px; }
+.@a30146@lib@crosshairs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crosshairs/0.png/0.png);padding: 0; }
+div.@a30146@lib@crosshairs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31997@map@crosshairs {max-width:75px; max-height:75px; }
+.@a31997@map@crosshairs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crosshairs/0.png/0.png);padding: 0; }
+div.@a31997@map@crosshairs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33169@mat@crosshairs {max-width:75px; max-height:75px; }
+.@a33169@mat@crosshairs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crosshairs/0.png/0.png);padding: 0; }
+div.@a33169@mat@crosshairs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53155@vaa@crosshairs {max-width:75px; max-height:75px; }
+.@a53155@vaa@crosshairs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crosshairs/0.png/0.png);padding: 0; }
+div.@a53155@vaa@crosshairs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56493@win@crosshair {max-width:75px; max-height:75px; }
+.@a56493@win@crosshair::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crosshairs/0.png/0.png);padding: 0; }
+div.@a56493@win@crosshair::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a723@awe@crosshairs {max-width:75px; max-height:75px; }
+.@a723@awe@crosshairs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crosshairs/0.png/0.png);padding: 0; }
+div.@a723@awe@crosshairs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12455@gameicons-delapouite@crosshair {max-width:75px; max-height:75px; }
+.@b12455@gameicons-delapouite@crosshair::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/crosshairs/0.png/0.png);padding: 0; }
+div.@b12455@gameicons-delapouite@crosshair::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7e767896519383e2b4a3d4dec781175c:5f7a9133ba23ab79a3cbefcae06acb8f:4ddb42793a59c1b7bfff1539dfc4d068$ */

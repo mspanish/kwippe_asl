@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16070@emo@dk {max-width:75px; max-height:75px; }
+.@a16070@emo@dk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/denmark/0.png/0.png);padding: 0; }
+div.@a16070@emo@dk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37505@mul@denmark {max-width:75px; max-height:75px; }
+.@a37505@mul@denmark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/denmark/0.png/0.png);padding: 0; }
+div.@a37505@mul@denmark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2315@wikim-all@eurovision_song_contest_heart_denmark_white {max-width:75px; max-height:75px; }
+.@d2315@wikim-all@eurovision_song_contest_heart_denmark_white::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/denmark/0.png/0.png);padding: 0; }
+div.@d2315@wikim-all@eurovision_song_contest_heart_denmark_white::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2457@wikim-all@flag_of_denmark {max-width:75px; max-height:75px; }
+.@d2457@wikim-all@flag_of_denmark::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/d/denmark/0.png/0.png);padding: 0; }
+div.@d2457@wikim-all@flag_of_denmark::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cfc5598f86fb77b3f3a17cb2840a9cd5:2b467de4dcc9db1dc7a67e22b40e8342:4ddb42793a59c1b7bfff1539dfc4d068$ */

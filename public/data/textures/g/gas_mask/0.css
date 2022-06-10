@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14240@gameicons-lorc@gas-mask {max-width:75px; max-height:75px; }
+.@b14240@gameicons-lorc@gas-mask::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/gas_mask/0.png/0.png);padding: 0; }
+div.@b14240@gameicons-lorc@gas-mask::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15311@gameicons-skoll@gas-mask {max-width:75px; max-height:75px; }
+.@b15311@gameicons-skoll@gas-mask::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/g/gas_mask/0.png/0.png);padding: 0; }
+div.@b15311@gameicons-skoll@gas-mask::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e6ecd13a4f1b5282413cafd2ae9961d5:5b6cb00ca0827a8dfc6ce5af7791d568:4ddb42793a59c1b7bfff1539dfc4d068$ */

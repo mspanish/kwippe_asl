@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62117@ian@usa-tx-san-antonio-bay {max-width:75px; max-height:75px; }
+.@a62117@ian@usa-tx-san-antonio-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/antonio/0.png/0.png);padding: 0; }
+div.@a62117@ian@usa-tx-san-antonio-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4a128e3b66614b68adcbb57f4f3bb01e:ef63af7c63eee9b9c53d78a9abbe9f6c:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59396@ian@atherinomorus-duodecimalis {max-width:75px; max-height:75px; }
+.@a59396@ian@atherinomorus-duodecimalis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/silverside/0.png/0.png);padding: 0; }
+div.@a59396@ian@atherinomorus-duodecimalis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60843@ian@menidia-menidia {max-width:75px; max-height:75px; }
+.@a60843@ian@menidia-menidia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/silverside/0.png/0.png);padding: 0; }
+div.@a60843@ian@menidia-menidia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f62c24f37c860d199d83f21f7aace0a2:cc4048d50a42fc503dfc792c7d86b3e1:4ddb42793a59c1b7bfff1539dfc4d068$ */

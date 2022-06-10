@@ -1,0 +1,37 @@
+{
+    "sign": "height",
+    "signer": "asl2english",
+    "uid": 775,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 81,
+            "nd": 81
+        },
+        "end": {
+            "d": 81,
+            "nd": 81
+        }
+    },
+    "regions": [
+        "upper-area",
+        "chin-area"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

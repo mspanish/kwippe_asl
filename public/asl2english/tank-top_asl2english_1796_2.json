@@ -1,0 +1,37 @@
+{
+    "sign": "tank-top",
+    "signer": "asl2english",
+    "uid": 1796,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 38,
+            "nd": 38
+        },
+        "end": {
+            "d": 53,
+            "nd": 53
+        }
+    },
+    "regions": [
+        "R-shoulder",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

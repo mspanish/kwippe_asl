@@ -1,0 +1,37 @@
+{
+    "sign": "blind",
+    "signer": "asl2english",
+    "uid": 165,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 41,
+            "nd": null
+        },
+        "end": {
+            "d": 41,
+            "nd": null
+        }
+    },
+    "regions": [
+        0,
+        "R-cheek"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

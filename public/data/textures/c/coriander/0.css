@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a46034@opg@cilantro-herb {max-width:75px; max-height:75px; }
+.@a46034@opg@cilantro-herb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/coriander/0.png/0.png);padding: 0; }
+div.@a46034@opg@cilantro-herb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:457183687d0a16731ee6bde47979a340:4a67cbdc5aefa0f223380345308952fd:4ddb42793a59c1b7bfff1539dfc4d068$ */

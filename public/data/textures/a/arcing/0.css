@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13725@gameicons-lorc@arcing-bolt {max-width:75px; max-height:75px; }
+.@b13725@gameicons-lorc@arcing-bolt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/arcing/0.png/0.png);padding: 0; }
+div.@b13725@gameicons-lorc@arcing-bolt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d994759e32ac2193de9bb3b7e745d33f:04a863cf15163bc4dc650874217e0a4f:4ddb42793a59c1b7bfff1539dfc4d068$ */

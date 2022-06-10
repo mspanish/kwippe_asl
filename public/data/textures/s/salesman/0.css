@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39839@noc@man-m-f-1-2-briefcase {max-width:75px; max-height:75px; }
+.@a39839@noc@man-m-f-1-2-briefcase::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/salesman/0.png/0.png);padding: 0; }
+div.@a39839@noc@man-m-f-1-2-briefcase::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40327@noc@woman-m-f-1-2-briefcase {max-width:75px; max-height:75px; }
+.@a40327@noc@woman-m-f-1-2-briefcase::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/salesman/0.png/0.png);padding: 0; }
+div.@a40327@noc@woman-m-f-1-2-briefcase::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42538@nog@man-smileys-people-1-2-briefcase-objects {max-width:75px; max-height:75px; }
+.@a42538@nog@man-smileys-people-1-2-briefcase-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/salesman/0.png/0.png);padding: 0; }
+div.@a42538@nog@man-smileys-people-1-2-briefcase-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42561@nog@man-smileys-people-3-briefcase-objects {max-width:75px; max-height:75px; }
+.@a42561@nog@man-smileys-people-3-briefcase-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/salesman/0.png/0.png);padding: 0; }
+div.@a42561@nog@man-smileys-people-3-briefcase-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49331@str@156-woman-office-worker-2 {max-width:75px; max-height:75px; }
+.@a49331@str@156-woman-office-worker-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/salesman/0.png/0.png);padding: 0; }
+div.@a49331@str@156-woman-office-worker-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50606@tw2@man-1-2-briefcase {max-width:75px; max-height:75px; }
+.@a50606@tw2@man-1-2-briefcase::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/salesman/0.png/0.png);padding: 0; }
+div.@a50606@tw2@man-1-2-briefcase::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50620@tw2@man-3-briefcase {max-width:75px; max-height:75px; }
+.@a50620@tw2@man-3-briefcase::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/s/salesman/0.png/0.png);padding: 0; }
+div.@a50620@tw2@man-3-briefcase::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d370b1b21164943e60e035a957beb6c6:e2e56594d9cba1c149d09f1b04f5950c:4ddb42793a59c1b7bfff1539dfc4d068$ */

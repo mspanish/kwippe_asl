@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61501@ian@rotary-sonar-tripod {max-width:75px; max-height:75px; }
+.@a61501@ian@rotary-sonar-tripod::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/o/orbit/0.png/0.png);padding: 0; }
+div.@a61501@ian@rotary-sonar-tripod::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15355@gameicons-skoll@orbit {max-width:75px; max-height:75px; }
+.@b15355@gameicons-skoll@orbit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/o/orbit/0.png/0.png);padding: 0; }
+div.@b15355@gameicons-skoll@orbit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:00b04b6bb7eac1023bedb7fe1664a3eb:def8129afe0084e4a97f74a989d12ba9:4ddb42793a59c1b7bfff1539dfc4d068$ */

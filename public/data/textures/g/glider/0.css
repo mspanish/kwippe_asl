@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61725@ian@submersible-glider-thermally-powered {max-width:75px; max-height:75px; }
+.@a61725@ian@submersible-glider-thermally-powered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glider/0.png/0.png);padding: 0; }
+div.@a61725@ian@submersible-glider-thermally-powered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12429@gameicons-delapouite@conway-life-glider {max-width:75px; max-height:75px; }
+.@b12429@gameicons-delapouite@conway-life-glider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glider/0.png/0.png);padding: 0; }
+div.@b12429@gameicons-delapouite@conway-life-glider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12737@gameicons-delapouite@hang-glider {max-width:75px; max-height:75px; }
+.@b12737@gameicons-delapouite@hang-glider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glider/0.png/0.png);padding: 0; }
+div.@b12737@gameicons-delapouite@hang-glider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15313@gameicons-skoll@glider {max-width:75px; max-height:75px; }
+.@b15313@gameicons-skoll@glider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glider/0.png/0.png);padding: 0; }
+div.@b15313@gameicons-skoll@glider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15318@gameicons-skoll@hang-glider {max-width:75px; max-height:75px; }
+.@b15318@gameicons-skoll@hang-glider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/glider/0.png/0.png);padding: 0; }
+div.@b15318@gameicons-skoll@hang-glider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7b13101d2eda8da65758c71dcf84fca8:df25447984a3d127c2fbf26160375cdd:4ddb42793a59c1b7bfff1539dfc4d068$ */

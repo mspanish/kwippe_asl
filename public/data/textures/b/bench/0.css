@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25886@gli@sitting-bench {max-width:75px; max-height:75px; }
+.@a25886@gli@sitting-bench::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bench/0.png/0.png);padding: 0; }
+div.@a25886@gli@sitting-bench::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36573@mul@bench {max-width:75px; max-height:75px; }
+.@a36573@mul@bench::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bench/0.png/0.png);padding: 0; }
+div.@a36573@mul@bench::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46326@osm@outdoor-bench-14 {max-width:75px; max-height:75px; }
+.@a46326@osm@outdoor-bench-14::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bench/0.png/0.png);padding: 0; }
+div.@a46326@osm@outdoor-bench-14::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48959@ssj@bench {max-width:75px; max-height:75px; }
+.@a48959@ssj@bench::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bench/0.png/0.png);padding: 0; }
+div.@a48959@ssj@bench::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:50919d788b24e3e581fccf5886fc01bb:9b10b69910b6b0946c1505d8e642b4e5:4ddb42793a59c1b7bfff1539dfc4d068$ */

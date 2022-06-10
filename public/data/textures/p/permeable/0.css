@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38269@mul@non-permeable {max-width:75px; max-height:75px; }
+.@a38269@mul@non-permeable::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/permeable/0.png/0.png);padding: 0; }
+div.@a38269@mul@non-permeable::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38408@mul@permeable {max-width:75px; max-height:75px; }
+.@a38408@mul@permeable::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/permeable/0.png/0.png);padding: 0; }
+div.@a38408@mul@permeable::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5b539faea3d9d264107f255d909e80bc:a99150272b02dc8eef54c5e4813709dc:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "morning",
+    "signer": "asl2english",
+    "uid": 1040,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 46,
+            "nd": 20
+        },
+        "end": {
+            "d": 18,
+            "nd": 19
+        }
+    },
+    "regions": [
+        "chest-front",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            0,
+            1,
+            -1
+        ]
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a204@aac@where-from {max-width:75px; max-height:75px; }
+.@a204@aac@where-from::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/from/0.png/0.png);padding: 0; }
+div.@a204@aac@where-from::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60266@ian@fish-cages2 {max-width:75px; max-height:75px; }
+.@a60266@ian@fish-cages2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/from/0.png/0.png);padding: 0; }
+div.@a60266@ian@fish-cages2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4891ff6913245f1b65a7b83826b5b60e:9f3da7df25d473cde6108939e0b686c0:4ddb42793a59c1b7bfff1539dfc4d068$ */

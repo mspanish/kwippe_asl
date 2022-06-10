@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a172@aac@someone {max-width:75px; max-height:75px; }
+.@a172@aac@someone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/someone/0.png/0.png);padding: 0; }
+div.@a172@aac@someone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1974@bon@hit-someone-5285 {max-width:75px; max-height:75px; }
+.@a1974@bon@hit-someone-5285::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/someone/0.png/0.png);padding: 0; }
+div.@a1974@bon@hit-someone-5285::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2378@bon@someone-who-needs-extra-support-7058 {max-width:75px; max-height:75px; }
+.@a2378@bon@someone-who-needs-extra-support-7058::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/someone/0.png/0.png);padding: 0; }
+div.@a2378@bon@someone-who-needs-extra-support-7058::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2379@bon@someone-who-needs-support-7059 {max-width:75px; max-height:75px; }
+.@a2379@bon@someone-who-needs-support-7059::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/someone/0.png/0.png);padding: 0; }
+div.@a2379@bon@someone-who-needs-support-7059::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2b47c38cae78d49b2abca72654c69860:e86e5f303bc1577d5461da2c3b449b47:4ddb42793a59c1b7bfff1539dfc4d068$ */

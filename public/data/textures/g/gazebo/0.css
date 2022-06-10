@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61123@ian@park-gazebo {max-width:75px; max-height:75px; }
+.@a61123@ian@park-gazebo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/gazebo/0.png/0.png);padding: 0; }
+div.@a61123@ian@park-gazebo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:38f92ffedc904b0ffe669a8567056e9a:344252ec8c4fd46d5cf2502d6c5cc491:4ddb42793a59c1b7bfff1539dfc4d068$ */

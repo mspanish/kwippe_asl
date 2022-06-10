@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13605@gameicons-delapouite@wanted-reward {max-width:75px; max-height:75px; }
+.@b13605@gameicons-delapouite@wanted-reward::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/wanted_reward/0.png/0.png);padding: 0; }
+div.@b13605@gameicons-delapouite@wanted-reward::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cd04e3891564744508ec2b3915b75eaa:6e10cbd4da89e815bcced9ebe6ce46a0:4ddb42793a59c1b7bfff1539dfc4d068$ */

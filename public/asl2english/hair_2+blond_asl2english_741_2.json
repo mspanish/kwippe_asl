@@ -1,0 +1,37 @@
+{
+    "sign": "hair_2+blond",
+    "signer": "asl2english",
+    "uid": 741,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 56,
+            "nd": 81
+        },
+        "end": {
+            "d": 60,
+            "nd": null
+        }
+    },
+    "regions": [
+        "temple",
+        "R-ear"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

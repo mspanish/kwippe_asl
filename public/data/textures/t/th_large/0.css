@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1043@awe@th-large {max-width:75px; max-height:75px; }
+.@a1043@awe@th-large::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/th_large/0.png/0.png);padding: 0; }
+div.@a1043@awe@th-large::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29236@jqu@th-large {max-width:75px; max-height:75px; }
+.@a29236@jqu@th-large::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/th_large/0.png/0.png);padding: 0; }
+div.@a29236@jqu@th-large::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30422@lib@th-large {max-width:75px; max-height:75px; }
+.@a30422@lib@th-large::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/th_large/0.png/0.png);padding: 0; }
+div.@a30422@lib@th-large::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52234@typ@th-large {max-width:75px; max-height:75px; }
+.@a52234@typ@th-large::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/th_large/0.png/0.png);padding: 0; }
+div.@a52234@typ@th-large::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54863@wav@th-large {max-width:75px; max-height:75px; }
+.@a54863@wav@th-large::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/th_large/0.png/0.png);padding: 0; }
+div.@a54863@wav@th-large::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fb096641e41662f2d0193441de665111:493aacb8a8ede02b25ffcb86c8344723:4ddb42793a59c1b7bfff1539dfc4d068$ */

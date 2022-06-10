@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14907@em2@face-with-head-bandage {max-width:75px; max-height:75px; }
+.@a14907@em2@face-with-head-bandage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bandage/0.png/0.png);padding: 0; }
+div.@a14907@em2@face-with-head-bandage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16331@emo@head-bandage {max-width:75px; max-height:75px; }
+.@a16331@emo@head-bandage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bandage/0.png/0.png);padding: 0; }
+div.@a16331@emo@head-bandage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39606@noc@face-w-head-bandage {max-width:75px; max-height:75px; }
+.@a39606@noc@face-w-head-bandage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bandage/0.png/0.png);padding: 0; }
+div.@a39606@noc@face-w-head-bandage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41596@nog@face-head-bandage-smileys-people {max-width:75px; max-height:75px; }
+.@a41596@nog@face-head-bandage-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bandage/0.png/0.png);padding: 0; }
+div.@a41596@nog@face-head-bandage-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49270@str@072-face-with-head-bandage {max-width:75px; max-height:75px; }
+.@a49270@str@072-face-with-head-bandage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bandage/0.png/0.png);padding: 0; }
+div.@a49270@str@072-face-with-head-bandage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12730@gameicons-delapouite@hand-bandage {max-width:75px; max-height:75px; }
+.@b12730@gameicons-delapouite@hand-bandage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bandage/0.png/0.png);padding: 0; }
+div.@b12730@gameicons-delapouite@hand-bandage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4274@wikim-ladyofhats@knockout {max-width:75px; max-height:75px; }
+.@d4274@wikim-ladyofhats@knockout::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bandage/0.png/0.png);padding: 0; }
+div.@d4274@wikim-ladyofhats@knockout::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:43470704f6ed5fe93490ad7468b58113:d2e2fd6efb2c839fb52f385b6235a7c3:4ddb42793a59c1b7bfff1539dfc4d068$ */

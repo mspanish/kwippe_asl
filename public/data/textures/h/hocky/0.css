@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15052@em2@ice-hockey-stick-and-puck {max-width:75px; max-height:75px; }
+.@a15052@em2@ice-hockey-stick-and-puck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hocky/0.png/0.png);padding: 0; }
+div.@a15052@em2@ice-hockey-stick-and-puck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39748@noc@ice-hockey-stick-and-puck {max-width:75px; max-height:75px; }
+.@a39748@noc@ice-hockey-stick-and-puck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hocky/0.png/0.png);padding: 0; }
+div.@a39748@noc@ice-hockey-stick-and-puck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50549@tw2@ice-hockey-stick-and-puck {max-width:75px; max-height:75px; }
+.@a50549@tw2@ice-hockey-stick-and-puck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hocky/0.png/0.png);padding: 0; }
+div.@a50549@tw2@ice-hockey-stick-and-puck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2633b019d0f8139305b4dc0adb691cb4:de93b2b7e6a735d4b36c94522dc525da:4ddb42793a59c1b7bfff1539dfc4d068$ */

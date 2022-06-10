@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13981@gameicons-lorc@cross-flare {max-width:75px; max-height:75px; }
+.@b13981@gameicons-lorc@cross-flare::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cross_flare/0.png/0.png);padding: 0; }
+div.@b13981@gameicons-lorc@cross-flare::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5375f04b0dc5072717b888c465ac306a:5b315ef58d228a8d78c78c5a46195ec0:4ddb42793a59c1b7bfff1539dfc4d068$ */

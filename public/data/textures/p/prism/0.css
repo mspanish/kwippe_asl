@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38518@mul@prism-hexagonal {max-width:75px; max-height:75px; }
+.@a38518@mul@prism-hexagonal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/prism/0.png/0.png);padding: 0; }
+div.@a38518@mul@prism-hexagonal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38519@mul@prism-triangular {max-width:75px; max-height:75px; }
+.@a38519@mul@prism-triangular::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/prism/0.png/0.png);padding: 0; }
+div.@a38519@mul@prism-triangular::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4f8d59f7095c19851ce14aa52df6f1fb:ece39de983356bbe721bde4169942e80:4ddb42793a59c1b7bfff1539dfc4d068$ */

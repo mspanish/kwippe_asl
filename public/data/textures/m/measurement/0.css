@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59448@ian@balance-1 {max-width:75px; max-height:75px; }
+.@a59448@ian@balance-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/measurement/0.png/0.png);padding: 0; }
+div.@a59448@ian@balance-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59449@ian@balance2 {max-width:75px; max-height:75px; }
+.@a59449@ian@balance2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/measurement/0.png/0.png);padding: 0; }
+div.@a59449@ian@balance2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60297@ian@flow-deflector {max-width:75px; max-height:75px; }
+.@a60297@ian@flow-deflector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/measurement/0.png/0.png);padding: 0; }
+div.@a60297@ian@flow-deflector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60829@ian@measuring-secchi {max-width:75px; max-height:75px; }
+.@a60829@ian@measuring-secchi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/measurement/0.png/0.png);padding: 0; }
+div.@a60829@ian@measuring-secchi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60830@ian@measuring-secchi2 {max-width:75px; max-height:75px; }
+.@a60830@ian@measuring-secchi2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/measurement/0.png/0.png);padding: 0; }
+div.@a60830@ian@measuring-secchi2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61191@ian@piezometer {max-width:75px; max-height:75px; }
+.@a61191@ian@piezometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/measurement/0.png/0.png);padding: 0; }
+div.@a61191@ian@piezometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61467@ian@river-3d-flow-deflector {max-width:75px; max-height:75px; }
+.@a61467@ian@river-3d-flow-deflector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/measurement/0.png/0.png);padding: 0; }
+div.@a61467@ian@river-3d-flow-deflector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61770@ian@tape-measure {max-width:75px; max-height:75px; }
+.@a61770@ian@tape-measure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/m/measurement/0.png/0.png);padding: 0; }
+div.@a61770@ian@tape-measure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fb9e60c5f4506ac97f6b36f56f1f3a97:d6fb9116bb2233b2ed1199de3bd0b57b:4ddb42793a59c1b7bfff1539dfc4d068$ */

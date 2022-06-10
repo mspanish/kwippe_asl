@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14184@gameicons-lorc@fission {max-width:75px; max-height:75px; }
+.@b14184@gameicons-lorc@fission::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/fission/0.png/0.png);padding: 0; }
+div.@b14184@gameicons-lorc@fission::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:af0d11cd3ecf01e38eacf59969d8b38b:2ba6d623730941efcc384eb8b99bbba1:4ddb42793a59c1b7bfff1539dfc4d068$ */

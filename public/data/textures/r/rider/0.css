@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59399@ian@atv-with-rider {max-width:75px; max-height:75px; }
+.@a59399@ian@atv-with-rider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rider/0.png/0.png);padding: 0; }
+div.@a59399@ian@atv-with-rider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60933@ian@mountain-biking {max-width:75px; max-height:75px; }
+.@a60933@ian@mountain-biking::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rider/0.png/0.png);padding: 0; }
+div.@a60933@ian@mountain-biking::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61650@ian@snowmobile-with-rider {max-width:75px; max-height:75px; }
+.@a61650@ian@snowmobile-with-rider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/r/rider/0.png/0.png);padding: 0; }
+div.@a61650@ian@snowmobile-with-rider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0216a27a8bd8c7d4210f273f704900ac:c6360efe5b764acd39d67cf6497c9d26:4ddb42793a59c1b7bfff1539dfc4d068$ */

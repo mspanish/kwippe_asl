@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61971@ian@usa-fl-choctawhatchee-bay {max-width:75px; max-height:75px; }
+.@a61971@ian@usa-fl-choctawhatchee-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/waterway/0.png/0.png);padding: 0; }
+div.@a61971@ian@usa-fl-choctawhatchee-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61974@ian@usa-fl-indian-river {max-width:75px; max-height:75px; }
+.@a61974@ian@usa-fl-indian-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/waterway/0.png/0.png);padding: 0; }
+div.@a61974@ian@usa-fl-indian-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61977@ian@usa-fl-pensacola-bay {max-width:75px; max-height:75px; }
+.@a61977@ian@usa-fl-pensacola-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/waterway/0.png/0.png);padding: 0; }
+div.@a61977@ian@usa-fl-pensacola-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:13e8ec9ad35e0d73bd079415327dede9:ea93071b8ac3566db93e1659d913ffbb:4ddb42793a59c1b7bfff1539dfc4d068$ */

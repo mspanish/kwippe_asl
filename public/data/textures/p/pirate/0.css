@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13116@gameicons-delapouite@pirate-cannon {max-width:75px; max-height:75px; }
+.@b13116@gameicons-delapouite@pirate-cannon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pirate/0.png/0.png);padding: 0; }
+div.@b13116@gameicons-delapouite@pirate-cannon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13117@gameicons-delapouite@pirate-captain {max-width:75px; max-height:75px; }
+.@b13117@gameicons-delapouite@pirate-captain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pirate/0.png/0.png);padding: 0; }
+div.@b13117@gameicons-delapouite@pirate-captain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13118@gameicons-delapouite@pirate-coat {max-width:75px; max-height:75px; }
+.@b13118@gameicons-delapouite@pirate-coat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pirate/0.png/0.png);padding: 0; }
+div.@b13118@gameicons-delapouite@pirate-coat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13119@gameicons-delapouite@pirate-flag {max-width:75px; max-height:75px; }
+.@b13119@gameicons-delapouite@pirate-flag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pirate/0.png/0.png);padding: 0; }
+div.@b13119@gameicons-delapouite@pirate-flag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13120@gameicons-delapouite@pirate-hat {max-width:75px; max-height:75px; }
+.@b13120@gameicons-delapouite@pirate-hat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pirate/0.png/0.png);padding: 0; }
+div.@b13120@gameicons-delapouite@pirate-hat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13121@gameicons-delapouite@pirate-hook {max-width:75px; max-height:75px; }
+.@b13121@gameicons-delapouite@pirate-hook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pirate/0.png/0.png);padding: 0; }
+div.@b13121@gameicons-delapouite@pirate-hook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14601@gameicons-lorc@pirate-grave {max-width:75px; max-height:75px; }
+.@b14601@gameicons-lorc@pirate-grave::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/p/pirate/0.png/0.png);padding: 0; }
+div.@b14601@gameicons-lorc@pirate-grave::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:28618a237f79b22a33a658a3230f2225:8a70aa38b89f88e91f4a4737a4bfe457:4ddb42793a59c1b7bfff1539dfc4d068$ */

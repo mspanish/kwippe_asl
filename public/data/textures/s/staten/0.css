@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62095@ian@usa-nj-ny-hudson-river-raritan-bay {max-width:75px; max-height:75px; }
+.@a62095@ian@usa-nj-ny-hudson-river-raritan-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/staten/0.png/0.png);padding: 0; }
+div.@a62095@ian@usa-nj-ny-hudson-river-raritan-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:75da3a97e0cdef871112c1a9d89cd645:4deade5ffc7e31719b20e60c98c93c73:4ddb42793a59c1b7bfff1539dfc4d068$ */

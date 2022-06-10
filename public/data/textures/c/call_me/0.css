@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39398@noc@call-me-hand-m-f-1-2 {max-width:75px; max-height:75px; }
+.@a39398@noc@call-me-hand-m-f-1-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/call_me/0.png/0.png);padding: 0; }
+div.@a39398@noc@call-me-hand-m-f-1-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40875@nog@call-me-hand-smileys-people {max-width:75px; max-height:75px; }
+.@a40875@nog@call-me-hand-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/call_me/0.png/0.png);padding: 0; }
+div.@a40875@nog@call-me-hand-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50268@tw2@call-me-hand-3 {max-width:75px; max-height:75px; }
+.@a50268@tw2@call-me-hand-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/call_me/0.png/0.png);padding: 0; }
+div.@a50268@tw2@call-me-hand-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6f75990f9baa6fab50cdfd7a053b856c:1f09fb4abe177a644d139be7a8a6440a:4ddb42793a59c1b7bfff1539dfc4d068$ */

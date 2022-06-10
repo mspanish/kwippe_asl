@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26665@ibm@bubble {max-width:75px; max-height:75px; }
+.@a26665@ibm@bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@a26665@ibm@bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32855@mat@bubble {max-width:75px; max-height:75px; }
+.@a32855@mat@bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@a32855@mat@bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36694@mul@bubble-bath {max-width:75px; max-height:75px; }
+.@a36694@mul@bubble-bath::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@a36694@mul@bubble-bath::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36695@mul@bubble-gum-blow {max-width:75px; max-height:75px; }
+.@a36695@mul@bubble-gum-blow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@a36695@mul@bubble-gum-blow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36696@mul@bubble-mixture {max-width:75px; max-height:75px; }
+.@a36696@mul@bubble-mixture::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@a36696@mul@bubble-mixture::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36697@mul@bubble-wand {max-width:75px; max-height:75px; }
+.@a36697@mul@bubble-wand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@a36697@mul@bubble-wand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36698@mul@bubble-wrap {max-width:75px; max-height:75px; }
+.@a36698@mul@bubble-wrap::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@a36698@mul@bubble-wrap::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61515@ian@sacoglossan {max-width:75px; max-height:75px; }
+.@a61515@ian@sacoglossan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@a61515@ian@sacoglossan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12369@gameicons-delapouite@chat-bubble {max-width:75px; max-height:75px; }
+.@b12369@gameicons-delapouite@chat-bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@b12369@gameicons-delapouite@chat-bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13862@gameicons-lorc@bubble-field {max-width:75px; max-height:75px; }
+.@b13862@gameicons-lorc@bubble-field::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bubble/0.png/0.png);padding: 0; }
+div.@b13862@gameicons-lorc@bubble-field::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4927d7fa25363eff1e2dc4c32d86d911:6aed57bd31d09bc79a3fba54515f0513:4ddb42793a59c1b7bfff1539dfc4d068$ */

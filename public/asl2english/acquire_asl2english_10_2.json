@@ -1,0 +1,37 @@
+{
+    "sign": "acquire",
+    "signer": "asl2english",
+    "uid": 10,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 66,
+            "nd": 66
+        },
+        "end": {
+            "d": 10,
+            "nd": 10
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            1,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

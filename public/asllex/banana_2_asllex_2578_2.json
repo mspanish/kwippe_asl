@@ -1,0 +1,45 @@
+{
+    "sign": "banana_2",
+    "signer": "aslLex",
+    "uid": 2089,
+    "synonyms": "banana, fruit",
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": "1"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "FingerBack",
+        "morph1_specific_second": "FingerBack",
+        "morph1_contact": null,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 1,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 2.0,
+    "frequency": 4.32,
+    "category": null
+}

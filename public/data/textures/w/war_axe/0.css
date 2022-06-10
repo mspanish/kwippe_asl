@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13606@gameicons-delapouite@war-axe {max-width:75px; max-height:75px; }
+.@b13606@gameicons-delapouite@war-axe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/war_axe/0.png/0.png);padding: 0; }
+div.@b13606@gameicons-delapouite@war-axe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0dde4edf48c226993e47bd0a6a6f7741:d961714ee443e6cc0a1b657a31564568:4ddb42793a59c1b7bfff1539dfc4d068$ */

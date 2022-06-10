@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60043@ian@divers_alfa_international {max-width:75px; max-height:75px; }
+.@a60043@ian@divers_alfa_international::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/international/0.png/0.png);padding: 0; }
+div.@a60043@ian@divers_alfa_international::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60585@ian@international-obligations-treaties {max-width:75px; max-height:75px; }
+.@a60585@ian@international-obligations-treaties::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/international/0.png/0.png);padding: 0; }
+div.@a60585@ian@international-obligations-treaties::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60630@ian@kyoto-protocol {max-width:75px; max-height:75px; }
+.@a60630@ian@kyoto-protocol::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/international/0.png/0.png);padding: 0; }
+div.@a60630@ian@kyoto-protocol::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60661@ian@lateral-marker-international-port {max-width:75px; max-height:75px; }
+.@a60661@ian@lateral-marker-international-port::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/international/0.png/0.png);padding: 0; }
+div.@a60661@ian@lateral-marker-international-port::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60662@ian@lateral-marker-international-starboard {max-width:75px; max-height:75px; }
+.@a60662@ian@lateral-marker-international-starboard::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/i/international/0.png/0.png);padding: 0; }
+div.@a60662@ian@lateral-marker-international-starboard::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4bb174324a305ed50b68912a8bde7b97:62e0a84aca298e7de35918f2db9c6b39:4ddb42793a59c1b7bfff1539dfc4d068$ */

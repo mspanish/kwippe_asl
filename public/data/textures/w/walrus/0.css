@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39157@mul@walrus {max-width:75px; max-height:75px; }
+.@a39157@mul@walrus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/walrus/0.png/0.png);padding: 0; }
+div.@a39157@mul@walrus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45119@oa1@walrus {max-width:75px; max-height:75px; }
+.@a45119@oa1@walrus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/walrus/0.png/0.png);padding: 0; }
+div.@a45119@oa1@walrus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61034@ian@odobenus-rosmarus {max-width:75px; max-height:75px; }
+.@a61034@ian@odobenus-rosmarus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/walrus/0.png/0.png);padding: 0; }
+div.@a61034@ian@odobenus-rosmarus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13604@gameicons-delapouite@walrus-head {max-width:75px; max-height:75px; }
+.@b13604@gameicons-delapouite@walrus-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/walrus/0.png/0.png);padding: 0; }
+div.@b13604@gameicons-delapouite@walrus-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a269e377ba4503ca88ef04b9cbed7bef:86f4b9f23b72d2ee21850ba8a04a1698:4ddb42793a59c1b7bfff1539dfc4d068$ */

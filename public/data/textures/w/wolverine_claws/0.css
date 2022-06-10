@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15094@gameicons-lorc@wolverine-claws {max-width:75px; max-height:75px; }
+.@b15094@gameicons-lorc@wolverine-claws::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/wolverine_claws/0.png/0.png);padding: 0; }
+div.@b15094@gameicons-lorc@wolverine-claws::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e8b9ca75ff85da68f0fcae2f9606a667:6f5eb80bc050453b8c891ba236c6c1af:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,45 @@
+{
+    "sign": "remember",
+    "signer": "aslLex",
+    "uid": 532,
+    "synonyms": "remember",
+    "handshapes": {
+        "begin": {
+            "d": "a",
+            "nd": null
+        },
+        "end": {
+            "d": "a",
+            "nd": "a"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Forehead",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "FingerBack",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "None",
+        "morph2_repeat": 0.0
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 2.0,
+    "frequency": 5.7,
+    "category": "Mental State Terms"
+}

@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26462@her@otter {max-width:75px; max-height:75px; }
+.@a26462@her@otter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/otter/0.png/0.png);padding: 0; }
+div.@a26462@her@otter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42911@nog@otter-animals-nature-animal-mammal {max-width:75px; max-height:75px; }
+.@a42911@nog@otter-animals-nature-animal-mammal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/otter/0.png/0.png);padding: 0; }
+div.@a42911@nog@otter-animals-nature-animal-mammal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59481@ian@benthic_otter_trawl {max-width:75px; max-height:75px; }
+.@a59481@ian@benthic_otter_trawl::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/otter/0.png/0.png);padding: 0; }
+div.@a59481@ian@benthic_otter_trawl::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60122@ian@enhydra-lutris-1 {max-width:75px; max-height:75px; }
+.@a60122@ian@enhydra-lutris-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/otter/0.png/0.png);padding: 0; }
+div.@a60122@ian@enhydra-lutris-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60123@ian@enhydra-lutris-2 {max-width:75px; max-height:75px; }
+.@a60123@ian@enhydra-lutris-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/otter/0.png/0.png);padding: 0; }
+div.@a60123@ian@enhydra-lutris-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60748@ian@lontra-canadensis {max-width:75px; max-height:75px; }
+.@a60748@ian@lontra-canadensis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/o/otter/0.png/0.png);padding: 0; }
+div.@a60748@ian@lontra-canadensis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:55df0c99062b4255df50bbf569d404f9:cd1da71d10b2e7f6f5f442ce57b1724b:4ddb42793a59c1b7bfff1539dfc4d068$ */

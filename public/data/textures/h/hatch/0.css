@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12131@gameicons-delapouite@airtight-hatch {max-width:75px; max-height:75px; }
+.@b12131@gameicons-delapouite@airtight-hatch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/hatch/0.png/0.png);padding: 0; }
+div.@b12131@gameicons-delapouite@airtight-hatch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12639@gameicons-delapouite@floor-hatch {max-width:75px; max-height:75px; }
+.@b12639@gameicons-delapouite@floor-hatch::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/hatch/0.png/0.png);padding: 0; }
+div.@b12639@gameicons-delapouite@floor-hatch::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ee9f8d5dd1d4b191709fc44df72b616d:ad599b5f182b577f483e8c54bea390e5:4ddb42793a59c1b7bfff1539dfc4d068$ */

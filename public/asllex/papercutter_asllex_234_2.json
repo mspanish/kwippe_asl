@@ -1,0 +1,45 @@
+{
+    "sign": "papercutter",
+    "signer": "aslLex",
+    "uid": 3019,
+    "synonyms": "to cut paper, papercutter",
+    "handshapes": {
+        "begin": {
+            "d": "5",
+            "nd": "5"
+        },
+        "end": {
+            "d": "baby_o",
+            "nd": "B"
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "Palm",
+        "morph1_specific_second": "HandAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "AsymmetricalSameHandshape",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 1,
+        "morph2_general": "Hand",
+        "morph2_specific": "HandAway",
+        "morph2_specific_second": "HandAway",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "AsymmetricalDifferentHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalSameHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 2.56,
+    "category": null
+}

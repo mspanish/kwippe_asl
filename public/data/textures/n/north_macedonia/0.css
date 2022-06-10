@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16158@emo@mk {max-width:75px; max-height:75px; }
+.@a16158@emo@mk::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/north_macedonia/0.png/0.png);padding: 0; }
+div.@a16158@emo@mk::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37071@mul@macedonia {max-width:75px; max-height:75px; }
+.@a37071@mul@macedonia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/north_macedonia/0.png/0.png);padding: 0; }
+div.@a37071@mul@macedonia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37549@mul@macedonia {max-width:75px; max-height:75px; }
+.@a37549@mul@macedonia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/n/north_macedonia/0.png/0.png);padding: 0; }
+div.@a37549@mul@macedonia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b3cda562c4f3a9ce2526521980cf0429:a97a62ce108f97616b76916ab86294d4:4ddb42793a59c1b7bfff1539dfc4d068$ */

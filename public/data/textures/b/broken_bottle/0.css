@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13855@gameicons-lorc@broken-bottle {max-width:75px; max-height:75px; }
+.@b13855@gameicons-lorc@broken-bottle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/broken_bottle/0.png/0.png);padding: 0; }
+div.@b13855@gameicons-lorc@broken-bottle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3a4ca0c4fe22b03e700cd9ae6f30fe91:5acb0306be273314aae1a87b15785e59:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "hurricane",
+    "signer": "asl2english",
+    "uid": 804,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 75,
+            "nd": 75
+        },
+        "end": {
+            "d": 86,
+            "nd": 86
+        }
+    },
+    "regions": [
+        "chest",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            1
+        ],
+        "type": "plural"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

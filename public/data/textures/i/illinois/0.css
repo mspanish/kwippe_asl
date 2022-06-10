@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d3676@wikim-all@seal_of_illinois {max-width:75px; max-height:75px; }
+.@d3676@wikim-all@seal_of_illinois::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/i/illinois/0.png/0.png);padding: 0; }
+div.@d3676@wikim-all@seal_of_illinois::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:216c9e2c66fa24be66d8a6df8503e65b:bad24234bf26ab03e3fb876199e795fe:4ddb42793a59c1b7bfff1539dfc4d068$ */

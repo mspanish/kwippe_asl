@@ -1,0 +1,45 @@
+{
+    "sign": "upset_1",
+    "signer": "aslLex",
+    "uid": 312,
+    "synonyms": "bothered, mad, not happy, upset",
+    "handshapes": {
+        "begin": {
+            "d": "closed_b",
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Body",
+        "morph1_specific": "TorsoBottom",
+        "morph1_specific_second": "TorsoBottom",
+        "morph1_contact": null,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 2.0,
+    "frequency": 4.815,
+    "category": "Mental State Terms"
+}

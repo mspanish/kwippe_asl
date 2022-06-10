@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39079@mul@triangle-right-angled {max-width:75px; max-height:75px; }
+.@a39079@mul@triangle-right-angled::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/triangle_right_angled/0.png/0.png);padding: 0; }
+div.@a39079@mul@triangle-right-angled::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6dbb8c15814720d0f0a5d39a0652a88d:8950a16f6f70200e07db1b248bb1a190:4ddb42793a59c1b7bfff1539dfc4d068$ */

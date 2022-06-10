@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12870@gameicons-delapouite@laser-turret {max-width:75px; max-height:75px; }
+.@b12870@gameicons-delapouite@laser-turret::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/t/turret/0.png/0.png);padding: 0; }
+div.@b12870@gameicons-delapouite@laser-turret::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13601@gameicons-delapouite@walking-turret {max-width:75px; max-height:75px; }
+.@b13601@gameicons-delapouite@walking-turret::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/t/turret/0.png/0.png);padding: 0; }
+div.@b13601@gameicons-delapouite@walking-turret::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14956@gameicons-lorc@tesla-turret {max-width:75px; max-height:75px; }
+.@b14956@gameicons-lorc@tesla-turret::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/t/turret/0.png/0.png);padding: 0; }
+div.@b14956@gameicons-lorc@tesla-turret::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15238@gameicons-sbed@turret {max-width:75px; max-height:75px; }
+.@b15238@gameicons-sbed@turret::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/t/turret/0.png/0.png);padding: 0; }
+div.@b15238@gameicons-sbed@turret::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:190b39ef657c43ab0897cbdeba49fc6d:3fbf6bacf2103121a2dba5b00cb4b2ad:4ddb42793a59c1b7bfff1539dfc4d068$ */

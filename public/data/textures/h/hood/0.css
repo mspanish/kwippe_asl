@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37920@mul@hood-hoodie {max-width:75px; max-height:75px; }
+.@a37920@mul@hood-hoodie::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hood/0.png/0.png);padding: 0; }
+div.@a37920@mul@hood-hoodie::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62137@ian@usa-wa-hood-canal {max-width:75px; max-height:75px; }
+.@a62137@ian@usa-wa-hood-canal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hood/0.png/0.png);padding: 0; }
+div.@a62137@ian@usa-wa-hood-canal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62142@ian@usa-wa-south-puget-sound {max-width:75px; max-height:75px; }
+.@a62142@ian@usa-wa-south-puget-sound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hood/0.png/0.png);padding: 0; }
+div.@a62142@ian@usa-wa-south-puget-sound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12572@gameicons-delapouite@executioner-hood {max-width:75px; max-height:75px; }
+.@b12572@gameicons-delapouite@executioner-hood::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hood/0.png/0.png);padding: 0; }
+div.@b12572@gameicons-delapouite@executioner-hood::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13213@gameicons-delapouite@robin-hood-hat {max-width:75px; max-height:75px; }
+.@b13213@gameicons-delapouite@robin-hood-hat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hood/0.png/0.png);padding: 0; }
+div.@b13213@gameicons-delapouite@robin-hood-hat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13610@gameicons-delapouite@warlock-hood {max-width:75px; max-height:75px; }
+.@b13610@gameicons-delapouite@warlock-hood::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hood/0.png/0.png);padding: 0; }
+div.@b13610@gameicons-delapouite@warlock-hood::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14329@gameicons-lorc@hood {max-width:75px; max-height:75px; }
+.@b14329@gameicons-lorc@hood::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hood/0.png/0.png);padding: 0; }
+div.@b14329@gameicons-lorc@hood::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c9fd5a4ab38cc823562721b89e89b9d6:ca4910afc1f01b154892604dd2b6b2b0:4ddb42793a59c1b7bfff1539dfc4d068$ */

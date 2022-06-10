@@ -1,0 +1,59 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a27349@icf@dna-double-helix {max-width:75px; max-height:75px; }
+.@a27349@icf@dna-double-helix::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a27349@icf@dna-double-helix::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27350@icf@dna-magnifying-glass-molecule {max-width:75px; max-height:75px; }
+.@a27350@icf@dna-magnifying-glass-molecule::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a27350@icf@dna-magnifying-glass-molecule::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27351@icf@dna-with-molecule {max-width:75px; max-height:75px; }
+.@a27351@icf@dna-with-molecule::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a27351@icf@dna-with-molecule::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a296@ara@dna {max-width:75px; max-height:75px; }
+.@a296@ara@dna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a296@ara@dna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30155@lib@dna {max-width:75px; max-height:75px; }
+.@a30155@lib@dna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a30155@lib@dna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33321@mat@dna {max-width:75px; max-height:75px; }
+.@a33321@mat@dna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a33321@mat@dna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41382@nog@dna-double-helix-objects {max-width:75px; max-height:75px; }
+.@a41382@nog@dna-double-helix-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a41382@nog@dna-double-helix-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59494@ian@bioindicators {max-width:75px; max-height:75px; }
+.@a59494@ian@bioindicators::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a59494@ian@bioindicators::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60045@ian@dna-1 {max-width:75px; max-height:75px; }
+.@a60045@ian@dna-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a60045@ian@dna-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60046@ian@dna-amplification-of-sequence {max-width:75px; max-height:75px; }
+.@a60046@ian@dna-amplification-of-sequence::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a60046@ian@dna-amplification-of-sequence::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60047@ian@dna-sequencing-gel {max-width:75px; max-height:75px; }
+.@a60047@ian@dna-sequencing-gel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a60047@ian@dna-sequencing-gel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60048@ian@dna-strand-2 {max-width:75px; max-height:75px; }
+.@a60048@ian@dna-strand-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a60048@ian@dna-strand-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62162@ian@virus-inserting-dna {max-width:75px; max-height:75px; }
+.@a62162@ian@virus-inserting-dna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@a62162@ian@virus-inserting-dna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14057@gameicons-lorc@dna1 {max-width:75px; max-height:75px; }
+.@b14057@gameicons-lorc@dna1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@b14057@gameicons-lorc@dna1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14058@gameicons-lorc@dna2 {max-width:75px; max-height:75px; }
+.@b14058@gameicons-lorc@dna2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@b14058@gameicons-lorc@dna2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8577@web@dna {max-width:75px; max-height:75px; }
+.@b8577@web@dna::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/d/dna/0.png/0.png);padding: 0; }
+div.@b8577@web@dna::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fd9889fbe24003626ecd110ed9e2934c:8648d65cef9166dd51f062cb31828a0e:4ddb42793a59c1b7bfff1539dfc4d068$ */

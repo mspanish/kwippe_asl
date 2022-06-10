@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12429@gameicons-delapouite@conway-life-glider {max-width:75px; max-height:75px; }
+.@b12429@gameicons-delapouite@conway-life-glider::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/conway_life_glider/0.png/0.png);padding: 0; }
+div.@b12429@gameicons-delapouite@conway-life-glider::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:92f959e059a1b0d6d085329ebecb895e:b57b688040feac86cf45ff4be300a075:4ddb42793a59c1b7bfff1539dfc4d068$ */

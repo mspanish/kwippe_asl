@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a33945@mat@heart-pulse {max-width:75px; max-height:75px; }
+.@a33945@mat@heart-pulse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/heart_rate/0.png/0.png);padding: 0; }
+div.@a33945@mat@heart-pulse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a358@ara@health-heart-pulse {max-width:75px; max-height:75px; }
+.@a358@ara@health-heart-pulse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/heart_rate/0.png/0.png);padding: 0; }
+div.@a358@ara@health-heart-pulse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36142@met@heartbeat {max-width:75px; max-height:75px; }
+.@a36142@met@heartbeat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/heart_rate/0.png/0.png);padding: 0; }
+div.@a36142@met@heartbeat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a58459@baianet@group {max-width:75px; max-height:75px; }
+.@a58459@baianet@group::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/heart_rate/0.png/0.png);padding: 0; }
+div.@a58459@baianet@group::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a826@awe@heartbeat {max-width:75px; max-height:75px; }
+.@a826@awe@heartbeat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/heart_rate/0.png/0.png);padding: 0; }
+div.@a826@awe@heartbeat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12748@gameicons-delapouite@heart-beats {max-width:75px; max-height:75px; }
+.@b12748@gameicons-delapouite@heart-beats::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/heart_rate/0.png/0.png);padding: 0; }
+div.@b12748@gameicons-delapouite@heart-beats::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f8b2774814c9e46298800749559fe71a:00aa710aa6079478f780c2746ab3bfc7:4ddb42793a59c1b7bfff1539dfc4d068$ */

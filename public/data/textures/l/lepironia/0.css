@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60682@ian@lepironia-articulata {max-width:75px; max-height:75px; }
+.@a60682@ian@lepironia-articulata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/lepironia/0.png/0.png);padding: 0; }
+div.@a60682@ian@lepironia-articulata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:58ffc0ea30a8918af19c4ce0e413661a:6c99b7a109a57e246920f7bced56a16a:4ddb42793a59c1b7bfff1539dfc4d068$ */

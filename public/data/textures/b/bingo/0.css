@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2193@bon@playing-bingo-1057 {max-width:75px; max-height:75px; }
+.@a2193@bon@playing-bingo-1057::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bingo/0.png/0.png);padding: 0; }
+div.@a2193@bon@playing-bingo-1057::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2194@bon@playing-bingo-6035- {max-width:75px; max-height:75px; }
+.@a2194@bon@playing-bingo-6035-::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bingo/0.png/0.png);padding: 0; }
+div.@a2194@bon@playing-bingo-6035-::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36586@mul@bingo-marker {max-width:75px; max-height:75px; }
+.@a36586@mul@bingo-marker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bingo/0.png/0.png);padding: 0; }
+div.@a36586@mul@bingo-marker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36587@mul@bingo {max-width:75px; max-height:75px; }
+.@a36587@mul@bingo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/bingo/0.png/0.png);padding: 0; }
+div.@a36587@mul@bingo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cbc7973ce564a688e7bb99f8c4d224c5:da50204ed6425a9664ba04003ad528bc:4ddb42793a59c1b7bfff1539dfc4d068$ */

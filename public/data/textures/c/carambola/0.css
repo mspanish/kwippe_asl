@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12340@gameicons-delapouite@carambola {max-width:75px; max-height:75px; }
+.@b12340@gameicons-delapouite@carambola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/carambola/0.png/0.png);padding: 0; }
+div.@b12340@gameicons-delapouite@carambola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6de5c9fb8b7815a1f0154cb58a86908a:22152d9587fc1513bb6fc9bd58cef179:4ddb42793a59c1b7bfff1539dfc4d068$ */

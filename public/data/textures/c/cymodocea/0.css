@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59936@ian@cymodocea-nodosa {max-width:75px; max-height:75px; }
+.@a59936@ian@cymodocea-nodosa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cymodocea/0.png/0.png);padding: 0; }
+div.@a59936@ian@cymodocea-nodosa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59937@ian@cymodocea-rotundata-seeds {max-width:75px; max-height:75px; }
+.@a59937@ian@cymodocea-rotundata-seeds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cymodocea/0.png/0.png);padding: 0; }
+div.@a59937@ian@cymodocea-rotundata-seeds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59938@ian@cymodocea-rotundata {max-width:75px; max-height:75px; }
+.@a59938@ian@cymodocea-rotundata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cymodocea/0.png/0.png);padding: 0; }
+div.@a59938@ian@cymodocea-rotundata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59939@ian@cymodocea-serrulata-1 {max-width:75px; max-height:75px; }
+.@a59939@ian@cymodocea-serrulata-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cymodocea/0.png/0.png);padding: 0; }
+div.@a59939@ian@cymodocea-serrulata-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59940@ian@cymodocea-serrulata-2 {max-width:75px; max-height:75px; }
+.@a59940@ian@cymodocea-serrulata-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cymodocea/0.png/0.png);padding: 0; }
+div.@a59940@ian@cymodocea-serrulata-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59941@ian@cymodocea-serrulata-seeds {max-width:75px; max-height:75px; }
+.@a59941@ian@cymodocea-serrulata-seeds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cymodocea/0.png/0.png);padding: 0; }
+div.@a59941@ian@cymodocea-serrulata-seeds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4ff8e2bf2e84bcb260969bdedac27104:f410caede06afda5b75932d30fc85205:4ddb42793a59c1b7bfff1539dfc4d068$ */

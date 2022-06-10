@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15678@emo@back {max-width:75px; max-height:75px; }
+.@a15678@emo@back::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@a15678@emo@back::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29050@jqu@fast-backward {max-width:75px; max-height:75px; }
+.@a29050@jqu@fast-backward::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@a29050@jqu@fast-backward::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30068@lib@back {max-width:75px; max-height:75px; }
+.@a30068@lib@back::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@a30068@lib@back::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53222@vaa@fast-backward {max-width:75px; max-height:75px; }
+.@a53222@vaa@fast-backward::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@a53222@vaa@fast-backward::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53934@wav@back {max-width:75px; max-height:75px; }
+.@a53934@wav@back::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@a53934@wav@back::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54198@wav@fast-backward {max-width:75px; max-height:75px; }
+.@a54198@wav@fast-backward::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@a54198@wav@fast-backward::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57671@xei@fast-backward {max-width:75px; max-height:75px; }
+.@a57671@xei@fast-backward::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@a57671@xei@fast-backward::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a755@awe@fast-backward {max-width:75px; max-height:75px; }
+.@a755@awe@fast-backward::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@a755@awe@fast-backward::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8692@web@fast-backward {max-width:75px; max-height:75px; }
+.@b8692@web@fast-backward::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fast_backward/0.png/0.png);padding: 0; }
+div.@b8692@web@fast-backward::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:816bd1742c4190d0065290258f27b0ab:37e8c216c472a2b279cfd5b0aa9a77d8:4ddb42793a59c1b7bfff1539dfc4d068$ */

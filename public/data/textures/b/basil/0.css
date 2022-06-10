@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39719@noc@herb {max-width:75px; max-height:75px; }
+.@a39719@noc@herb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/basil/0.png/0.png);padding: 0; }
+div.@a39719@noc@herb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42062@nog@herb-animals-nature {max-width:75px; max-height:75px; }
+.@a42062@nog@herb-animals-nature::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/basil/0.png/0.png);padding: 0; }
+div.@a42062@nog@herb-animals-nature::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49572@str@515-herb {max-width:75px; max-height:75px; }
+.@a49572@str@515-herb::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/basil/0.png/0.png);padding: 0; }
+div.@a49572@str@515-herb::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:35a57bc8ba0477e97da921cd15c9955d:106b916b22a7dd463118e2d441eef9cf:4ddb42793a59c1b7bfff1539dfc4d068$ */

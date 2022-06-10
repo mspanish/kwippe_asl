@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59833@ian@concentration-high-sulfate {max-width:75px; max-height:75px; }
+.@a59833@ian@concentration-high-sulfate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sulfate/0.png/0.png);padding: 0; }
+div.@a59833@ian@concentration-high-sulfate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59853@ian@concentration-intermittent-sulfate {max-width:75px; max-height:75px; }
+.@a59853@ian@concentration-intermittent-sulfate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sulfate/0.png/0.png);padding: 0; }
+div.@a59853@ian@concentration-intermittent-sulfate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59873@ian@concentration-low-sulfate {max-width:75px; max-height:75px; }
+.@a59873@ian@concentration-low-sulfate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sulfate/0.png/0.png);padding: 0; }
+div.@a59873@ian@concentration-low-sulfate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60004@ian@deposition-sulfate {max-width:75px; max-height:75px; }
+.@a60004@ian@deposition-sulfate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sulfate/0.png/0.png);padding: 0; }
+div.@a60004@ian@deposition-sulfate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60005@ian@deposition-sulfate2 {max-width:75px; max-height:75px; }
+.@a60005@ian@deposition-sulfate2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sulfate/0.png/0.png);padding: 0; }
+div.@a60005@ian@deposition-sulfate2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:130962eb2e6b69ac5d7a4d5627f3a776:69bc846a09e112abc8d6fad1e1cab240:4ddb42793a59c1b7bfff1539dfc4d068$ */

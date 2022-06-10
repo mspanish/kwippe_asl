@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38297@mul@olympic-games {max-width:75px; max-height:75px; }
+.@a38297@mul@olympic-games::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/games/0.png/0.png);padding: 0; }
+div.@a38297@mul@olympic-games::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38350@mul@para-olympic-games {max-width:75px; max-height:75px; }
+.@a38350@mul@para-olympic-games::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/games/0.png/0.png);padding: 0; }
+div.@a38350@mul@para-olympic-games::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60507@ian@hospitality-casino {max-width:75px; max-height:75px; }
+.@a60507@ian@hospitality-casino::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/games/0.png/0.png);padding: 0; }
+div.@a60507@ian@hospitality-casino::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:10cf31239448194713de1c43e2a63898:882ce6e8afaccff8223c4cd7113103a1:4ddb42793a59c1b7bfff1539dfc4d068$ */

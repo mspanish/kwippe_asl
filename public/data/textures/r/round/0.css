@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15350@em2@round-pushpin {max-width:75px; max-height:75px; }
+.@a15350@em2@round-pushpin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a15350@em2@round-pushpin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17600@fir@u1f4cd-roundpushpin {max-width:75px; max-height:75px; }
+.@a17600@fir@u1f4cd-roundpushpin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a17600@fir@u1f4cd-roundpushpin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28735@jqe@round-pushpin {max-width:75px; max-height:75px; }
+.@a28735@jqe@round-pushpin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a28735@jqe@round-pushpin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38161@mul@merry-go-round {max-width:75px; max-height:75px; }
+.@a38161@mul@merry-go-round::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a38161@mul@merry-go-round::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40070@noc@round-pushpin {max-width:75px; max-height:75px; }
+.@a40070@noc@round-pushpin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a40070@noc@round-pushpin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43280@nog@round-pushpin-objects {max-width:75px; max-height:75px; }
+.@a43280@nog@round-pushpin-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a43280@nog@round-pushpin-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50828@tw2@round-pushpin {max-width:75px; max-height:75px; }
+.@a50828@tw2@round-pushpin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a50828@tw2@round-pushpin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51572@twe@round-pushpin {max-width:75px; max-height:75px; }
+.@a51572@twe@round-pushpin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a51572@twe@round-pushpin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60846@ian@mercenaria-mercenaria {max-width:75px; max-height:75px; }
+.@a60846@ian@mercenaria-mercenaria::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@a60846@ian@mercenaria-mercenaria::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13231@gameicons-delapouite@round-silo {max-width:75px; max-height:75px; }
+.@b13231@gameicons-delapouite@round-silo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@b13231@gameicons-delapouite@round-silo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13233@gameicons-delapouite@round-straw-bale {max-width:75px; max-height:75px; }
+.@b13233@gameicons-delapouite@round-straw-bale::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@b13233@gameicons-delapouite@round-straw-bale::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13234@gameicons-delapouite@round-table {max-width:75px; max-height:75px; }
+.@b13234@gameicons-delapouite@round-table::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@b13234@gameicons-delapouite@round-table::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13880@gameicons-lorc@burning-round-shot {max-width:75px; max-height:75px; }
+.@b13880@gameicons-lorc@burning-round-shot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@b13880@gameicons-lorc@burning-round-shot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14682@gameicons-lorc@round-struck {max-width:75px; max-height:75px; }
+.@b14682@gameicons-lorc@round-struck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/round/0.png/0.png);padding: 0; }
+div.@b14682@gameicons-lorc@round-struck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:46392bf54a2ba9653831008d6094f89c:b73555e11046ba28373f25e900ba3249:4ddb42793a59c1b7bfff1539dfc4d068$ */

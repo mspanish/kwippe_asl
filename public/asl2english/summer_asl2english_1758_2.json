@@ -1,0 +1,37 @@
+{
+    "sign": "summer",
+    "signer": "asl2english",
+    "uid": 1758,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 22,
+            "nd": 34
+        },
+        "end": {
+            "d": 1,
+            "nd": null
+        }
+    },
+    "regions": [
+        "forehead",
+        "temple"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            1,
+            1,
+            0
+        ]
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

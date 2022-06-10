@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14065@gameicons-lorc@double-face-mask {max-width:75px; max-height:75px; }
+.@b14065@gameicons-lorc@double-face-mask::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/double_face_mask/0.png/0.png);padding: 0; }
+div.@b14065@gameicons-lorc@double-face-mask::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9083713b99857ad97a691c070615dba0:435a15f59b43d9ca52231dd606a400a3:4ddb42793a59c1b7bfff1539dfc4d068$ */

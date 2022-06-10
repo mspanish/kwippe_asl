@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15544@em2@upside-down-face {max-width:75px; max-height:75px; }
+.@a15544@em2@upside-down-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/upside_down/0.png/0.png);padding: 0; }
+div.@a15544@em2@upside-down-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16942@emo@upside-down {max-width:75px; max-height:75px; }
+.@a16942@emo@upside-down::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/upside_down/0.png/0.png);padding: 0; }
+div.@a16942@emo@upside-down::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a3585@darkemoji@emoji-darkemoji-0046 {max-width:75px; max-height:75px; }
+.@a3585@darkemoji@emoji-darkemoji-0046::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/upside_down/0.png/0.png);padding: 0; }
+div.@a3585@darkemoji@emoji-darkemoji-0046::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40260@noc@upside-down-face {max-width:75px; max-height:75px; }
+.@a40260@noc@upside-down-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/upside_down/0.png/0.png);padding: 0; }
+div.@a40260@noc@upside-down-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43824@nog@upside-down-face-smileys-people {max-width:75px; max-height:75px; }
+.@a43824@nog@upside-down-face-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/upside_down/0.png/0.png);padding: 0; }
+div.@a43824@nog@upside-down-face-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49245@str@047-upside-down-face {max-width:75px; max-height:75px; }
+.@a49245@str@047-upside-down-face::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/u/upside_down/0.png/0.png);padding: 0; }
+div.@a49245@str@047-upside-down-face::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7ae946c0ac3b10ca46d8a64ed17f754c:7d11ff6e82dd1806bd4bd6dbf1836838:4ddb42793a59c1b7bfff1539dfc4d068$ */

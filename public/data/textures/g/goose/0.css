@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26377@her@goose {max-width:75px; max-height:75px; }
+.@a26377@her@goose::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/goose/0.png/0.png);padding: 0; }
+div.@a26377@her@goose::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37798@mul@goose-roast {max-width:75px; max-height:75px; }
+.@a37798@mul@goose-roast::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/goose/0.png/0.png);padding: 0; }
+div.@a37798@mul@goose-roast::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37799@mul@goose {max-width:75px; max-height:75px; }
+.@a37799@mul@goose::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/goose/0.png/0.png);padding: 0; }
+div.@a37799@mul@goose::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12700@gameicons-delapouite@goose {max-width:75px; max-height:75px; }
+.@b12700@gameicons-delapouite@goose::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/goose/0.png/0.png);padding: 0; }
+div.@b12700@gameicons-delapouite@goose::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4236@wikim-ladyofhats@goose {max-width:75px; max-height:75px; }
+.@d4236@wikim-ladyofhats@goose::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/goose/0.png/0.png);padding: 0; }
+div.@d4236@wikim-ladyofhats@goose::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d15f65f2e17bbe492f785c0fc4ae6333:94b8893714d1bd4156df466e1cee021d:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59387@ian@artifact-axe-blade {max-width:75px; max-height:75px; }
+.@a59387@ian@artifact-axe-blade::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/weapon/0.png/0.png);padding: 0; }
+div.@a59387@ian@artifact-axe-blade::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61446@ian@rifle {max-width:75px; max-height:75px; }
+.@a61446@ian@rifle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/weapon/0.png/0.png);padding: 0; }
+div.@a61446@ian@rifle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13450@gameicons-delapouite@switch-weapon {max-width:75px; max-height:75px; }
+.@b13450@gameicons-delapouite@switch-weapon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/weapon/0.png/0.png);padding: 0; }
+div.@b13450@gameicons-delapouite@switch-weapon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15298@gameicons-skoll@drop-weapon {max-width:75px; max-height:75px; }
+.@b15298@gameicons-skoll@drop-weapon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/w/weapon/0.png/0.png);padding: 0; }
+div.@b15298@gameicons-skoll@drop-weapon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fd5b035bf0a0fd9fb8fd11066ae988e1:cbb4e587e21f3f5ea96ae336eedea9a0:4ddb42793a59c1b7bfff1539dfc4d068$ */

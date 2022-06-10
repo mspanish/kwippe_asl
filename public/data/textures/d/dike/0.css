@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59953@ian@dam-1 {max-width:75px; max-height:75px; }
+.@a59953@ian@dam-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dike/0.png/0.png);padding: 0; }
+div.@a59953@ian@dam-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62181@ian@water-dam-2 {max-width:75px; max-height:75px; }
+.@a62181@ian@water-dam-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dike/0.png/0.png);padding: 0; }
+div.@a62181@ian@water-dam-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62182@ian@water-dam-3 {max-width:75px; max-height:75px; }
+.@a62182@ian@water-dam-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dike/0.png/0.png);padding: 0; }
+div.@a62182@ian@water-dam-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c70facaf4715d73a744dd164d54c2656:5da24bb5a7ea59aa4f0e76a45f8af394:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60151@ian@estuary-2d-channels-and-offshore-sandrift {max-width:75px; max-height:75px; }
+.@a60151@ian@estuary-2d-channels-and-offshore-sandrift::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/drift/0.png/0.png);padding: 0; }
+div.@a60151@ian@estuary-2d-channels-and-offshore-sandrift::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ff2118ed9cc8cfad5835a541855bb0c7:8572ed64a19e872070e7470142e8f12e:4ddb42793a59c1b7bfff1539dfc4d068$ */

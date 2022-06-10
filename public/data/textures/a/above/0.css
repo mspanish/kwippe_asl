@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36423@mul@above {max-width:75px; max-height:75px; }
+.@a36423@mul@above::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/above/0.png/0.png);padding: 0; }
+div.@a36423@mul@above::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59722@ian@climate-change-above-average-temperatures {max-width:75px; max-height:75px; }
+.@a59722@ian@climate-change-above-average-temperatures::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/above/0.png/0.png);padding: 0; }
+div.@a59722@ian@climate-change-above-average-temperatures::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60266@ian@fish-cages2 {max-width:75px; max-height:75px; }
+.@a60266@ian@fish-cages2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/above/0.png/0.png);padding: 0; }
+div.@a60266@ian@fish-cages2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4f6d3f4e35aa23272381ee150b5460ca:bdd8bc4b4ce8f3afe3d2a04197089b05:4ddb42793a59c1b7bfff1539dfc4d068$ */

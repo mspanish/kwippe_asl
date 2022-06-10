@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37441@mul@fish-burger {max-width:75px; max-height:75px; }
+.@a37441@mul@fish-burger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/burger/0.png/0.png);padding: 0; }
+div.@a37441@mul@fish-burger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38944@mul@takeaway-burger-and-chips {max-width:75px; max-height:75px; }
+.@a38944@mul@takeaway-burger-and-chips::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/burger/0.png/0.png);padding: 0; }
+div.@a38944@mul@takeaway-burger-and-chips::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38945@mul@takeaway-burger {max-width:75px; max-height:75px; }
+.@a38945@mul@takeaway-burger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/b/burger/0.png/0.png);padding: 0; }
+div.@a38945@mul@takeaway-burger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:58427ea1b1b619371cc35ae3df5cde42:aff90f17cdf55fd274d43b5e44ed1e3f:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37921@mul@hooded-top {max-width:75px; max-height:75px; }
+.@a37921@mul@hooded-top::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hooded/0.png/0.png);padding: 0; }
+div.@a37921@mul@hooded-top::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12099@gameicons-darkzaitzev@hooded-assassin {max-width:75px; max-height:75px; }
+.@b12099@gameicons-darkzaitzev@hooded-assassin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hooded/0.png/0.png);padding: 0; }
+div.@b12099@gameicons-darkzaitzev@hooded-assassin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12100@gameicons-darkzaitzev@hooded-figure {max-width:75px; max-height:75px; }
+.@b12100@gameicons-darkzaitzev@hooded-figure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hooded/0.png/0.png);padding: 0; }
+div.@b12100@gameicons-darkzaitzev@hooded-figure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dbeedc4e8a50b8f2f52831d8159730e3:e78c56114d29d741807aa72bf52729a7:4ddb42793a59c1b7bfff1539dfc4d068$ */

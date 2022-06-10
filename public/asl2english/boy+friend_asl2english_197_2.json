@@ -1,0 +1,37 @@
+{
+    "sign": "boy+friend",
+    "signer": "asl2english",
+    "uid": 197,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 18,
+            "nd": 79
+        },
+        "end": {
+            "d": 74,
+            "nd": 1
+        }
+    },
+    "regions": [
+        "forehead",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            -1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

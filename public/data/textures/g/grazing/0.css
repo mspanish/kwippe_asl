@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60016@ian@diadema-antillarum {max-width:75px; max-height:75px; }
+.@a60016@ian@diadema-antillarum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grazing/0.png/0.png);padding: 0; }
+div.@a60016@ian@diadema-antillarum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60316@ian@food-webs-grazing-1 {max-width:75px; max-height:75px; }
+.@a60316@ian@food-webs-grazing-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grazing/0.png/0.png);padding: 0; }
+div.@a60316@ian@food-webs-grazing-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60317@ian@food-webs-grazing-2 {max-width:75px; max-height:75px; }
+.@a60317@ian@food-webs-grazing-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grazing/0.png/0.png);padding: 0; }
+div.@a60317@ian@food-webs-grazing-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60396@ian@grazing-dugong {max-width:75px; max-height:75px; }
+.@a60396@ian@grazing-dugong::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grazing/0.png/0.png);padding: 0; }
+div.@a60396@ian@grazing-dugong::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60397@ian@grazing-reef-fish {max-width:75px; max-height:75px; }
+.@a60397@ian@grazing-reef-fish::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grazing/0.png/0.png);padding: 0; }
+div.@a60397@ian@grazing-reef-fish::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60898@ian@monitoring-deer-population-count {max-width:75px; max-height:75px; }
+.@a60898@ian@monitoring-deer-population-count::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grazing/0.png/0.png);padding: 0; }
+div.@a60898@ian@monitoring-deer-population-count::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7eb6782450cac3b601f40ef8b10a1613:83da2137527bf6ba0d75466c8b2fcdc4:4ddb42793a59c1b7bfff1539dfc4d068$ */

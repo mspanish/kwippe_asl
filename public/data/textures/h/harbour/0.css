@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59540@ian@bridge-sydney-harbour {max-width:75px; max-height:75px; }
+.@a59540@ian@bridge-sydney-harbour::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/harbour/0.png/0.png);padding: 0; }
+div.@a59540@ian@bridge-sydney-harbour::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62013@ian@usa-ma-boston-harbor {max-width:75px; max-height:75px; }
+.@a62013@ian@usa-ma-boston-harbor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/h/harbour/0.png/0.png);padding: 0; }
+div.@a62013@ian@usa-ma-boston-harbor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1901e0d3245eba2cb45c3a261fb7f776:bc78e08de3e0c4654db07e63578013a2:4ddb42793a59c1b7bfff1539dfc4d068$ */

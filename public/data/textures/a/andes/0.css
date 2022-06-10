@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59708@ian@chuquiraga-avellanedae {max-width:75px; max-height:75px; }
+.@a59708@ian@chuquiraga-avellanedae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/andes/0.png/0.png);padding: 0; }
+div.@a59708@ian@chuquiraga-avellanedae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:75fbabee2f2afd0cbc3cbb4eba500e7a:f5d0bc11bac623fbd688456c51f14a4e:4ddb42793a59c1b7bfff1539dfc4d068$ */

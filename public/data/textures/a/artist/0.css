@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39838@noc@man-m-f-1-2-artist-palette {max-width:75px; max-height:75px; }
+.@a39838@noc@man-m-f-1-2-artist-palette::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/artist/0.png/0.png);padding: 0; }
+div.@a39838@noc@man-m-f-1-2-artist-palette::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40326@noc@woman-m-f-1-2-artist-palette {max-width:75px; max-height:75px; }
+.@a40326@noc@woman-m-f-1-2-artist-palette::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/artist/0.png/0.png);padding: 0; }
+div.@a40326@noc@woman-m-f-1-2-artist-palette::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42536@nog@man-smileys-people-1-2-artist-palette-activities {max-width:75px; max-height:75px; }
+.@a42536@nog@man-smileys-people-1-2-artist-palette-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/artist/0.png/0.png);padding: 0; }
+div.@a42536@nog@man-smileys-people-1-2-artist-palette-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42559@nog@man-smileys-people-3-artist-palette-activities {max-width:75px; max-height:75px; }
+.@a42559@nog@man-smileys-people-3-artist-palette-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/artist/0.png/0.png);padding: 0; }
+div.@a42559@nog@man-smileys-people-3-artist-palette-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49338@str@170-man-artist-2 {max-width:75px; max-height:75px; }
+.@a49338@str@170-man-artist-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/artist/0.png/0.png);padding: 0; }
+div.@a49338@str@170-man-artist-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49339@str@172-woman-artist-2 {max-width:75px; max-height:75px; }
+.@a49339@str@172-woman-artist-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/artist/0.png/0.png);padding: 0; }
+div.@a49339@str@172-woman-artist-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50605@tw2@man-1-2-artist-palette {max-width:75px; max-height:75px; }
+.@a50605@tw2@man-1-2-artist-palette::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/artist/0.png/0.png);padding: 0; }
+div.@a50605@tw2@man-1-2-artist-palette::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50619@tw2@man-3-artist-palette {max-width:75px; max-height:75px; }
+.@a50619@tw2@man-3-artist-palette::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/a/artist/0.png/0.png);padding: 0; }
+div.@a50619@tw2@man-3-artist-palette::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3f92ad1e31c74567769764d4aa268e57:b9f344a73619b4a04e1354441fd3fdec:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61497@ian@rocks-1 {max-width:75px; max-height:75px; }
+.@a61497@ian@rocks-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/boulder/0.png/0.png);padding: 0; }
+div.@a61497@ian@rocks-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61498@ian@rocks-2 {max-width:75px; max-height:75px; }
+.@a61498@ian@rocks-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/boulder/0.png/0.png);padding: 0; }
+div.@a61498@ian@rocks-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61499@ian@rocks-3 {max-width:75px; max-height:75px; }
+.@a61499@ian@rocks-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/boulder/0.png/0.png);padding: 0; }
+div.@a61499@ian@rocks-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14150@gameicons-lorc@falling-boulder {max-width:75px; max-height:75px; }
+.@b14150@gameicons-lorc@falling-boulder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/boulder/0.png/0.png);padding: 0; }
+div.@b14150@gameicons-lorc@falling-boulder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:efa6b3725733a1f415f489e28c3ef012:c45331b8160d87de387f790f586dc115:4ddb42793a59c1b7bfff1539dfc4d068$ */

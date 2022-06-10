@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60279@ian@fishery {max-width:75px; max-height:75px; }
+.@a60279@ian@fishery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@a60279@ian@fishery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60280@ian@fishing-moratorium {max-width:75px; max-height:75px; }
+.@a60280@ian@fishing-moratorium::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@a60280@ian@fishing-moratorium::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60282@ian@fishing {max-width:75px; max-height:75px; }
+.@a60282@ian@fishing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@a60282@ian@fishing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12622@gameicons-delapouite@fishing-spoon {max-width:75px; max-height:75px; }
+.@b12622@gameicons-delapouite@fishing-spoon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@b12622@gameicons-delapouite@fishing-spoon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12623@gameicons-delapouite@fishing {max-width:75px; max-height:75px; }
+.@b12623@gameicons-delapouite@fishing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@b12623@gameicons-delapouite@fishing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13174@gameicons-delapouite@pulley-hook {max-width:75px; max-height:75px; }
+.@b13174@gameicons-delapouite@pulley-hook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@b13174@gameicons-delapouite@pulley-hook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14182@gameicons-lorc@fishing-hook {max-width:75px; max-height:75px; }
+.@b14182@gameicons-lorc@fishing-hook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@b14182@gameicons-lorc@fishing-hook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14487@gameicons-lorc@meat-hook {max-width:75px; max-height:75px; }
+.@b14487@gameicons-lorc@meat-hook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@b14487@gameicons-lorc@meat-hook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14808@gameicons-lorc@spear-hook {max-width:75px; max-height:75px; }
+.@b14808@gameicons-lorc@spear-hook::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/h/hook/0.png/0.png);padding: 0; }
+div.@b14808@gameicons-lorc@spear-hook::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:13ee70d9f4895713803118f2d03b6b12:8811eecda0d657770697165a5ff6cccd:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,68 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14696@em2@bowling {max-width:75px; max-height:75px; }
+.@a14696@em2@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a14696@em2@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15744@emo@bowling {max-width:75px; max-height:75px; }
+.@a15744@emo@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a15744@emo@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17336@fir@u1f3b3-bowling {max-width:75px; max-height:75px; }
+.@a17336@fir@u1f3b3-bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a17336@fir@u1f3b3-bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2507@bon@ten-pin-bowling-1508 {max-width:75px; max-height:75px; }
+.@a2507@bon@ten-pin-bowling-1508::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a2507@bon@ten-pin-bowling-1508::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27910@ico@bowling {max-width:75px; max-height:75px; }
+.@a27910@ico@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a27910@ico@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28222@jqe@bowling {max-width:75px; max-height:75px; }
+.@a28222@jqe@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a28222@jqe@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36637@mul@bowler-1 {max-width:75px; max-height:75px; }
+.@a36637@mul@bowler-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a36637@mul@bowler-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36639@mul@bowling-gutter {max-width:75px; max-height:75px; }
+.@a36639@mul@bowling-gutter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a36639@mul@bowling-gutter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36641@mul@bowling-spare {max-width:75px; max-height:75px; }
+.@a36641@mul@bowling-spare::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a36641@mul@bowling-spare::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36642@mul@bowling-strike {max-width:75px; max-height:75px; }
+.@a36642@mul@bowling-strike::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a36642@mul@bowling-strike::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36643@mul@bowling {max-width:75px; max-height:75px; }
+.@a36643@mul@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a36643@mul@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39380@noc@bowling {max-width:75px; max-height:75px; }
+.@a39380@noc@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a39380@noc@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44148@not@bowling {max-width:75px; max-height:75px; }
+.@a44148@not@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a44148@not@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49730@str@673-bowling {max-width:75px; max-height:75px; }
+.@a49730@str@673-bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a49730@str@673-bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a501@ara@sport-bowling {max-width:75px; max-height:75px; }
+.@a501@ara@sport-bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a501@ara@sport-bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50246@tw2@bowling {max-width:75px; max-height:75px; }
+.@a50246@tw2@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a50246@tw2@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51117@twe@bowling {max-width:75px; max-height:75px; }
+.@a51117@twe@bowling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@a51117@twe@bowling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12282@gameicons-delapouite@bowling-strike {max-width:75px; max-height:75px; }
+.@b12282@gameicons-delapouite@bowling-strike::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@b12282@gameicons-delapouite@bowling-strike::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13837@gameicons-lorc@bowling-propulsion {max-width:75px; max-height:75px; }
+.@b13837@gameicons-lorc@bowling-propulsion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/b/bowling/0.png/0.png);padding: 0; }
+div.@b13837@gameicons-lorc@bowling-propulsion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1417621538768b086cd07e30ec87f35e:1d408c9b9d19dcc25e9639ed007997f9:4ddb42793a59c1b7bfff1539dfc4d068$ */

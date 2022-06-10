@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a32089@map@snowmobile {max-width:75px; max-height:75px; }
+.@a32089@map@snowmobile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/snowmachine/0.png/0.png);padding: 0; }
+div.@a32089@map@snowmobile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5ec5242e826fdacbeea338ee340a74cd:ecf893270b107c7e5822f4b1d1c2eb32:4ddb42793a59c1b7bfff1539dfc4d068$ */

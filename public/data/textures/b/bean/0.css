@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a5488@df-coffeeicons@braceleft {max-width:75px; max-height:75px; }
+.@a5488@df-coffeeicons@braceleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/bean/0.png/0.png);padding: 0; }
+div.@a5488@df-coffeeicons@braceleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8462@web@coffeebean {max-width:75px; max-height:75px; }
+.@b8462@web@coffeebean::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/b/bean/0.png/0.png);padding: 0; }
+div.@b8462@web@coffeebean::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fd8adca0dfa7dbcf9790b4b4deb8d210:8dea5acf67657d1b85c0f9268ad09aba:4ddb42793a59c1b7bfff1539dfc4d068$ */

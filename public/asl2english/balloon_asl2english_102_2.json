@@ -1,0 +1,37 @@
+{
+    "sign": "balloon",
+    "signer": "asl2english",
+    "uid": 102,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 14,
+            "nd": 35
+        },
+        "end": {
+            "d": 82,
+            "nd": null
+        }
+    },
+    "regions": [
+        "hand",
+        "above-right-shoulder"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "change"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

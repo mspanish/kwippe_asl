@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36794@mul@caterpillar {max-width:75px; max-height:75px; }
+.@a36794@mul@caterpillar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caterpillar/0.png/0.png);padding: 0; }
+div.@a36794@mul@caterpillar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39388@noc@bug {max-width:75px; max-height:75px; }
+.@a39388@noc@bug::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caterpillar/0.png/0.png);padding: 0; }
+div.@a39388@noc@bug::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59627@ian@caterpillar {max-width:75px; max-height:75px; }
+.@a59627@ian@caterpillar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caterpillar/0.png/0.png);padding: 0; }
+div.@a59627@ian@caterpillar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60768@ian@lymantria-dispar-caterpillar {max-width:75px; max-height:75px; }
+.@a60768@ian@lymantria-dispar-caterpillar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caterpillar/0.png/0.png);padding: 0; }
+div.@a60768@ian@lymantria-dispar-caterpillar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12354@gameicons-delapouite@caterpillar {max-width:75px; max-height:75px; }
+.@b12354@gameicons-delapouite@caterpillar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/caterpillar/0.png/0.png);padding: 0; }
+div.@b12354@gameicons-delapouite@caterpillar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:684d7e9476d6496dfd20b077363d953b:c7916e34624b30102bc18ee1b4f3be0b:4ddb42793a59c1b7bfff1539dfc4d068$ */

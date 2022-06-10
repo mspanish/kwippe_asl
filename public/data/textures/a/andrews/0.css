@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61982@ian@usa-fl-st-andrew-bay {max-width:75px; max-height:75px; }
+.@a61982@ian@usa-fl-st-andrew-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/andrews/0.png/0.png);padding: 0; }
+div.@a61982@ian@usa-fl-st-andrew-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61990@ian@usa-ga-st-andrews-st-simons-sounds {max-width:75px; max-height:75px; }
+.@a61990@ian@usa-ga-st-andrews-st-simons-sounds::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/andrews/0.png/0.png);padding: 0; }
+div.@a61990@ian@usa-ga-st-andrews-st-simons-sounds::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:985755d06f85dbeea2f3752b18cf2cdc:4a3625da04986797e7bd68e4762592f2:4ddb42793a59c1b7bfff1539dfc4d068$ */

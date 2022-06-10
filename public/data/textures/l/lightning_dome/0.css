@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12894@gameicons-delapouite@lightning-dome {max-width:75px; max-height:75px; }
+.@b12894@gameicons-delapouite@lightning-dome::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/lightning_dome/0.png/0.png);padding: 0; }
+div.@b12894@gameicons-delapouite@lightning-dome::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6d2cec12c54da4277beb0b8394d1bc96:c38fd8488fda1a0748a8a5f23ec9ec12:4ddb42793a59c1b7bfff1539dfc4d068$ */

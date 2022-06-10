@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36799@mul@ceiling-light {max-width:75px; max-height:75px; }
+.@a36799@mul@ceiling-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/ceiling_light/0.png/0.png);padding: 0; }
+div.@a36799@mul@ceiling-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12360@gameicons-delapouite@ceiling-light {max-width:75px; max-height:75px; }
+.@b12360@gameicons-delapouite@ceiling-light::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/ceiling_light/0.png/0.png);padding: 0; }
+div.@b12360@gameicons-delapouite@ceiling-light::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:19329da3cd92084ecacaacac283931b5:ab62803ea07ca871bd4b12b349cb3530:4ddb42793a59c1b7bfff1539dfc4d068$ */

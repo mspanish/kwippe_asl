@@ -1,0 +1,45 @@
+{
+    "sign": "graduate",
+    "signer": "aslLex",
+    "uid": 1866,
+    "synonyms": "graduate, graduation, guarantee",
+    "handshapes": {
+        "begin": {
+            "d": "g",
+            "nd": "B"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "HandAway",
+        "morph1_specific_second": "Palm",
+        "morph1_contact": null,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "Circular",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 3.0,
+    "frequency": 4.24,
+    "category": null
+}

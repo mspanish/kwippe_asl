@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14735@em2@chains {max-width:75px; max-height:75px; }
+.@a14735@em2@chains::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@a14735@em2@chains::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15786@emo@chains {max-width:75px; max-height:75px; }
+.@a15786@emo@chains::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@a15786@emo@chains::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40961-1@nog@chains-objects {max-width:75px; max-height:75px; }
+.@a40961-1@nog@chains-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@a40961-1@nog@chains-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40961@nog@chains-objects {max-width:75px; max-height:75px; }
+.@a40961@nog@chains-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@a40961@nog@chains-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60149@ian@esox-niger {max-width:75px; max-height:75px; }
+.@a60149@ian@esox-niger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@a60149@ian@esox-niger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60321@ian@forestry-worker {max-width:75px; max-height:75px; }
+.@a60321@ian@forestry-worker::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@a60321@ian@forestry-worker::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13711@gameicons-lorc@andromeda-chain {max-width:75px; max-height:75px; }
+.@b13711@gameicons-lorc@andromeda-chain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@b13711@gameicons-lorc@andromeda-chain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13986@gameicons-lorc@crossed-chains {max-width:75px; max-height:75px; }
+.@b13986@gameicons-lorc@crossed-chains::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@b13986@gameicons-lorc@crossed-chains::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14215@gameicons-lorc@food-chain {max-width:75px; max-height:75px; }
+.@b14215@gameicons-lorc@food-chain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@b14215@gameicons-lorc@food-chain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14297@gameicons-lorc@harpoon-chain {max-width:75px; max-height:75px; }
+.@b14297@gameicons-lorc@harpoon-chain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@b14297@gameicons-lorc@harpoon-chain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15064@gameicons-lorc@wavy-chains {max-width:75px; max-height:75px; }
+.@b15064@gameicons-lorc@wavy-chains::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@b15064@gameicons-lorc@wavy-chains::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15266@gameicons-skoll@breaking-chain {max-width:75px; max-height:75px; }
+.@b15266@gameicons-skoll@breaking-chain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@b15266@gameicons-skoll@breaking-chain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15543@gameicons-willdabeast@chain-lightning {max-width:75px; max-height:75px; }
+.@b15543@gameicons-willdabeast@chain-lightning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@b15543@gameicons-willdabeast@chain-lightning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15544@gameicons-willdabeast@chain-mail {max-width:75px; max-height:75px; }
+.@b15544@gameicons-willdabeast@chain-mail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/c/chain/0.png/0.png);padding: 0; }
+div.@b15544@gameicons-willdabeast@chain-mail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e5aec544328202ef114b54db27a6a1ea:a2309f54d85d9f10056a1bdb6fc4cc51:4ddb42793a59c1b7bfff1539dfc4d068$ */

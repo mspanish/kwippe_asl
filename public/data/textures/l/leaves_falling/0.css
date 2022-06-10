@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d2847@wikim-all@greentree {max-width:75px; max-height:75px; }
+.@d2847@wikim-all@greentree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/leaves_falling/0.png/0.png);padding: 0; }
+div.@d2847@wikim-all@greentree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3020@wikim-all@heraldic_betula_pendula {max-width:75px; max-height:75px; }
+.@d3020@wikim-all@heraldic_betula_pendula::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/leaves_falling/0.png/0.png);padding: 0; }
+div.@d3020@wikim-all@heraldic_betula_pendula::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3021@wikim-all@heraldic_cerasus {max-width:75px; max-height:75px; }
+.@d3021@wikim-all@heraldic_cerasus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/leaves_falling/0.png/0.png);padding: 0; }
+div.@d3021@wikim-all@heraldic_cerasus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3023@wikim-all@heraldic_fraxinus_excelsior {max-width:75px; max-height:75px; }
+.@d3023@wikim-all@heraldic_fraxinus_excelsior::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/leaves_falling/0.png/0.png);padding: 0; }
+div.@d3023@wikim-all@heraldic_fraxinus_excelsior::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3026@wikim-all@heraldic_populus_tremula {max-width:75px; max-height:75px; }
+.@d3026@wikim-all@heraldic_populus_tremula::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/leaves_falling/0.png/0.png);padding: 0; }
+div.@d3026@wikim-all@heraldic_populus_tremula::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3235@wikim-all@meuble_huuuc3uuua9raldique_aulne {max-width:75px; max-height:75px; }
+.@d3235@wikim-all@meuble_huuuc3uuua9raldique_aulne::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/l/leaves_falling/0.png/0.png);padding: 0; }
+div.@d3235@wikim-all@meuble_huuuc3uuua9raldique_aulne::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8e9bcfa8cc9f5a72205b3d20aa170a8d:db9f7b93ed9da7ca326a5c3c88fcfbb0:4ddb42793a59c1b7bfff1539dfc4d068$ */

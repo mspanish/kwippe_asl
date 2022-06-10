@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61274@ian@positive {max-width:75px; max-height:75px; }
+.@a61274@ian@positive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tick/0.png/0.png);padding: 0; }
+div.@a61274@ian@positive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61279@ian@potentially-positive {max-width:75px; max-height:75px; }
+.@a61279@ian@potentially-positive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tick/0.png/0.png);padding: 0; }
+div.@a61279@ian@potentially-positive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14976@gameicons-lorc@tick {max-width:75px; max-height:75px; }
+.@b14976@gameicons-lorc@tick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/tick/0.png/0.png);padding: 0; }
+div.@b14976@gameicons-lorc@tick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bc6aeb31cd898264ba47b6f136a48166:fedf7bf0f1f7172a33110785d32ae655:4ddb42793a59c1b7bfff1539dfc4d068$ */

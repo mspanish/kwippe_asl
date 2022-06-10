@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39048@mul@topsoil {max-width:75px; max-height:75px; }
+.@a39048@mul@topsoil::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/topsoil/0.png/0.png);padding: 0; }
+div.@a39048@mul@topsoil::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:739b29b49b6c523a9edc69fcf5418ced:6f25092f43939d4d720970e68560bf07:4ddb42793a59c1b7bfff1539dfc4d068$ */

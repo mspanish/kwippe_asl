@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36762@mul@caravan {max-width:75px; max-height:75px; }
+.@a36762@mul@caravan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/caravan/0.png/0.png);padding: 0; }
+div.@a36762@mul@caravan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12341@gameicons-delapouite@caravan {max-width:75px; max-height:75px; }
+.@b12341@gameicons-delapouite@caravan::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/caravan/0.png/0.png);padding: 0; }
+div.@b12341@gameicons-delapouite@caravan::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d30b96201a6333f9b27ce6aefb734a11:f2dc5e6f70fe950dc699efd4e7d27e62:4ddb42793a59c1b7bfff1539dfc4d068$ */

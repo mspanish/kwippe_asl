@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59397@ian@atmospheric-nitrogen {max-width:75px; max-height:75px; }
+.@a59397@ian@atmospheric-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/atmospheric/0.png/0.png);padding: 0; }
+div.@a59397@ian@atmospheric-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60562@ian@inputs-atmospheric-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a60562@ian@inputs-atmospheric-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/atmospheric/0.png/0.png);padding: 0; }
+div.@a60562@ian@inputs-atmospheric-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60563@ian@inputs-atmospheric-lead {max-width:75px; max-height:75px; }
+.@a60563@ian@inputs-atmospheric-lead::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/atmospheric/0.png/0.png);padding: 0; }
+div.@a60563@ian@inputs-atmospheric-lead::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60564@ian@inputs-atmospheric-mercury {max-width:75px; max-height:75px; }
+.@a60564@ian@inputs-atmospheric-mercury::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/atmospheric/0.png/0.png);padding: 0; }
+div.@a60564@ian@inputs-atmospheric-mercury::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60565@ian@inputs-atmospheric-nitrogen {max-width:75px; max-height:75px; }
+.@a60565@ian@inputs-atmospheric-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/atmospheric/0.png/0.png);padding: 0; }
+div.@a60565@ian@inputs-atmospheric-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60566@ian@inputs-atmospheric-particulates {max-width:75px; max-height:75px; }
+.@a60566@ian@inputs-atmospheric-particulates::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/a/atmospheric/0.png/0.png);padding: 0; }
+div.@a60566@ian@inputs-atmospheric-particulates::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c2ac7a0d558fd90b1a4d502428ba32c3:b8214154eb0625765b7524e4a7efc6f2:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,83 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61396@ian@regulatory-marker-danger {max-width:75px; max-height:75px; }
+.@a61396@ian@regulatory-marker-danger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@a61396@ian@regulatory-marker-danger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61397@ian@regulatory-marker-keep-out {max-width:75px; max-height:75px; }
+.@a61397@ian@regulatory-marker-keep-out::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@a61397@ian@regulatory-marker-keep-out::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61398@ian@regulatory-marker-speed-limit {max-width:75px; max-height:75px; }
+.@a61398@ian@regulatory-marker-speed-limit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@a61398@ian@regulatory-marker-speed-limit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1025@mutcd@new_zealand_938 {max-width:75px; max-height:75px; }
+.@d1025@mutcd@new_zealand_938::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d1025@mutcd@new_zealand_938::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1103@mutcd@panama_939 {max-width:75px; max-height:75px; }
+.@d1103@mutcd@panama_939::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d1103@mutcd@panama_939::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1180@mutcd@peru_940 {max-width:75px; max-height:75px; }
+.@d1180@mutcd@peru_940::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d1180@mutcd@peru_940::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1258@mutcd@philippines_941 {max-width:75px; max-height:75px; }
+.@d1258@mutcd@philippines_941::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d1258@mutcd@philippines_941::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1338@mutcd@thailand_942 {max-width:75px; max-height:75px; }
+.@d1338@mutcd@thailand_942::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d1338@mutcd@thailand_942::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1432@mutcd@united_states_943 {max-width:75px; max-height:75px; }
+.@d1432@mutcd@united_states_943::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d1432@mutcd@united_states_943::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1515@mutcd@uruguay_944 {max-width:75px; max-height:75px; }
+.@d1515@mutcd@uruguay_944::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d1515@mutcd@uruguay_944::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d165@mutcd@australia_926 {max-width:75px; max-height:75px; }
+.@d165@mutcd@australia_926::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d165@mutcd@australia_926::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d251@mutcd@brazil_927 {max-width:75px; max-height:75px; }
+.@d251@mutcd@brazil_927::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d251@mutcd@brazil_927::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d336@mutcd@canada_928 {max-width:75px; max-height:75px; }
+.@d336@mutcd@canada_928::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d336@mutcd@canada_928::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d413@mutcd@canada_ontario_929 {max-width:75px; max-height:75px; }
+.@d413@mutcd@canada_ontario_929::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d413@mutcd@canada_ontario_929::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d503@mutcd@canada_quebec_930 {max-width:75px; max-height:75px; }
+.@d503@mutcd@canada_quebec_930::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d503@mutcd@canada_quebec_930::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d585@mutcd@chile_931 {max-width:75px; max-height:75px; }
+.@d585@mutcd@chile_931::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d585@mutcd@chile_931::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d668@mutcd@colombia_932 {max-width:75px; max-height:75px; }
+.@d668@mutcd@colombia_932::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d668@mutcd@colombia_932::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d682@mutcd@indonesia_933 {max-width:75px; max-height:75px; }
+.@d682@mutcd@indonesia_933::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d682@mutcd@indonesia_933::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d734@mutcd@ireland_8 {max-width:75px; max-height:75px; }
+.@d734@mutcd@ireland_8::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 99.48586118251929%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d734@mutcd@ireland_8::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d744@mutcd@ireland_934 {max-width:75px; max-height:75px; }
+.@d744@mutcd@ireland_934::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 0.5141388174807198%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d744@mutcd@ireland_934::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d824@mutcd@japan_935 {max-width:75px; max-height:75px; }
+.@d824@mutcd@japan_935::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 20.308483290488432%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d824@mutcd@japan_935::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d84@mutcd@argentina_925 {max-width:75px; max-height:75px; }
+.@d84@mutcd@argentina_925::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 40.102827763496144%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d84@mutcd@argentina_925::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d879@mutcd@malaysia_936 {max-width:75px; max-height:75px; }
+.@d879@mutcd@malaysia_936::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 59.897172236503856%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d879@mutcd@malaysia_936::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d947@mutcd@mexico_937 {max-width:75px; max-height:75px; }
+.@d947@mutcd@mexico_937::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 79.69151670951157%;background-size: 413.3333333333333% 618.6666666666666%;background-image: url(./textures/r/regulatory/0.png/0.png);padding: 0; }
+div.@d947@mutcd@mexico_937::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ab45d0487d0403a9854735b8d0376aca:639d82055644064f284b01dd56d3a8c7:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60876@ian@mining-open-cut-mine {max-width:75px; max-height:75px; }
+.@a60876@ian@mining-open-cut-mine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bedrock/0.png/0.png);padding: 0; }
+div.@a60876@ian@mining-open-cut-mine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60877@ian@mining-quarry {max-width:75px; max-height:75px; }
+.@a60877@ian@mining-quarry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bedrock/0.png/0.png);padding: 0; }
+div.@a60877@ian@mining-quarry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60935@ian@mountain-range-3d-fault-block {max-width:75px; max-height:75px; }
+.@a60935@ian@mountain-range-3d-fault-block::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bedrock/0.png/0.png);padding: 0; }
+div.@a60935@ian@mountain-range-3d-fault-block::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60953@ian@mountains-3d-river-tinajas-marsh {max-width:75px; max-height:75px; }
+.@a60953@ian@mountains-3d-river-tinajas-marsh::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/bedrock/0.png/0.png);padding: 0; }
+div.@a60953@ian@mountains-3d-river-tinajas-marsh::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:601a8554e60439223c57c9c30280d8a7:a5c2c3b5a3d89f8d01ff8972ec09c978:4ddb42793a59c1b7bfff1539dfc4d068$ */

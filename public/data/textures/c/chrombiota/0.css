@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60074@ian@ecklonia-radiata {max-width:75px; max-height:75px; }
+.@a60074@ian@ecklonia-radiata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/chrombiota/0.png/0.png);padding: 0; }
+div.@a60074@ian@ecklonia-radiata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b3f7c88e5bd598a37f04e181390a11e6:cc9b62f35827339b8383e29b92333f5b:4ddb42793a59c1b7bfff1539dfc4d068$ */

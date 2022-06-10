@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16193@emo@pl {max-width:75px; max-height:75px; }
+.@a16193@emo@pl::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/poland/0.png/0.png);padding: 0; }
+div.@a16193@emo@pl::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2636@wikim-all@flag_of_poland {max-width:75px; max-height:75px; }
+.@d2636@wikim-all@flag_of_poland::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/poland/0.png/0.png);padding: 0; }
+div.@d2636@wikim-all@flag_of_poland::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2637@wikim-all@flag_of_poland_uuu28with_coat_of_armsuuu29 {max-width:75px; max-height:75px; }
+.@d2637@wikim-all@flag_of_poland_uuu28with_coat_of_armsuuu29::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/poland/0.png/0.png);padding: 0; }
+div.@d2637@wikim-all@flag_of_poland_uuu28with_coat_of_armsuuu29::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:21158e82369119d80c3ac87de004e7e8:1804a59f8736ba01245aad5e19b1bb7c:4ddb42793a59c1b7bfff1539dfc4d068$ */

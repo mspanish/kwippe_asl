@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15510@em2@toilet {max-width:75px; max-height:75px; }
+.@a15510@em2@toilet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a15510@em2@toilet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16888@emo@toilet {max-width:75px; max-height:75px; }
+.@a16888@emo@toilet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a16888@emo@toilet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28850@jqe@toilet {max-width:75px; max-height:75px; }
+.@a28850@jqe@toilet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a28850@jqe@toilet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a367@ara@hotel-toilet-seat {max-width:75px; max-height:75px; }
+.@a367@ara@hotel-toilet-seat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a367@ara@hotel-toilet-seat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39031@mul@toilet {max-width:75px; max-height:75px; }
+.@a39031@mul@toilet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a39031@mul@toilet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48719@solver@1-bathroom {max-width:75px; max-height:75px; }
+.@a48719@solver@1-bathroom::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a48719@solver@1-bathroom::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49685@str@628-toilet {max-width:75px; max-height:75px; }
+.@a49685@str@628-toilet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a49685@str@628-toilet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61124@ian@park-outhouse {max-width:75px; max-height:75px; }
+.@a61124@ian@park-outhouse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a61124@ian@park-outhouse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61925@ian@urban-public-toilet {max-width:75px; max-height:75px; }
+.@a61925@ian@urban-public-toilet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/b/bathroom/0.png/0.png);padding: 0; }
+div.@a61925@ian@urban-public-toilet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8333d83e372c4048eb910154e1694ea1:64fedf221a5e5656b2caa1a84de958fc:4ddb42793a59c1b7bfff1539dfc4d068$ */

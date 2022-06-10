@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16061@emo@cu {max-width:75px; max-height:75px; }
+.@a16061@emo@cu::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cuba/0.png/0.png);padding: 0; }
+div.@a16061@emo@cu::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37031@mul@cuba {max-width:75px; max-height:75px; }
+.@a37031@mul@cuba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cuba/0.png/0.png);padding: 0; }
+div.@a37031@mul@cuba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37503@mul@cuba {max-width:75px; max-height:75px; }
+.@a37503@mul@cuba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cuba/0.png/0.png);padding: 0; }
+div.@a37503@mul@cuba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1962@wikim-all@coat_of_arms_of_cuba {max-width:75px; max-height:75px; }
+.@d1962@wikim-all@coat_of_arms_of_cuba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cuba/0.png/0.png);padding: 0; }
+div.@d1962@wikim-all@coat_of_arms_of_cuba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2262@wikim-all@eurocuba {max-width:75px; max-height:75px; }
+.@d2262@wikim-all@eurocuba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cuba/0.png/0.png);padding: 0; }
+div.@d2262@wikim-all@eurocuba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2449@wikim-all@flag_of_cuba {max-width:75px; max-height:75px; }
+.@d2449@wikim-all@flag_of_cuba::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cuba/0.png/0.png);padding: 0; }
+div.@d2449@wikim-all@flag_of_cuba::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2f6902360eacc4dd59f86315f4c74551:91ee73cfbce6c745e9c6c1cfe66be8c5:4ddb42793a59c1b7bfff1539dfc4d068$ */

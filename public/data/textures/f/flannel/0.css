@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37658@mul@flannel {max-width:75px; max-height:75px; }
+.@a37658@mul@flannel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/flannel/0.png/0.png);padding: 0; }
+div.@a37658@mul@flannel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2a070fb7b5fa04c744a1269483a708ce:066f37a0b34314137edb5d17a7bd35e4:4ddb42793a59c1b7bfff1539dfc4d068$ */

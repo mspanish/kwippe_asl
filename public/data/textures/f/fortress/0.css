@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25539@gli@fortress {max-width:75px; max-height:75px; }
+.@a25539@gli@fortress::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fortress/0.png/0.png);padding: 0; }
+div.@a25539@gli@fortress::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45656@ope@nicubunu_rpg_map_symbols_fortress {max-width:75px; max-height:75px; }
+.@a45656@ope@nicubunu_rpg_map_symbols_fortress::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fortress/0.png/0.png);padding: 0; }
+div.@a45656@ope@nicubunu_rpg_map_symbols_fortress::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46399@osm@tourism-fort-14 {max-width:75px; max-height:75px; }
+.@a46399@osm@tourism-fort-14::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fortress/0.png/0.png);padding: 0; }
+div.@a46399@osm@tourism-fort-14::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12768@gameicons-delapouite@hill-fort {max-width:75px; max-height:75px; }
+.@b12768@gameicons-delapouite@hill-fort::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fortress/0.png/0.png);padding: 0; }
+div.@b12768@gameicons-delapouite@hill-fort::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12960@gameicons-delapouite@military-fort {max-width:75px; max-height:75px; }
+.@b12960@gameicons-delapouite@military-fort::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fortress/0.png/0.png);padding: 0; }
+div.@b12960@gameicons-delapouite@military-fort::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8774@web@fort {max-width:75px; max-height:75px; }
+.@b8774@web@fort::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fortress/0.png/0.png);padding: 0; }
+div.@b8774@web@fort::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a6f69d0b9acbbf0770f5371891d88016:4068a9e4b443793d3619570091c7a004:4ddb42793a59c1b7bfff1539dfc4d068$ */

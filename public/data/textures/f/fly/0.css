@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37141@mul@crane-fly {max-width:75px; max-height:75px; }
+.@a37141@mul@crane-fly::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fly/0.png/0.png);padding: 0; }
+div.@a37141@mul@crane-fly::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37672@mul@fly {max-width:75px; max-height:75px; }
+.@a37672@mul@fly::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fly/0.png/0.png);padding: 0; }
+div.@a37672@mul@fly::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60310@ian@fly_fishing_lure {max-width:75px; max-height:75px; }
+.@a60310@ian@fly_fishing_lure::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fly/0.png/0.png);padding: 0; }
+div.@a60310@ian@fly_fishing_lure::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60311@ian@fly {max-width:75px; max-height:75px; }
+.@a60311@ian@fly::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fly/0.png/0.png);padding: 0; }
+div.@a60311@ian@fly::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60822@ian@mayfly-adult {max-width:75px; max-height:75px; }
+.@a60822@ian@mayfly-adult::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fly/0.png/0.png);padding: 0; }
+div.@a60822@ian@mayfly-adult::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60823@ian@mayfly-larva {max-width:75px; max-height:75px; }
+.@a60823@ian@mayfly-larva::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fly/0.png/0.png);padding: 0; }
+div.@a60823@ian@mayfly-larva::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12644@gameicons-delapouite@fly {max-width:75px; max-height:75px; }
+.@b12644@gameicons-delapouite@fly::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/f/fly/0.png/0.png);padding: 0; }
+div.@b12644@gameicons-delapouite@fly::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a75a880facad758b2efe300b4839fe51:67d76236d41d37f44381456e0747f58a:4ddb42793a59c1b7bfff1539dfc4d068$ */

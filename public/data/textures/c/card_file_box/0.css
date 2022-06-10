@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14723@em2@card-file-box {max-width:75px; max-height:75px; }
+.@a14723@em2@card-file-box::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/card_file_box/0.png/0.png);padding: 0; }
+div.@a14723@em2@card-file-box::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15778@emo@card-box {max-width:75px; max-height:75px; }
+.@a15778@emo@card-box::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/card_file_box/0.png/0.png);padding: 0; }
+div.@a15778@emo@card-box::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17817@fir@u1f5c3-cardfilebox {max-width:75px; max-height:75px; }
+.@a17817@fir@u1f5c3-cardfilebox::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/card_file_box/0.png/0.png);padding: 0; }
+div.@a17817@fir@u1f5c3-cardfilebox::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28242@jqe@card-file-box {max-width:75px; max-height:75px; }
+.@a28242@jqe@card-file-box::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/card_file_box/0.png/0.png);padding: 0; }
+div.@a28242@jqe@card-file-box::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39406@noc@card-file-box {max-width:75px; max-height:75px; }
+.@a39406@noc@card-file-box::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/card_file_box/0.png/0.png);padding: 0; }
+div.@a39406@noc@card-file-box::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40907@nog@card-file-box-objects {max-width:75px; max-height:75px; }
+.@a40907@nog@card-file-box-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/card_file_box/0.png/0.png);padding: 0; }
+div.@a40907@nog@card-file-box-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50277@tw2@card-file-box {max-width:75px; max-height:75px; }
+.@a50277@tw2@card-file-box::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/c/card_file_box/0.png/0.png);padding: 0; }
+div.@a50277@tw2@card-file-box::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e726cb581d3edf07947f760b237a56f9:4cb79560c8a91e056dc35f48f51d2036:4ddb42793a59c1b7bfff1539dfc4d068$ */

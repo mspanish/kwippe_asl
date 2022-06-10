@@ -1,0 +1,143 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14939@em2@first-place-medal {max-width:75px; max-height:75px; }
+.@a14939@em2@first-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a14939@em2@first-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15151@em2@military-medal {max-width:75px; max-height:75px; }
+.@a15151@em2@military-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a15151@em2@military-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15370@em2@second-place-medal {max-width:75px; max-height:75px; }
+.@a15370@em2@second-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a15370@em2@second-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15452@em2@sports-medal {max-width:75px; max-height:75px; }
+.@a15452@em2@sports-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a15452@em2@sports-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15499@em2@third-place-medal {max-width:75px; max-height:75px; }
+.@a15499@em2@third-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a15499@em2@third-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16470@emo@medal {max-width:75px; max-height:75px; }
+.@a16470@emo@medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.3683241252302026%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a16470@emo@medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16481@emo@military-medal {max-width:75px; max-height:75px; }
+.@a16481@emo@military-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a16481@emo@military-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17353@fir@u1f3c5-sportsmedal {max-width:75px; max-height:75px; }
+.@a17353@fir@u1f3c5-sportsmedal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a17353@fir@u1f3c5-sportsmedal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27641@icf@medal-award {max-width:75px; max-height:75px; }
+.@a27641@icf@medal-award::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a27641@icf@medal-award::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28025@ico@medal {max-width:75px; max-height:75px; }
+.@a28025@ico@medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a28025@ico@medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28042@ico@olympic_medal {max-width:75px; max-height:75px; }
+.@a28042@ico@olympic_medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a28042@ico@olympic_medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28574@jqe@military-medal {max-width:75px; max-height:75px; }
+.@a28574@jqe@military-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 14.548802946593002%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a28574@jqe@military-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28810@jqe@sports-medal {max-width:75px; max-height:75px; }
+.@a28810@jqe@sports-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a28810@jqe@sports-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36206@met@medal {max-width:75px; max-height:75px; }
+.@a36206@met@medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a36206@met@medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38151@mul@medal {max-width:75px; max-height:75px; }
+.@a38151@mul@medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a38151@mul@medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39640@noc@first-place-medal {max-width:75px; max-height:75px; }
+.@a39640@noc@first-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a39640@noc@first-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39871@noc@military-medal {max-width:75px; max-height:75px; }
+.@a39871@noc@military-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a39871@noc@military-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40088@noc@second-place-medal {max-width:75px; max-height:75px; }
+.@a40088@noc@second-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 28.7292817679558%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a40088@noc@second-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40171@noc@sports-medal {max-width:75px; max-height:75px; }
+.@a40171@noc@sports-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a40171@noc@sports-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40215@noc@third-place-medal {max-width:75px; max-height:75px; }
+.@a40215@noc@third-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a40215@noc@third-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41749@nog@first-place-medal-activities {max-width:75px; max-height:75px; }
+.@a41749@nog@first-place-medal-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a41749@nog@first-place-medal-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42622@nog@medal-activities {max-width:75px; max-height:75px; }
+.@a42622@nog@medal-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a42622@nog@medal-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43356@nog@second-place-medal-activities {max-width:75px; max-height:75px; }
+.@a43356@nog@second-place-medal-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a43356@nog@second-place-medal-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43587@nog@sports-medal-activities {max-width:75px; max-height:75px; }
+.@a43587@nog@sports-medal-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 42.9097605893186%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a43587@nog@sports-medal-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43718@nog@third-place-medal-activities {max-width:75px; max-height:75px; }
+.@a43718@nog@third-place-medal-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a43718@nog@third-place-medal-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a452@ara@rewards-medal-1 {max-width:75px; max-height:75px; }
+.@a452@ara@rewards-medal-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a452@ara@rewards-medal-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50051@the@medall-alt {max-width:75px; max-height:75px; }
+.@a50051@the@medall-alt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a50051@the@medall-alt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50052@the@medall {max-width:75px; max-height:75px; }
+.@a50052@the@medall::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a50052@the@medall::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50442@tw2@first-place-medal {max-width:75px; max-height:75px; }
+.@a50442@tw2@first-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a50442@tw2@first-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50654@tw2@military-medal {max-width:75px; max-height:75px; }
+.@a50654@tw2@military-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 57.0902394106814%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a50654@tw2@military-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50848@tw2@second-place-medal {max-width:75px; max-height:75px; }
+.@a50848@tw2@second-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a50848@tw2@second-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50910@tw2@sports-medal {max-width:75px; max-height:75px; }
+.@a50910@tw2@sports-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a50910@tw2@sports-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50952@tw2@third-place-medal {max-width:75px; max-height:75px; }
+.@a50952@tw2@third-place-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a50952@tw2@third-place-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53362@vaa@medal {max-width:75px; max-height:75px; }
+.@a53362@vaa@medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a53362@vaa@medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55285@web@medal-bronze {max-width:75px; max-height:75px; }
+.@a55285@web@medal-bronze::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a55285@web@medal-bronze::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55286@web@medal-gold {max-width:75px; max-height:75px; }
+.@a55286@web@medal-gold::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 71.2707182320442%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a55286@web@medal-gold::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55287@web@medal-silver {max-width:75px; max-height:75px; }
+.@a55287@web@medal-silver::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a55287@web@medal-silver::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55288@web@medal {max-width:75px; max-height:75px; }
+.@a55288@web@medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a55288@web@medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56154@web@war-medal {max-width:75px; max-height:75px; }
+.@a56154@web@war-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@a56154@web@war-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12939@gameicons-delapouite@medallist {max-width:75px; max-height:75px; }
+.@b12939@gameicons-delapouite@medallist::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@b12939@gameicons-delapouite@medallist::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13203@gameicons-delapouite@ribbon-medal {max-width:75px; max-height:75px; }
+.@b13203@gameicons-delapouite@ribbon-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@b13203@gameicons-delapouite@ribbon-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13384@gameicons-delapouite@sport-medal {max-width:75px; max-height:75px; }
+.@b13384@gameicons-delapouite@sport-medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 85.451197053407%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@b13384@gameicons-delapouite@sport-medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14490@gameicons-lorc@medal-skull {max-width:75px; max-height:75px; }
+.@b14490@gameicons-lorc@medal-skull::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.6316758747698%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@b14490@gameicons-lorc@medal-skull::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14491@gameicons-lorc@medal {max-width:75px; max-height:75px; }
+.@b14491@gameicons-lorc@medal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.6316758747698%;background-size: 618.6666666666666% 824%;background-image: url(./textures/m/medal/0.png/0.png);padding: 0; }
+div.@b14491@gameicons-lorc@medal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:214236625487937c4366116f36df00e7:ae17b039a9947a9af3cb186bb31ec55e:4ddb42793a59c1b7bfff1539dfc4d068$ */

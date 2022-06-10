@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59741@ian@coastline-2d-clastic-carbonate-sediment {max-width:75px; max-height:75px; }
+.@a59741@ian@coastline-2d-clastic-carbonate-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/carbonate/0.png/0.png);padding: 0; }
+div.@a59741@ian@coastline-2d-clastic-carbonate-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59895@ian@coralline-algae {max-width:75px; max-height:75px; }
+.@a59895@ian@coralline-algae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/carbonate/0.png/0.png);padding: 0; }
+div.@a59895@ian@coralline-algae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61293@ian@process-calcification {max-width:75px; max-height:75px; }
+.@a61293@ian@process-calcification::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/carbonate/0.png/0.png);padding: 0; }
+div.@a61293@ian@process-calcification::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61294@ian@process-calcium-dissolution {max-width:75px; max-height:75px; }
+.@a61294@ian@process-calcium-dissolution::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/carbonate/0.png/0.png);padding: 0; }
+div.@a61294@ian@process-calcium-dissolution::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:70b11a0623242a5fc918c7a87b705836:d36e9bb67e91c2635a5c21e4fa9a17ed:4ddb42793a59c1b7bfff1539dfc4d068$ */

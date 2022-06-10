@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59970@ian@deep-sea-mining-bulk-cutter {max-width:75px; max-height:75px; }
+.@a59970@ian@deep-sea-mining-bulk-cutter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rocks/0.png/0.png);padding: 0; }
+div.@a59970@ian@deep-sea-mining-bulk-cutter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool {max-width:75px; max-height:75px; }
+.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rocks/0.png/0.png);padding: 0; }
+div.@a59971@ian@deep-sea-mining-seafloor-mining-tool::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59972@ian@deep-sea-mining-support-vessel {max-width:75px; max-height:75px; }
+.@a59972@ian@deep-sea-mining-support-vessel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rocks/0.png/0.png);padding: 0; }
+div.@a59972@ian@deep-sea-mining-support-vessel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61497@ian@rocks-1 {max-width:75px; max-height:75px; }
+.@a61497@ian@rocks-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rocks/0.png/0.png);padding: 0; }
+div.@a61497@ian@rocks-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61498@ian@rocks-2 {max-width:75px; max-height:75px; }
+.@a61498@ian@rocks-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rocks/0.png/0.png);padding: 0; }
+div.@a61498@ian@rocks-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61499@ian@rocks-3 {max-width:75px; max-height:75px; }
+.@a61499@ian@rocks-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rocks/0.png/0.png);padding: 0; }
+div.@a61499@ian@rocks-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12588@gameicons-delapouite@falling-rocks {max-width:75px; max-height:75px; }
+.@b12588@gameicons-delapouite@falling-rocks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/r/rocks/0.png/0.png);padding: 0; }
+div.@b12588@gameicons-delapouite@falling-rocks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e2526dc2daae077819b399184a1d8a1a:91a4f1ad59b247f574b31e079254f474:4ddb42793a59c1b7bfff1539dfc4d068$ */

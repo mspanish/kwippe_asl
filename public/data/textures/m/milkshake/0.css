@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a6811@df-fastfoodicons@atilde {max-width:75px; max-height:75px; }
+.@a6811@df-fastfoodicons@atilde::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/milkshake/0.png/0.png);padding: 0; }
+div.@a6811@df-fastfoodicons@atilde::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6838@df-fastfoodicons@eight {max-width:75px; max-height:75px; }
+.@a6838@df-fastfoodicons@eight::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/milkshake/0.png/0.png);padding: 0; }
+div.@a6838@df-fastfoodicons@eight::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6840@df-fastfoodicons@eth {max-width:75px; max-height:75px; }
+.@a6840@df-fastfoodicons@eth::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/milkshake/0.png/0.png);padding: 0; }
+div.@a6840@df-fastfoodicons@eth::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a6846@df-fastfoodicons@four {max-width:75px; max-height:75px; }
+.@a6846@df-fastfoodicons@four::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/milkshake/0.png/0.png);padding: 0; }
+div.@a6846@df-fastfoodicons@four::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f5478829aafaef5fa7086a335ed9dcb3:ab18478935d831826630b3ca827e3154:4ddb42793a59c1b7bfff1539dfc4d068$ */

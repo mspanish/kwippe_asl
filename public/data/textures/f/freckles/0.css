@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37739@mul@freckles {max-width:75px; max-height:75px; }
+.@a37739@mul@freckles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/freckles/0.png/0.png);padding: 0; }
+div.@a37739@mul@freckles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2571ad23e895b9db859740f4a5f4a099:7412d088bc49844cb75e03cc99ac9cda:4ddb42793a59c1b7bfff1539dfc4d068$ */

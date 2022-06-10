@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13846@gameicons-lorc@brandy-bottle {max-width:75px; max-height:75px; }
+.@b13846@gameicons-lorc@brandy-bottle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/brandy_bottle/0.png/0.png);padding: 0; }
+div.@b13846@gameicons-lorc@brandy-bottle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bd161ffe71ddc56c527cb57f515fb581:3e760166cce6fa720187b98f34a5ab25:4ddb42793a59c1b7bfff1539dfc4d068$ */

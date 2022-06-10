@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1592@bon@choices-6005 {max-width:75px; max-height:75px; }
+.@a1592@bon@choices-6005::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/choices/0.png/0.png);padding: 0; }
+div.@a1592@bon@choices-6005::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1593@bon@choices-8014 {max-width:75px; max-height:75px; }
+.@a1593@bon@choices-8014::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/choices/0.png/0.png);padding: 0; }
+div.@a1593@bon@choices-8014::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5347bf4258d5be04a62a1f3da8a3f051:70adaed7c530d97d3b2c9316788909b4:4ddb42793a59c1b7bfff1539dfc4d068$ */

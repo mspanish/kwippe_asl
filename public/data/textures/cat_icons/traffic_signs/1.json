@@ -1,0 +1,154 @@
+
+{
+
+"restrictions-regulatory~minimum_speed_limit-minimum_speed": { 
+	"vb": "35 35 -0 -0",
+ },
+"restrictions-regulatory~no_entry": { 
+	"vb": "35 35 -0 -35",
+ },
+"restrictions-regulatory~no_heavy_vehicles-overweight": { 
+	"vb": "27 35 -210 -172",
+ },
+"restrictions-regulatory~no_left_turn": { 
+	"vb": "35 35 -0 -70",
+ },
+"restrictions-regulatory~no_motorcycles": { 
+	"vb": "35 35 -0 -105",
+ },
+"restrictions-regulatory~no_overtaking": { 
+	"vb": "35 32 -204 -140",
+ },
+"restrictions-regulatory~no_parking": { 
+	"vb": "21 35 -210 -35",
+ },
+"restrictions-regulatory~no_pedestrians": { 
+	"vb": "35 35 -0 -140",
+ },
+"restrictions-regulatory~no_right_turn": { 
+	"vb": "35 35 -0 -175",
+ },
+"restrictions-regulatory~no_stopping-no_stop": { 
+	"vb": "21 35 -210 -70",
+ },
+"restrictions-regulatory~no_u_turn": { 
+	"vb": "35 35 -0 -210",
+ },
+"restrictions-regulatory~road_closed": { 
+	"vb": "35 25 -175 -208",
+ },
+"restrictions-regulatory~speed_restriction_ends": { 
+	"vb": "27 35 -210 -207",
+ },
+"restrictions-regulatory~stop-stop_sign": { 
+	"vb": "35 35 -35 -0",
+ },
+"restrictions-regulatory~stop-stop_sign~alternate": { 
+	"vb": "35 35 -35 -35",
+ },
+"restrictions-regulatory~yield": { 
+	"vb": "35 33 -175 -175",
+ },
+"restrictions-regulatory~yield_to_traffic": { 
+	"vb": "29 35 -175 -140",
+ },
+"stop_light-stoplight-traffic_signals": { 
+	"vb": "35 35 -35 -70",
+ },
+"traffic_signs": { 
+	"vb": "35 35 -35 -105",
+ },
+"vehicles": { 
+	"vb": "35 35 -35 -140",
+ },
+"vehicles~emergency_vehicles": { 
+	"vb": "35 35 -35 -140",
+ },
+"vehicles~farm_vehicles-tractor": { 
+	"vb": "35 35 -35 -175",
+ },
+"vehicles~length_restriction": { 
+	"vb": "35 35 -35 -210",
+ },
+"vehicles~no_motor_vehicles": { 
+	"vb": "35 35 -70 -0",
+ },
+"vehicles~weight_restriction": { 
+	"vb": "35 35 -70 -35",
+ },
+"vehicles~width_restriction": { 
+	"vb": "35 35 -70 -70",
+ },
+"warnings-warning": { 
+	"vb": "35 35 -70 -105",
+ },
+"warnings-warning~added_lane": { 
+	"vb": "35 35 -70 -105",
+ },
+"warnings-warning~bump_in_road": { 
+	"vb": "35 35 -70 -140",
+ },
+"warnings-warning~crossroads": { 
+	"vb": "35 35 -70 -175",
+ },
+"warnings-warning~curves": { 
+	"vb": "35 35 -70 -210",
+ },
+"warnings-warning~dangerous_crosswinds": { 
+	"vb": "35 35 -105 -0",
+ },
+"warnings-warning~dip_in_road-dip": { 
+	"vb": "35 35 -105 -35",
+ },
+"warnings-warning~divided_highway": { 
+	"vb": "35 35 -105 -70",
+ },
+"warnings-warning~divided_highway_ends": { 
+	"vb": "35 35 -105 -105",
+ },
+"warnings-warning~falling_rocks-debris": { 
+	"vb": "35 35 -105 -140",
+ },
+"warnings-warning~flagman": { 
+	"vb": "35 35 -105 -175",
+ },
+"warnings-warning~gentle_curve": { 
+	"vb": "35 35 -105 -210",
+ },
+"warnings-warning~hairpin_curve": { 
+	"vb": "35 35 -140 -0",
+ },
+"warnings-warning~height_restriction": { 
+	"vb": "35 35 -140 -35",
+ },
+"warnings-warning~junction-side_road": { 
+	"vb": "35 35 -140 -70",
+ },
+"warnings-warning~lane_ends": { 
+	"vb": "35 35 -140 -105",
+ },
+"warnings-warning~loose_road_surface": { 
+	"vb": "35 35 -140 -140",
+ },
+"warnings-warning~low_flying_aircraft": { 
+	"vb": "35 35 -140 -175",
+ },
+"warnings-warning~narrow_bridge": { 
+	"vb": "35 35 -140 -210",
+ },
+"warnings-warning~pavement_ends": { 
+	"vb": "27 35 -210 -0",
+ },
+"warnings-warning~road_narrows": { 
+	"vb": "35 35 -175 -0",
+ },
+"warnings-warning~roadworks": { 
+	"vb": "35 35 -175 -35",
+ },
+"warnings-warning~roundabout-roundabout": { 
+	"vb": "35 35 -175 -70",
+ },
+"warnings-warning~sharper_curve": { 
+	"vb": "35 35 -175 -105",
+ },
+}

@@ -1,0 +1,37 @@
+{
+    "sign": "holy",
+    "signer": "asl2english",
+    "uid": 790,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 76,
+            "nd": 18
+        },
+        "end": {
+            "d": 76,
+            "nd": 18
+        }
+    },
+    "regions": [
+        "chin",
+        "chest-front"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

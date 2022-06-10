@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60863@ian@micropterus-salmoides {max-width:75px; max-height:75px; }
+.@a60863@ian@micropterus-salmoides::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/micropterus/0.png/0.png);padding: 0; }
+div.@a60863@ian@micropterus-salmoides::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4b809a2de7090afca2d136b91091545b:11cc986e01e2d7ade5a2c89ca89656cd:4ddb42793a59c1b7bfff1539dfc4d068$ */

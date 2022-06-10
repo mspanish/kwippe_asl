@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15271@em2@personal-computer {max-width:75px; max-height:75px; }
+.@a15271@em2@personal-computer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a15271@em2@personal-computer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17801@fir@oldpersonalcomputer {max-width:75px; max-height:75px; }
+.@a17801@fir@oldpersonalcomputer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a17801@fir@oldpersonalcomputer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29341@knl@1-computer-2 {max-width:75px; max-height:75px; }
+.@a29341@knl@1-computer-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a29341@knl@1-computer-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29590@knl@computer-3 {max-width:75px; max-height:75px; }
+.@a29590@knl@computer-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a29590@knl@computer-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38034@mul@laptop {max-width:75px; max-height:75px; }
+.@a38034@mul@laptop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a38034@mul@laptop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43036@nog@personal-computer-objects {max-width:75px; max-height:75px; }
+.@a43036@nog@personal-computer-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a43036@nog@personal-computer-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48590@small@device-laptop {max-width:75px; max-height:75px; }
+.@a48590@small@device-laptop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a48590@small@device-laptop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50755@tw2@personal-computer {max-width:75px; max-height:75px; }
+.@a50755@tw2@personal-computer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a50755@tw2@personal-computer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56754@win@laptop {max-width:75px; max-height:75px; }
+.@a56754@win@laptop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/notebook/0.png/0.png);padding: 0; }
+div.@a56754@win@laptop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:065c10a891fffb203df29d7623517467:24fff9a4c5649d5f804c7619e8e46032:4ddb42793a59c1b7bfff1539dfc4d068$ */

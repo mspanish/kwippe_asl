@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2144@bon@optician-5512 {max-width:75px; max-height:75px; }
+.@a2144@bon@optician-5512::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/optician/0.png/0.png);padding: 0; }
+div.@a2144@bon@optician-5512::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2145@bon@optician-7048 {max-width:75px; max-height:75px; }
+.@a2145@bon@optician-7048::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/o/optician/0.png/0.png);padding: 0; }
+div.@a2145@bon@optician-7048::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2968d0bf39365d7ec616c0c2dfc482aa:3d5fd41140c0a57c312202a02ac7929b:4ddb42793a59c1b7bfff1539dfc4d068$ */

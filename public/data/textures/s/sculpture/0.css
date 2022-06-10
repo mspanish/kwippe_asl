@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2079@bon@metal-sculpture-1776 {max-width:75px; max-height:75px; }
+.@a2079@bon@metal-sculpture-1776::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sculpture/0.png/0.png);padding: 0; }
+div.@a2079@bon@metal-sculpture-1776::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2304@bon@sculpture-1795 {max-width:75px; max-height:75px; }
+.@a2304@bon@sculpture-1795::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sculpture/0.png/0.png);padding: 0; }
+div.@a2304@bon@sculpture-1795::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2305@bon@sculpture-materials-1795 {max-width:75px; max-height:75px; }
+.@a2305@bon@sculpture-materials-1795::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sculpture/0.png/0.png);padding: 0; }
+div.@a2305@bon@sculpture-materials-1795::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2622@bon@use-sculpture-or-clay-materials-1802 {max-width:75px; max-height:75px; }
+.@a2622@bon@use-sculpture-or-clay-materials-1802::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sculpture/0.png/0.png);padding: 0; }
+div.@a2622@bon@use-sculpture-or-clay-materials-1802::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59695@ian@chisel {max-width:75px; max-height:75px; }
+.@a59695@ian@chisel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sculpture/0.png/0.png);padding: 0; }
+div.@a59695@ian@chisel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:44e4d0dc8b2b788f377df3a0be78b782:6726e7fc85d54ea744eef1c9f82437f5:4ddb42793a59c1b7bfff1539dfc4d068$ */

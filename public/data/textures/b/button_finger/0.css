@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12311@gameicons-delapouite@button-finger {max-width:75px; max-height:75px; }
+.@b12311@gameicons-delapouite@button-finger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/button_finger/0.png/0.png);padding: 0; }
+div.@b12311@gameicons-delapouite@button-finger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:16ded2b85f981f5b254690970e14590e:0939e3216f7fae59ce3375aca9a115e0:4ddb42793a59c1b7bfff1539dfc4d068$ */

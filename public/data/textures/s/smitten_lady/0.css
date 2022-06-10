@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48917@solver@9-smitten-lady {max-width:75px; max-height:75px; }
+.@a48917@solver@9-smitten-lady::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/smitten_lady/0.png/0.png);padding: 0; }
+div.@a48917@solver@9-smitten-lady::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:95e181098160d1f403e93f4ba6209154:cc9ac708a6649a918d452a53f9004c8c:4ddb42793a59c1b7bfff1539dfc4d068$ */

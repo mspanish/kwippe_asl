@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37764@mul@garage {max-width:75px; max-height:75px; }
+.@a37764@mul@garage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/garage/0.png/0.png);padding: 0; }
+div.@a37764@mul@garage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61923@ian@urban-parking-garage {max-width:75px; max-height:75px; }
+.@a61923@ian@urban-parking-garage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/garage/0.png/0.png);padding: 0; }
+div.@a61923@ian@urban-parking-garage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12777@gameicons-delapouite@home-garage {max-width:75px; max-height:75px; }
+.@b12777@gameicons-delapouite@home-garage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/garage/0.png/0.png);padding: 0; }
+div.@b12777@gameicons-delapouite@home-garage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12938@gameicons-delapouite@mechanic-garage {max-width:75px; max-height:75px; }
+.@b12938@gameicons-delapouite@mechanic-garage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/g/garage/0.png/0.png);padding: 0; }
+div.@b12938@gameicons-delapouite@mechanic-garage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bd8df291ec81a1dc8acbb4fdf5c5a3bb:a06b25892d2c1bc6af8ee7004b9e36ff:4ddb42793a59c1b7bfff1539dfc4d068$ */

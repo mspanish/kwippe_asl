@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14188@gameicons-lorc@flame-spin {max-width:75px; max-height:75px; }
+.@b14188@gameicons-lorc@flame-spin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/spin/0.png/0.png);padding: 0; }
+div.@b14188@gameicons-lorc@flame-spin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14929@gameicons-lorc@sword-spin {max-width:75px; max-height:75px; }
+.@b14929@gameicons-lorc@sword-spin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/spin/0.png/0.png);padding: 0; }
+div.@b14929@gameicons-lorc@sword-spin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6b7d7472402e4700fc9bbf910a3ae381:f3b6e07e1a8fdf2e6cda1067f6b63831:4ddb42793a59c1b7bfff1539dfc4d068$ */

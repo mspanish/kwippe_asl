@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16051@emo@cg {max-width:75px; max-height:75px; }
+.@a16051@emo@cg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/republic_of_the_congo/0.png/0.png);padding: 0; }
+div.@a16051@emo@cg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37027@mul@congo_brazzaville {max-width:75px; max-height:75px; }
+.@a37027@mul@congo_brazzaville::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/republic_of_the_congo/0.png/0.png);padding: 0; }
+div.@a37027@mul@congo_brazzaville::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37028@mul@congo_kinshasa {max-width:75px; max-height:75px; }
+.@a37028@mul@congo_kinshasa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/republic_of_the_congo/0.png/0.png);padding: 0; }
+div.@a37028@mul@congo_kinshasa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37498@mul@congo_brazzaville {max-width:75px; max-height:75px; }
+.@a37498@mul@congo_brazzaville::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/republic_of_the_congo/0.png/0.png);padding: 0; }
+div.@a37498@mul@congo_brazzaville::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37499@mul@congo_kinshasa {max-width:75px; max-height:75px; }
+.@a37499@mul@congo_kinshasa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/r/republic_of_the_congo/0.png/0.png);padding: 0; }
+div.@a37499@mul@congo_kinshasa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b204f59ab736e0ba5c9746a76bfcc953:330dc632c70791b94012f857756bb6f9:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12637@gameicons-delapouite@floating-tentacles {max-width:75px; max-height:75px; }
+.@b12637@gameicons-delapouite@floating-tentacles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/tentacles/0.png/0.png);padding: 0; }
+div.@b12637@gameicons-delapouite@floating-tentacles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14368@gameicons-lorc@interlaced-tentacles {max-width:75px; max-height:75px; }
+.@b14368@gameicons-lorc@interlaced-tentacles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/t/tentacles/0.png/0.png);padding: 0; }
+div.@b14368@gameicons-lorc@interlaced-tentacles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d8311a1735a5b5af534aed5b8437e399:a217e1f22cc87cd18e5dc02cfaf1aaba:4ddb42793a59c1b7bfff1539dfc4d068$ */

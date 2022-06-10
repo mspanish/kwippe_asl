@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36564@mul@bees-nest {max-width:75px; max-height:75px; }
+.@a36564@mul@bees-nest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/nest/0.png/0.png);padding: 0; }
+div.@a36564@mul@bees-nest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38250@mul@nest-of-tables {max-width:75px; max-height:75px; }
+.@a38250@mul@nest-of-tables::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/nest/0.png/0.png);padding: 0; }
+div.@a38250@mul@nest-of-tables::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38251@mul@nest {max-width:75px; max-height:75px; }
+.@a38251@mul@nest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/nest/0.png/0.png);padding: 0; }
+div.@a38251@mul@nest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59497@ian@bird-nest {max-width:75px; max-height:75px; }
+.@a59497@ian@bird-nest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/nest/0.png/0.png);padding: 0; }
+div.@a59497@ian@bird-nest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60890@ian@molothrus-sp-nest {max-width:75px; max-height:75px; }
+.@a60890@ian@molothrus-sp-nest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/nest/0.png/0.png);padding: 0; }
+div.@a60890@ian@molothrus-sp-nest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60897@ian@monitoring-biologist-bird-watcher {max-width:75px; max-height:75px; }
+.@a60897@ian@monitoring-biologist-bird-watcher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/nest/0.png/0.png);padding: 0; }
+div.@a60897@ian@monitoring-biologist-bird-watcher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61875@ian@turtle-nest-anti-predator-cage {max-width:75px; max-height:75px; }
+.@a61875@ian@turtle-nest-anti-predator-cage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/nest/0.png/0.png);padding: 0; }
+div.@a61875@ian@turtle-nest-anti-predator-cage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12456@gameicons-delapouite@crow-nest {max-width:75px; max-height:75px; }
+.@b12456@gameicons-delapouite@crow-nest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/n/nest/0.png/0.png);padding: 0; }
+div.@b12456@gameicons-delapouite@crow-nest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b95002347883580ce96c1bb54433852c:a0fa94e5ca47ce3030675d058ccfe0cb:4ddb42793a59c1b7bfff1539dfc4d068$ */

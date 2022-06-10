@@ -1,0 +1,37 @@
+{
+    "sign": "checking-account",
+    "signer": "asl2english",
+    "uid": 277,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 38,
+            "nd": 38
+        },
+        "end": {
+            "d": 71,
+            "nd": 71
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

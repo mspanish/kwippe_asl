@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60913@ian@mooring-buoy {max-width:75px; max-height:75px; }
+.@a60913@ian@mooring-buoy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/y/yacht/0.png/0.png);padding: 0; }
+div.@a60913@ian@mooring-buoy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:245132d42069e01c2ea15f98bf2be082:9fd252dcf69d66be954989e06724254a:4ddb42793a59c1b7bfff1539dfc4d068$ */

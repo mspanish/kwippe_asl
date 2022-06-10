@@ -1,0 +1,125 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14634@em2@banknote-with-dollar-sign {max-width:75px; max-height:75px; }
+.@a14634@em2@banknote-with-dollar-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a14634@em2@banknote-with-dollar-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14635@em2@banknote-with-euro-sign {max-width:75px; max-height:75px; }
+.@a14635@em2@banknote-with-euro-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a14635@em2@banknote-with-euro-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14636@em2@banknote-with-pound-sign {max-width:75px; max-height:75px; }
+.@a14636@em2@banknote-with-pound-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a14636@em2@banknote-with-pound-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14637@em2@banknote-with-yen-sign {max-width:75px; max-height:75px; }
+.@a14637@em2@banknote-with-yen-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a14637@em2@banknote-with-yen-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17575@fir@u1f4b4-banknoteyen {max-width:75px; max-height:75px; }
+.@a17575@fir@u1f4b4-banknoteyen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a17575@fir@u1f4b4-banknoteyen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17576@fir@u1f4b5-banknotedollar {max-width:75px; max-height:75px; }
+.@a17576@fir@u1f4b5-banknotedollar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a17576@fir@u1f4b5-banknotedollar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17577@fir@u1f4b6-banknoteeuro {max-width:75px; max-height:75px; }
+.@a17577@fir@u1f4b6-banknoteeuro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a17577@fir@u1f4b6-banknoteeuro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17578@fir@u1f4b7-banknotepound {max-width:75px; max-height:75px; }
+.@a17578@fir@u1f4b7-banknotepound::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a17578@fir@u1f4b7-banknotepound::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27899@ico@banknotes {max-width:75px; max-height:75px; }
+.@a27899@ico@banknotes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a27899@ico@banknotes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28175@jqe@banknote-with-dollar-sign {max-width:75px; max-height:75px; }
+.@a28175@jqe@banknote-with-dollar-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a28175@jqe@banknote-with-dollar-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28176@jqe@banknote-with-euro-sign {max-width:75px; max-height:75px; }
+.@a28176@jqe@banknote-with-euro-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a28176@jqe@banknote-with-euro-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28177@jqe@banknote-with-pound-sign {max-width:75px; max-height:75px; }
+.@a28177@jqe@banknote-with-pound-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a28177@jqe@banknote-with-pound-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28178@jqe@banknote-with-yen-sign {max-width:75px; max-height:75px; }
+.@a28178@jqe@banknote-with-yen-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a28178@jqe@banknote-with-yen-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30483@lin@banknote {max-width:75px; max-height:75px; }
+.@a30483@lin@banknote::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a30483@lin@banknote::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30484@lin@banknotes {max-width:75px; max-height:75px; }
+.@a30484@lin@banknotes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a30484@lin@banknotes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39316@noc@banknote-w-dollar-sign {max-width:75px; max-height:75px; }
+.@a39316@noc@banknote-w-dollar-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a39316@noc@banknote-w-dollar-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39317@noc@banknote-w-euro-sign {max-width:75px; max-height:75px; }
+.@a39317@noc@banknote-w-euro-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a39317@noc@banknote-w-euro-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39318@noc@banknote-w-pound-sign {max-width:75px; max-height:75px; }
+.@a39318@noc@banknote-w-pound-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a39318@noc@banknote-w-pound-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39319@noc@banknote-w-yen-sign {max-width:75px; max-height:75px; }
+.@a39319@noc@banknote-w-yen-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a39319@noc@banknote-w-yen-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40545@nog@banknote-dollar-sign-objects {max-width:75px; max-height:75px; }
+.@a40545@nog@banknote-dollar-sign-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a40545@nog@banknote-dollar-sign-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40548@nog@banknote-euro-sign-objects {max-width:75px; max-height:75px; }
+.@a40548@nog@banknote-euro-sign-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a40548@nog@banknote-euro-sign-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40550@nog@banknote-pound-sign-objects {max-width:75px; max-height:75px; }
+.@a40550@nog@banknote-pound-sign-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a40550@nog@banknote-pound-sign-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40552@nog@banknote-yen-sign-objects {max-width:75px; max-height:75px; }
+.@a40552@nog@banknote-yen-sign-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a40552@nog@banknote-yen-sign-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44098@not@banknote-with-dollar-sign {max-width:75px; max-height:75px; }
+.@a44098@not@banknote-with-dollar-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a44098@not@banknote-with-dollar-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44099@not@banknote-with-euro-sign {max-width:75px; max-height:75px; }
+.@a44099@not@banknote-with-euro-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a44099@not@banknote-with-euro-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44100@not@banknote-with-pound-sign {max-width:75px; max-height:75px; }
+.@a44100@not@banknote-with-pound-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a44100@not@banknote-with-pound-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44101@not@banknote-with-yen-sign {max-width:75px; max-height:75px; }
+.@a44101@not@banknote-with-yen-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a44101@not@banknote-with-yen-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49775@str@718-dollar-banknote {max-width:75px; max-height:75px; }
+.@a49775@str@718-dollar-banknote::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a49775@str@718-dollar-banknote::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49776@str@719-pound-banknote {max-width:75px; max-height:75px; }
+.@a49776@str@719-pound-banknote::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a49776@str@719-pound-banknote::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50200@tw2@banknote-with-dollar-sign {max-width:75px; max-height:75px; }
+.@a50200@tw2@banknote-with-dollar-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a50200@tw2@banknote-with-dollar-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50201@tw2@banknote-with-euro-sign {max-width:75px; max-height:75px; }
+.@a50201@tw2@banknote-with-euro-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a50201@tw2@banknote-with-euro-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50202@tw2@banknote-with-pound-sign {max-width:75px; max-height:75px; }
+.@a50202@tw2@banknote-with-pound-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a50202@tw2@banknote-with-pound-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50203@tw2@banknote-with-yen-sign {max-width:75px; max-height:75px; }
+.@a50203@tw2@banknote-with-yen-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 1.2658227848101267%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a50203@tw2@banknote-with-yen-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51078@twe@banknote-with-dollar-sign {max-width:75px; max-height:75px; }
+.@a51078@twe@banknote-with-dollar-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a51078@twe@banknote-with-dollar-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51079@twe@banknote-with-euro-sign {max-width:75px; max-height:75px; }
+.@a51079@twe@banknote-with-euro-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a51079@twe@banknote-with-euro-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51080@twe@banknote-with-pound-sign {max-width:75px; max-height:75px; }
+.@a51080@twe@banknote-with-pound-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a51080@twe@banknote-with-pound-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51081@twe@banknote-with-yen-sign {max-width:75px; max-height:75px; }
+.@a51081@twe@banknote-with-yen-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 50%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@a51081@twe@banknote-with-yen-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12209@gameicons-delapouite@banknote {max-width:75px; max-height:75px; }
+.@b12209@gameicons-delapouite@banknote::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 98.73417721518987%;background-size: 1337.3333333333333% 310.6666666666667%;background-image: url(./textures/b/banknote/0.png/0.png);padding: 0; }
+div.@b12209@gameicons-delapouite@banknote::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fda9e4bc78576c5c52c66ed2b5f4d976:714aa2e382452cf631f829792edc96e5:4ddb42793a59c1b7bfff1539dfc4d068$ */

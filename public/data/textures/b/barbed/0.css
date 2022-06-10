@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13760@gameicons-lorc@barbed-coil {max-width:75px; max-height:75px; }
+.@b13760@gameicons-lorc@barbed-coil::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/barbed/0.png/0.png);padding: 0; }
+div.@b13760@gameicons-lorc@barbed-coil::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13761@gameicons-lorc@barbed-nails {max-width:75px; max-height:75px; }
+.@b13761@gameicons-lorc@barbed-nails::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/barbed/0.png/0.png);padding: 0; }
+div.@b13761@gameicons-lorc@barbed-nails::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13762@gameicons-lorc@barbed-spear {max-width:75px; max-height:75px; }
+.@b13762@gameicons-lorc@barbed-spear::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/barbed/0.png/0.png);padding: 0; }
+div.@b13762@gameicons-lorc@barbed-spear::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13765@gameicons-lorc@barbed-wire {max-width:75px; max-height:75px; }
+.@b13765@gameicons-lorc@barbed-wire::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/b/barbed/0.png/0.png);padding: 0; }
+div.@b13765@gameicons-lorc@barbed-wire::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:66c6c56823c4a4c4035dae8be925944b:e6645398b36e7e561b1065826178e87e:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36820@mul@chameleon {max-width:75px; max-height:75px; }
+.@a36820@mul@chameleon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/chameleon/0.png/0.png);padding: 0; }
+div.@a36820@mul@chameleon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12093@gameicons-darkzaitzev@chameleon-glyph {max-width:75px; max-height:75px; }
+.@b12093@gameicons-darkzaitzev@chameleon-glyph::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/chameleon/0.png/0.png);padding: 0; }
+div.@b12093@gameicons-darkzaitzev@chameleon-glyph::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:51842550235939af9ebba9f0fc0dd3f5:1662f7c3ff9e102386627a00b6fedd03:4ddb42793a59c1b7bfff1539dfc4d068$ */

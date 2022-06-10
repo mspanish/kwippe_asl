@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59239@ian@acacia-koa {max-width:75px; max-height:75px; }
+.@a59239@ian@acacia-koa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/k/koa/0.png/0.png);padding: 0; }
+div.@a59239@ian@acacia-koa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61238@ian@pocillopora-meandrina {max-width:75px; max-height:75px; }
+.@a61238@ian@pocillopora-meandrina::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/k/koa/0.png/0.png);padding: 0; }
+div.@a61238@ian@pocillopora-meandrina::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61260@ian@porites-finger-coral {max-width:75px; max-height:75px; }
+.@a61260@ian@porites-finger-coral::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/k/koa/0.png/0.png);padding: 0; }
+div.@a61260@ian@porites-finger-coral::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61262@ian@porites-lobata {max-width:75px; max-height:75px; }
+.@a61262@ian@porites-lobata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/k/koa/0.png/0.png);padding: 0; }
+div.@a61262@ian@porites-lobata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:df03a421ff57471125ec5808db16ed3f:7a22f1242ce8ff622e440379972b531b:4ddb42793a59c1b7bfff1539dfc4d068$ */

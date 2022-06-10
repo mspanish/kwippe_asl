@@ -1,0 +1,37 @@
+{
+    "sign": "comb",
+    "signer": "asl2english",
+    "uid": 310,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 6,
+            "nd": null
+        },
+        "end": {
+            "d": 6,
+            "nd": null
+        }
+    },
+    "regions": [
+        "temple",
+        "R-ear"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

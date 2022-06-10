@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15364@em2@scooter-1 {max-width:75px; max-height:75px; }
+.@a15364@em2@scooter-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/scooter/0.png/0.png);padding: 0; }
+div.@a15364@em2@scooter-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16495@emo@motor-scooter {max-width:75px; max-height:75px; }
+.@a16495@emo@motor-scooter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/scooter/0.png/0.png);padding: 0; }
+div.@a16495@emo@motor-scooter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42715@nog@motor-scooter-travel-places {max-width:75px; max-height:75px; }
+.@a42715@nog@motor-scooter-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/scooter/0.png/0.png);padding: 0; }
+div.@a42715@nog@motor-scooter-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50843@tw2@scooter-2 {max-width:75px; max-height:75px; }
+.@a50843@tw2@scooter-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/scooter/0.png/0.png);padding: 0; }
+div.@a50843@tw2@scooter-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13271@gameicons-delapouite@scooter {max-width:75px; max-height:75px; }
+.@b13271@gameicons-delapouite@scooter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/scooter/0.png/0.png);padding: 0; }
+div.@b13271@gameicons-delapouite@scooter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c47cba355fde437bc16f36b83b2c3467:6b383b0d7988150bad5571bfe9893c19:4ddb42793a59c1b7bfff1539dfc4d068$ */

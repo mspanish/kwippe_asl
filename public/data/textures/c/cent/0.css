@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a30574@lin@cent {max-width:75px; max-height:75px; }
+.@a30574@lin@cent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cent/0.png/0.png);padding: 0; }
+div.@a30574@lin@cent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30941@lin@receipt-cent {max-width:75px; max-height:75px; }
+.@a30941@lin@receipt-cent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cent/0.png/0.png);padding: 0; }
+div.@a30941@lin@receipt-cent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56500@win@currency-cent {max-width:75px; max-height:75px; }
+.@a56500@win@currency-cent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cent/0.png/0.png);padding: 0; }
+div.@a56500@win@currency-cent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5aeb8d5aff4bb1db3d82b0b57c4ef0e2:0605cf7a4b5a522c7ebe74d98a337df5:4ddb42793a59c1b7bfff1539dfc4d068$ */

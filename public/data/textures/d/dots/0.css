@@ -1,0 +1,38 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15103@em2@left-speech-bubble {max-width:75px; max-height:75px; }
+.@a15103@em2@left-speech-bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a15103@em2@left-speech-bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15443@em2@speech-balloon {max-width:75px; max-height:75px; }
+.@a15443@em2@speech-balloon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a15443@em2@speech-balloon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16817@emo@speech-balloon {max-width:75px; max-height:75px; }
+.@a16817@emo@speech-balloon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a16817@emo@speech-balloon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16818@emo@speech-left {max-width:75px; max-height:75px; }
+.@a16818@emo@speech-left::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a16818@emo@speech-left::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28802@jqe@speech-balloon {max-width:75px; max-height:75px; }
+.@a28802@jqe@speech-balloon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a28802@jqe@speech-balloon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43557@nog@speech-balloon-smileys-people {max-width:75px; max-height:75px; }
+.@a43557@nog@speech-balloon-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a43557@nog@speech-balloon-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48565@small@bubble {max-width:75px; max-height:75px; }
+.@a48565@small@bubble::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a48565@small@bubble::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48566@small@bubbles-alt {max-width:75px; max-height:75px; }
+.@a48566@small@bubbles-alt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a48566@small@bubbles-alt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50900@tw2@speech-balloon {max-width:75px; max-height:75px; }
+.@a50900@tw2@speech-balloon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/d/dots/0.png/0.png);padding: 0; }
+div.@a50900@tw2@speech-balloon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f2317f64fbfe64232813c8225c1bbd6c:f63b8bf11ab176542f990c9f28516dba:4ddb42793a59c1b7bfff1539dfc4d068$ */

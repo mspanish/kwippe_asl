@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61659@ian@spade {max-width:75px; max-height:75px; }
+.@a61659@ian@spade::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dig/0.png/0.png);padding: 0; }
+div.@a61659@ian@spade::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12494@gameicons-delapouite@dig-hole {max-width:75px; max-height:75px; }
+.@b12494@gameicons-delapouite@dig-hole::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dig/0.png/0.png);padding: 0; }
+div.@b12494@gameicons-delapouite@dig-hole::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14046@gameicons-lorc@dig-dug {max-width:75px; max-height:75px; }
+.@b14046@gameicons-lorc@dig-dug::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/dig/0.png/0.png);padding: 0; }
+div.@b14046@gameicons-lorc@dig-dug::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1bd7933e99b208e9d1ffcfc08c8324fb:203b26224fe310f38265f464ed636180:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2230@bon@pudding-1270 {max-width:75px; max-height:75px; }
+.@a2230@bon@pudding-1270::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pudding/0.png/0.png);padding: 0; }
+div.@a2230@bon@pudding-1270::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36884@mul@christmas-pudding {max-width:75px; max-height:75px; }
+.@a36884@mul@christmas-pudding::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pudding/0.png/0.png);padding: 0; }
+div.@a36884@mul@christmas-pudding::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39260@mul@yorkshire-pudding {max-width:75px; max-height:75px; }
+.@a39260@mul@yorkshire-pudding::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pudding/0.png/0.png);padding: 0; }
+div.@a39260@mul@yorkshire-pudding::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bc1a0ee1e804481380b89c64a6aece2c:a828f536c9bb199c4480b6cf6608282b:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16241@emo@tt {max-width:75px; max-height:75px; }
+.@a16241@emo@tt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/t/trinidad_tobago/0.png/0.png);padding: 0; }
+div.@a16241@emo@tt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37124@mul@trinidad_and_tobago {max-width:75px; max-height:75px; }
+.@a37124@mul@trinidad_and_tobago::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/t/trinidad_tobago/0.png/0.png);padding: 0; }
+div.@a37124@mul@trinidad_and_tobago::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37634@mul@trinidad_and_tobago {max-width:75px; max-height:75px; }
+.@a37634@mul@trinidad_and_tobago::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/t/trinidad_tobago/0.png/0.png);padding: 0; }
+div.@a37634@mul@trinidad_and_tobago::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2762@wikim-all@flag_of_trinidad_and_tobago {max-width:75px; max-height:75px; }
+.@d2762@wikim-all@flag_of_trinidad_and_tobago::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/t/trinidad_tobago/0.png/0.png);padding: 0; }
+div.@d2762@wikim-all@flag_of_trinidad_and_tobago::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fc5545c7c56ba9c1501ad937493d120e:69f8aed5f4672ed52a4922bc65faee9c:4ddb42793a59c1b7bfff1539dfc4d068$ */

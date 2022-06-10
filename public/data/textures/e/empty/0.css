@@ -1,0 +1,86 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1136@bat@battery-charge {max-width:75px; max-height:75px; }
+.@a1136@bat@battery-charge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a1136@bat@battery-charge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1137@bat@battery-empty-2 {max-width:75px; max-height:75px; }
+.@a1137@bat@battery-empty-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a1137@bat@battery-empty-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1138@bat@battery-empty {max-width:75px; max-height:75px; }
+.@a1138@bat@battery-empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a1138@bat@battery-empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2014@bon@jug-empty-2534 {max-width:75px; max-height:75px; }
+.@a2014@bon@jug-empty-2534::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a2014@bon@jug-empty-2534::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a242@ara@battery-low {max-width:75px; max-height:75px; }
+.@a242@ara@battery-low::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a242@ara@battery-low::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2467@bon@task-fill-or-empty-the-dishwasher-6075 {max-width:75px; max-height:75px; }
+.@a2467@bon@task-fill-or-empty-the-dishwasher-6075::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a2467@bon@task-fill-or-empty-the-dishwasher-6075::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27251@icf@battery-empty {max-width:75px; max-height:75px; }
+.@a27251@icf@battery-empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a27251@icf@battery-empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27964@ico@empty-battery {max-width:75px; max-height:75px; }
+.@a27964@ico@empty-battery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a27964@ico@empty-battery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32443@mat@battery-10 {max-width:75px; max-height:75px; }
+.@a32443@mat@battery-10::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a32443@mat@battery-10::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32483@mat@battery-outline {max-width:75px; max-height:75px; }
+.@a32483@mat@battery-outline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a32483@mat@battery-outline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35968@met@battery-empty {max-width:75px; max-height:75px; }
+.@a35968@met@battery-empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a35968@met@battery-empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37348@mul@empty {max-width:75px; max-height:75px; }
+.@a37348@mul@empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a37348@mul@empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47298@pic@battery-empty {max-width:75px; max-height:75px; }
+.@a47298@pic@battery-empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 2.4691358024691357%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a47298@pic@battery-empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47@aac@empty {max-width:75px; max-height:75px; }
+.@a47@aac@empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a47@aac@empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53949@wav@battery-empty {max-width:75px; max-height:75px; }
+.@a53949@wav@battery-empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a53949@wav@battery-empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56293@win@battery-0 {max-width:75px; max-height:75px; }
+.@a56293@win@battery-0::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a56293@win@battery-0::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57456@xei@battery-o-battery-min {max-width:75px; max-height:75px; }
+.@a57456@xei@battery-o-battery-min::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a57456@xei@battery-o-battery-min::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61078@ian@oyster-dead-shell {max-width:75px; max-height:75px; }
+.@a61078@ian@oyster-dead-shell::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a61078@ian@oyster-dead-shell::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a616@awe@battery-empty {max-width:75px; max-height:75px; }
+.@a616@awe@battery-empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@a616@awe@battery-empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12559@gameicons-delapouite@empty-metal-bucket-handle {max-width:75px; max-height:75px; }
+.@b12559@gameicons-delapouite@empty-metal-bucket-handle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@b12559@gameicons-delapouite@empty-metal-bucket-handle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12560@gameicons-delapouite@empty-metal-bucket {max-width:75px; max-height:75px; }
+.@b12560@gameicons-delapouite@empty-metal-bucket::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@b12560@gameicons-delapouite@empty-metal-bucket::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12561@gameicons-delapouite@empty-wood-bucket-handle {max-width:75px; max-height:75px; }
+.@b12561@gameicons-delapouite@empty-wood-bucket-handle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@b12561@gameicons-delapouite@empty-wood-bucket-handle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12562@gameicons-delapouite@empty-wood-bucket {max-width:75px; max-height:75px; }
+.@b12562@gameicons-delapouite@empty-wood-bucket::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@b12562@gameicons-delapouite@empty-wood-bucket::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15128@gameicons-priorblue@battery-0 {max-width:75px; max-height:75px; }
+.@b15128@gameicons-priorblue@battery-0::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@b15128@gameicons-priorblue@battery-0::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8143@web@battery-empty {max-width:75px; max-height:75px; }
+.@b8143@web@battery-empty::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 97.53086419753086%;background-size: 1337.3333333333333% 208%;background-image: url(./textures/e/empty/0.png/0.png);padding: 0; }
+div.@b8143@web@battery-empty::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f6925317575679f4c92d4a9040055374:c37c5c7efd907b3f14cfe07a02f7e63d:4ddb42793a59c1b7bfff1539dfc4d068$ */

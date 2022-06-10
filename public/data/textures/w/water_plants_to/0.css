@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39177@mul@water-plants-to {max-width:75px; max-height:75px; }
+.@a39177@mul@water-plants-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/water_plants_to/0.png/0.png);padding: 0; }
+div.@a39177@mul@water-plants-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5bdc8db0a161b2e95f613c8d838dcf93:5a192f0913f174c5db4291b5bb06a842:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60889@ian@mola-mola {max-width:75px; max-height:75px; }
+.@a60889@ian@mola-mola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/molidae/0.png/0.png);padding: 0; }
+div.@a60889@ian@mola-mola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a45ff888ec22cad3db3af7dc6a327bba:808e7ddbf44174fb00c6654248fcd147:4ddb42793a59c1b7bfff1539dfc4d068$ */

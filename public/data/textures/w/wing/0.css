@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39225@mul@wing {max-width:75px; max-height:75px; }
+.@a39225@mul@wing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/wing/0.png/0.png);padding: 0; }
+div.@a39225@mul@wing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12883@gameicons-delapouite@liberty-wing {max-width:75px; max-height:75px; }
+.@b12883@gameicons-delapouite@liberty-wing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/wing/0.png/0.png);padding: 0; }
+div.@b12883@gameicons-delapouite@liberty-wing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13380@gameicons-delapouite@spiky-wing {max-width:75px; max-height:75px; }
+.@b13380@gameicons-delapouite@spiky-wing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/wing/0.png/0.png);padding: 0; }
+div.@b13380@gameicons-delapouite@spiky-wing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14017@gameicons-lorc@curly-wing {max-width:75px; max-height:75px; }
+.@b14017@gameicons-lorc@curly-wing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/wing/0.png/0.png);padding: 0; }
+div.@b14017@gameicons-lorc@curly-wing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14208@gameicons-lorc@fluffy-wing {max-width:75px; max-height:75px; }
+.@b14208@gameicons-lorc@fluffy-wing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/wing/0.png/0.png);padding: 0; }
+div.@b14208@gameicons-lorc@fluffy-wing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15082@gameicons-lorc@wing-cloak {max-width:75px; max-height:75px; }
+.@b15082@gameicons-lorc@wing-cloak::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/wing/0.png/0.png);padding: 0; }
+div.@b15082@gameicons-lorc@wing-cloak::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0fc2b6380a173f956828532e56c32b42:87de841673e92db4120797462be1b358:4ddb42793a59c1b7bfff1539dfc4d068$ */

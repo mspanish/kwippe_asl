@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16230@emo@td {max-width:75px; max-height:75px; }
+.@a16230@emo@td::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/chad/0.png/0.png);padding: 0; }
+div.@a16230@emo@td::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37024@mul@chad {max-width:75px; max-height:75px; }
+.@a37024@mul@chad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/chad/0.png/0.png);padding: 0; }
+div.@a37024@mul@chad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1959@wikim-all@coat_of_arms_of_chad {max-width:75px; max-height:75px; }
+.@d1959@wikim-all@coat_of_arms_of_chad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/chad/0.png/0.png);padding: 0; }
+div.@d1959@wikim-all@coat_of_arms_of_chad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2256@wikim-all@eurochad {max-width:75px; max-height:75px; }
+.@d2256@wikim-all@eurochad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/chad/0.png/0.png);padding: 0; }
+div.@d2256@wikim-all@eurochad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4346@wikim-nojs@flag_of_chad {max-width:75px; max-height:75px; }
+.@d4346@wikim-nojs@flag_of_chad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/c/chad/0.png/0.png);padding: 0; }
+div.@d4346@wikim-nojs@flag_of_chad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7c82574fd9d403919f04479ba68c62d1:349e5c7bcaf202d3503cd60bde09ee34:4ddb42793a59c1b7bfff1539dfc4d068$ */

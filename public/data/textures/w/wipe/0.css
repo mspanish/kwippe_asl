@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2483@bon@task-wipe-surfaces-6091 {max-width:75px; max-height:75px; }
+.@a2483@bon@task-wipe-surfaces-6091::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wipe/0.png/0.png);padding: 0; }
+div.@a2483@bon@task-wipe-surfaces-6091::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2664@bon@wipe-with-cloth-1807 {max-width:75px; max-height:75px; }
+.@a2664@bon@wipe-with-cloth-1807::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wipe/0.png/0.png);padding: 0; }
+div.@a2664@bon@wipe-with-cloth-1807::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39228@mul@wipe-table-to {max-width:75px; max-height:75px; }
+.@a39228@mul@wipe-table-to::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/w/wipe/0.png/0.png);padding: 0; }
+div.@a39228@mul@wipe-table-to::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2d9b8c91c666ed31d0c9a448c19149a6:e7aa09fc1c37be578189282b9cb9007a:4ddb42793a59c1b7bfff1539dfc4d068$ */

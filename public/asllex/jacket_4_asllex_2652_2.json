@@ -1,0 +1,45 @@
+{
+    "sign": "jacket_4",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": "baby_o"
+        },
+        "end": {
+            "d": "baby_o",
+            "nd": "baby_o"
+        }
+    },
+    "regions": {
+        "morph1_general": "Body",
+        "morph1_specific": "BodyAway",
+        "morph1_specific_second": "TorsoMid",
+        "morph1_contact": 1.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 0,
+        "morph2_general": "Body",
+        "morph2_specific": "TorsoMid",
+        "morph2_specific_second": "TorsoTop",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": 0.0
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": null,
+    "frequency": 4.48,
+    "category": null
+}

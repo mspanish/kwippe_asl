@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60428@ian@halau-hawaiian-long-house {max-width:75px; max-height:75px; }
+.@a60428@ian@halau-hawaiian-long-house::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/hawaiian/0.png/0.png);padding: 0; }
+div.@a60428@ian@halau-hawaiian-long-house::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60466@ian@hawaiian-royalty-headdress {max-width:75px; max-height:75px; }
+.@a60466@ian@hawaiian-royalty-headdress::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/hawaiian/0.png/0.png);padding: 0; }
+div.@a60466@ian@hawaiian-royalty-headdress::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60477@ian@heiau-hawaiian-temple {max-width:75px; max-height:75px; }
+.@a60477@ian@heiau-hawaiian-temple::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/hawaiian/0.png/0.png);padding: 0; }
+div.@a60477@ian@heiau-hawaiian-temple::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60623@ian@kii-hawaiian-war-god {max-width:75px; max-height:75px; }
+.@a60623@ian@kii-hawaiian-war-god::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/hawaiian/0.png/0.png);padding: 0; }
+div.@a60623@ian@kii-hawaiian-war-god::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60892@ian@monachus-schauinslandi {max-width:75px; max-height:75px; }
+.@a60892@ian@monachus-schauinslandi::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/hawaiian/0.png/0.png);padding: 0; }
+div.@a60892@ian@monachus-schauinslandi::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61156@ian@petroglyph-hawaiin-honu {max-width:75px; max-height:75px; }
+.@a61156@ian@petroglyph-hawaiin-honu::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/h/hawaiian/0.png/0.png);padding: 0; }
+div.@a61156@ian@petroglyph-hawaiin-honu::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:48b3e87df86c62f95efdb3512cdf8e59:9ac2110cc112c7097ac3719c98b65f22:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "deaf",
+    "signer": "asl2english",
+    "uid": 394,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 42,
+            "nd": 42
+        },
+        "end": {
+            "d": 1,
+            "nd": 1
+        }
+    },
+    "regions": [
+        "R-ear",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

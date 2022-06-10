@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60148@ian@esox-lucius {max-width:75px; max-height:75px; }
+.@a60148@ian@esox-lucius::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/carnivorous/0.png/0.png);padding: 0; }
+div.@a60148@ian@esox-lucius::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12349@gameicons-delapouite@carnivorous-plant {max-width:75px; max-height:75px; }
+.@b12349@gameicons-delapouite@carnivorous-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/carnivorous/0.png/0.png);padding: 0; }
+div.@b12349@gameicons-delapouite@carnivorous-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cefb48c81b85d75016fa402408e01309:da800cf4ec62a672b710facc5770ed42:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,45 @@
+{
+    "sign": "blow_mind",
+    "signer": "aslLex",
+    "uid": 3329,
+    "synonyms": "astonished, blow mind, blow-mind, bowled over, flabbergasted, flummoxed, mind blown, mind-blowing, mind blowing, shocked, stunned, surprised, thunderstruck",
+    "handshapes": {
+        "begin": {
+            "d": "1",
+            "nd": null
+        },
+        "end": {
+            "d": "s",
+            "nd": "s"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Forehead",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Head",
+        "morph2_specific": "HeadAway",
+        "morph2_specific_second": "HeadAway",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 0.0,
+    "frequency": 3.577,
+    "category": null
+}

@@ -1,0 +1,45 @@
+{
+    "sign": "desert",
+    "signer": "aslLex",
+    "uid": 685,
+    "synonyms": "arid, desert, drought, dry, dry land",
+    "handshapes": {
+        "begin": {
+            "d": "1",
+            "nd": null
+        },
+        "end": {
+            "d": "flat_b",
+            "nd": "flat_b"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Chin",
+        "morph1_specific_second": "HeadAway",
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 2.917,
+    "category": null
+}

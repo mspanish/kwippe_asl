@@ -1,0 +1,37 @@
+{
+    "sign": "birth",
+    "signer": "asl2english",
+    "uid": 155,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 20,
+            "nd": 18
+        },
+        "end": {
+            "d": 20,
+            "nd": 18
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

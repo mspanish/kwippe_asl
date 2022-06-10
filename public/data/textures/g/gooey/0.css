@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14267@gameicons-lorc@gooey-daemon {max-width:75px; max-height:75px; }
+.@b14267@gameicons-lorc@gooey-daemon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gooey/0.png/0.png);padding: 0; }
+div.@b14267@gameicons-lorc@gooey-daemon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14270@gameicons-lorc@gooey-molecule {max-width:75px; max-height:75px; }
+.@b14270@gameicons-lorc@gooey-molecule::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gooey/0.png/0.png);padding: 0; }
+div.@b14270@gameicons-lorc@gooey-molecule::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14271@gameicons-lorc@gooey-sword {max-width:75px; max-height:75px; }
+.@b14271@gameicons-lorc@gooey-sword::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/gooey/0.png/0.png);padding: 0; }
+div.@b14271@gameicons-lorc@gooey-sword::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:91ce16d358e3039b7c178566345d914f:d5763f6f05446a214e4d5f765c025e16:4ddb42793a59c1b7bfff1539dfc4d068$ */

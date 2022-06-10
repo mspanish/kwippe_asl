@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60940@ian@mountain-range-3d-foothills-and-stream {max-width:75px; max-height:75px; }
+.@a60940@ian@mountain-range-3d-foothills-and-stream::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/h/headwaters/0.png/0.png);padding: 0; }
+div.@a60940@ian@mountain-range-3d-foothills-and-stream::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61483@ian@river-3d-watershed-with-mountains {max-width:75px; max-height:75px; }
+.@a61483@ian@river-3d-watershed-with-mountains::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/h/headwaters/0.png/0.png);padding: 0; }
+div.@a61483@ian@river-3d-watershed-with-mountains::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61708@ian@stream-3d-aquiclude-and-spring {max-width:75px; max-height:75px; }
+.@a61708@ian@stream-3d-aquiclude-and-spring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/h/headwaters/0.png/0.png);padding: 0; }
+div.@a61708@ian@stream-3d-aquiclude-and-spring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61714@ian@stream-3d-springs-perched-water-table {max-width:75px; max-height:75px; }
+.@a61714@ian@stream-3d-springs-perched-water-table::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/h/headwaters/0.png/0.png);padding: 0; }
+div.@a61714@ian@stream-3d-springs-perched-water-table::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f6c6f8a78380be104bc1f8d32421c5b8:d5362bd2153ca4beab21552e1ac5500a:4ddb42793a59c1b7bfff1539dfc4d068$ */

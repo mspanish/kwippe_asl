@@ -1,0 +1,98 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37194@mul@dead-plant {max-width:75px; max-height:75px; }
+.@a37194@mul@dead-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a37194@mul@dead-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38452@mul@plant {max-width:75px; max-height:75px; }
+.@a38452@mul@plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a38452@mul@plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38501@mul@potted-plant {max-width:75px; max-height:75px; }
+.@a38501@mul@potted-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a38501@mul@potted-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59394@ian@asphalt-plant {max-width:75px; max-height:75px; }
+.@a59394@ian@asphalt-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a59394@ian@asphalt-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60010@ian@desalination-plant {max-width:75px; max-height:75px; }
+.@a60010@ian@desalination-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a60010@ian@desalination-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60108@ian@energy-hydroelectric-plant {max-width:75px; max-height:75px; }
+.@a60108@ian@energy-hydroelectric-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a60108@ian@energy-hydroelectric-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60113@ian@energy-power-station {max-width:75px; max-height:75px; }
+.@a60113@ian@energy-power-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a60113@ian@energy-power-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60352@ian@garden-hose {max-width:75px; max-height:75px; }
+.@a60352@ian@garden-hose::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a60352@ian@garden-hose::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60557@ian@industry {max-width:75px; max-height:75px; }
+.@a60557@ian@industry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a60557@ian@industry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60558@ian@industry2 {max-width:75px; max-height:75px; }
+.@a60558@ian@industry2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a60558@ian@industry2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61589@ian@seagrass-restoration {max-width:75px; max-height:75px; }
+.@a61589@ian@seagrass-restoration::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a61589@ian@seagrass-restoration::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61658@ian@soybeans {max-width:75px; max-height:75px; }
+.@a61658@ian@soybeans::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a61658@ian@soybeans::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61748@ian@sugarcane {max-width:75px; max-height:75px; }
+.@a61748@ian@sugarcane::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a61748@ian@sugarcane::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61754@ian@sweet-potato-plantation {max-width:75px; max-height:75px; }
+.@a61754@ian@sweet-potato-plantation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a61754@ian@sweet-potato-plantation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61755@ian@sweet-potato-plot {max-width:75px; max-height:75px; }
+.@a61755@ian@sweet-potato-plot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a61755@ian@sweet-potato-plot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61774@ian@taro-plot {max-width:75px; max-height:75px; }
+.@a61774@ian@taro-plot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a61774@ian@taro-plot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61775@ian@taro {max-width:75px; max-height:75px; }
+.@a61775@ian@taro::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a61775@ian@taro::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61776@ian@taro2 {max-width:75px; max-height:75px; }
+.@a61776@ian@taro2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a61776@ian@taro2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62185@ian@water-drinking-water-treatment-plant-1 {max-width:75px; max-height:75px; }
+.@a62185@ian@water-drinking-water-treatment-plant-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a62185@ian@water-drinking-water-treatment-plant-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62195@ian@water-sewage-treatment-plant-1 {max-width:75px; max-height:75px; }
+.@a62195@ian@water-sewage-treatment-plant-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a62195@ian@water-sewage-treatment-plant-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62196@ian@water-sewage-treatment-plant-2 {max-width:75px; max-height:75px; }
+.@a62196@ian@water-sewage-treatment-plant-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a62196@ian@water-sewage-treatment-plant-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62197@ian@water-sewage-treatment-plant-primary {max-width:75px; max-height:75px; }
+.@a62197@ian@water-sewage-treatment-plant-primary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a62197@ian@water-sewage-treatment-plant-primary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62198@ian@water-sewage-treatment-plant-tertiary {max-width:75px; max-height:75px; }
+.@a62198@ian@water-sewage-treatment-plant-tertiary::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a62198@ian@water-sewage-treatment-plant-tertiary::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62238@ian@wheat-kernels {max-width:75px; max-height:75px; }
+.@a62238@ian@wheat-kernels::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a62238@ian@wheat-kernels::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62239@ian@wheat-sheath {max-width:75px; max-height:75px; }
+.@a62239@ian@wheat-sheath::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a62239@ian@wheat-sheath::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62240@ian@wheat {max-width:75px; max-height:75px; }
+.@a62240@ian@wheat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@a62240@ian@wheat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12349@gameicons-delapouite@carnivorous-plant {max-width:75px; max-height:75px; }
+.@b12349@gameicons-delapouite@carnivorous-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@b12349@gameicons-delapouite@carnivorous-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13015@gameicons-delapouite@nuclear-plant {max-width:75px; max-height:75px; }
+.@b13015@gameicons-delapouite@nuclear-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@b13015@gameicons-delapouite@nuclear-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13133@gameicons-delapouite@plant-roots {max-width:75px; max-height:75px; }
+.@b13133@gameicons-delapouite@plant-roots::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/p/plant/2.png/2.png);padding: 0; }
+div.@b13133@gameicons-delapouite@plant-roots::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a732332910e1376872def8780e978fae:7ad84dfa1fbc5b7a9a5533fb12ee6fe9:3f10e714f9f4c7f2b7e0d309a5f72718$ */

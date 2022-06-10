@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36607@mul@blind-2 {max-width:75px; max-height:75px; }
+.@a36607@mul@blind-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/blind/0.png/0.png);padding: 0; }
+div.@a36607@mul@blind-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36608@mul@blind {max-width:75px; max-height:75px; }
+.@a36608@mul@blind::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/blind/0.png/0.png);padding: 0; }
+div.@a36608@mul@blind::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38607@mul@roller-blind {max-width:75px; max-height:75px; }
+.@a38607@mul@roller-blind::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/blind/0.png/0.png);padding: 0; }
+div.@a38607@mul@roller-blind::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38610@mul@roman-blind {max-width:75px; max-height:75px; }
+.@a38610@mul@roman-blind::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/blind/0.png/0.png);padding: 0; }
+div.@a38610@mul@roman-blind::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39152@mul@walking-stick {max-width:75px; max-height:75px; }
+.@a39152@mul@walking-stick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/blind/0.png/0.png);padding: 0; }
+div.@a39152@mul@walking-stick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43965@nog@woman-smileys-people3 {max-width:75px; max-height:75px; }
+.@a43965@nog@woman-smileys-people3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/blind/0.png/0.png);padding: 0; }
+div.@a43965@nog@woman-smileys-people3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8d237eb2c9c02afcc05c05409b9075c5:309618da9a7a9d9164305b9adf9614b3:4ddb42793a59c1b7bfff1539dfc4d068$ */

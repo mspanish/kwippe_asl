@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15182@em2@musical-note {max-width:75px; max-height:75px; }
+.@a15182@em2@musical-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/descend/0.png/0.png);padding: 0; }
+div.@a15182@em2@musical-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16514@emo@musical-note {max-width:75px; max-height:75px; }
+.@a16514@emo@musical-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/descend/0.png/0.png);padding: 0; }
+div.@a16514@emo@musical-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17314@fir@u1f39d-musicdescend {max-width:75px; max-height:75px; }
+.@a17314@fir@u1f39d-musicdescend::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/d/descend/0.png/0.png);padding: 0; }
+div.@a17314@fir@u1f39d-musicdescend::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c7f239302391b22754088d004a5cd67d:5fca5a286364eb1d6f50cd3053977f92:4ddb42793a59c1b7bfff1539dfc4d068$ */

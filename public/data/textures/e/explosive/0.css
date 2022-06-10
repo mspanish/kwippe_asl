@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12395@gameicons-delapouite@claymore-explosive {max-width:75px; max-height:75px; }
+.@b12395@gameicons-delapouite@claymore-explosive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/explosive/0.png/0.png);padding: 0; }
+div.@b12395@gameicons-delapouite@claymore-explosive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14139@gameicons-lorc@explosive-materials {max-width:75px; max-height:75px; }
+.@b14139@gameicons-lorc@explosive-materials::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/explosive/0.png/0.png);padding: 0; }
+div.@b14139@gameicons-lorc@explosive-materials::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14140@gameicons-lorc@explosive-meeting {max-width:75px; max-height:75px; }
+.@b14140@gameicons-lorc@explosive-meeting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/explosive/0.png/0.png);padding: 0; }
+div.@b14140@gameicons-lorc@explosive-meeting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fdcf46aae0b3c1b79fff91a9e3526100:8466eaaf6b3a7bddd1ec7cb250b69d6e:4ddb42793a59c1b7bfff1539dfc4d068$ */

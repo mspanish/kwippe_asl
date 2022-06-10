@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14919@gameicons-lorc@swirl-ring {max-width:75px; max-height:75px; }
+.@b14919@gameicons-lorc@swirl-ring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/swirl_ring/0.png/0.png);padding: 0; }
+div.@b14919@gameicons-lorc@swirl-ring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:fd5a81be612d209e0c6e2902c697d599:eb52b606fdcffae0f5ca37f65c22a25e:4ddb42793a59c1b7bfff1539dfc4d068$ */

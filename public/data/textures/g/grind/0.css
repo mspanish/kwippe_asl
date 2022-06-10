@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a5514@df-coffeeicons@g {max-width:75px; max-height:75px; }
+.@a5514@df-coffeeicons@g::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grind/0.png/0.png);padding: 0; }
+div.@a5514@df-coffeeicons@g::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5527@df-coffeeicons@m {max-width:75px; max-height:75px; }
+.@a5527@df-coffeeicons@m::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grind/0.png/0.png);padding: 0; }
+div.@a5527@df-coffeeicons@m::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5554@df-coffeeicons@r {max-width:75px; max-height:75px; }
+.@a5554@df-coffeeicons@r::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grind/0.png/0.png);padding: 0; }
+div.@a5554@df-coffeeicons@r::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a5572@df-coffeeicons@v {max-width:75px; max-height:75px; }
+.@a5572@df-coffeeicons@v::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grind/0.png/0.png);padding: 0; }
+div.@a5572@df-coffeeicons@v::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60924@ian@mortar-and-pestle {max-width:75px; max-height:75px; }
+.@a60924@ian@mortar-and-pestle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grind/0.png/0.png);padding: 0; }
+div.@a60924@ian@mortar-and-pestle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60925@ian@mortar-and-pestle2 {max-width:75px; max-height:75px; }
+.@a60925@ian@mortar-and-pestle2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/g/grind/0.png/0.png);padding: 0; }
+div.@a60925@ian@mortar-and-pestle2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7fd1750b76c94ef279a47dfd9d658a5a:59a5e7285714ec65978613fed5b48d8a:4ddb42793a59c1b7bfff1539dfc4d068$ */

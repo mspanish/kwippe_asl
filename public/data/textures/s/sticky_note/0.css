@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1021@awe@sticky-note-o {max-width:75px; max-height:75px; }
+.@a1021@awe@sticky-note-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sticky_note/0.png/0.png);padding: 0; }
+div.@a1021@awe@sticky-note-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1022@awe@sticky-note {max-width:75px; max-height:75px; }
+.@a1022@awe@sticky-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sticky_note/0.png/0.png);padding: 0; }
+div.@a1022@awe@sticky-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1407@bat@tick {max-width:75px; max-height:75px; }
+.@a1407@bat@tick::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sticky_note/0.png/0.png);padding: 0; }
+div.@a1407@bat@tick::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28041@ico@note {max-width:75px; max-height:75px; }
+.@a28041@ico@note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sticky_note/0.png/0.png);padding: 0; }
+div.@a28041@ico@note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54523@wav@note {max-width:75px; max-height:75px; }
+.@a54523@wav@note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sticky_note/0.png/0.png);padding: 0; }
+div.@a54523@wav@note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57897@xei@note {max-width:75px; max-height:75px; }
+.@a57897@xei@note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sticky_note/0.png/0.png);padding: 0; }
+div.@a57897@xei@note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:de28beb5bd8271ace8b992f41564723f:a442c34645b50bb2fc16f7e71e35513a:4ddb42793a59c1b7bfff1539dfc4d068$ */

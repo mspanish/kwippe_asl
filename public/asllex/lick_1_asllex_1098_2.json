@@ -1,0 +1,45 @@
+{
+    "sign": "lick_1",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "h",
+            "nd": "B"
+        },
+        "end": {
+            "d": "flat_h",
+            "nd": "B"
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "Mouth",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "AsymmetricalDifferentHandshape",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "Palm",
+        "morph2_specific_second": "HandAway",
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalDifferentHandshape",
+        "morph2_movement": "Curved",
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalDifferentHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 2.0,
+    "frequency": 2.043,
+    "category": null
+}

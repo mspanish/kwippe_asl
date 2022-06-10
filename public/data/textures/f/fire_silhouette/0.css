@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14173@gameicons-lorc@fire-silhouette {max-width:75px; max-height:75px; }
+.@b14173@gameicons-lorc@fire-silhouette::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/fire_silhouette/0.png/0.png);padding: 0; }
+div.@b14173@gameicons-lorc@fire-silhouette::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f43c66b2b1313226663358533f19c6f2:18dd0c2fecb2cf0743aa5d1149760413:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14245@efon@59 {max-width:75px; max-height:75px; }
+.@a14245@efon@59::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/teddybear/0.png/0.png);padding: 0; }
+div.@a14245@efon@59::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14274@efon@79 {max-width:75px; max-height:75px; }
+.@a14274@efon@79::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/teddybear/0.png/0.png);padding: 0; }
+div.@a14274@efon@79::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38972@mul@teddy-bear {max-width:75px; max-height:75px; }
+.@a38972@mul@teddy-bear::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/teddybear/0.png/0.png);padding: 0; }
+div.@a38972@mul@teddy-bear::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43700@nog@teddy-bear-activities {max-width:75px; max-height:75px; }
+.@a43700@nog@teddy-bear-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/teddybear/0.png/0.png);padding: 0; }
+div.@a43700@nog@teddy-bear-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56029@web@teddybear {max-width:75px; max-height:75px; }
+.@a56029@web@teddybear::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/teddybear/0.png/0.png);padding: 0; }
+div.@a56029@web@teddybear::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ea385a666b291bb9296a8b09242717ff:07cce7ce72be9f750498934e13210cf5:4ddb42793a59c1b7bfff1539dfc4d068$ */

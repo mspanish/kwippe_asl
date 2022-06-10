@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36868@mul@chisel {max-width:75px; max-height:75px; }
+.@a36868@mul@chisel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chisel/0.png/0.png);padding: 0; }
+div.@a36868@mul@chisel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59695@ian@chisel {max-width:75px; max-height:75px; }
+.@a59695@ian@chisel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chisel/0.png/0.png);padding: 0; }
+div.@a59695@ian@chisel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60878@ian@mining {max-width:75px; max-height:75px; }
+.@a60878@ian@mining::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chisel/0.png/0.png);padding: 0; }
+div.@a60878@ian@mining::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12384@gameicons-delapouite@chisel {max-width:75px; max-height:75px; }
+.@b12384@gameicons-delapouite@chisel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/chisel/0.png/0.png);padding: 0; }
+div.@b12384@gameicons-delapouite@chisel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:01c8f803352438918b569171a4eef7ed:114f410b0763194b894800773a1a2c14:4ddb42793a59c1b7bfff1539dfc4d068$ */

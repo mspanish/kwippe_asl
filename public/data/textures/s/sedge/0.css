@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59718@ian@cladium-procerum {max-width:75px; max-height:75px; }
+.@a59718@ian@cladium-procerum::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sedge/0.png/0.png);padding: 0; }
+div.@a59718@ian@cladium-procerum::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60099@ian@eleocharis-dulcis {max-width:75px; max-height:75px; }
+.@a60099@ian@eleocharis-dulcis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sedge/0.png/0.png);padding: 0; }
+div.@a60099@ian@eleocharis-dulcis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60100@ian@eleocharis-spp {max-width:75px; max-height:75px; }
+.@a60100@ian@eleocharis-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sedge/0.png/0.png);padding: 0; }
+div.@a60100@ian@eleocharis-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60253@ian@fimbristylis-dichotoma {max-width:75px; max-height:75px; }
+.@a60253@ian@fimbristylis-dichotoma::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sedge/0.png/0.png);padding: 0; }
+div.@a60253@ian@fimbristylis-dichotoma::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61557@ian@scirpus-americanus {max-width:75px; max-height:75px; }
+.@a61557@ian@scirpus-americanus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sedge/0.png/0.png);padding: 0; }
+div.@a61557@ian@scirpus-americanus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61558@ian@scirpus-spp {max-width:75px; max-height:75px; }
+.@a61558@ian@scirpus-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/sedge/0.png/0.png);padding: 0; }
+div.@a61558@ian@scirpus-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d7bf35bfc25568b81d04fcd2379e8e6d:1df1b564d5b70a9e22522e6d606faa6a:4ddb42793a59c1b7bfff1539dfc4d068$ */

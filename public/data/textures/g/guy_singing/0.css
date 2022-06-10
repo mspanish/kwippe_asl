@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48850@solver@4-guy-singing {max-width:75px; max-height:75px; }
+.@a48850@solver@4-guy-singing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/guy_singing/0.png/0.png);padding: 0; }
+div.@a48850@solver@4-guy-singing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4e92edd1ef7b9a8256da121a8a320be0:a1afe97f7b65781291e1a892638b61cd:4ddb42793a59c1b7bfff1539dfc4d068$ */

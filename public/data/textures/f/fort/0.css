@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60322@ian@fort-union {max-width:75px; max-height:75px; }
+.@a60322@ian@fort-union::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fort/0.png/0.png);padding: 0; }
+div.@a60322@ian@fort-union::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1817@wikim-all@fort {max-width:75px; max-height:75px; }
+.@d1817@wikim-all@fort::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fort/0.png/0.png);padding: 0; }
+div.@d1817@wikim-all@fort::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1931@wikim-all@coat_of_arms_elements_hut {max-width:75px; max-height:75px; }
+.@d1931@wikim-all@coat_of_arms_elements_hut::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fort/0.png/0.png);padding: 0; }
+div.@d1931@wikim-all@coat_of_arms_elements_hut::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3367@wikim-all@muralla_con_torres_heruuuc3uuua1ldica {max-width:75px; max-height:75px; }
+.@d3367@wikim-all@muralla_con_torres_heruuuc3uuua1ldica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fort/0.png/0.png);padding: 0; }
+div.@d3367@wikim-all@muralla_con_torres_heruuuc3uuua1ldica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3368@wikim-all@muralla_heruuuc3uuua1ldica {max-width:75px; max-height:75px; }
+.@d3368@wikim-all@muralla_heruuuc3uuua1ldica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fort/0.png/0.png);padding: 0; }
+div.@d3368@wikim-all@muralla_heruuuc3uuua1ldica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3369@wikim-all@murkrona {max-width:75px; max-height:75px; }
+.@d3369@wikim-all@murkrona::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/f/fort/0.png/0.png);padding: 0; }
+div.@d3369@wikim-all@murkrona::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:465c542a02631f82d95e2e8cb5e68f64:2579441dd976980ed939a7cda4429cb7:4ddb42793a59c1b7bfff1539dfc4d068$ */

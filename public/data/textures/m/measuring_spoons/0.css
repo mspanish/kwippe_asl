@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38148@mul@measuring-spoons {max-width:75px; max-height:75px; }
+.@a38148@mul@measuring-spoons::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/measuring_spoons/0.png/0.png);padding: 0; }
+div.@a38148@mul@measuring-spoons::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:61bcff57c9a1a4a9adeaf1190463c735:2fc1df04c623105d76992752b76862ec:4ddb42793a59c1b7bfff1539dfc4d068$ */

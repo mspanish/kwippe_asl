@@ -1,0 +1,45 @@
+{
+    "sign": "water_ski",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "w",
+            "nd": null
+        },
+        "end": {
+            "d": "bent_1",
+            "nd": "bent_1"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Chin",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "Straight",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": null,
+        "morph2_contact": 0.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "None",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 2.852,
+    "category": null
+}

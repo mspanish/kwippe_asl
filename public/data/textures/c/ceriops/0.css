@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59653@ian@ceriops-australis-flower {max-width:75px; max-height:75px; }
+.@a59653@ian@ceriops-australis-flower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/ceriops/0.png/0.png);padding: 0; }
+div.@a59653@ian@ceriops-australis-flower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59655@ian@ceriops-australis-mature-hypocotyl {max-width:75px; max-height:75px; }
+.@a59655@ian@ceriops-australis-mature-hypocotyl::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/ceriops/0.png/0.png);padding: 0; }
+div.@a59655@ian@ceriops-australis-mature-hypocotyl::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59656@ian@ceriops-australis {max-width:75px; max-height:75px; }
+.@a59656@ian@ceriops-australis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/ceriops/0.png/0.png);padding: 0; }
+div.@a59656@ian@ceriops-australis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d9a7b0c2bfd85c9eab2442711fa5a956:a42f6c9747950807869de709ae9b2d82:4ddb42793a59c1b7bfff1539dfc4d068$ */

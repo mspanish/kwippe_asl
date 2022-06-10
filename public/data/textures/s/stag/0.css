@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26542@her@stag-passant {max-width:75px; max-height:75px; }
+.@a26542@her@stag-passant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/stag/0.png/0.png);padding: 0; }
+div.@a26542@her@stag-passant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26543@her@stag-rampant {max-width:75px; max-height:75px; }
+.@a26543@her@stag-rampant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/stag/0.png/0.png);padding: 0; }
+div.@a26543@her@stag-rampant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26544@her@stag-springing {max-width:75px; max-height:75px; }
+.@a26544@her@stag-springing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/stag/0.png/0.png);padding: 0; }
+div.@a26544@her@stag-springing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61035@ian@odocoileus-virginianus-buck {max-width:75px; max-height:75px; }
+.@a61035@ian@odocoileus-virginianus-buck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/stag/0.png/0.png);padding: 0; }
+div.@a61035@ian@odocoileus-virginianus-buck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14858@gameicons-lorc@stag-head {max-width:75px; max-height:75px; }
+.@b14858@gameicons-lorc@stag-head::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/stag/0.png/0.png);padding: 0; }
+div.@b14858@gameicons-lorc@stag-head::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cbe232a503a86d186a2a4d894660a238:7b08c75e9e9989e841ed6633b978153b:4ddb42793a59c1b7bfff1539dfc4d068$ */

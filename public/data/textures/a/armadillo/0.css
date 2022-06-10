@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a44962@oa1@2-armadillo {max-width:75px; max-height:75px; }
+.@a44962@oa1@2-armadillo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/armadillo/0.png/0.png);padding: 0; }
+div.@a44962@oa1@2-armadillo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44979@oa1@armadillo {max-width:75px; max-height:75px; }
+.@a44979@oa1@armadillo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/armadillo/0.png/0.png);padding: 0; }
+div.@a44979@oa1@armadillo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12169@gameicons-delapouite@armadillo {max-width:75px; max-height:75px; }
+.@b12169@gameicons-delapouite@armadillo::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/armadillo/0.png/0.png);padding: 0; }
+div.@b12169@gameicons-delapouite@armadillo::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13726@gameicons-lorc@armadillo-tail {max-width:75px; max-height:75px; }
+.@b13726@gameicons-lorc@armadillo-tail::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/armadillo/0.png/0.png);padding: 0; }
+div.@b13726@gameicons-lorc@armadillo-tail::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:965bdf2a2d34248a55ea378f0db0f438:5709eb9a4f2cbe8b7edc7eb6bb8fcbff:4ddb42793a59c1b7bfff1539dfc4d068$ */

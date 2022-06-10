@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25961@gli@trailerhome_1 {max-width:75px; max-height:75px; }
+.@a25961@gli@trailerhome_1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rv/0.png/0.png);padding: 0; }
+div.@a25961@gli@trailerhome_1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25962@gli@trailerhome_2 {max-width:75px; max-height:75px; }
+.@a25962@gli@trailerhome_2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rv/0.png/0.png);padding: 0; }
+div.@a25962@gli@trailerhome_2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32074@map@rv-park {max-width:75px; max-height:75px; }
+.@a32074@map@rv-park::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rv/0.png/0.png);padding: 0; }
+div.@a32074@map@rv-park::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38211@mul@motor-home {max-width:75px; max-height:75px; }
+.@a38211@mul@motor-home::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/r/rv/0.png/0.png);padding: 0; }
+div.@a38211@mul@motor-home::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2e179631f50b9c2589942897192062d5:b339a783608d4c148881570a373ebfa9:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15055@gameicons-lorc@voodoo-doll {max-width:75px; max-height:75px; }
+.@b15055@gameicons-lorc@voodoo-doll::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/v/voodoo/0.png/0.png);padding: 0; }
+div.@b15055@gameicons-lorc@voodoo-doll::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:05430d48528e3406cc3f435783225982:f76c9641d5b8911d0fa26c93a2c2c6d7:4ddb42793a59c1b7bfff1539dfc4d068$ */

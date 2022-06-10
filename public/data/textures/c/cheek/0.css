@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36829@mul@cheek {max-width:75px; max-height:75px; }
+.@a36829@mul@cheek::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cheek/0.png/0.png);padding: 0; }
+div.@a36829@mul@cheek::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0d3457f9e19024caf08d7c6720e7ac37:7ce49e7ef16312f638959f073ec9ac9f:4ddb42793a59c1b7bfff1539dfc4d068$ */

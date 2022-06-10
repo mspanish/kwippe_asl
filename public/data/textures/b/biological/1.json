@@ -1,0 +1,154 @@
+
+{
+
+"@a59495@ian@bioturbation": { 
+	"vb": "75 59 -150 -592",
+ },
+"@a59818@ian@concentration-high-chlorophyll": { 
+	"vb": "75 75 -0 -0",
+ },
+"@a59819@ian@concentration-high-dissolved-organic-carbon": { 
+	"vb": "75 75 -0 -75",
+ },
+"@a59827@ian@concentration-high-particulate-organic-carbon": { 
+	"vb": "75 75 -75 -0",
+ },
+"@a59830@ian@concentration-high-phytoplankton": { 
+	"vb": "75 75 -0 -150",
+ },
+"@a59838@ian@concentration-intermittent-chlorophyll": { 
+	"vb": "75 75 -75 -75",
+ },
+"@a59839@ian@concentration-intermittent-dissolved-organic-carbon": { 
+	"vb": "75 75 -150 -0",
+ },
+"@a59847@ian@concentration-intermittent-particulate-organic-carbon": { 
+	"vb": "75 75 -0 -225",
+ },
+"@a59850@ian@concentration-intermittent-phytoplankton": { 
+	"vb": "75 75 -75 -150",
+ },
+"@a59858@ian@concentration-low-chlorophyll": { 
+	"vb": "75 75 -150 -75",
+ },
+"@a59859@ian@concentration-low-dissolved-organic-carbon": { 
+	"vb": "75 75 -0 -300",
+ },
+"@a59867@ian@concentration-low-particulate-organic-carbon": { 
+	"vb": "75 75 -75 -225",
+ },
+"@a59870@ian@concentration-low-phytoplankton": { 
+	"vb": "75 75 -150 -150",
+ },
+"@a60188@ian@evapotranspiration-reduced": { 
+	"vb": "45 75 -211 -700",
+ },
+"@a60189@ian@evapotranspiration": { 
+	"vb": "43 75 -53 -825",
+ },
+"@a60314@ian@food-webs-detrital-1": { 
+	"vb": "75 49 -150 -651",
+ },
+"@a60315@ian@food-webs-detrital-2": { 
+	"vb": "75 75 -0 -375",
+ },
+"@a60316@ian@food-webs-grazing-1": { 
+	"vb": "75 67 -150 -525",
+ },
+"@a60317@ian@food-webs-grazing-2": { 
+	"vb": "75 75 -75 -300",
+ },
+"@a60396@ian@grazing-dugong": { 
+	"vb": "75 55 -61 -750",
+ },
+"@a60397@ian@grazing-reef-fish": { 
+	"vb": "75 53 -136 -700",
+ },
+"@a60399@ian@grazing-urchin": { 
+	"vb": "75 45 -136 -753",
+ },
+"@a61178@ian@photosynthesis-respiration": { 
+	"vb": "53 75 -0 -825",
+ },
+"@a61179@ian@photosynthesis": { 
+	"vb": "61 75 -0 -750",
+ },
+"@a61185@ian@phytoplankton-bloom-crash": { 
+	"vb": "75 75 -150 -225",
+ },
+"@a61292@ian@process-ammonification": { 
+	"vb": "75 15 -61 -805",
+ },
+"@a61293@ian@process-calcification": { 
+	"vb": "75 13 -0 -900",
+ },
+"@a61294@ian@process-calcium-dissolution": { 
+	"vb": "75 12 -147 -888",
+ },
+"@a61295@ian@process-calcium-in": { 
+	"vb": "25 75 -225 -75",
+ },
+"@a61296@ian@process-calcium-out": { 
+	"vb": "25 75 -225 -150",
+ },
+"@a61297@ian@process-denitrification-1": { 
+	"vb": "75 15 -136 -798",
+ },
+"@a61298@ian@process-denitrification-2": { 
+	"vb": "23 75 -225 -225",
+ },
+"@a61299@ian@process-iron-in": { 
+	"vb": "23 75 -225 -300",
+ },
+"@a61317@ian@process-x-element-out": { 
+	"vb": "23 75 -225 -375",
+ },
+"@a61405@ian@respiration": { 
+	"vb": "61 75 -75 -675",
+ },
+"@a61406@ian@response-bioassay-high-light": { 
+	"vb": "75 75 -0 -450",
+ },
+"@a61407@ian@response-bioassay-high-n": { 
+	"vb": "75 75 -75 -375",
+ },
+"@a61408@ian@response-bioassay-high-np": { 
+	"vb": "75 75 -150 -300",
+ },
+"@a61409@ian@response-bioassay-high-p": { 
+	"vb": "75 75 -0 -525",
+ },
+"@a61410@ian@response-bioassay-high-x-symbol": { 
+	"vb": "75 75 -75 -450",
+ },
+"@a61411@ian@response-bioassay-low-light": { 
+	"vb": "75 75 -150 -375",
+ },
+"@a61412@ian@response-bioassay-low-n": { 
+	"vb": "75 75 -0 -600",
+ },
+"@a61413@ian@response-bioassay-low-np": { 
+	"vb": "75 75 -75 -525",
+ },
+"@a61414@ian@response-bioassay-low-p": { 
+	"vb": "75 75 -150 -450",
+ },
+"@a61415@ian@response-bioassay-low-x-element": { 
+	"vb": "75 75 -0 -675",
+ },
+"@a61571@ian@seabird-guano": { 
+	"vb": "51 75 -96 -820",
+ },
+"@a61811@ian@total-organic-carbon": { 
+	"vb": "75 75 -75 -600",
+ },
+"@a61892@ian@uptake-iron": { 
+	"vb": "47 75 -198 -813",
+ },
+"@a61893@ian@uptake-nitrogen": { 
+	"vb": "31 75 -225 -0",
+ },
+"@a61894@ian@uptake-phosphate": { 
+	"vb": "51 75 -147 -813",
+ },
+}

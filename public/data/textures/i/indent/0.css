@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1257@bat@in {max-width:75px; max-height:75px; }
+.@a1257@bat@in::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a1257@bat@in::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27808@icf@text-indent-first-line {max-width:75px; max-height:75px; }
+.@a27808@icf@text-indent-first-line::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a27808@icf@text-indent-first-line::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27809@icf@text-indent-left {max-width:75px; max-height:75px; }
+.@a27809@icf@text-indent-left::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a27809@icf@text-indent-left::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27810@icf@text-indent-right {max-width:75px; max-height:75px; }
+.@a27810@icf@text-indent-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a27810@icf@text-indent-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29109@jqu@indent {max-width:75px; max-height:75px; }
+.@a29109@jqu@indent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a29109@jqu@indent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a30212@lib@indent {max-width:75px; max-height:75px; }
+.@a30212@lib@indent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a30212@lib@indent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33737@mat@format-indent-decrease {max-width:75px; max-height:75px; }
+.@a33737@mat@format-indent-decrease::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a33737@mat@format-indent-decrease::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33739@mat@format-indent-increase {max-width:75px; max-height:75px; }
+.@a33739@mat@format-indent-increase::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a33739@mat@format-indent-increase::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34061@mat@indent {max-width:75px; max-height:75px; }
+.@a34061@mat@indent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a34061@mat@indent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46716@pap@format-indent-less-symbolic {max-width:75px; max-height:75px; }
+.@a46716@pap@format-indent-less-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a46716@pap@format-indent-less-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46717@pap@format-indent-more-symbolic {max-width:75px; max-height:75px; }
+.@a46717@pap@format-indent-more-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a46717@pap@format-indent-more-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53168@vaa@deindent {max-width:75px; max-height:75px; }
+.@a53168@vaa@deindent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a53168@vaa@deindent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53312@vaa@indent {max-width:75px; max-height:75px; }
+.@a53312@vaa@indent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a53312@vaa@indent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54262@wav@format-indent-decrease {max-width:75px; max-height:75px; }
+.@a54262@wav@format-indent-decrease::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a54262@wav@format-indent-decrease::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54263@wav@format-indent-increase {max-width:75px; max-height:75px; }
+.@a54263@wav@format-indent-increase::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a54263@wav@format-indent-increase::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54347@wav@indent {max-width:75px; max-height:75px; }
+.@a54347@wav@indent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 1.2658227848101267%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a54347@wav@indent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55134@web@indentleft-1 {max-width:75px; max-height:75px; }
+.@a55134@web@indentleft-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a55134@web@indentleft-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55135@web@indentright-1 {max-width:75px; max-height:75px; }
+.@a55135@web@indentright-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 98.73417721518987%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a55135@web@indentright-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57782@xei@indent {max-width:75px; max-height:75px; }
+.@a57782@xei@indent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a57782@xei@indent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a840@awe@indent {max-width:75px; max-height:75px; }
+.@a840@awe@indent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 50%;background-size: 618.6666666666666% 310.6666666666667%;background-image: url(./textures/i/indent/0.png/0.png);padding: 0; }
+div.@a840@awe@indent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:98a3531f267e3eabb8a9351206e1fe03:dce7074cac3c25ac671f9b1f55ca08a4:4ddb42793a59c1b7bfff1539dfc4d068$ */

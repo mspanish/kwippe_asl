@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a17848@fir@threeraysabove {max-width:75px; max-height:75px; }
+.@a17848@fir@threeraysabove::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rays/0.png/0.png);padding: 0; }
+div.@a17848@fir@threeraysabove::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17849@fir@threeraysbelow {max-width:75px; max-height:75px; }
+.@a17849@fir@threeraysbelow::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rays/0.png/0.png);padding: 0; }
+div.@a17849@fir@threeraysbelow::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17850@fir@threeraysleft {max-width:75px; max-height:75px; }
+.@a17850@fir@threeraysleft::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rays/0.png/0.png);padding: 0; }
+div.@a17850@fir@threeraysleft::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17851@fir@threeraysright {max-width:75px; max-height:75px; }
+.@a17851@fir@threeraysright::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rays/0.png/0.png);padding: 0; }
+div.@a17851@fir@threeraysright::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14137@gameicons-lorc@expanded-rays {max-width:75px; max-height:75px; }
+.@b14137@gameicons-lorc@expanded-rays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rays/0.png/0.png);padding: 0; }
+div.@b14137@gameicons-lorc@expanded-rays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14563@gameicons-lorc@orbital-rays {max-width:75px; max-height:75px; }
+.@b14563@gameicons-lorc@orbital-rays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/r/rays/0.png/0.png);padding: 0; }
+div.@b14563@gameicons-lorc@orbital-rays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e07312aa90551e682ff2c49993113862:9bac47435d68569a0636a3a8c257a198:4ddb42793a59c1b7bfff1539dfc4d068$ */

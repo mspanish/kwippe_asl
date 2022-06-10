@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36603@mul@blanket-chest {max-width:75px; max-height:75px; }
+.@a36603@mul@blanket-chest::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blanket/0.png/0.png);padding: 0; }
+div.@a36603@mul@blanket-chest::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36604@mul@blanket {max-width:75px; max-height:75px; }
+.@a36604@mul@blanket::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blanket/0.png/0.png);padding: 0; }
+div.@a36604@mul@blanket::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38411@mul@pet-blanket {max-width:75px; max-height:75px; }
+.@a38411@mul@pet-blanket::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blanket/0.png/0.png);padding: 0; }
+div.@a38411@mul@pet-blanket::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60345@ian@gaillardia-aristata {max-width:75px; max-height:75px; }
+.@a60345@ian@gaillardia-aristata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blanket/0.png/0.png);padding: 0; }
+div.@a60345@ian@gaillardia-aristata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60346@ian@gaillardia-pulchella {max-width:75px; max-height:75px; }
+.@a60346@ian@gaillardia-pulchella::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/b/blanket/0.png/0.png);padding: 0; }
+div.@a60346@ian@gaillardia-pulchella::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d24af4e139a89e62567666917e23c3c6:8d67a26d854e023f249ecb07d967a0b6:4ddb42793a59c1b7bfff1539dfc4d068$ */

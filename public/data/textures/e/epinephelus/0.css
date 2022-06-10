@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60128@ian@epinephelus-fuscoguttatus {max-width:75px; max-height:75px; }
+.@a60128@ian@epinephelus-fuscoguttatus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/e/epinephelus/0.png/0.png);padding: 0; }
+div.@a60128@ian@epinephelus-fuscoguttatus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60129@ian@epinephelus-itajara-adult-01 {max-width:75px; max-height:75px; }
+.@a60129@ian@epinephelus-itajara-adult-01::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/e/epinephelus/0.png/0.png);padding: 0; }
+div.@a60129@ian@epinephelus-itajara-adult-01::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60130@ian@epinephelus-itajara-adult-02 {max-width:75px; max-height:75px; }
+.@a60130@ian@epinephelus-itajara-adult-02::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/e/epinephelus/0.png/0.png);padding: 0; }
+div.@a60130@ian@epinephelus-itajara-adult-02::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60131@ian@epinephelus-malabaricus {max-width:75px; max-height:75px; }
+.@a60131@ian@epinephelus-malabaricus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/e/epinephelus/0.png/0.png);padding: 0; }
+div.@a60131@ian@epinephelus-malabaricus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4fcf557c8746d615817aa72c91d60950:5a9bb6799e477181795ba61214de6794:4ddb42793a59c1b7bfff1539dfc4d068$ */

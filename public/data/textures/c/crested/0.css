@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59285@ian@agropyron-pectiniforme {max-width:75px; max-height:75px; }
+.@a59285@ian@agropyron-pectiniforme::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/crested/0.png/0.png);padding: 0; }
+div.@a59285@ian@agropyron-pectiniforme::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13977@gameicons-lorc@crested-helmet {max-width:75px; max-height:75px; }
+.@b13977@gameicons-lorc@crested-helmet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/crested/0.png/0.png);padding: 0; }
+div.@b13977@gameicons-lorc@crested-helmet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1d7bcb6233f825a05dd54bf0f5801fbc:86a1756720be359e037983ee2d18be8f:4ddb42793a59c1b7bfff1539dfc4d068$ */

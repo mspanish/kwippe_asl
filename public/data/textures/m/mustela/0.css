@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60972@ian@mustela-frenata {max-width:75px; max-height:75px; }
+.@a60972@ian@mustela-frenata::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mustela/0.png/0.png);padding: 0; }
+div.@a60972@ian@mustela-frenata::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60973@ian@mustela-nigripes {max-width:75px; max-height:75px; }
+.@a60973@ian@mustela-nigripes::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/mustela/0.png/0.png);padding: 0; }
+div.@a60973@ian@mustela-nigripes::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e4cff21141cf2e0a1bfd9587395aa17c:b7eef60f9fcd4f2fb09cd9a74645233f:4ddb42793a59c1b7bfff1539dfc4d068$ */

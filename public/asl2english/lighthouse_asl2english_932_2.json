@@ -1,0 +1,37 @@
+{
+    "sign": "lighthouse",
+    "signer": "asl2english",
+    "uid": 932,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 51,
+            "nd": null
+        },
+        "end": {
+            "d": null,
+            "nd": 3
+        }
+    },
+    "regions": [
+        "forehead",
+        "upper-area"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

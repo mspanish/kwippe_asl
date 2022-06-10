@@ -1,0 +1,45 @@
+{
+    "sign": "cameraman",
+    "signer": "aslLex",
+    "uid": "000",
+    "synonyms": null,
+    "handshapes": {
+        "begin": {
+            "d": "baby_o",
+            "nd": "DominanceConditionViolation"
+        },
+        "end": {
+            "d": "a",
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "HeadAway",
+        "morph1_specific_second": "HeadAway",
+        "morph1_contact": 1.0,
+        "morph1_signtype": "DominanceViolation",
+        "morph1_movement": "Circular",
+        "morph1_repeat": 1,
+        "morph2_general": "Head",
+        "morph2_specific": "Forehead",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "OneHanded",
+        "morph2_movement": "None",
+        "morph2_repeat": 0.0
+    },
+    "hands": "DominanceViolation",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        1,
+        0.0
+    ],
+    "morphemes": 3,
+    "complexity": 3.0,
+    "frequency": 2.281,
+    "category": null
+}

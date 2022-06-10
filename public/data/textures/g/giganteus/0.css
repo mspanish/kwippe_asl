@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59951@ian@daihinibaenetes-giganteus {max-width:75px; max-height:75px; }
+.@a59951@ian@daihinibaenetes-giganteus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/giganteus/0.png/0.png);padding: 0; }
+div.@a59951@ian@daihinibaenetes-giganteus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61672@ian@spirobranchus-giganteus {max-width:75px; max-height:75px; }
+.@a61672@ian@spirobranchus-giganteus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/giganteus/0.png/0.png);padding: 0; }
+div.@a61672@ian@spirobranchus-giganteus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61673@ian@spirobranchus-giganteus2 {max-width:75px; max-height:75px; }
+.@a61673@ian@spirobranchus-giganteus2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/g/giganteus/0.png/0.png);padding: 0; }
+div.@a61673@ian@spirobranchus-giganteus2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5af69346179caad288287e62d025de27:869f761a092fd94529457513fae4c725:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "insurance-infection",
+    "signer": "asl2english",
+    "uid": 836,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 57,
+            "nd": null
+        },
+        "end": {
+            "d": 57,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chest",
+        "high-right"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,74 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59817@ian@concentration-high-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a59817@ian@concentration-high-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59817@ian@concentration-high-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59819@ian@concentration-high-dissolved-organic-carbon {max-width:75px; max-height:75px; }
+.@a59819@ian@concentration-high-dissolved-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59819@ian@concentration-high-dissolved-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59827@ian@concentration-high-particulate-organic-carbon {max-width:75px; max-height:75px; }
+.@a59827@ian@concentration-high-particulate-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59827@ian@concentration-high-particulate-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59837@ian@concentration-intermittent-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a59837@ian@concentration-intermittent-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59837@ian@concentration-intermittent-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59839@ian@concentration-intermittent-dissolved-organic-carbon {max-width:75px; max-height:75px; }
+.@a59839@ian@concentration-intermittent-dissolved-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59839@ian@concentration-intermittent-dissolved-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59847@ian@concentration-intermittent-particulate-organic-carbon {max-width:75px; max-height:75px; }
+.@a59847@ian@concentration-intermittent-particulate-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59847@ian@concentration-intermittent-particulate-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59857@ian@concentration-low-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a59857@ian@concentration-low-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59857@ian@concentration-low-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59859@ian@concentration-low-dissolved-organic-carbon {max-width:75px; max-height:75px; }
+.@a59859@ian@concentration-low-dissolved-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59859@ian@concentration-low-dissolved-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59867@ian@concentration-low-particulate-organic-carbon {max-width:75px; max-height:75px; }
+.@a59867@ian@concentration-low-particulate-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59867@ian@concentration-low-particulate-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59876@ian@concentration-zero-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a59876@ian@concentration-zero-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59876@ian@concentration-zero-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59979@ian@delta-high-del-13c {max-width:75px; max-height:75px; }
+.@a59979@ian@delta-high-del-13c::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59979@ian@delta-high-del-13c::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59982@ian@delta-intermittent-del-13c {max-width:75px; max-height:75px; }
+.@a59982@ian@delta-intermittent-del-13c::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59982@ian@delta-intermittent-del-13c::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59985@ian@delta-low-del-13c {max-width:75px; max-height:75px; }
+.@a59985@ian@delta-low-del-13c::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a59985@ian@delta-low-del-13c::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60562@ian@inputs-atmospheric-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a60562@ian@inputs-atmospheric-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a60562@ian@inputs-atmospheric-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60574@ian@inputs-particulate-organic-carbon {max-width:75px; max-height:75px; }
+.@a60574@ian@inputs-particulate-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a60574@ian@inputs-particulate-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60718@ian@limitation-carbon-dioxide {max-width:75px; max-height:75px; }
+.@a60718@ian@limitation-carbon-dioxide::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a60718@ian@limitation-carbon-dioxide::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60719@ian@limitation-carbon {max-width:75px; max-height:75px; }
+.@a60719@ian@limitation-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a60719@ian@limitation-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61304@ian@process-organic-carbon-release {max-width:75px; max-height:75px; }
+.@a61304@ian@process-organic-carbon-release::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a61304@ian@process-organic-carbon-release::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61312@ian@process-primary-production {max-width:75px; max-height:75px; }
+.@a61312@ian@process-primary-production::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a61312@ian@process-primary-production::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61811@ian@total-organic-carbon {max-width:75px; max-height:75px; }
+.@a61811@ian@total-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a61811@ian@total-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61829@ian@transport-dissolved-organic-carbon {max-width:75px; max-height:75px; }
+.@a61829@ian@transport-dissolved-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/c/carbon/0.png/0.png);padding: 0; }
+div.@a61829@ian@transport-dissolved-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cd146d48d76c40958092cb90a71be41d:2d15ea6523af234337dc9d90cc32b776:4ddb42793a59c1b7bfff1539dfc4d068$ */

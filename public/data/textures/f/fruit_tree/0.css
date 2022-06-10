@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37752@mul@fruit-tree {max-width:75px; max-height:75px; }
+.@a37752@mul@fruit-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/fruit_tree/0.png/0.png);padding: 0; }
+div.@a37752@mul@fruit-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12661@gameicons-delapouite@fruit-tree {max-width:75px; max-height:75px; }
+.@b12661@gameicons-delapouite@fruit-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/f/fruit_tree/0.png/0.png);padding: 0; }
+div.@b12661@gameicons-delapouite@fruit-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c172b7593f3b0e8bb68f77295381f188:0347cdfec037a685dcaeef9dd48bc12d:4ddb42793a59c1b7bfff1539dfc4d068$ */

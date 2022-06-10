@@ -1,0 +1,32 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60583@ian@integral-length-scale {max-width:75px; max-height:75px; }
+.@a60583@ian@integral-length-scale::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/turbulent/0.png/0.png);padding: 0; }
+div.@a60583@ian@integral-length-scale::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60626@ian@kolmogorov-mircoscales {max-width:75px; max-height:75px; }
+.@a60626@ian@kolmogorov-mircoscales::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/turbulent/0.png/0.png);padding: 0; }
+div.@a60626@ian@kolmogorov-mircoscales::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61426@ian@reynolds-number {max-width:75px; max-height:75px; }
+.@a61426@ian@reynolds-number::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/turbulent/0.png/0.png);padding: 0; }
+div.@a61426@ian@reynolds-number::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61491@ian@rms-turbulence-intensity {max-width:75px; max-height:75px; }
+.@a61491@ian@rms-turbulence-intensity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/turbulent/0.png/0.png);padding: 0; }
+div.@a61491@ian@rms-turbulence-intensity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61866@ian@turbulent-eddy {max-width:75px; max-height:75px; }
+.@a61866@ian@turbulent-eddy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/turbulent/0.png/0.png);padding: 0; }
+div.@a61866@ian@turbulent-eddy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61867@ian@turbulent-energy-dissipation-rate {max-width:75px; max-height:75px; }
+.@a61867@ian@turbulent-energy-dissipation-rate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/turbulent/0.png/0.png);padding: 0; }
+div.@a61867@ian@turbulent-energy-dissipation-rate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62176@ian@wake-turbulence {max-width:75px; max-height:75px; }
+.@a62176@ian@wake-turbulence::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/t/turbulent/0.png/0.png);padding: 0; }
+div.@a62176@ian@wake-turbulence::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e989ba93ae37a1cc34f3239725f9145d:1ee155d8d3984662dc09f0cec7d9567d:4ddb42793a59c1b7bfff1539dfc4d068$ */

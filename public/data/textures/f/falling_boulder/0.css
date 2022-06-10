@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14150@gameicons-lorc@falling-boulder {max-width:75px; max-height:75px; }
+.@b14150@gameicons-lorc@falling-boulder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/f/falling_boulder/0.png/0.png);padding: 0; }
+div.@b14150@gameicons-lorc@falling-boulder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6a198aed015b894801bd4e46187db16d:e4a3514738df191ee9e6881e4c094c83:4ddb42793a59c1b7bfff1539dfc4d068$ */

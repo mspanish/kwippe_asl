@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12714@gameicons-delapouite@greenhouse {max-width:75px; max-height:75px; }
+.@b12714@gameicons-delapouite@greenhouse::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/greenhouse/0.png/0.png);padding: 0; }
+div.@b12714@gameicons-delapouite@greenhouse::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:745e3b377def81031d276fd6ac768509:fe0ee51961712b5cfd53f9acb08d08a2:4ddb42793a59c1b7bfff1539dfc4d068$ */

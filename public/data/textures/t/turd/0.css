@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15022@gameicons-lorc@turd {max-width:75px; max-height:75px; }
+.@b15022@gameicons-lorc@turd::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/turd/0.png/0.png);padding: 0; }
+div.@b15022@gameicons-lorc@turd::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4be9d8ce8be6e80996e4a1df0b83c3b8:1315da7da4eb583d3bdba8b811dd7ee9:4ddb42793a59c1b7bfff1539dfc4d068$ */

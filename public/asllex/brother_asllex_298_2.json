@@ -1,0 +1,45 @@
+{
+    "sign": "brother",
+    "signer": "aslLex",
+    "uid": 3013,
+    "synonyms": "brother, male sibling, BROTHERal",
+    "handshapes": {
+        "begin": {
+            "d": "a",
+            "nd": null
+        },
+        "end": {
+            "d": "l",
+            "nd": "l"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Forehead",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "OneHanded",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "FingerRadial",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "OneHanded",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 2.0,
+    "frequency": 5.48,
+    "category": "People"
+}

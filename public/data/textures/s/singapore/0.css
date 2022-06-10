@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16212@emo@sg {max-width:75px; max-height:75px; }
+.@a16212@emo@sg::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/singapore/0.png/0.png);padding: 0; }
+div.@a16212@emo@sg::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37602@mul@singapore {max-width:75px; max-height:75px; }
+.@a37602@mul@singapore::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/singapore/0.png/0.png);padding: 0; }
+div.@a37602@mul@singapore::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49840@str@783-singapore {max-width:75px; max-height:75px; }
+.@a49840@str@783-singapore::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/singapore/0.png/0.png);padding: 0; }
+div.@a49840@str@783-singapore::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2034@wikim-all@coat_of_arms_of_singapore {max-width:75px; max-height:75px; }
+.@d2034@wikim-all@coat_of_arms_of_singapore::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/singapore/0.png/0.png);padding: 0; }
+div.@d2034@wikim-all@coat_of_arms_of_singapore::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2679@wikim-all@flag_of_singapore {max-width:75px; max-height:75px; }
+.@d2679@wikim-all@flag_of_singapore::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/singapore/0.png/0.png);padding: 0; }
+div.@d2679@wikim-all@flag_of_singapore::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3784@wikim-all@singapore_police_coast_guard_racing_stripe {max-width:75px; max-height:75px; }
+.@d3784@wikim-all@singapore_police_coast_guard_racing_stripe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/s/singapore/0.png/0.png);padding: 0; }
+div.@d3784@wikim-all@singapore_police_coast_guard_racing_stripe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:83a6cf881a06d02bd5e799360bb47e23:0e1d408d50f3a15b6e19fc62edf46a42:4ddb42793a59c1b7bfff1539dfc4d068$ */

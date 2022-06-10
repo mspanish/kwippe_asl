@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a50@aac@eyebrows {max-width:75px; max-height:75px; }
+.@a50@aac@eyebrows::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/e/eyebrows/0.png/0.png);padding: 0; }
+div.@a50@aac@eyebrows::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ffe6e252c9a1a8dc16416d5f3b1df1f5:ac316298735729b1ef6f4d93fbced6e0:4ddb42793a59c1b7bfff1539dfc4d068$ */

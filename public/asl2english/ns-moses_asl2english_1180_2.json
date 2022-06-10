@@ -1,0 +1,37 @@
+{
+    "sign": "ns-moses",
+    "signer": "asl2english",
+    "uid": 1180,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 27,
+            "nd": 27
+        },
+        "end": {
+            "d": 15,
+            "nd": 15
+        }
+    },
+    "regions": [
+        "chin-area",
+        "chin-area"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            -1,
+            1
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

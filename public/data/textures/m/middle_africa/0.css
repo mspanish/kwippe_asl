@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16016@emo@ao {max-width:75px; max-height:75px; }
+.@a16016@emo@ao::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/middle_africa/0.png/0.png);padding: 0; }
+div.@a16016@emo@ao::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37002@mul@angola {max-width:75px; max-height:75px; }
+.@a37002@mul@angola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/middle_africa/0.png/0.png);padding: 0; }
+div.@a37002@mul@angola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37463@mul@angola {max-width:75px; max-height:75px; }
+.@a37463@mul@angola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/middle_africa/0.png/0.png);padding: 0; }
+div.@a37463@mul@angola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2138@wikim-all@emblem_of_angola {max-width:75px; max-height:75px; }
+.@d2138@wikim-all@emblem_of_angola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/middle_africa/0.png/0.png);padding: 0; }
+div.@d2138@wikim-all@emblem_of_angola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2244@wikim-all@euroangola {max-width:75px; max-height:75px; }
+.@d2244@wikim-all@euroangola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/middle_africa/0.png/0.png);padding: 0; }
+div.@d2244@wikim-all@euroangola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4342@wikim-nojs@flag_of_angola {max-width:75px; max-height:75px; }
+.@d4342@wikim-nojs@flag_of_angola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/middle_africa/0.png/0.png);padding: 0; }
+div.@d4342@wikim-nojs@flag_of_angola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0c89d28c8a5879320d1adf4cc6c68797:d1a903960e3c4c36db50b830825c77b0:4ddb42793a59c1b7bfff1539dfc4d068$ */

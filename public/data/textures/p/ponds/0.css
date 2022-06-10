@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59359@ian@aquaculture-ponds-1 {max-width:75px; max-height:75px; }
+.@a59359@ian@aquaculture-ponds-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/ponds/0.png/0.png);padding: 0; }
+div.@a59359@ian@aquaculture-ponds-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59360@ian@aquaculture-ponds2 {max-width:75px; max-height:75px; }
+.@a59360@ian@aquaculture-ponds2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/ponds/0.png/0.png);padding: 0; }
+div.@a59360@ian@aquaculture-ponds2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59361@ian@aquaculture-ponds3 {max-width:75px; max-height:75px; }
+.@a59361@ian@aquaculture-ponds3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/ponds/0.png/0.png);padding: 0; }
+div.@a59361@ian@aquaculture-ponds3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0173e7ab9e9cbd89429221bad8e44971:8535f1c439190261768110bb95bfd1d3:4ddb42793a59c1b7bfff1539dfc4d068$ */

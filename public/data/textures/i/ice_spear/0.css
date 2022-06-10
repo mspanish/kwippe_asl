@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14349@gameicons-lorc@ice-spear {max-width:75px; max-height:75px; }
+.@b14349@gameicons-lorc@ice-spear::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/i/ice_spear/0.png/0.png);padding: 0; }
+div.@b14349@gameicons-lorc@ice-spear::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:90d79a9d503c06d327671b9dc0e79cee:8595a5d4dc81af4f1574a97eeeca21b0:4ddb42793a59c1b7bfff1539dfc4d068$ */

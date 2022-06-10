@@ -1,0 +1,37 @@
+{
+    "sign": "ns-vietnam",
+    "signer": "asl2english",
+    "uid": 1241,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 77,
+            "nd": 72
+        },
+        "end": {
+            "d": null,
+            "nd": 63
+        }
+    },
+    "regions": [
+        "R-cheek",
+        "R-cheek"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            0,
+            0,
+            0
+        ]
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

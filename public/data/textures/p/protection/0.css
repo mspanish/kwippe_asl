@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60714@ian@lighthouse-2 {max-width:75px; max-height:75px; }
+.@a60714@ian@lighthouse-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/protection/0.png/0.png);padding: 0; }
+div.@a60714@ian@lighthouse-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60812@ian@marine-protected-area {max-width:75px; max-height:75px; }
+.@a60812@ian@marine-protected-area::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/protection/0.png/0.png);padding: 0; }
+div.@a60812@ian@marine-protected-area::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61322@ian@protected-area {max-width:75px; max-height:75px; }
+.@a61322@ian@protected-area::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/protection/0.png/0.png);padding: 0; }
+div.@a61322@ian@protected-area::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61719@ian@strombus-gigas {max-width:75px; max-height:75px; }
+.@a61719@ian@strombus-gigas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/protection/0.png/0.png);padding: 0; }
+div.@a61719@ian@strombus-gigas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61875@ian@turtle-nest-anti-predator-cage {max-width:75px; max-height:75px; }
+.@a61875@ian@turtle-nest-anti-predator-cage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/protection/0.png/0.png);padding: 0; }
+div.@a61875@ian@turtle-nest-anti-predator-cage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62140@ian@usa-wa-sequim-discovery-bays {max-width:75px; max-height:75px; }
+.@a62140@ian@usa-wa-sequim-discovery-bays::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/p/protection/0.png/0.png);padding: 0; }
+div.@a62140@ian@usa-wa-sequim-discovery-bays::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:be726f0362c7b2d2f510771c7d765660:2ae7e138726d8e2534a868848afd708c:4ddb42793a59c1b7bfff1539dfc4d068$ */

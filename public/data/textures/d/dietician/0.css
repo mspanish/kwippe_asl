@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1742@bon@dietician-7023 {max-width:75px; max-height:75px; }
+.@a1742@bon@dietician-7023::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/dietician/0.png/0.png);padding: 0; }
+div.@a1742@bon@dietician-7023::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2518@bon@therapist-dietician-5523 {max-width:75px; max-height:75px; }
+.@a2518@bon@therapist-dietician-5523::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/dietician/0.png/0.png);padding: 0; }
+div.@a2518@bon@therapist-dietician-5523::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:534ab3bc56f178e35bde5555cb72f974:0bd86b8d51560364f8fb848bdd381414:4ddb42793a59c1b7bfff1539dfc4d068$ */

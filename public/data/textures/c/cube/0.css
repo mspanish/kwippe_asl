@@ -1,0 +1,50 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25800@gli@play_cube {max-width:75px; max-height:75px; }
+.@a25800@gli@play_cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.21551724137931033% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@a25800@gli@play_cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a33179@mat@cube {max-width:75px; max-height:75px; }
+.@a33179@mat@cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 8.512931034482758% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@a33179@mat@cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53159@vaa@cube {max-width:75px; max-height:75px; }
+.@a53159@vaa@cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.810344827586206% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@a53159@vaa@cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55755@web@roundcube {max-width:75px; max-height:75px; }
+.@a55755@web@roundcube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.107758620689655% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@a55755@web@roundcube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56453@win@companioncube {max-width:75px; max-height:75px; }
+.@a56453@win@companioncube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.4051724137931% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@a56453@win@companioncube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57617@xei@dashcube {max-width:75px; max-height:75px; }
+.@a57617@xei@dashcube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 41.702586206896555% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@a57617@xei@dashcube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a725@awe@cube {max-width:75px; max-height:75px; }
+.@a725@awe@cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@a725@awe@cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a728@awe@dashcube {max-width:75px; max-height:75px; }
+.@a728@awe@dashcube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 58.297413793103445% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@a728@awe@dashcube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12416@gameicons-delapouite@companion-cube {max-width:75px; max-height:75px; }
+.@b12416@gameicons-delapouite@companion-cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.59482758620689% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@b12416@gameicons-delapouite@companion-cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12463@gameicons-delapouite@cube {max-width:75px; max-height:75px; }
+.@b12463@gameicons-delapouite@cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.89224137931035% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@b12463@gameicons-delapouite@cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12948@gameicons-delapouite@melting-ice-cube {max-width:75px; max-height:75px; }
+.@b12948@gameicons-delapouite@melting-ice-cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.1896551724138% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@b12948@gameicons-delapouite@melting-ice-cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14347@gameicons-lorc@ice-cube {max-width:75px; max-height:75px; }
+.@b14347@gameicons-lorc@ice-cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 91.48706896551724% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@b14347@gameicons-lorc@ice-cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8524@web@cube {max-width:75px; max-height:75px; }
+.@b8524@web@cube::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.78448275862068% 50%;background-size: 1337.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cube/0.png/0.png);padding: 0; }
+div.@b8524@web@cube::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:622f21e795a997d33d98750f049cbc02:60dbb6db66d1ace3de1f3f0dd1f2a671:4ddb42793a59c1b7bfff1539dfc4d068$ */

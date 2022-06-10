@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a45313@ope@demon {max-width:75px; max-height:75px; }
+.@a45313@ope@demon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/evil/0.png/0.png);padding: 0; }
+div.@a45313@ope@demon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14129@gameicons-lorc@evil-book {max-width:75px; max-height:75px; }
+.@b14129@gameicons-lorc@evil-book::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/evil/0.png/0.png);padding: 0; }
+div.@b14129@gameicons-lorc@evil-book::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14130@gameicons-lorc@evil-bud {max-width:75px; max-height:75px; }
+.@b14130@gameicons-lorc@evil-bud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/evil/0.png/0.png);padding: 0; }
+div.@b14130@gameicons-lorc@evil-bud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14132@gameicons-lorc@evil-fork {max-width:75px; max-height:75px; }
+.@b14132@gameicons-lorc@evil-fork::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/evil/0.png/0.png);padding: 0; }
+div.@b14132@gameicons-lorc@evil-fork::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14133@gameicons-lorc@evil-hand {max-width:75px; max-height:75px; }
+.@b14133@gameicons-lorc@evil-hand::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/evil/0.png/0.png);padding: 0; }
+div.@b14133@gameicons-lorc@evil-hand::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14134@gameicons-lorc@evil-minion {max-width:75px; max-height:75px; }
+.@b14134@gameicons-lorc@evil-minion::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/evil/0.png/0.png);padding: 0; }
+div.@b14134@gameicons-lorc@evil-minion::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14136@gameicons-lorc@evil-tree {max-width:75px; max-height:75px; }
+.@b14136@gameicons-lorc@evil-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/evil/0.png/0.png);padding: 0; }
+div.@b14136@gameicons-lorc@evil-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15172@gameicons-sbed@evil-wings {max-width:75px; max-height:75px; }
+.@b15172@gameicons-sbed@evil-wings::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/e/evil/0.png/0.png);padding: 0; }
+div.@b15172@gameicons-sbed@evil-wings::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bc1c2268e29ffa6d41fcf6ea334fe736:5410d061021ea417373ea6d25c34cc79:4ddb42793a59c1b7bfff1539dfc4d068$ */

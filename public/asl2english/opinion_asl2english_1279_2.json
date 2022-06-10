@@ -1,0 +1,37 @@
+{
+    "sign": "opinion",
+    "signer": "asl2english",
+    "uid": 1279,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 65,
+            "nd": null
+        },
+        "end": {
+            "d": 65,
+            "nd": null
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "forehead"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "repeated",
+        "dir": [
+            -1,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

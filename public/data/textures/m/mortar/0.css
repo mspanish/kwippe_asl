@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a29682@knl@mortar {max-width:75px; max-height:75px; }
+.@a29682@knl@mortar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mortar/0.png/0.png);padding: 0; }
+div.@a29682@knl@mortar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38410@mul@pestle-and-mortar {max-width:75px; max-height:75px; }
+.@a38410@mul@pestle-and-mortar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mortar/0.png/0.png);padding: 0; }
+div.@a38410@mul@pestle-and-mortar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60924@ian@mortar-and-pestle {max-width:75px; max-height:75px; }
+.@a60924@ian@mortar-and-pestle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mortar/0.png/0.png);padding: 0; }
+div.@a60924@ian@mortar-and-pestle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60925@ian@mortar-and-pestle2 {max-width:75px; max-height:75px; }
+.@a60925@ian@mortar-and-pestle2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mortar/0.png/0.png);padding: 0; }
+div.@a60925@ian@mortar-and-pestle2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12984@gameicons-delapouite@mortar {max-width:75px; max-height:75px; }
+.@b12984@gameicons-delapouite@mortar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mortar/0.png/0.png);padding: 0; }
+div.@b12984@gameicons-delapouite@mortar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15361@gameicons-skoll@pestle-mortar {max-width:75px; max-height:75px; }
+.@b15361@gameicons-skoll@pestle-mortar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/m/mortar/0.png/0.png);padding: 0; }
+div.@b15361@gameicons-skoll@pestle-mortar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3a8b59b0915beeadabf9830472734439:ae8ab3dbafc453494b1e0fa3dd5c4b12:4ddb42793a59c1b7bfff1539dfc4d068$ */

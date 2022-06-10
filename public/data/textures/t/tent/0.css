@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a40213@noc@tent {max-width:75px; max-height:75px; }
+.@a40213@noc@tent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@a40213@noc@tent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43710@nog@tent-travel-places {max-width:75px; max-height:75px; }
+.@a43710@nog@tent-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@a43710@nog@tent-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44797@not@tent {max-width:75px; max-height:75px; }
+.@a44797@not@tent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@a44797@not@tent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47944@plateau@tent-bazaar {max-width:75px; max-height:75px; }
+.@a47944@plateau@tent-bazaar::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@a47944@plateau@tent-bazaar::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53828@videoplasty@tent_flat_icon_vector {max-width:75px; max-height:75px; }
+.@a53828@videoplasty@tent_flat_icon_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@a53828@videoplasty@tent_flat_icon_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61788@ian@tent {max-width:75px; max-height:75px; }
+.@a61788@ian@tent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@a61788@ian@tent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61807@ian@tipi-teepee {max-width:75px; max-height:75px; }
+.@a61807@ian@tipi-teepee::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@a61807@ian@tipi-teepee::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62359@ope@tent {max-width:75px; max-height:75px; }
+.@a62359@ope@tent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@a62359@ope@tent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12213@gameicons-delapouite@barrack_gameicons-tent {max-width:75px; max-height:75px; }
+.@b12213@gameicons-delapouite@barrack_gameicons-tent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@b12213@gameicons-delapouite@barrack_gameicons-tent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12328@gameicons-delapouite@camping-tent {max-width:75px; max-height:75px; }
+.@b12328@gameicons-delapouite@camping-tent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/t/tent/0.png/0.png);padding: 0; }
+div.@b12328@gameicons-delapouite@camping-tent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b7fdb6ddbde6c62be642be4bd74ccf5a:8fcb8270454e8167974a5e19f7891da0:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "bowtie",
+    "signer": "asl2english",
+    "uid": 191,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 49,
+            "nd": 49
+        },
+        "end": {
+            "d": 49,
+            "nd": 49
+        }
+    },
+    "regions": [
+        "neck",
+        "R-shoulder"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

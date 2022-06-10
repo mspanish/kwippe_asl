@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12741@gameicons-delapouite@hazmat-suit {max-width:75px; max-height:75px; }
+.@b12741@gameicons-delapouite@hazmat-suit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/hazmat_suit/0.png/0.png);padding: 0; }
+div.@b12741@gameicons-delapouite@hazmat-suit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6c051097a27aa33e8a87836a983d716d:591756d3010f757d5dd27d0c82347a32:4ddb42793a59c1b7bfff1539dfc4d068$ */

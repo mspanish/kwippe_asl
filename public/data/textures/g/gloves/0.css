@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37782@mul@gloves {max-width:75px; max-height:75px; }
+.@a37782@mul@gloves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gloves/0.png/0.png);padding: 0; }
+div.@a37782@mul@gloves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41890@nog@gloves-smileys-people {max-width:75px; max-height:75px; }
+.@a41890@nog@gloves-smileys-people::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gloves/0.png/0.png);padding: 0; }
+div.@a41890@nog@gloves-smileys-people::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50482@tw2@gloves {max-width:75px; max-height:75px; }
+.@a50482@tw2@gloves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gloves/0.png/0.png);padding: 0; }
+div.@a50482@tw2@gloves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12691@gameicons-delapouite@gloves {max-width:75px; max-height:75px; }
+.@b12691@gameicons-delapouite@gloves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gloves/0.png/0.png);padding: 0; }
+div.@b12691@gameicons-delapouite@gloves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13640@gameicons-delapouite@winter-gloves {max-width:75px; max-height:75px; }
+.@b13640@gameicons-delapouite@winter-gloves::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/g/gloves/0.png/0.png);padding: 0; }
+div.@b13640@gameicons-delapouite@winter-gloves::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3deedc5e4f362834b23bb54da13d8b1e:ce4d26e6d18b33750e63ec4264414f50:4ddb42793a59c1b7bfff1539dfc4d068$ */

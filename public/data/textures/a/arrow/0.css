@@ -1,0 +1,119 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a30038@knl@arrows {max-width:75px; max-height:75px; }
+.@a30038@knl@arrows::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a30038@knl@arrows::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36469@mul@arrow-keys {max-width:75px; max-height:75px; }
+.@a36469@mul@arrow-keys::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a36469@mul@arrow-keys::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59991@ian@dendrobates-pumilio-adult {max-width:75px; max-height:75px; }
+.@a59991@ian@dendrobates-pumilio-adult::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a59991@ian@dendrobates-pumilio-adult::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60190@ian@exchange-freshwater {max-width:75px; max-height:75px; }
+.@a60190@ian@exchange-freshwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60190@ian@exchange-freshwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60191@ian@exchange-gas {max-width:75px; max-height:75px; }
+.@a60191@ian@exchange-gas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60191@ian@exchange-gas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60192@ian@exchange-humic-stained-water {max-width:75px; max-height:75px; }
+.@a60192@ian@exchange-humic-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.5141388174807198% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60192@ian@exchange-humic-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60193@ian@exchange-iron-stained-water {max-width:75px; max-height:75px; }
+.@a60193@ian@exchange-iron-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60193@ian@exchange-iron-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60194@ian@exchange-nutrients {max-width:75px; max-height:75px; }
+.@a60194@ian@exchange-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60194@ian@exchange-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60195@ian@exchange-saltwater-limited {max-width:75px; max-height:75px; }
+.@a60195@ian@exchange-saltwater-limited::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60195@ian@exchange-saltwater-limited::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60196@ian@exchange-saltwater {max-width:75px; max-height:75px; }
+.@a60196@ian@exchange-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60196@ian@exchange-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60197@ian@exchange-sediments-nutrients {max-width:75px; max-height:75px; }
+.@a60197@ian@exchange-sediments-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 0.5141388174807198%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60197@ian@exchange-sediments-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60198@ian@exchange-sediments {max-width:75px; max-height:75px; }
+.@a60198@ian@exchange-sediments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60198@ian@exchange-sediments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60301@ian@flux-freshwater {max-width:75px; max-height:75px; }
+.@a60301@ian@flux-freshwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60301@ian@flux-freshwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60302@ian@flux-gas {max-width:75px; max-height:75px; }
+.@a60302@ian@flux-gas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60302@ian@flux-gas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60303@ian@flux-humic-stained-water {max-width:75px; max-height:75px; }
+.@a60303@ian@flux-humic-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60303@ian@flux-humic-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60304@ian@flux-iron-stained-water {max-width:75px; max-height:75px; }
+.@a60304@ian@flux-iron-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.308483290488432% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60304@ian@flux-iron-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60305@ian@flux-nutrients {max-width:75px; max-height:75px; }
+.@a60305@ian@flux-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60305@ian@flux-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60306@ian@flux-saltwater {max-width:75px; max-height:75px; }
+.@a60306@ian@flux-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60306@ian@flux-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60307@ian@flux-sediments-nutrients {max-width:75px; max-height:75px; }
+.@a60307@ian@flux-sediments-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60307@ian@flux-sediments-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60308@ian@flux-sediments {max-width:75px; max-height:75px; }
+.@a60308@ian@flux-sediments::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 20.308483290488432%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60308@ian@flux-sediments::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60580@ian@inputs-sewage {max-width:75px; max-height:75px; }
+.@a60580@ian@inputs-sewage::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a60580@ian@inputs-sewage::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61015@ian@north-arrow-1 {max-width:75px; max-height:75px; }
+.@a61015@ian@north-arrow-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61015@ian@north-arrow-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61017@ian@north-arrow-3 {max-width:75px; max-height:75px; }
+.@a61017@ian@north-arrow-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61017@ian@north-arrow-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61142@ian@peltandra-virginica {max-width:75px; max-height:75px; }
+.@a61142@ian@peltandra-virginica::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.102827763496144% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61142@ian@peltandra-virginica::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61829@ian@transport-dissolved-organic-carbon {max-width:75px; max-height:75px; }
+.@a61829@ian@transport-dissolved-organic-carbon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61829@ian@transport-dissolved-organic-carbon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61830@ian@transport-freshwater {max-width:75px; max-height:75px; }
+.@a61830@ian@transport-freshwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61830@ian@transport-freshwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61831@ian@transport-gas {max-width:75px; max-height:75px; }
+.@a61831@ian@transport-gas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 40.102827763496144%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61831@ian@transport-gas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61832@ian@transport-humic-stained-water {max-width:75px; max-height:75px; }
+.@a61832@ian@transport-humic-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61832@ian@transport-humic-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61833@ian@transport-iron-stained-water {max-width:75px; max-height:75px; }
+.@a61833@ian@transport-iron-stained-water::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61833@ian@transport-iron-stained-water::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61834@ian@transport-nutrients {max-width:75px; max-height:75px; }
+.@a61834@ian@transport-nutrients::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.897172236503856% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61834@ian@transport-nutrients::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61835@ian@transport-particulate-organic-matter {max-width:75px; max-height:75px; }
+.@a61835@ian@transport-particulate-organic-matter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61835@ian@transport-particulate-organic-matter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61836@ian@transport-saltwater {max-width:75px; max-height:75px; }
+.@a61836@ian@transport-saltwater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 59.897172236503856%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61836@ian@transport-saltwater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61837@ian@transport-sediment-nutrient {max-width:75px; max-height:75px; }
+.@a61837@ian@transport-sediment-nutrient::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61837@ian@transport-sediment-nutrient::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61838@ian@transport-sediment {max-width:75px; max-height:75px; }
+.@a61838@ian@transport-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.69151670951157% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61838@ian@transport-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61895@ian@upwelling {max-width:75px; max-height:75px; }
+.@a61895@ian@upwelling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 79.69151670951157%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a61895@ian@upwelling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62234@ian@weather-wind-vector {max-width:75px; max-height:75px; }
+.@a62234@ian@weather-wind-vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.48586118251929% 99.48586118251929%;background-size: 618.6666666666666% 618.6666666666666%;background-image: url(./textures/a/arrow/0.png/0.png);padding: 0; }
+div.@a62234@ian@weather-wind-vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:475c6e6bf2a05d3fc22b3d4ebc7db507:76a668f88b9335dc421e40a99b510f09:4ddb42793a59c1b7bfff1539dfc4d068$ */

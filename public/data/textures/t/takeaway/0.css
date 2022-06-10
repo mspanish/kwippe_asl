@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38944@mul@takeaway-burger-and-chips {max-width:75px; max-height:75px; }
+.@a38944@mul@takeaway-burger-and-chips::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/takeaway/0.png/0.png);padding: 0; }
+div.@a38944@mul@takeaway-burger-and-chips::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38945@mul@takeaway-burger {max-width:75px; max-height:75px; }
+.@a38945@mul@takeaway-burger::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/takeaway/0.png/0.png);padding: 0; }
+div.@a38945@mul@takeaway-burger::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38946@mul@takeaway-chinese {max-width:75px; max-height:75px; }
+.@a38946@mul@takeaway-chinese::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/takeaway/0.png/0.png);padding: 0; }
+div.@a38946@mul@takeaway-chinese::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38947@mul@takeaway-container {max-width:75px; max-height:75px; }
+.@a38947@mul@takeaway-container::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/takeaway/0.png/0.png);padding: 0; }
+div.@a38947@mul@takeaway-container::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38948@mul@takeaway-indian {max-width:75px; max-height:75px; }
+.@a38948@mul@takeaway-indian::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/t/takeaway/0.png/0.png);padding: 0; }
+div.@a38948@mul@takeaway-indian::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1a95f25419ea061cc992ccc85c3f9a8f:be00c77a467da683b370a50cbc5a4594:4ddb42793a59c1b7bfff1539dfc4d068$ */

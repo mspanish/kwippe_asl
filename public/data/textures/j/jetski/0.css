@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a32030@map@jet-skiing {max-width:75px; max-height:75px; }
+.@a32030@map@jet-skiing::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/j/jetski/0.png/0.png);padding: 0; }
+div.@a32030@map@jet-skiing::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49053@ssj@jetski {max-width:75px; max-height:75px; }
+.@a49053@ssj@jetski::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/j/jetski/0.png/0.png);padding: 0; }
+div.@a49053@ssj@jetski::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60610@ian@jet-ski {max-width:75px; max-height:75px; }
+.@a60610@ian@jet-ski::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/j/jetski/0.png/0.png);padding: 0; }
+div.@a60610@ian@jet-ski::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:7c3d49ec8fab4a33067c73151f4b8f03:b3bd74ca4d25482bc0a16ec0a485f109:4ddb42793a59c1b7bfff1539dfc4d068$ */

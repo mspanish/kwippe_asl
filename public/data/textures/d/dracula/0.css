@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a41555@nog@dracula {max-width:75px; max-height:75px; }
+.@a41555@nog@dracula::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/d/dracula/0.png/0.png);padding: 0; }
+div.@a41555@nog@dracula::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d89809561ba0ffd5aca7e998b239309c:1b1d8e1e8a9d914cdb984b0d71d3596e:4ddb42793a59c1b7bfff1539dfc4d068$ */

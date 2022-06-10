@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59567@ian@callianassa-spp {max-width:75px; max-height:75px; }
+.@a59567@ian@callianassa-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mud/0.png/0.png);padding: 0; }
+div.@a59567@ian@callianassa-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60160@ian@estuary-2d-open-with-mud-deposits {max-width:75px; max-height:75px; }
+.@a60160@ian@estuary-2d-open-with-mud-deposits::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mud/0.png/0.png);padding: 0; }
+div.@a60160@ian@estuary-2d-open-with-mud-deposits::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60416@ian@habitat-2d-intertidal-mud {max-width:75px; max-height:75px; }
+.@a60416@ian@habitat-2d-intertidal-mud::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mud/0.png/0.png);padding: 0; }
+div.@a60416@ian@habitat-2d-intertidal-mud::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60600@ian@island-barrier-with-mud-banks {max-width:75px; max-height:75px; }
+.@a60600@ian@island-barrier-with-mud-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mud/0.png/0.png);padding: 0; }
+div.@a60600@ian@island-barrier-with-mud-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61880@ian@uca-spp-2 {max-width:75px; max-height:75px; }
+.@a61880@ian@uca-spp-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/mud/0.png/0.png);padding: 0; }
+div.@a61880@ian@uca-spp-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b32a4a3d8aaa11662fa82336842ba1f7:a124b44db36978dd8bcf5313f39e8d35:4ddb42793a59c1b7bfff1539dfc4d068$ */

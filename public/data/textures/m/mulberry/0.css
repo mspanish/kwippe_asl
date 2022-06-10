@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60917@ian@morinda-citrifolia {max-width:75px; max-height:75px; }
+.@a60917@ian@morinda-citrifolia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/mulberry/0.png/0.png);padding: 0; }
+div.@a60917@ian@morinda-citrifolia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:5ac3c88220efcfeed964d4401c702598:6fa07fc546c4179e0b1ec6228ac48d4e:4ddb42793a59c1b7bfff1539dfc4d068$ */

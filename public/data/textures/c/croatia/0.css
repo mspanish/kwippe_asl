@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16111@emo@hr {max-width:75px; max-height:75px; }
+.@a16111@emo@hr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/croatia/0.png/0.png);padding: 0; }
+div.@a16111@emo@hr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37030@mul@croatia {max-width:75px; max-height:75px; }
+.@a37030@mul@croatia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/croatia/0.png/0.png);padding: 0; }
+div.@a37030@mul@croatia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37502@mul@croatia {max-width:75px; max-height:75px; }
+.@a37502@mul@croatia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/croatia/0.png/0.png);padding: 0; }
+div.@a37502@mul@croatia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2100@wikim-all@croatia_chequy {max-width:75px; max-height:75px; }
+.@d2100@wikim-all@croatia_chequy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/croatia/0.png/0.png);padding: 0; }
+div.@d2100@wikim-all@croatia_chequy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2101@wikim-all@croatian_coast_guard_racing_stripe {max-width:75px; max-height:75px; }
+.@d2101@wikim-all@croatian_coast_guard_racing_stripe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/croatia/0.png/0.png);padding: 0; }
+div.@d2101@wikim-all@croatian_coast_guard_racing_stripe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4365@wikim-nojs@independent_state_of_croatia_air_force_fin_flash_uuu281944-1945uuu29 {max-width:75px; max-height:75px; }
+.@d4365@wikim-nojs@independent_state_of_croatia_air_force_fin_flash_uuu281944-1945uuu29::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/croatia/0.png/0.png);padding: 0; }
+div.@d4365@wikim-nojs@independent_state_of_croatia_air_force_fin_flash_uuu281944-1945uuu29::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c60ff78c5a9e74770ddb5de209c2ff42:a24ce2670040ad2fa2f07977186bccb4:4ddb42793a59c1b7bfff1539dfc4d068$ */

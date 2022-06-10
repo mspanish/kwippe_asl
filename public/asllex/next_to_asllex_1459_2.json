@@ -1,0 +1,45 @@
+{
+    "sign": "next_to",
+    "signer": "aslLex",
+    "uid": 196,
+    "synonyms": "adjacent, besides, by, close, near, next, next to, proximate, side, neighbor",
+    "handshapes": {
+        "begin": {
+            "d": "flat_b",
+            "nd": "flat_b"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Hand",
+        "morph1_specific": "FingerBack",
+        "morph1_specific_second": "HandAway",
+        "morph1_contact": null,
+        "morph1_signtype": "AsymmetricalSameHandshape",
+        "morph1_movement": "Curved",
+        "morph1_repeat": 0,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "AsymmetricalSameHandshape",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 2.0,
+    "frequency": 4.704,
+    "category": "Prepositions and Locations"
+}

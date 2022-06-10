@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12781@gameicons-delapouite@horned-reptile {max-width:75px; max-height:75px; }
+.@b12781@gameicons-delapouite@horned-reptile::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/horned_reptile/0.png/0.png);padding: 0; }
+div.@b12781@gameicons-delapouite@horned-reptile::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e20b23caa95c7f95ee02bafd7e3d4418:ba86bf14e1e4cda0dc9efb9c771dbb98:4ddb42793a59c1b7bfff1539dfc4d068$ */

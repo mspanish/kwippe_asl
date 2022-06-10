@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59879@ian@concrete-weir {max-width:75px; max-height:75px; }
+.@a59879@ian@concrete-weir::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/weir/0.png/0.png);padding: 0; }
+div.@a59879@ian@concrete-weir::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59914@ian@cross-vane-weir {max-width:75px; max-height:75px; }
+.@a59914@ian@cross-vane-weir::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/weir/0.png/0.png);padding: 0; }
+div.@a59914@ian@cross-vane-weir::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60274@ian@fish-trap-2 {max-width:75px; max-height:75px; }
+.@a60274@ian@fish-trap-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/weir/0.png/0.png);padding: 0; }
+div.@a60274@ian@fish-trap-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61463@ian@river-3d-cross-vane-weir-1 {max-width:75px; max-height:75px; }
+.@a61463@ian@river-3d-cross-vane-weir-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/weir/0.png/0.png);padding: 0; }
+div.@a61463@ian@river-3d-cross-vane-weir-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61464@ian@river-3d-cross-vane-weir-2 {max-width:75px; max-height:75px; }
+.@a61464@ian@river-3d-cross-vane-weir-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/weir/0.png/0.png);padding: 0; }
+div.@a61464@ian@river-3d-cross-vane-weir-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62013@ian@usa-ma-boston-harbor {max-width:75px; max-height:75px; }
+.@a62013@ian@usa-ma-boston-harbor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/w/weir/0.png/0.png);padding: 0; }
+div.@a62013@ian@usa-ma-boston-harbor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:50bbb0f7369f0cdba7d78ac36c795998:999da908e21b798a67e64e11585187e3:4ddb42793a59c1b7bfff1539dfc4d068$ */

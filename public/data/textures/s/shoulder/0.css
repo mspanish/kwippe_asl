@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38738@mul@shoulder {max-width:75px; max-height:75px; }
+.@a38738@mul@shoulder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shoulder/0.png/0.png);padding: 0; }
+div.@a38738@mul@shoulder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13310@gameicons-delapouite@shoulder-armor {max-width:75px; max-height:75px; }
+.@b13310@gameicons-delapouite@shoulder-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shoulder/0.png/0.png);padding: 0; }
+div.@b13310@gameicons-delapouite@shoulder-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13377@gameicons-delapouite@spiked-shoulder-armor {max-width:75px; max-height:75px; }
+.@b13377@gameicons-delapouite@spiked-shoulder-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shoulder/0.png/0.png);padding: 0; }
+div.@b13377@gameicons-delapouite@spiked-shoulder-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14749@gameicons-lorc@shoulder-scales {max-width:75px; max-height:75px; }
+.@b14749@gameicons-lorc@shoulder-scales::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/shoulder/0.png/0.png);padding: 0; }
+div.@b14749@gameicons-lorc@shoulder-scales::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c63c33f164bd763de3f5eb8e47c72c27:72b1527ed7056364e2eb63683384909d:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59255@ian@acid-rain {max-width:75px; max-height:75px; }
+.@a59255@ian@acid-rain::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a59255@ian@acid-rain::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59997@ian@deposition-mercury {max-width:75px; max-height:75px; }
+.@a59997@ian@deposition-mercury::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a59997@ian@deposition-mercury::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59998@ian@deposition-mercury2 {max-width:75px; max-height:75px; }
+.@a59998@ian@deposition-mercury2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a59998@ian@deposition-mercury2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59999@ian@deposition-nitrate {max-width:75px; max-height:75px; }
+.@a59999@ian@deposition-nitrate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a59999@ian@deposition-nitrate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60000@ian@deposition-nitrate2 {max-width:75px; max-height:75px; }
+.@a60000@ian@deposition-nitrate2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a60000@ian@deposition-nitrate2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60001@ian@deposition-scouring {max-width:75px; max-height:75px; }
+.@a60001@ian@deposition-scouring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a60001@ian@deposition-scouring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60002@ian@deposition-sediment {max-width:75px; max-height:75px; }
+.@a60002@ian@deposition-sediment::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a60002@ian@deposition-sediment::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60003@ian@deposition-sediment2 {max-width:75px; max-height:75px; }
+.@a60003@ian@deposition-sediment2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a60003@ian@deposition-sediment2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60004@ian@deposition-sulfate {max-width:75px; max-height:75px; }
+.@a60004@ian@deposition-sulfate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a60004@ian@deposition-sulfate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60005@ian@deposition-sulfate2 {max-width:75px; max-height:75px; }
+.@a60005@ian@deposition-sulfate2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a60005@ian@deposition-sulfate2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61468@ian@river-3d-foothills-sandy-riverbed {max-width:75px; max-height:75px; }
+.@a61468@ian@river-3d-foothills-sandy-riverbed::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a61468@ian@river-3d-foothills-sandy-riverbed::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61471@ian@river-3d-meandering-with-sandy-banks {max-width:75px; max-height:75px; }
+.@a61471@ian@river-3d-meandering-with-sandy-banks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a61471@ian@river-3d-meandering-with-sandy-banks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61476@ian@river-3d-sandy-bottom {max-width:75px; max-height:75px; }
+.@a61476@ian@river-3d-sandy-bottom::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a61476@ian@river-3d-sandy-bottom::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61713@ian@stream-3d-sandy-banks-in-valley {max-width:75px; max-height:75px; }
+.@a61713@ian@stream-3d-sandy-banks-in-valley::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deposition/0.png/0.png);padding: 0; }
+div.@a61713@ian@stream-3d-sandy-banks-in-valley::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2c6b8379bc95b22a613745843104655f:7e08db888e200abeea6c0224db0c8012:4ddb42793a59c1b7bfff1539dfc4d068$ */

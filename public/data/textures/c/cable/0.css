@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36961@mul@computer-cable {max-width:75px; max-height:75px; }
+.@a36961@mul@computer-cable::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cable/0.png/0.png);padding: 0; }
+div.@a36961@mul@computer-cable::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61337@ian@public-transport-gondola {max-width:75px; max-height:75px; }
+.@a61337@ian@public-transport-gondola::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cable/0.png/0.png);padding: 0; }
+div.@a61337@ian@public-transport-gondola::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12314@gameicons-delapouite@cable-stayed-bridge {max-width:75px; max-height:75px; }
+.@b12314@gameicons-delapouite@cable-stayed-bridge::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/cable/0.png/0.png);padding: 0; }
+div.@b12314@gameicons-delapouite@cable-stayed-bridge::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:117a263ac6de34c7c86796a0aa028b08:ef695468bd4eb39182c937943afac96b:4ddb42793a59c1b7bfff1539dfc4d068$ */

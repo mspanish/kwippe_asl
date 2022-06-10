@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15242@gameicons-sbed@water-drop {max-width:75px; max-height:75px; }
+.@b15242@gameicons-sbed@water-drop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/water_drop/0.png/0.png);padding: 0; }
+div.@b15242@gameicons-sbed@water-drop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:dc421a1c7c400c648f295de41fe9fc9c:58b4d66f738d01f7f9659403656561d4:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59382@ian@argopecten-irradians {max-width:75px; max-height:75px; }
+.@a59382@ian@argopecten-irradians::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/pectinidae/0.png/0.png);padding: 0; }
+div.@a59382@ian@argopecten-irradians::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61547@ian@scallop {max-width:75px; max-height:75px; }
+.@a61547@ian@scallop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/pectinidae/0.png/0.png);padding: 0; }
+div.@a61547@ian@scallop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a02cdb4fcaa76627cb6f5b66ea5fae7a:c6176d527bb23abbe8fd766298e257c1:4ddb42793a59c1b7bfff1539dfc4d068$ */

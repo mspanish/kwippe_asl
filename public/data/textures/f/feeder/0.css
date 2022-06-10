@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36590@mul@bird-feeder {max-width:75px; max-height:75px; }
+.@a36590@mul@bird-feeder::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/feeder/0.png/0.png);padding: 0; }
+div.@a36590@mul@bird-feeder::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59391@ian@ascidian {max-width:75px; max-height:75px; }
+.@a59391@ian@ascidian::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/feeder/0.png/0.png);padding: 0; }
+div.@a59391@ian@ascidian::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60050@ian@doliolid {max-width:75px; max-height:75px; }
+.@a60050@ian@doliolid::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/feeder/0.png/0.png);padding: 0; }
+div.@a60050@ian@doliolid::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60981@ian@mytilus-galloprovincialis {max-width:75px; max-height:75px; }
+.@a60981@ian@mytilus-galloprovincialis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/feeder/0.png/0.png);padding: 0; }
+div.@a60981@ian@mytilus-galloprovincialis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61570@ian@sea-squirt {max-width:75px; max-height:75px; }
+.@a61570@ian@sea-squirt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/f/feeder/0.png/0.png);padding: 0; }
+div.@a61570@ian@sea-squirt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:61ed2fc21a95daaeb42cb76e574ee95b:6e7b44b86e91c9d703f934cce76ac3b3:4ddb42793a59c1b7bfff1539dfc4d068$ */

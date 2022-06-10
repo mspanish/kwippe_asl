@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60530@ian@hyla-cinerea-adult {max-width:75px; max-height:75px; }
+.@a60530@ian@hyla-cinerea-adult::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cinerea/0.png/0.png);padding: 0; }
+div.@a60530@ian@hyla-cinerea-adult::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61931@ian@urosalpinx-cinerea {max-width:75px; max-height:75px; }
+.@a61931@ian@urosalpinx-cinerea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/cinerea/0.png/0.png);padding: 0; }
+div.@a61931@ian@urosalpinx-cinerea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6a126da63591d8220adb436c95952b17:50a247b7d720c4e5362af4f14859499a:4ddb42793a59c1b7bfff1539dfc4d068$ */

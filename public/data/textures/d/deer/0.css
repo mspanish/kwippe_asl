@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37200@mul@deer {max-width:75px; max-height:75px; }
+.@a37200@mul@deer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a37200@mul@deer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38847@mul@stag {max-width:75px; max-height:75px; }
+.@a38847@mul@stag::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a38847@mul@stag::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45010@oa1@buck {max-width:75px; max-height:75px; }
+.@a45010@oa1@buck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a45010@oa1@buck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59658@ian@cervus-elaphus-buck {max-width:75px; max-height:75px; }
+.@a59658@ian@cervus-elaphus-buck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a59658@ian@cervus-elaphus-buck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59659@ian@cervus-elaphus-doe {max-width:75px; max-height:75px; }
+.@a59659@ian@cervus-elaphus-doe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a59659@ian@cervus-elaphus-doe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59660@ian@cervus-nippon-buck {max-width:75px; max-height:75px; }
+.@a59660@ian@cervus-nippon-buck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a59660@ian@cervus-nippon-buck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59661@ian@cervus-nippon-doe {max-width:75px; max-height:75px; }
+.@a59661@ian@cervus-nippon-doe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a59661@ian@cervus-nippon-doe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59975@ian@deer-overbrowse-shrub {max-width:75px; max-height:75px; }
+.@a59975@ian@deer-overbrowse-shrub::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a59975@ian@deer-overbrowse-shrub::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59976@ian@deer-overbrowse-tree {max-width:75px; max-height:75px; }
+.@a59976@ian@deer-overbrowse-tree::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a59976@ian@deer-overbrowse-tree::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60898@ian@monitoring-deer-population-count {max-width:75px; max-height:75px; }
+.@a60898@ian@monitoring-deer-population-count::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a60898@ian@monitoring-deer-population-count::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61035@ian@odocoileus-virginianus-buck {max-width:75px; max-height:75px; }
+.@a61035@ian@odocoileus-virginianus-buck::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a61035@ian@odocoileus-virginianus-buck::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61036@ian@odocoileus-virginianus-doe {max-width:75px; max-height:75px; }
+.@a61036@ian@odocoileus-virginianus-doe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a61036@ian@odocoileus-virginianus-doe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61037@ian@odocoileus-virginianus-fawn {max-width:75px; max-height:75px; }
+.@a61037@ian@odocoileus-virginianus-fawn::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a61037@ian@odocoileus-virginianus-fawn::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62013@ian@usa-ma-boston-harbor {max-width:75px; max-height:75px; }
+.@a62013@ian@usa-ma-boston-harbor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/d/deer/0.png/0.png);padding: 0; }
+div.@a62013@ian@usa-ma-boston-harbor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:74b4fddb56d7bcfd5ba2801ef967ee2a:c784fbe59bf05a47963c94225897ef59:4ddb42793a59c1b7bfff1539dfc4d068$ */

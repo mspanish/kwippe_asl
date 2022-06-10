@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59352@ian@anura-lifecycle-day70-tadpole-with-hindlimbs {max-width:75px; max-height:75px; }
+.@a59352@ian@anura-lifecycle-day70-tadpole-with-hindlimbs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/h/hindlimbs/0.png/0.png);padding: 0; }
+div.@a59352@ian@anura-lifecycle-day70-tadpole-with-hindlimbs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9a120481307eaba1accccdc80ec606bf:f061ea47137d48b6bd695936b8227943:4ddb42793a59c1b7bfff1539dfc4d068$ */

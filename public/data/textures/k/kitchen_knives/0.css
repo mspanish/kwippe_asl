@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14390@gameicons-lorc@kitchen-knives {max-width:75px; max-height:75px; }
+.@b14390@gameicons-lorc@kitchen-knives::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/k/kitchen_knives/0.png/0.png);padding: 0; }
+div.@b14390@gameicons-lorc@kitchen-knives::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b45a576fe673807d94044ebb409ccdf7:b82869b7983935077028a320ac1cd131:4ddb42793a59c1b7bfff1539dfc4d068$ */

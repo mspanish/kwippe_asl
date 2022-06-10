@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15480@em2@swimmer-emoji-modifier-fitzpatrick-type-3 {max-width:75px; max-height:75px; }
+.@a15480@em2@swimmer-emoji-modifier-fitzpatrick-type-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/water_safety/0.png/0.png);padding: 0; }
+div.@a15480@em2@swimmer-emoji-modifier-fitzpatrick-type-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34831@mat@pool {max-width:75px; max-height:75px; }
+.@a34831@mat@pool::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/water_safety/0.png/0.png);padding: 0; }
+div.@a34831@mat@pool::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37199@mul@deep {max-width:75px; max-height:75px; }
+.@a37199@mul@deep::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/water_safety/0.png/0.png);padding: 0; }
+div.@a37199@mul@deep::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51465@twe@no-entry-sign {max-width:75px; max-height:75px; }
+.@a51465@twe@no-entry-sign::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/water_safety/0.png/0.png);padding: 0; }
+div.@a51465@twe@no-entry-sign::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61448@ian@river-2d-deep {max-width:75px; max-height:75px; }
+.@a61448@ian@river-2d-deep::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/water_safety/0.png/0.png);padding: 0; }
+div.@a61448@ian@river-2d-deep::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61756@ian@swimmer-child {max-width:75px; max-height:75px; }
+.@a61756@ian@swimmer-child::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/water_safety/0.png/0.png);padding: 0; }
+div.@a61756@ian@swimmer-child::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13149@gameicons-delapouite@pool-dive {max-width:75px; max-height:75px; }
+.@b13149@gameicons-delapouite@pool-dive::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/water_safety/0.png/0.png);padding: 0; }
+div.@b13149@gameicons-delapouite@pool-dive::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14091@gameicons-lorc@drowning {max-width:75px; max-height:75px; }
+.@b14091@gameicons-lorc@drowning::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/w/water_safety/0.png/0.png);padding: 0; }
+div.@b14091@gameicons-lorc@drowning::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d7cd423f45b212ed1d8bf03fe0b9ffde:fd337c0cda5de060d5d88d1e6a6f4289:4ddb42793a59c1b7bfff1539dfc4d068$ */

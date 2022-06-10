@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16187@emo@pa {max-width:75px; max-height:75px; }
+.@a16187@emo@pa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/panama/0.png/0.png);padding: 0; }
+div.@a16187@emo@pa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37581@mul@panama {max-width:75px; max-height:75px; }
+.@a37581@mul@panama::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/panama/0.png/0.png);padding: 0; }
+div.@a37581@mul@panama::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60548@ian@indigenous-management-kuna-panama {max-width:75px; max-height:75px; }
+.@a60548@ian@indigenous-management-kuna-panama::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/panama/0.png/0.png);padding: 0; }
+div.@a60548@ian@indigenous-management-kuna-panama::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2023@wikim-all@coat_of_arms_of_panama {max-width:75px; max-height:75px; }
+.@d2023@wikim-all@coat_of_arms_of_panama::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/panama/0.png/0.png);padding: 0; }
+div.@d2023@wikim-all@coat_of_arms_of_panama::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3731@wikim-all@seal_of_the_panama_canal_zone {max-width:75px; max-height:75px; }
+.@d3731@wikim-all@seal_of_the_panama_canal_zone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/p/panama/0.png/0.png);padding: 0; }
+div.@d3731@wikim-all@seal_of_the_panama_canal_zone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b3c2ef009de49e9feae396689bd653e9:8905ec18bb08b33bcd04bf0771d8086e:4ddb42793a59c1b7bfff1539dfc4d068$ */

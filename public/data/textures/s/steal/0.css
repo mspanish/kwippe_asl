@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a12926@df-violence@1250 {max-width:75px; max-height:75px; }
+.@a12926@df-violence@1250::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/steal/0.png/0.png);padding: 0; }
+div.@a12926@df-violence@1250::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a12984@df-violence@262 {max-width:75px; max-height:75px; }
+.@a12984@df-violence@262::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/steal/0.png/0.png);padding: 0; }
+div.@a12984@df-violence@262::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a13011@df-violence@560 {max-width:75px; max-height:75px; }
+.@a13011@df-violence@560::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/steal/0.png/0.png);padding: 0; }
+div.@a13011@df-violence@560::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a173@aac@steal {max-width:75px; max-height:75px; }
+.@a173@aac@steal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/steal/0.png/0.png);padding: 0; }
+div.@a173@aac@steal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6f66996fbf2250340d38151c9b7db596:c28d328105e23f023f4fa5d0d20e8c34:4ddb42793a59c1b7bfff1539dfc4d068$ */

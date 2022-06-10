@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36612@mul@blusher {max-width:75px; max-height:75px; }
+.@a36612@mul@blusher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/blusher/0.png/0.png);padding: 0; }
+div.@a36612@mul@blusher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:68de3126c4a751e63e8c1ab6b189cc4a:a0c0c16146e64f63c29e84eacdc8b6bb:4ddb42793a59c1b7bfff1539dfc4d068$ */

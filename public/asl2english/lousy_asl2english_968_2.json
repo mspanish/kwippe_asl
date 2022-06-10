@@ -1,0 +1,37 @@
+{
+    "sign": "lousy",
+    "signer": "asl2english",
+    "uid": 968,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 2,
+            "nd": null
+        },
+        "end": {
+            "d": 2,
+            "nd": null
+        }
+    },
+    "regions": [
+        "nose",
+        "chest"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "change"
+    },
+    "palmface": "horizontal",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

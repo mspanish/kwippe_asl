@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38487@mul@pop-socks {max-width:75px; max-height:75px; }
+.@a38487@mul@pop-socks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/socks/0.png/0.png);padding: 0; }
+div.@a38487@mul@pop-socks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38794@mul@socks {max-width:75px; max-height:75px; }
+.@a38794@mul@socks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/socks/0.png/0.png);padding: 0; }
+div.@a38794@mul@socks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50887@tw2@socks {max-width:75px; max-height:75px; }
+.@a50887@tw2@socks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/socks/0.png/0.png);padding: 0; }
+div.@a50887@tw2@socks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13350@gameicons-delapouite@socks {max-width:75px; max-height:75px; }
+.@b13350@gameicons-delapouite@socks::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/socks/0.png/0.png);padding: 0; }
+div.@b13350@gameicons-delapouite@socks::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e838da4df73177cb8a0e193b1563bc4a:b3a9761f54948a600a46230ccb2f8f6d:4ddb42793a59c1b7bfff1539dfc4d068$ */

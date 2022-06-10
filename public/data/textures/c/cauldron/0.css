@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a26204@her@cauldron {max-width:75px; max-height:75px; }
+.@a26204@her@cauldron::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cauldron/0.png/0.png);padding: 0; }
+div.@a26204@her@cauldron::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a26347@her@fleshpot {max-width:75px; max-height:75px; }
+.@a26347@her@fleshpot::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cauldron/0.png/0.png);padding: 0; }
+div.@a26347@her@fleshpot::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a47818@plateau@cauldron-kettle-boil-stew {max-width:75px; max-height:75px; }
+.@a47818@plateau@cauldron-kettle-boil-stew::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cauldron/0.png/0.png);padding: 0; }
+div.@a47818@plateau@cauldron-kettle-boil-stew::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a9602@df-monstermash@cauldron {max-width:75px; max-height:75px; }
+.@a9602@df-monstermash@cauldron::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cauldron/0.png/0.png);padding: 0; }
+div.@a9602@df-monstermash@cauldron::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12092@gameicons-darkzaitzev@cauldron {max-width:75px; max-height:75px; }
+.@b12092@gameicons-darkzaitzev@cauldron::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cauldron/0.png/0.png);padding: 0; }
+div.@b12092@gameicons-darkzaitzev@cauldron::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13907@gameicons-lorc@cauldron {max-width:75px; max-height:75px; }
+.@b13907@gameicons-lorc@cauldron::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/c/cauldron/0.png/0.png);padding: 0; }
+div.@b13907@gameicons-lorc@cauldron::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b11b006ed63edb96d448c604f22e8bf6:5806b54640c9e1fed6608d4c70fa0938:4ddb42793a59c1b7bfff1539dfc4d068$ */

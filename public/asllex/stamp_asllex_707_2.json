@@ -1,0 +1,45 @@
+{
+    "sign": "stamp",
+    "signer": "aslLex",
+    "uid": 2993,
+    "synonyms": "stamp, letter, mail, postage, STAMPhbk",
+    "handshapes": {
+        "begin": {
+            "d": "h",
+            "nd": "DominanceConditionViolation"
+        },
+        "end": {
+            "d": "h",
+            "nd": "h"
+        }
+    },
+    "regions": {
+        "morph1_general": "Head",
+        "morph1_specific": "Mouth",
+        "morph1_specific_second": null,
+        "morph1_contact": 1.0,
+        "morph1_signtype": "DominanceViolation",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Hand",
+        "morph2_specific": "FingerBack",
+        "morph2_specific_second": null,
+        "morph2_contact": 1.0,
+        "morph2_signtype": "AsymmetricalSameHandshape",
+        "morph2_movement": "None",
+        "morph2_repeat": null
+    },
+    "hands": "DominanceViolation",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        0.0
+    ],
+    "morphemes": 2,
+    "complexity": 1.0,
+    "frequency": 2.762,
+    "category": null
+}

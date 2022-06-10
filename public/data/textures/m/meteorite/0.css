@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60856@ian@meteorite-3d-crater-lake {max-width:75px; max-height:75px; }
+.@a60856@ian@meteorite-3d-crater-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/meteorite/0.png/0.png);padding: 0; }
+div.@a60856@ian@meteorite-3d-crater-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60857@ian@meteorite-3d-crater {max-width:75px; max-height:75px; }
+.@a60857@ian@meteorite-3d-crater::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/meteorite/0.png/0.png);padding: 0; }
+div.@a60857@ian@meteorite-3d-crater::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6fccbd95ffd83fe532ba21d5efb8319a:d13510601242d4003416f58d15f08b48:4ddb42793a59c1b7bfff1539dfc4d068$ */

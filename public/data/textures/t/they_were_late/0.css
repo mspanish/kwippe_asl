@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a48865@solver@4-they-were-late {max-width:75px; max-height:75px; }
+.@a48865@solver@4-they-were-late::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/t/they_were_late/0.png/0.png);padding: 0; }
+div.@a48865@solver@4-they-were-late::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0c92465ff2ef51d8342022f3f3dfa0f5:dcbbf701e9b024be52fa1edaa769fff1:4ddb42793a59c1b7bfff1539dfc4d068$ */

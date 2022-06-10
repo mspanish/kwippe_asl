@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a62098@ian@usa-or-coos-bay {max-width:75px; max-height:75px; }
+.@a62098@ian@usa-or-coos-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/oregon/0.png/0.png);padding: 0; }
+div.@a62098@ian@usa-or-coos-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62099@ian@usa-or-coquille-river {max-width:75px; max-height:75px; }
+.@a62099@ian@usa-or-coquille-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/oregon/0.png/0.png);padding: 0; }
+div.@a62099@ian@usa-or-coquille-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62100@ian@usa-or-john-day-fossil-beds-national-monument {max-width:75px; max-height:75px; }
+.@a62100@ian@usa-or-john-day-fossil-beds-national-monument::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/oregon/0.png/0.png);padding: 0; }
+div.@a62100@ian@usa-or-john-day-fossil-beds-national-monument::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62101@ian@usa-or-tillamook-bay {max-width:75px; max-height:75px; }
+.@a62101@ian@usa-or-tillamook-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/oregon/0.png/0.png);padding: 0; }
+div.@a62101@ian@usa-or-tillamook-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d3703@wikim-all@seal_of_oregon {max-width:75px; max-height:75px; }
+.@d3703@wikim-all@seal_of_oregon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/oregon/0.png/0.png);padding: 0; }
+div.@d3703@wikim-all@seal_of_oregon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:921a4dcf61131c145f72fffadd43db3b:ae5695f87cbc185240cd8a00a59084b4:4ddb42793a59c1b7bfff1539dfc4d068$ */

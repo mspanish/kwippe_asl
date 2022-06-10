@@ -1,0 +1,37 @@
+{
+    "sign": "interesting",
+    "signer": "asl2english",
+    "uid": 839,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 59,
+            "nd": 80
+        },
+        "end": {
+            "d": null,
+            "nd": 14
+        }
+    },
+    "regions": [
+        "nose",
+        "chest-front"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

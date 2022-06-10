@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15021@em2@helmet-with-white-cross {max-width:75px; max-height:75px; }
+.@a15021@em2@helmet-with-white-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/medic/0.png/0.png);padding: 0; }
+div.@a15021@em2@helmet-with-white-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39718@noc@helmet-w-white-cross {max-width:75px; max-height:75px; }
+.@a39718@noc@helmet-w-white-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/medic/0.png/0.png);padding: 0; }
+div.@a39718@noc@helmet-w-white-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50521@tw2@helmet-with-white-cross {max-width:75px; max-height:75px; }
+.@a50521@tw2@helmet-with-white-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/medic/0.png/0.png);padding: 0; }
+div.@a50521@tw2@helmet-with-white-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60472@ian@health-care-red-cross {max-width:75px; max-height:75px; }
+.@a60472@ian@health-care-red-cross::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/m/medic/0.png/0.png);padding: 0; }
+div.@a60472@ian@health-care-red-cross::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:24c8f289dc8bbbc33525efabe9e74fa5:b480a14fc3e5d609729c0ea0f8572ea9:4ddb42793a59c1b7bfff1539dfc4d068$ */

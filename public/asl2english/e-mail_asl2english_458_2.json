@@ -1,0 +1,37 @@
+{
+    "sign": "e-mail",
+    "signer": "asl2english",
+    "uid": 458,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 34,
+            "nd": 93
+        },
+        "end": {
+            "d": 1,
+            "nd": 93
+        }
+    },
+    "regions": [
+        "hand",
+        "chest-front"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            1
+        ],
+        "type": "change"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

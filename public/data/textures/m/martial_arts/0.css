@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15140@em2@martial-arts-uniform {max-width:75px; max-height:75px; }
+.@a15140@em2@martial-arts-uniform::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/martial_arts/0.png/0.png);padding: 0; }
+div.@a15140@em2@martial-arts-uniform::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16466@emo@martial-arts-uniform {max-width:75px; max-height:75px; }
+.@a16466@emo@martial-arts-uniform::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/martial_arts/0.png/0.png);padding: 0; }
+div.@a16466@emo@martial-arts-uniform::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39860@noc@martial-arts-uniform {max-width:75px; max-height:75px; }
+.@a39860@noc@martial-arts-uniform::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/martial_arts/0.png/0.png);padding: 0; }
+div.@a39860@noc@martial-arts-uniform::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42604@nog@martial-arts-uniform-activities {max-width:75px; max-height:75px; }
+.@a42604@nog@martial-arts-uniform-activities::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/martial_arts/0.png/0.png);padding: 0; }
+div.@a42604@nog@martial-arts-uniform-activities::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50644@tw2@martial-arts-uniform {max-width:75px; max-height:75px; }
+.@a50644@tw2@martial-arts-uniform::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/m/martial_arts/0.png/0.png);padding: 0; }
+div.@a50644@tw2@martial-arts-uniform::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2f3fa6fa9a3191107b8e1e3632063894:a6841b06e22af04496d3ea7038ab597d:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59412@ian@australia-qld-noosa-river {max-width:75px; max-height:75px; }
+.@a59412@ian@australia-qld-noosa-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/n/noosa/0.png/0.png);padding: 0; }
+div.@a59412@ian@australia-qld-noosa-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d98286caf42df470e3ff65d5911831ee:01179ee506c7a9f4ee5d2b667a1eab42:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61152@ian@perched-water-table {max-width:75px; max-height:75px; }
+.@a61152@ian@perched-water-table::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/aquiclude/0.png/0.png);padding: 0; }
+div.@a61152@ian@perched-water-table::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61708@ian@stream-3d-aquiclude-and-spring {max-width:75px; max-height:75px; }
+.@a61708@ian@stream-3d-aquiclude-and-spring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/a/aquiclude/0.png/0.png);padding: 0; }
+div.@a61708@ian@stream-3d-aquiclude-and-spring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8df07f34401522cd7248dedc412eb827:6b05e8fc7788ff0a579c2b66969c3517:4ddb42793a59c1b7bfff1539dfc4d068$ */

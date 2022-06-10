@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38016@mul@knife-adapted-2 {max-width:75px; max-height:75px; }
+.@a38016@mul@knife-adapted-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/k/knife_adapted/0.png/0.png);padding: 0; }
+div.@a38016@mul@knife-adapted-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38017@mul@knife-adapted {max-width:75px; max-height:75px; }
+.@a38017@mul@knife-adapted::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/k/knife_adapted/0.png/0.png);padding: 0; }
+div.@a38017@mul@knife-adapted::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:cedcaa3ed03cf41aed79b82a149fdb1f:0b8bdc7bc2a57ffac2daa1a0fcbf1d29:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b15243@gameicons-sbed@weight-crush {max-width:75px; max-height:75px; }
+.@b15243@gameicons-sbed@weight-crush::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/weight_crush/0.png/0.png);padding: 0; }
+div.@b15243@gameicons-sbed@weight-crush::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:903975f543e03bc03af4f6bc9a5a1636:a0adf95157e0cbe09be2bef2a45bdec7:4ddb42793a59c1b7bfff1539dfc4d068$ */

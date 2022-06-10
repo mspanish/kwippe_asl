@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59304@ian@altered-hydrology {max-width:75px; max-height:75px; }
+.@a59304@ian@altered-hydrology::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/altered/0.png/0.png);padding: 0; }
+div.@a59304@ian@altered-hydrology::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59786@ian@coastline-3d-watershed-and-modified-coastline {max-width:75px; max-height:75px; }
+.@a59786@ian@coastline-3d-watershed-and-modified-coastline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/altered/0.png/0.png);padding: 0; }
+div.@a59786@ian@coastline-3d-watershed-and-modified-coastline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60173@ian@estuary-3d-modified-coastline-with-barrier-islands {max-width:75px; max-height:75px; }
+.@a60173@ian@estuary-3d-modified-coastline-with-barrier-islands::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/a/altered/0.png/0.png);padding: 0; }
+div.@a60173@ian@estuary-3d-modified-coastline-with-barrier-islands::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:28afc25042957d05e754c31ad1269701:1313c8e19737ba4fdfd6a8dd8fef0320:4ddb42793a59c1b7bfff1539dfc4d068$ */

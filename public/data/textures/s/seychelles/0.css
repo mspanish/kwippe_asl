@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16209@emo@sc {max-width:75px; max-height:75px; }
+.@a16209@emo@sc::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/seychelles/0.png/0.png);padding: 0; }
+div.@a16209@emo@sc::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37102@mul@seychelles {max-width:75px; max-height:75px; }
+.@a37102@mul@seychelles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/seychelles/0.png/0.png);padding: 0; }
+div.@a37102@mul@seychelles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37600@mul@seychelles {max-width:75px; max-height:75px; }
+.@a37600@mul@seychelles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/seychelles/0.png/0.png);padding: 0; }
+div.@a37600@mul@seychelles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2677@wikim-all@flag_of_seychelles {max-width:75px; max-height:75px; }
+.@d2677@wikim-all@flag_of_seychelles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/seychelles/0.png/0.png);padding: 0; }
+div.@d2677@wikim-all@flag_of_seychelles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b381fbfd8fe9dfaf9c9da84c5df83162:5eff87f30645cf64045e1c181f472384:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,227 @@
+{
+	"skeleton": {
+	"hash": "cmz8vWvumpc",
+	"spine": "4.0.63",
+	"x": -302.71,
+	"y": -841.27,
+	"width": 1399,
+	"height": 1230.04,
+	"audio": "."		
+		"images": "."
+	},
+	"bones": [{
+		"name": "root"
+	},
+	{
+		"name": "background",
+		"x": -0.5,
+		"y": 0.5,
+		"parent": "root"
+	},
+	{
+		"name": "body",
+		"x": -12,
+		"y": -344,
+		"parent": "root"
+	},
+	{
+		"name": "faceshape",
+		"x": -18.5,
+		"y": -18.5,
+		"parent": "root"
+	},
+	{
+		"name": "mouth",
+		"x": 10.5,
+		"y": -170.5,
+		"parent": "faceshape"
+	},
+	{
+		"name": "eyesback",
+		"x": -3.5,
+		"y": 20,
+		"parent": "faceshape"
+	},
+	{
+		"name": "eyesiris",
+		"x": -3.5,
+		"y": 19,
+		"parent": "faceshape"
+	},
+	{
+		"name": "eyesfront",
+		"x": -3.5,
+		"y": 22.5,
+		"parent": "faceshape"
+	},
+	{
+		"name": "hairfront",
+		"x": -26.5,
+		"y": 101,
+		"parent": "faceshape"
+	},
+	{
+		"name": "hairback",
+		"x": -3.5,
+		"y": 7.5,
+		"parent": "faceshape"
+	},
+	{
+		"name": "nose",
+		"x": 1.5,
+		"y": -61.5,
+		"parent": "faceshape"
+	}],
+	"slots": [{
+		"name": "background",
+		"bone": "background",
+		"attachment": "background"
+	},
+	{
+		"name": "hairback",
+		"bone": "hairback",
+		"attachment": "hairback"
+	},
+	{
+		"name": "body",
+		"bone": "body",
+		"attachment": "body"
+	},
+	{
+		"name": "faceshape",
+		"bone": "faceshape",
+		"attachment": "faceshape"
+	},
+	{
+		"name": "mouth",
+		"bone": "mouth",
+		"attachment": "mouth"
+	},
+	{
+		"name": "eyesback",
+		"bone": "eyesback",
+		"attachment": "eyesback"
+	},
+	{
+		"name": "eyesiris",
+		"bone": "eyesiris",
+		"attachment": "eyesiris"
+	},
+	{
+		"name": "eyesfront",
+		"bone": "eyesfront",
+		"attachment": "eyesfront"
+	},
+	{
+		"name": "hairfront",
+		"bone": "hairfront",
+		"attachment": "hairfront"
+	},
+	{
+		"name": "nose",
+		"bone": "nose",
+		"attachment": "nose"
+	}],
+	"skins": [{
+		"default": {
+			"background": {
+				"background": {
+					"x": 0,
+					"y": 0,
+					"width": 1399,
+					"height": 999
+				}
+			},
+			"body": {
+				"body": {
+					"x": 0,
+					"y": 0,
+					"width": 388,
+					"height": 310
+				}
+			},
+			"faceshape": {
+				"faceshape": {
+					"x": 0,
+					"y": 0,
+					"width": 499,
+					"height": 527
+				}
+			},
+			"mouth": {
+				"a_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 31, "height": 39 },
+				"a_2": { "x": -20.59, "y": -2.21, "rotation": -0.06, "width": 49, "height": 30 },
+				"a_3": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 49, "height": 45 },
+				"a_4": { "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 25, "height": 22 },
+				"a_5": { "x": -21.52, "y": -2.02, "rotation": -0.06, "width": 76, "height": 33 },
+				"a_6": { "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 35, "height": 30 },
+				"a_7": { "path": "a_2", "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 49, "height": 30 },
+				"b_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 61, "height": 31 },
+				"d_1": { "x": -21.52, "y": -2.68, "rotation": -0.06, "width": 36, "height": 30 },
+				"e_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 53, "height": 27 },
+				"e_2": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 61, "height": 27 },
+				"f_1": { "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 69, "height": 20 },
+				"mouth": { "width": 124, "height": 74 },
+				"m_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 69, "height": 15 },
+				"o_1": { "x": -20.86, "y": -2.68, "rotation": -0.06, "width": 69, "height": 28 },
+				"o_2": { "x": -21.52, "y": -2.68, "rotation": -0.06, "width": 40, "height": 32 },
+				"t_1": { "x": -20.86, "y": -2.02, "rotation": -0.06, "width": 35, "height": 31 },
+				"u_1": { "x": -21.52, "y": -2.02, "rotation": -0.06, "width": 46, "height": 41 },
+				"v_1": { "x": -21.52, "y": -2.68, "rotation": -0.06, "width": 68, "height": 30 }
+			},
+			"eyesback": {
+				"eyesback": {
+					"x": 0,
+					"y": 0,
+					"width": 274,
+					"height": 49
+				}
+			},
+			"eyesiris": {
+				"eyesiris": {
+					"x": 0,
+					"y": 0,
+					"width": 234,
+					"height": 59
+				}
+			},
+			"eyesfront": {
+				"eyesfront": {
+					"x": 0,
+					"y": 0,
+					"width": 312,
+					"height": 176
+				}
+			},
+			"hairfront": {
+				"hairfront": {
+					"x": 0,
+					"y": 0,
+					"width": 600,
+					"height": 575
+				}
+			},
+			"hairback": {
+				"hairback": {
+					"x": 0,
+					"y": 0,
+					"width": 564,
+					"height": 564
+				}
+			},
+			"nose": {
+				"nose": {
+					"x": 0,
+					"y": 0,
+					"width": 78,
+					"height": 108
+				}
+			}
+		}
+	}],
+	"animations": {
+		"animation": {
+			
+		}
+	}
+}

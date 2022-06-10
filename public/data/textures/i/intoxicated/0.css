@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@d4260@wikim-ladyofhats@drunk_happy {max-width:75px; max-height:75px; }
+.@d4260@wikim-ladyofhats@drunk_happy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/intoxicated/0.png/0.png);padding: 0; }
+div.@d4260@wikim-ladyofhats@drunk_happy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4261@wikim-ladyofhats@drunk_sad {max-width:75px; max-height:75px; }
+.@d4261@wikim-ladyofhats@drunk_sad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/intoxicated/0.png/0.png);padding: 0; }
+div.@d4261@wikim-ladyofhats@drunk_sad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4262@wikim-ladyofhats@drunk_wasted {max-width:75px; max-height:75px; }
+.@d4262@wikim-ladyofhats@drunk_wasted::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/intoxicated/0.png/0.png);padding: 0; }
+div.@d4262@wikim-ladyofhats@drunk_wasted::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d4263@wikim-ladyofhats@exterminate {max-width:75px; max-height:75px; }
+.@d4263@wikim-ladyofhats@exterminate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/i/intoxicated/0.png/0.png);padding: 0; }
+div.@d4263@wikim-ladyofhats@exterminate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:0b5645b1dd0a312721434c2dc322886a:0dbbdee68963af8ecc53611d97f139a0:4ddb42793a59c1b7bfff1539dfc4d068$ */

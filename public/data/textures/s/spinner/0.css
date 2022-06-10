@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1005@awe@spinner {max-width:75px; max-height:75px; }
+.@a1005@awe@spinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a1005@awe@spinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1376@bat@spinner {max-width:75px; max-height:75px; }
+.@a1376@bat@spinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a1376@bat@spinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29211@jqu@spinner {max-width:75px; max-height:75px; }
+.@a29211@jqu@spinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a29211@jqu@spinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31813@lug@spinner {max-width:75px; max-height:75px; }
+.@a31813@lug@spinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a31813@lug@spinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31815@lug@spinner2 {max-width:75px; max-height:75px; }
+.@a31815@lug@spinner2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a31815@lug@spinner2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31817@lug@spinner3 {max-width:75px; max-height:75px; }
+.@a31817@lug@spinner3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a31817@lug@spinner3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31819@lug@spinner4 {max-width:75px; max-height:75px; }
+.@a31819@lug@spinner4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a31819@lug@spinner4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31821@lug@spinner5 {max-width:75px; max-height:75px; }
+.@a31821@lug@spinner5::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a31821@lug@spinner5::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31823@lug@spinner6 {max-width:75px; max-height:75px; }
+.@a31823@lug@spinner6::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a31823@lug@spinner6::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36313@met@spinner {max-width:75px; max-height:75px; }
+.@a36313@met@spinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a36313@met@spinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36314@met@spinner1 {max-width:75px; max-height:75px; }
+.@a36314@met@spinner1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a36314@met@spinner1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36315@met@spinner2 {max-width:75px; max-height:75px; }
+.@a36315@met@spinner2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a36315@met@spinner2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36316@met@spinner3 {max-width:75px; max-height:75px; }
+.@a36316@met@spinner3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a36316@met@spinner3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36317@met@spinner4 {max-width:75px; max-height:75px; }
+.@a36317@met@spinner4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a36317@met@spinner4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a36318@met@spinner5 {max-width:75px; max-height:75px; }
+.@a36318@met@spinner5::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a36318@met@spinner5::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48325@roc@spin {max-width:75px; max-height:75px; }
+.@a48325@roc@spin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a48325@roc@spin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50079@the@pin {max-width:75px; max-height:75px; }
+.@a50079@the@pin::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a50079@the@pin::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53503@vaa@spinner {max-width:75px; max-height:75px; }
+.@a53503@vaa@spinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a53503@vaa@spinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54798@wav@spinner {max-width:75px; max-height:75px; }
+.@a54798@wav@spinner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a54798@wav@spinner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61690@ian@stenella-longirostris {max-width:75px; max-height:75px; }
+.@a61690@ian@stenella-longirostris::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/s/spinner/0.png/0.png);padding: 0; }
+div.@a61690@ian@stenella-longirostris::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:00644576cb72da59dccdeecdefe6cb88:5fcdf4593e5596111316fba420af0391:4ddb42793a59c1b7bfff1539dfc4d068$ */

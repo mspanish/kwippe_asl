@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36861@mul@chinese-food {max-width:75px; max-height:75px; }
+.@a36861@mul@chinese-food::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/chinese/0.png/0.png);padding: 0; }
+div.@a36861@mul@chinese-food::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38946@mul@takeaway-chinese {max-width:75px; max-height:75px; }
+.@a38946@mul@takeaway-chinese::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/chinese/0.png/0.png);padding: 0; }
+div.@a38946@mul@takeaway-chinese::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60099@ian@eleocharis-dulcis {max-width:75px; max-height:75px; }
+.@a60099@ian@eleocharis-dulcis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/chinese/0.png/0.png);padding: 0; }
+div.@a60099@ian@eleocharis-dulcis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:534f9e6e0143b4bcc22a1f24a8f751e2:e64d5e98a5dc51a376a3a79aa102d70a:4ddb42793a59c1b7bfff1539dfc4d068$ */

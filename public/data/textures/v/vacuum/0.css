@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a39122@mul@vacuum-cleaner-1 {max-width:75px; max-height:75px; }
+.@a39122@mul@vacuum-cleaner-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vacuum/0.png/0.png);padding: 0; }
+div.@a39122@mul@vacuum-cleaner-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39123@mul@vacuum-cleaner-2 {max-width:75px; max-height:75px; }
+.@a39123@mul@vacuum-cleaner-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vacuum/0.png/0.png);padding: 0; }
+div.@a39123@mul@vacuum-cleaner-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39124@mul@vacuum-cleaner-hand-held {max-width:75px; max-height:75px; }
+.@a39124@mul@vacuum-cleaner-hand-held::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vacuum/0.png/0.png);padding: 0; }
+div.@a39124@mul@vacuum-cleaner-hand-held::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13569@gameicons-delapouite@vacuum-cleaner {max-width:75px; max-height:75px; }
+.@b13569@gameicons-delapouite@vacuum-cleaner::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/v/vacuum/0.png/0.png);padding: 0; }
+div.@b13569@gameicons-delapouite@vacuum-cleaner::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:654d6a376dceaf01f03ad4c6e644afe1:1ced904e7cf76668a06187dea900c332:4ddb42793a59c1b7bfff1539dfc4d068$ */

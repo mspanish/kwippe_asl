@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16570@emo@ophiuchus {max-width:75px; max-height:75px; }
+.@a16570@emo@ophiuchus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/ophiucus/0.png/0.png);padding: 0; }
+div.@a16570@emo@ophiuchus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a18086@fir@ophiuchus {max-width:75px; max-height:75px; }
+.@a18086@fir@ophiuchus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/ophiucus/0.png/0.png);padding: 0; }
+div.@a18086@fir@ophiuchus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42892@nog@ophiuchus-symbols {max-width:75px; max-height:75px; }
+.@a42892@nog@ophiuchus-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/ophiucus/0.png/0.png);padding: 0; }
+div.@a42892@nog@ophiuchus-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44586@not@ophiuchus {max-width:75px; max-height:75px; }
+.@a44586@not@ophiuchus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/ophiucus/0.png/0.png);padding: 0; }
+div.@a44586@not@ophiuchus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13037@gameicons-delapouite@ophiuchus {max-width:75px; max-height:75px; }
+.@b13037@gameicons-delapouite@ophiuchus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/o/ophiucus/0.png/0.png);padding: 0; }
+div.@b13037@gameicons-delapouite@ophiuchus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4b8216f5876ede0cd911e8986ecb9dad:0e0df26e4660a3213b172caf672fc7c3:4ddb42793a59c1b7bfff1539dfc4d068$ */

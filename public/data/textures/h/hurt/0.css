@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1990@bon@hurt-yourself-5286 {max-width:75px; max-height:75px; }
+.@a1990@bon@hurt-yourself-5286::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hurt/0.png/0.png);padding: 0; }
+div.@a1990@bon@hurt-yourself-5286::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a89@aac@hurt {max-width:75px; max-height:75px; }
+.@a89@aac@hurt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hurt/0.png/0.png);padding: 0; }
+div.@a89@aac@hurt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15237@gameicons-sbed@trigger-hurt {max-width:75px; max-height:75px; }
+.@b15237@gameicons-sbed@trigger-hurt::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/h/hurt/0.png/0.png);padding: 0; }
+div.@b15237@gameicons-sbed@trigger-hurt::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ccf5e1d679c902c81626e95c06fe27f0:c6e7ec798b70cf8798c9e46490da2a38:4ddb42793a59c1b7bfff1539dfc4d068$ */

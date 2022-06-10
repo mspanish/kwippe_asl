@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12966@gameicons-delapouite@mini-submarine {max-width:75px; max-height:75px; }
+.@b12966@gameicons-delapouite@mini-submarine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/m/mini_submarine/0.png/0.png);padding: 0; }
+div.@b12966@gameicons-delapouite@mini-submarine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f56202447d6952b41fc11c06dacd41a9:6ff55068ff4436224f0fa72a50f25186:4ddb42793a59c1b7bfff1539dfc4d068$ */

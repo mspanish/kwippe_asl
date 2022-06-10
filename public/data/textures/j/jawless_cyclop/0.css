@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12829@gameicons-delapouite@jawless-cyclop {max-width:75px; max-height:75px; }
+.@b12829@gameicons-delapouite@jawless-cyclop::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/j/jawless_cyclop/0.png/0.png);padding: 0; }
+div.@b12829@gameicons-delapouite@jawless-cyclop::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1f49494345bb1d303f72cc44666e6f06:7ab70f8ea942752a4f7d705ae93ae253:4ddb42793a59c1b7bfff1539dfc4d068$ */

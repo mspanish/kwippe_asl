@@ -1,0 +1,45 @@
+{
+    "sign": "computer",
+    "signer": "aslLex",
+    "uid": 823,
+    "synonyms": "computer, desktop, laptop",
+    "handshapes": {
+        "begin": {
+            "d": "open_8",
+            "nd": "open_8"
+        },
+        "end": {
+            "d": null,
+            "nd": null
+        }
+    },
+    "regions": {
+        "morph1_general": "Neutral",
+        "morph1_specific": "Neutral",
+        "morph1_specific_second": "Neutral",
+        "morph1_contact": null,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "Circular",
+        "morph1_repeat": 1,
+        "morph2_general": null,
+        "morph2_specific": null,
+        "morph2_specific_second": null,
+        "morph2_contact": null,
+        "morph2_signtype": null,
+        "morph2_movement": null,
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        null
+    ],
+    "morphemes": 1,
+    "complexity": 3.0,
+    "frequency": 3.7,
+    "category": null
+}

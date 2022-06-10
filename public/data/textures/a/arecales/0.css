@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59380@ian@arecaceae-1 {max-width:75px; max-height:75px; }
+.@a59380@ian@arecaceae-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/arecales/0.png/0.png);padding: 0; }
+div.@a59380@ian@arecaceae-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59381@ian@arecaceae2 {max-width:75px; max-height:75px; }
+.@a59381@ian@arecaceae2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/arecales/0.png/0.png);padding: 0; }
+div.@a59381@ian@arecaceae2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59794@ian@cocos-nucifera-1 {max-width:75px; max-height:75px; }
+.@a59794@ian@cocos-nucifera-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/arecales/0.png/0.png);padding: 0; }
+div.@a59794@ian@cocos-nucifera-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59795@ian@cocos-nucifera-2 {max-width:75px; max-height:75px; }
+.@a59795@ian@cocos-nucifera-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/arecales/0.png/0.png);padding: 0; }
+div.@a59795@ian@cocos-nucifera-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1675112316872496ebe7bd71391c5101:46c08535e4ff741ba9f1d441cf3e9c90:4ddb42793a59c1b7bfff1539dfc4d068$ */

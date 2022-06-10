@@ -1,0 +1,37 @@
+{
+    "sign": "boss+lowercase-tiny",
+    "signer": "asl2english",
+    "uid": 188,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 5,
+            "nd": null
+        },
+        "end": {
+            "d": 53,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chin",
+        "temple"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "change",
+        "dir": [
+            0,
+            1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

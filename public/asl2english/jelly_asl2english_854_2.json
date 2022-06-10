@@ -1,0 +1,37 @@
+{
+    "sign": "jelly",
+    "signer": "asl2english",
+    "uid": 854,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 57,
+            "nd": 18
+        },
+        "end": {
+            "d": 57,
+            "nd": 18
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            -1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

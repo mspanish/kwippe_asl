@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61810@ian@total-nitrogen {max-width:75px; max-height:75px; }
+.@a61810@ian@total-nitrogen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/a/ammonia/0.png/0.png);padding: 0; }
+div.@a61810@ian@total-nitrogen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:81a033e2e37ca1db89447519965492d7:c9edae93d11d096923b591dd19c8ae33:4ddb42793a59c1b7bfff1539dfc4d068$ */

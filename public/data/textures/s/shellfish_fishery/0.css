@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61628@ian@shellfish_fishery {max-width:75px; max-height:75px; }
+.@a61628@ian@shellfish_fishery::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/shellfish_fishery/0.png/0.png);padding: 0; }
+div.@a61628@ian@shellfish_fishery::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b7e0890eb789ec8aa8f285e065c5f0b8:c110df4a4fc0c6824a9b2e1d2dc5190c:4ddb42793a59c1b7bfff1539dfc4d068$ */

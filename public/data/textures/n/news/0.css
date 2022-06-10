@@ -1,0 +1,95 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15198@em2@newspaper {max-width:75px; max-height:75px; }
+.@a15198@em2@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a15198@em2@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a15344@em2@rolled-up-newspaper {max-width:75px; max-height:75px; }
+.@a15344@em2@rolled-up-newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a15344@em2@rolled-up-newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16527@emo@newspaper {max-width:75px; max-height:75px; }
+.@a16527@emo@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a16527@emo@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16528@emo@newspaper2 {max-width:75px; max-height:75px; }
+.@a16528@emo@newspaper2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a16528@emo@newspaper2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17634@fir@u1f4f0-newspaper {max-width:75px; max-height:75px; }
+.@a17634@fir@u1f4f0-newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a17634@fir@u1f4f0-newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a17843@fir@rolledupnewspaper {max-width:75px; max-height:75px; }
+.@a17843@fir@rolledupnewspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a17843@fir@rolledupnewspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a2248@bon@reading-the-newspaper-1065 {max-width:75px; max-height:75px; }
+.@a2248@bon@reading-the-newspaper-1065::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a2248@bon@reading-the-newspaper-1065::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27675@icf@newspaper {max-width:75px; max-height:75px; }
+.@a27675@icf@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a27675@icf@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28609@jqe@newspaper {max-width:75px; max-height:75px; }
+.@a28609@jqe@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a28609@jqe@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28730@jqe@rolled-up-newspaper {max-width:75px; max-height:75px; }
+.@a28730@jqe@rolled-up-newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a28730@jqe@rolled-up-newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a31653@lug@newspaper {max-width:75px; max-height:75px; }
+.@a31653@lug@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a31653@lug@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a34463@mat@newspaper {max-width:75px; max-height:75px; }
+.@a34463@mat@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a34463@mat@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38256@mul@newspaper {max-width:75px; max-height:75px; }
+.@a38256@mul@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a38256@mul@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39916@noc@newspaper {max-width:75px; max-height:75px; }
+.@a39916@noc@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a39916@noc@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40064@noc@rolled-up-newspaper {max-width:75px; max-height:75px; }
+.@a40064@noc@rolled-up-newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a40064@noc@rolled-up-newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a42798@nog@newspaper-objects {max-width:75px; max-height:75px; }
+.@a42798@nog@newspaper-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a42798@nog@newspaper-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43256@nog@rolled-up-newspaper-objects {max-width:75px; max-height:75px; }
+.@a43256@nog@rolled-up-newspaper-objects::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a43256@nog@rolled-up-newspaper-objects::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44551@not@newspaper {max-width:75px; max-height:75px; }
+.@a44551@not@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a44551@not@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48656@small@news {max-width:75px; max-height:75px; }
+.@a48656@small@news::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a48656@small@news::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49773@str@716-newspaper {max-width:75px; max-height:75px; }
+.@a49773@str@716-newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a49773@str@716-newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50693@tw2@newspaper {max-width:75px; max-height:75px; }
+.@a50693@tw2@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a50693@tw2@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a50822@tw2@rolled-up-newspaper {max-width:75px; max-height:75px; }
+.@a50822@tw2@rolled-up-newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a50822@tw2@rolled-up-newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a51461@twe@newspaper {max-width:75px; max-height:75px; }
+.@a51461@twe@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a51461@twe@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53387@vaa@newspaper {max-width:75px; max-height:75px; }
+.@a53387@vaa@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a53387@vaa@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56918@win@newspaper-create {max-width:75px; max-height:75px; }
+.@a56918@win@newspaper-create::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a56918@win@newspaper-create::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56919@win@newspaper {max-width:75px; max-height:75px; }
+.@a56919@win@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a56919@win@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a909@awe@newspaper-o {max-width:75px; max-height:75px; }
+.@a909@awe@newspaper-o::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@a909@awe@newspaper-o::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13008@gameicons-delapouite@newspaper {max-width:75px; max-height:75px; }
+.@b13008@gameicons-delapouite@newspaper::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/n/news/0.png/0.png);padding: 0; }
+div.@b13008@gameicons-delapouite@newspaper::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9d8186a8c8579bb7c582155aa61ae62d:b94ab7f2b856108873a255e8f2c3d4ca:4ddb42793a59c1b7bfff1539dfc4d068$ */

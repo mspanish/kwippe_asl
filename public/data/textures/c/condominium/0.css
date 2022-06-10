@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61915@ian@urban-condo-2 {max-width:75px; max-height:75px; }
+.@a61915@ian@urban-condo-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/condominium/0.png/0.png);padding: 0; }
+div.@a61915@ian@urban-condo-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:e5ebcfe3c636f74b7f69e23ad714073b:aa2326a6455552d1273af7b76704b263:4ddb42793a59c1b7bfff1539dfc4d068$ */

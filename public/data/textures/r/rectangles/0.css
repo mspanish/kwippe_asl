@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1365@bat@speech-bubble-center {max-width:75px; max-height:75px; }
+.@a1365@bat@speech-bubble-center::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a1365@bat@speech-bubble-center::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1369@bat@speech-bubble-left {max-width:75px; max-height:75px; }
+.@a1369@bat@speech-bubble-left::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a1369@bat@speech-bubble-left::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a1373@bat@speech-bubble-right {max-width:75px; max-height:75px; }
+.@a1373@bat@speech-bubble-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a1373@bat@speech-bubble-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40162@noc@speech-balloon {max-width:75px; max-height:75px; }
+.@a40162@noc@speech-balloon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a40162@noc@speech-balloon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43559@nog@speech-balloon_smileys-people_fy5s5 {max-width:75px; max-height:75px; }
+.@a43559@nog@speech-balloon_smileys-people_fy5s5::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a43559@nog@speech-balloon_smileys-people_fy5s5::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44742@not@speech-balloon {max-width:75px; max-height:75px; }
+.@a44742@not@speech-balloon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a44742@not@speech-balloon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45576@ope@nicubunu_nicubunu_callout_rounded_rectangle_center {max-width:75px; max-height:75px; }
+.@a45576@ope@nicubunu_nicubunu_callout_rounded_rectangle_center::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a45576@ope@nicubunu_nicubunu_callout_rounded_rectangle_center::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45577@ope@nicubunu_nicubunu_callout_rounded_rectangle_left {max-width:75px; max-height:75px; }
+.@a45577@ope@nicubunu_nicubunu_callout_rounded_rectangle_left::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a45577@ope@nicubunu_nicubunu_callout_rounded_rectangle_left::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45578@ope@nicubunu_nicubunu_callout_rounded_rectangle_right {max-width:75px; max-height:75px; }
+.@a45578@ope@nicubunu_nicubunu_callout_rounded_rectangle_right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a45578@ope@nicubunu_nicubunu_callout_rounded_rectangle_right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45857@ope@srd_comic_clouds_2 {max-width:75px; max-height:75px; }
+.@a45857@ope@srd_comic_clouds_2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a45857@ope@srd_comic_clouds_2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45858@ope@srd_comic_clouds_3 {max-width:75px; max-height:75px; }
+.@a45858@ope@srd_comic_clouds_3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a45858@ope@srd_comic_clouds_3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45859@ope@srd_comic_clouds_4 {max-width:75px; max-height:75px; }
+.@a45859@ope@srd_comic_clouds_4::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 1.2658227848101267%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a45859@ope@srd_comic_clouds_4::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a45861@ope@srd_comic_clouds_6 {max-width:75px; max-height:75px; }
+.@a45861@ope@srd_comic_clouds_6::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 98.73417721518987%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a45861@ope@srd_comic_clouds_6::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a8639@df-komikabubbles@k {max-width:75px; max-height:75px; }
+.@a8639@df-komikabubbles@k::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 310.6666666666667%;background-image: url(./textures/r/rectangles/0.png/0.png);padding: 0; }
+div.@a8639@df-komikabubbles@k::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:633cd4f861aec23dcd2a11aeb8ea932d:fd11bbe9592256fbf988fa0ce9ed6e9a:4ddb42793a59c1b7bfff1539dfc4d068$ */

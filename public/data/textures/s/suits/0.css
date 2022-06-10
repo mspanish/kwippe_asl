@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61211@ian@planning-trio {max-width:75px; max-height:75px; }
+.@a61211@ian@planning-trio::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/suits/0.png/0.png);padding: 0; }
+div.@a61211@ian@planning-trio::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14900@gameicons-lorc@suits {max-width:75px; max-height:75px; }
+.@b14900@gameicons-lorc@suits::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/s/suits/0.png/0.png);padding: 0; }
+div.@b14900@gameicons-lorc@suits::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:529ddb7476d06a916a6a1ad4176e7954:e34cce4db9e2a40eb51fd389384bbd7f:4ddb42793a59c1b7bfff1539dfc4d068$ */

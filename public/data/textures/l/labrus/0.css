@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60633@ian@lachnolaimus-maximus {max-width:75px; max-height:75px; }
+.@a60633@ian@lachnolaimus-maximus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/labrus/0.png/0.png);padding: 0; }
+div.@a60633@ian@lachnolaimus-maximus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8a1ad26a9ea17e02cac1e0fd414dbd2d:307460104bde36786991d189318f2c89:4ddb42793a59c1b7bfff1539dfc4d068$ */

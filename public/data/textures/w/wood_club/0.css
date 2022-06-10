@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13648@gameicons-delapouite@wood-club {max-width:75px; max-height:75px; }
+.@b13648@gameicons-delapouite@wood-club::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/w/wood_club/0.png/0.png);padding: 0; }
+div.@b13648@gameicons-delapouite@wood-club::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:96096a5e3d2310aa0913701cfa186e74:5e1421c971b8a893515002ccd76c0a84:4ddb42793a59c1b7bfff1539dfc4d068$ */

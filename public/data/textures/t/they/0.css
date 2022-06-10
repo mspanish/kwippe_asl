@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a179@aac@they {max-width:75px; max-height:75px; }
+.@a179@aac@they::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/they/0.png/0.png);padding: 0; }
+div.@a179@aac@they::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48758@solver@1-they-or-ellos {max-width:75px; max-height:75px; }
+.@a48758@solver@1-they-or-ellos::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/they/0.png/0.png);padding: 0; }
+div.@a48758@solver@1-they-or-ellos::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48865@solver@4-they-were-late {max-width:75px; max-height:75px; }
+.@a48865@solver@4-they-were-late::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/t/they/0.png/0.png);padding: 0; }
+div.@a48865@solver@4-they-were-late::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:49754f3e3f5b84b0f636e6c98497656f:9a717845a80ec2788e121b58675b9b1e:4ddb42793a59c1b7bfff1539dfc4d068$ */

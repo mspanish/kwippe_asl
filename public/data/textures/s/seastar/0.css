@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61343@ian@pycnopodia-helianthoides {max-width:75px; max-height:75px; }
+.@a61343@ian@pycnopodia-helianthoides::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/seastar/0.png/0.png);padding: 0; }
+div.@a61343@ian@pycnopodia-helianthoides::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61593@ian@seastar-1 {max-width:75px; max-height:75px; }
+.@a61593@ian@seastar-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/seastar/0.png/0.png);padding: 0; }
+div.@a61593@ian@seastar-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61594@ian@seastar-2 {max-width:75px; max-height:75px; }
+.@a61594@ian@seastar-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/seastar/0.png/0.png);padding: 0; }
+div.@a61594@ian@seastar-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61595@ian@seastar-3 {max-width:75px; max-height:75px; }
+.@a61595@ian@seastar-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/s/seastar/0.png/0.png);padding: 0; }
+div.@a61595@ian@seastar-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8d409d98dc1791f09b48a7a860cc0294:a6de71628f7b613533202b42f176bc20:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "audiology",
+    "signer": "asl2english",
+    "uid": 82,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 14,
+            "nd": null
+        },
+        "end": {
+            "d": 14,
+            "nd": null
+        }
+    },
+    "regions": [
+        "R-ear",
+        "R-ear"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            0
+        ],
+        "type": "circle"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

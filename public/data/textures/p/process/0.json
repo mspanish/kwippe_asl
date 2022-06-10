@@ -1,0 +1,154 @@
+
+{
+
+"@a59818@ian@concentration-high-chlorophyll": { 
+	"vb": "75 75 -0 -0",
+ },
+"@a59819@ian@concentration-high-dissolved-organic-carbon": { 
+	"vb": "75 75 -0 -75",
+ },
+"@a59827@ian@concentration-high-particulate-organic-carbon": { 
+	"vb": "75 75 -75 -0",
+ },
+"@a59830@ian@concentration-high-phytoplankton": { 
+	"vb": "75 75 -0 -150",
+ },
+"@a59838@ian@concentration-intermittent-chlorophyll": { 
+	"vb": "75 75 -75 -75",
+ },
+"@a59839@ian@concentration-intermittent-dissolved-organic-carbon": { 
+	"vb": "75 75 -150 -0",
+ },
+"@a59847@ian@concentration-intermittent-particulate-organic-carbon": { 
+	"vb": "75 75 -0 -225",
+ },
+"@a59850@ian@concentration-intermittent-phytoplankton": { 
+	"vb": "75 75 -75 -150",
+ },
+"@a59858@ian@concentration-low-chlorophyll": { 
+	"vb": "75 75 -150 -75",
+ },
+"@a59859@ian@concentration-low-dissolved-organic-carbon": { 
+	"vb": "75 75 -0 -300",
+ },
+"@a59867@ian@concentration-low-particulate-organic-carbon": { 
+	"vb": "75 75 -75 -225",
+ },
+"@a59870@ian@concentration-low-phytoplankton": { 
+	"vb": "75 75 -150 -150",
+ },
+"@a60188@ian@evapotranspiration-reduced": { 
+	"vb": "45 75 -75 -525",
+ },
+"@a60189@ian@evapotranspiration": { 
+	"vb": "43 75 -75 -600",
+ },
+"@a60314@ian@food-webs-detrital-1": { 
+	"vb": "75 49 -0 -570",
+ },
+"@a60315@ian@food-webs-detrital-2": { 
+	"vb": "75 75 -0 -375",
+ },
+"@a60316@ian@food-webs-grazing-1": { 
+	"vb": "75 67 -0 -450",
+ },
+"@a60317@ian@food-webs-grazing-2": { 
+	"vb": "75 75 -75 -300",
+ },
+"@a60396@ian@grazing-dugong": { 
+	"vb": "75 55 -150 -300",
+ },
+"@a60397@ian@grazing-reef-fish": { 
+	"vb": "75 53 -0 -517",
+ },
+"@a60399@ian@grazing-urchin": { 
+	"vb": "75 45 -0 -619",
+ },
+"@a61178@ian@photosynthesis-respiration": { 
+	"vb": "53 75 -75 -450",
+ },
+"@a61179@ian@photosynthesis": { 
+	"vb": "61 75 -75 -375",
+ },
+"@a61185@ian@phytoplankton-bloom-crash": { 
+	"vb": "75 75 -150 -225",
+ },
+"@a61292@ian@process-ammonification": { 
+	"vb": "75 15 -150 -355",
+ },
+"@a61293@ian@process-calcification": { 
+	"vb": "75 13 -151 -630",
+ },
+"@a61294@ian@process-calcium-dissolution": { 
+	"vb": "75 12 -151 -656",
+ },
+"@a61295@ian@process-calcium-in": { 
+	"vb": "25 75 -225 -0",
+ },
+"@a61296@ian@process-calcium-out": { 
+	"vb": "25 75 -225 -75",
+ },
+"@a61297@ian@process-denitrification-1": { 
+	"vb": "75 15 -151 -600",
+ },
+"@a61298@ian@process-denitrification-2": { 
+	"vb": "23 75 -225 -225",
+ },
+"@a61299@ian@process-iron-in": { 
+	"vb": "23 75 -225 -300",
+ },
+"@a61300@ian@process-iron-out": { 
+	"vb": "23 75 -136 -375",
+ },
+"@a61301@ian@process-nitrification": { 
+	"vb": "75 13 -151 -643",
+ },
+"@a61302@ian@process-nitrogen-fixation-1": { 
+	"vb": "75 17 -0 -664",
+ },
+"@a61303@ian@process-nitrogen-fixation-2": { 
+	"vb": "23 75 -202 -370",
+ },
+"@a61304@ian@process-organic-carbon-release": { 
+	"vb": "25 75 -225 -150",
+ },
+"@a61305@ian@process-oxygen-in": { 
+	"vb": "23 75 -163 -520",
+ },
+"@a61306@ian@process-oxygen-out": { 
+	"vb": "23 75 -186 -520",
+ },
+"@a61307@ian@process-phosphate-remineralization": { 
+	"vb": "75 15 -151 -615",
+ },
+"@a61308@ian@process-phosphorus-in": { 
+	"vb": "23 75 -209 -520",
+ },
+"@a61309@ian@process-phosphorus-out": { 
+	"vb": "23 75 -232 -375",
+ },
+"@a61310@ian@process-primary-production-high": { 
+	"vb": "43 75 -159 -370",
+ },
+"@a61311@ian@process-primary-production-low": { 
+	"vb": "33 75 -128 -450",
+ },
+"@a61312@ian@process-primary-production": { 
+	"vb": "33 75 -118 -600",
+ },
+"@a61313@ian@process-respiration-high": { 
+	"vb": "43 75 -120 -525",
+ },
+"@a61314@ian@process-respiration-low": { 
+	"vb": "33 75 -161 -445",
+ },
+"@a61315@ian@process-respiration": { 
+	"vb": "33 75 -194 -445",
+ },
+"@a61316@ian@process-x-element-in": { 
+	"vb": "23 75 -232 -450",
+ },
+"@a61317@ian@process-x-element-out": { 
+	"vb": "23 75 -232 -525",
+ },
+}

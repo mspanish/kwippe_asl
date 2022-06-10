@@ -1,0 +1,74 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59738@ian@coastline-2d-barrier-island-microtidal {max-width:75px; max-height:75px; }
+.@a59738@ian@coastline-2d-barrier-island-microtidal::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a59738@ian@coastline-2d-barrier-island-microtidal::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59739@ian@coastline-2d-barrier-island-mixed-energy {max-width:75px; max-height:75px; }
+.@a59739@ian@coastline-2d-barrier-island-mixed-energy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a59739@ian@coastline-2d-barrier-island-mixed-energy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59748@ian@coastline-2d-nearshore-reef {max-width:75px; max-height:75px; }
+.@a59748@ian@coastline-2d-nearshore-reef::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.4291845493562232% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a59748@ian@coastline-2d-nearshore-reef::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60110@ian@energy-nuclear-power-station {max-width:75px; max-height:75px; }
+.@a60110@ian@energy-nuclear-power-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60110@ian@energy-nuclear-power-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60111@ian@energy-nuclear-reactor {max-width:75px; max-height:75px; }
+.@a60111@ian@energy-nuclear-reactor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60111@ian@energy-nuclear-reactor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60112@ian@energy-power-line {max-width:75px; max-height:75px; }
+.@a60112@ian@energy-power-line::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 16.952789699570815% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60112@ian@energy-power-line::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60114@ian@energy-solar-panel1 {max-width:75px; max-height:75px; }
+.@a60114@ian@energy-solar-panel1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60114@ian@energy-solar-panel1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60115@ian@energy-solar-panels-3 {max-width:75px; max-height:75px; }
+.@a60115@ian@energy-solar-panels-3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60115@ian@energy-solar-panels-3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60116@ian@energy-solar-panels2 {max-width:75px; max-height:75px; }
+.@a60116@ian@energy-solar-panels2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.47639484978541% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60116@ian@energy-solar-panels2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60117@ian@energy-wind-turbine-1 {max-width:75px; max-height:75px; }
+.@a60117@ian@energy-wind-turbine-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60117@ian@energy-wind-turbine-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60118@ian@energy-wind-turbine-2 {max-width:75px; max-height:75px; }
+.@a60118@ian@energy-wind-turbine-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60118@ian@energy-wind-turbine-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60299@ian@fluorometer {max-width:75px; max-height:75px; }
+.@a60299@ian@fluorometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60299@ian@fluorometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60529@ian@hydro-power-station {max-width:75px; max-height:75px; }
+.@a60529@ian@hydro-power-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60529@ian@hydro-power-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60707@ian@light-metal-halide-spectra {max-width:75px; max-height:75px; }
+.@a60707@ian@light-metal-halide-spectra::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a60707@ian@light-metal-halide-spectra::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61491@ian@rms-turbulence-intensity {max-width:75px; max-height:75px; }
+.@a61491@ian@rms-turbulence-intensity::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.52360515021459% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a61491@ian@rms-turbulence-intensity::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61666@ian@spectrophotometer {max-width:75px; max-height:75px; }
+.@a61666@ian@spectrophotometer::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a61666@ian@spectrophotometer::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61867@ian@turbulent-energy-dissipation-rate {max-width:75px; max-height:75px; }
+.@a61867@ian@turbulent-energy-dissipation-rate::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@a61867@ian@turbulent-energy-dissipation-rate::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12564@gameicons-delapouite@energy-tank {max-width:75px; max-height:75px; }
+.@b12564@gameicons-delapouite@energy-tank::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 83.04721030042919% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@b12564@gameicons-delapouite@energy-tank::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14111@gameicons-lorc@embrassed-energy {max-width:75px; max-height:75px; }
+.@b14111@gameicons-lorc@embrassed-energy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 1.2658227848101267%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@b14111@gameicons-lorc@embrassed-energy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14117@gameicons-lorc@energy-breath {max-width:75px; max-height:75px; }
+.@b14117@gameicons-lorc@energy-breath::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 50%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@b14117@gameicons-lorc@energy-breath::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14676@gameicons-lorc@rolling-energy {max-width:75px; max-height:75px; }
+.@b14676@gameicons-lorc@rolling-energy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.57081545064378% 98.73417721518987%;background-size: 721.3333333333334% 310.6666666666667%;background-image: url(./textures/e/energy/0.png/0.png);padding: 0; }
+div.@b14676@gameicons-lorc@rolling-energy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:542494fc73b9c049cb0748b536b19eb6:7f55a96c9deed702eae97668e8f0a5ed:4ddb42793a59c1b7bfff1539dfc4d068$ */

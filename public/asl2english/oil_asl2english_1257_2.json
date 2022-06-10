@@ -1,0 +1,37 @@
+{
+    "sign": "oil",
+    "signer": "asl2english",
+    "uid": 1257,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 66,
+            "nd": 18
+        },
+        "end": {
+            "d": 10,
+            "nd": 4
+        }
+    },
+    "regions": [
+        "chest",
+        "stomach"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            -1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

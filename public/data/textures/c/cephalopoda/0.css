@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59374@ian@architeuthis-spp {max-width:75px; max-height:75px; }
+.@a59374@ian@architeuthis-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cephalopoda/0.png/0.png);padding: 0; }
+div.@a59374@ian@architeuthis-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60325@ian@fossil-nautilus {max-width:75px; max-height:75px; }
+.@a60325@ian@fossil-nautilus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cephalopoda/0.png/0.png);padding: 0; }
+div.@a60325@ian@fossil-nautilus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60987@ian@nautilus-pompilius {max-width:75px; max-height:75px; }
+.@a60987@ian@nautilus-pompilius::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cephalopoda/0.png/0.png);padding: 0; }
+div.@a60987@ian@nautilus-pompilius::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61618@ian@sepia-officinalis {max-width:75px; max-height:75px; }
+.@a61618@ian@sepia-officinalis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/c/cephalopoda/0.png/0.png);padding: 0; }
+div.@a61618@ian@sepia-officinalis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:bc1e8cef754df98a426e0096a072f139:b5102679eb2daad4830a4909ade05353:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13957@gameicons-lorc@condor-emblem {max-width:75px; max-height:75px; }
+.@b13957@gameicons-lorc@condor-emblem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/emblem/0.png/0.png);padding: 0; }
+div.@b13957@gameicons-lorc@condor-emblem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14303@gameicons-lorc@hawk-emblem {max-width:75px; max-height:75px; }
+.@b14303@gameicons-lorc@hawk-emblem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/emblem/0.png/0.png);padding: 0; }
+div.@b14303@gameicons-lorc@hawk-emblem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14873@gameicons-lorc@steelwing-emblem {max-width:75px; max-height:75px; }
+.@b14873@gameicons-lorc@steelwing-emblem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/emblem/0.png/0.png);padding: 0; }
+div.@b14873@gameicons-lorc@steelwing-emblem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14932@gameicons-lorc@swords-emblem {max-width:75px; max-height:75px; }
+.@b14932@gameicons-lorc@swords-emblem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/emblem/0.png/0.png);padding: 0; }
+div.@b14932@gameicons-lorc@swords-emblem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15084@gameicons-lorc@winged-emblem {max-width:75px; max-height:75px; }
+.@b15084@gameicons-lorc@winged-emblem::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/emblem/0.png/0.png);padding: 0; }
+div.@b15084@gameicons-lorc@winged-emblem::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a53eeac899daa046fa90b91752273985:c7226fde7bf96d0dd3f7ee73f04ea5c7:4ddb42793a59c1b7bfff1539dfc4d068$ */

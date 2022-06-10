@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2557@bon@timekeeping-hurry-to-leave-8097 {max-width:75px; max-height:75px; }
+.@a2557@bon@timekeeping-hurry-to-leave-8097::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/leave/0.png/0.png);padding: 0; }
+div.@a2557@bon@timekeeping-hurry-to-leave-8097::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ea72b25b9b87ff2fa82223a565fbe0cd:aa7cd20bfe29774d6ca7638dd2251ed0:4ddb42793a59c1b7bfff1539dfc4d068$ */

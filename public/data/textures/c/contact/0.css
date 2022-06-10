@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60642@ian@lake-2d-perched-lake-dune-contact-lake {max-width:75px; max-height:75px; }
+.@a60642@ian@lake-2d-perched-lake-dune-contact-lake::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/contact/0.png/0.png);padding: 0; }
+div.@a60642@ian@lake-2d-perched-lake-dune-contact-lake::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c8345e834c6b4f37c289856dffd285c3:5b1515e38a24a3a7c8669f71232f339b:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1943@bon@group-men's-group-1037 {max-width:75px; max-height:75px; }
+.@a1943@bon@group-men's-group-1037::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/group_mens_group/0.png/0.png);padding: 0; }
+div.@a1943@bon@group-men's-group-1037::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4d6c8dca5e6fbda75d68edfc8799a57b:926999da1a0e79664ab2aaaf456a2def:4ddb42793a59c1b7bfff1539dfc4d068$ */

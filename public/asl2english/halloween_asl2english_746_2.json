@@ -1,0 +1,37 @@
+{
+    "sign": "halloween",
+    "signer": "asl2english",
+    "uid": 746,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 77,
+            "nd": 76
+        },
+        "end": {
+            "d": null,
+            "nd": 77
+        }
+    },
+    "regions": [
+        "nose",
+        "R-cheek"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            -1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

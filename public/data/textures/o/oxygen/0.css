@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38325@mul@oxygen-mask {max-width:75px; max-height:75px; }
+.@a38325@mul@oxygen-mask::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.25839793281653745% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a38325@mul@oxygen-mask::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59363@ian@aquarium-airstone {max-width:75px; max-height:75px; }
+.@a59363@ian@aquarium-airstone::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 10.20671834625323% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a59363@ian@aquarium-airstone::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59820@ian@concentration-high-dissolved-oxygen {max-width:75px; max-height:75px; }
+.@a59820@ian@concentration-high-dissolved-oxygen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 20.155038759689923% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a59820@ian@concentration-high-dissolved-oxygen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59825@ian@concentration-high-oxygen {max-width:75px; max-height:75px; }
+.@a59825@ian@concentration-high-oxygen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 30.103359173126616% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a59825@ian@concentration-high-oxygen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59840@ian@concentration-intermittent-dissolved-oxygen {max-width:75px; max-height:75px; }
+.@a59840@ian@concentration-intermittent-dissolved-oxygen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 40.05167958656331% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a59840@ian@concentration-intermittent-dissolved-oxygen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59845@ian@concentration-intermittent-oxygen {max-width:75px; max-height:75px; }
+.@a59845@ian@concentration-intermittent-oxygen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a59845@ian@concentration-intermittent-oxygen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59860@ian@concentration-low-dissolved-oxygen {max-width:75px; max-height:75px; }
+.@a59860@ian@concentration-low-dissolved-oxygen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 59.94832041343669% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a59860@ian@concentration-low-dissolved-oxygen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59865@ian@concentration-low-oxygen {max-width:75px; max-height:75px; }
+.@a59865@ian@concentration-low-oxygen::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 69.89664082687338% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a59865@ian@concentration-low-oxygen::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61305@ian@process-oxygen-in {max-width:75px; max-height:75px; }
+.@a61305@ian@process-oxygen-in::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 79.84496124031008% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a61305@ian@process-oxygen-in::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61306@ian@process-oxygen-out {max-width:75px; max-height:75px; }
+.@a61306@ian@process-oxygen-out::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 89.79328165374677% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a61306@ian@process-oxygen-out::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62189@ian@water-quality-management {max-width:75px; max-height:75px; }
+.@a62189@ian@water-quality-management::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.74160206718346% 50%;background-size: 1132% 105.33333333333333%;background-image: url(./textures/o/oxygen/0.png/0.png);padding: 0; }
+div.@a62189@ian@water-quality-management::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1f88b3533f3bbabfff30b6a7ccbe08d5:db92bff58a6ccb56821b552543af1ba4:4ddb42793a59c1b7bfff1539dfc4d068$ */

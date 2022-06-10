@@ -1,0 +1,37 @@
+{
+    "sign": "ns-mexico-spain",
+    "signer": "asl2english",
+    "uid": 1176,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 79,
+            "nd": 79
+        },
+        "end": {
+            "d": 79,
+            "nd": 79
+        }
+    },
+    "regions": [
+        "R-shoulder",
+        "chest"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            -1,
+            0,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14639@gameicons-lorc@quill-ink {max-width:75px; max-height:75px; }
+.@b14639@gameicons-lorc@quill-ink::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/q/quill/0.png/0.png);padding: 0; }
+div.@b14639@gameicons-lorc@quill-ink::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14640@gameicons-lorc@quill {max-width:75px; max-height:75px; }
+.@b14640@gameicons-lorc@quill::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/q/quill/0.png/0.png);padding: 0; }
+div.@b14640@gameicons-lorc@quill::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:73dc8697d3fa94c5210357138ccabe63:a48e8a7bbf56f597227d7869ffe45935:4ddb42793a59c1b7bfff1539dfc4d068$ */

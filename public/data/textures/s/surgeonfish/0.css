@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59243@ian@acanthurus-achilles {max-width:75px; max-height:75px; }
+.@a59243@ian@acanthurus-achilles::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/surgeonfish/0.png/0.png);padding: 0; }
+div.@a59243@ian@acanthurus-achilles::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59245@ian@acanthurus-nigrofuscus {max-width:75px; max-height:75px; }
+.@a59245@ian@acanthurus-nigrofuscus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/surgeonfish/0.png/0.png);padding: 0; }
+div.@a59245@ian@acanthurus-nigrofuscus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59246@ian@acanthurus-triostegus {max-width:75px; max-height:75px; }
+.@a59246@ian@acanthurus-triostegus::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/s/surgeonfish/0.png/0.png);padding: 0; }
+div.@a59246@ian@acanthurus-triostegus::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:386a920caa17ba41b57fa4dec08602fc:bb9a824387c7819811bdca730c20f5b1:4ddb42793a59c1b7bfff1539dfc4d068$ */

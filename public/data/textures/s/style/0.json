@@ -1,0 +1,154 @@
+
+{
+
+"@a1107@bat@align-bottom": { 
+	"vb": "75 75 -0 -0",
+ },
+"@a1111@bat@align-top": { 
+	"vb": "75 75 -0 -75",
+ },
+"@a1212@bat@distribute-bottom-edges": { 
+	"vb": "75 75 -75 -0",
+ },
+"@a1213@bat@distribute-horizontal-centers": { 
+	"vb": "75 75 -0 -150",
+ },
+"@a1214@bat@distribute-left-edges": { 
+	"vb": "75 75 -75 -75",
+ },
+"@a1215@bat@distribute-right-edges": { 
+	"vb": "75 75 -150 -0",
+ },
+"@a1216@bat@distribute-top-edges": { 
+	"vb": "75 75 -0 -225",
+ },
+"@a1217@bat@distribute-vertical-centers": { 
+	"vb": "75 75 -75 -150",
+ },
+"@a2410@bon@style-1-8250": { 
+	"vb": "75 75 -150 -75",
+ },
+"@a2411@bon@style-1-8251": { 
+	"vb": "75 75 -225 -0",
+ },
+"@a2412@bon@style-1-8252-": { 
+	"vb": "75 75 -0 -300",
+ },
+"@a2413@bon@style-1-8253": { 
+	"vb": "75 75 -75 -225",
+ },
+"@a2414@bon@style-1-8254": { 
+	"vb": "75 75 -150 -150",
+ },
+"@a2415@bon@style-2-8255-": { 
+	"vb": "75 75 -225 -75",
+ },
+"@a2416@bon@style-2-8256": { 
+	"vb": "75 75 -300 -0",
+ },
+"@a2417@bon@style-2-8257": { 
+	"vb": "75 75 -0 -375",
+ },
+"@a2418@bon@style-2-8258": { 
+	"vb": "75 75 -75 -300",
+ },
+"@a2419@bon@style-2-8259": { 
+	"vb": "75 75 -150 -225",
+ },
+"@a2420@bon@style-3-8260": { 
+	"vb": "75 75 -225 -150",
+ },
+"@a2421@bon@style-3-8261": { 
+	"vb": "75 69 -375 -148",
+ },
+"@a2422@bon@style-3-8262": { 
+	"vb": "47 75 -450 -225",
+ },
+"@a2423@bon@style-3-8263": { 
+	"vb": "75 67 -375 -217",
+ },
+"@a2424@bon@style-3-8264": { 
+	"vb": "75 75 -300 -75",
+ },
+"@a2425@bon@style-4-8265": { 
+	"vb": "75 47 -369 -284",
+ },
+"@a2426@bon@style-4-8266": { 
+	"vb": "75 47 -369 -331",
+ },
+"@a2427@bon@style-5-8267": { 
+	"vb": "75 19 -294 -475",
+ },
+"@a2428@bon@style-6-8268": { 
+	"vb": "75 31 -369 -437",
+ },
+"@a2429@bon@style-7-8269": { 
+	"vb": "75 75 -375 -0",
+ },
+"@a27226@icf@align-objects-bottom": { 
+	"vb": "65 75 -444 -300",
+ },
+"@a27227@icf@align-objects-horizontal-axis": { 
+	"vb": "75 59 -294 -300",
+ },
+"@a27230@icf@align-objects-top": { 
+	"vb": "65 75 -444 -375",
+ },
+"@a27231@icf@align-objects-vertical-axis": { 
+	"vb": "59 75 -450 -0",
+ },
+"@a30276@lib@object-align-bottom": { 
+	"vb": "75 69 -75 -450",
+ },
+"@a30277@lib@object-align-horizontal": { 
+	"vb": "59 75 -450 -75",
+ },
+"@a30280@lib@object-align-top": { 
+	"vb": "75 69 -150 -375",
+ },
+"@a30281@lib@object-align-vertical": { 
+	"vb": "75 59 -294 -359",
+ },
+"@a31143@lin@vertical-align-bottom": { 
+	"vb": "75 73 -300 -150",
+ },
+"@a31145@lin@vertical-align-top": { 
+	"vb": "75 73 -375 -75",
+ },
+"@a36383@met@vertical-align-bottom": { 
+	"vb": "69 75 -225 -300",
+ },
+"@a36385@met@vertical-align-top": { 
+	"vb": "69 75 -300 -223",
+ },
+"@a54919@wav@vertical-align-bottom": { 
+	"vb": "69 75 -150 -444",
+ },
+"@a54921@wav@vertical-align-top": { 
+	"vb": "69 75 -225 -375",
+ },
+"@a56384@win@cell-align": { 
+	"vb": "75 57 -294 -418",
+ },
+"@b8056@web@alignbottomedge": { 
+	"vb": "75 75 -0 -450",
+ },
+"@b8058@web@alignhorizontalcenter": { 
+	"vb": "59 75 -450 -150",
+ },
+"@b8061@web@alignleftedge": { 
+	"vb": "75 75 -75 -375",
+ },
+"@b8062@web@alignright": { 
+	"vb": "75 69 -219 -450",
+ },
+"@b8063@web@alignrightedge": { 
+	"vb": "75 75 -150 -300",
+ },
+"@b8064@web@aligntopedge": { 
+	"vb": "75 75 -225 -225",
+ },
+"@b8065@web@alignverticalcenter": { 
+	"vb": "75 59 -369 -378",
+ },
+}

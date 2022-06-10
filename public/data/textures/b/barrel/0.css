@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a25313@gli@barrel {max-width:75px; max-height:75px; }
+.@a25313@gli@barrel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/barrel/0.png/0.png);padding: 0; }
+div.@a25313@gli@barrel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25314@gli@barrel {max-width:75px; max-height:75px; }
+.@a25314@gli@barrel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/barrel/0.png/0.png);padding: 0; }
+div.@a25314@gli@barrel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25828@gli@ra_drum_1 {max-width:75px; max-height:75px; }
+.@a25828@gli@ra_drum_1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/barrel/0.png/0.png);padding: 0; }
+div.@a25828@gli@ra_drum_1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25829@gli@ra_drum_2 {max-width:75px; max-height:75px; }
+.@a25829@gli@ra_drum_2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 1.2658227848101267%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/barrel/0.png/0.png);padding: 0; }
+div.@a25829@gli@ra_drum_2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a25830@gli@ra_drum_3 {max-width:75px; max-height:75px; }
+.@a25830@gli@ra_drum_3::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/barrel/0.png/0.png);padding: 0; }
+div.@a25830@gli@ra_drum_3::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12215@gameicons-delapouite@barrel {max-width:75px; max-height:75px; }
+.@b12215@gameicons-delapouite@barrel::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 98.73417721518987%;background-size: 208% 310.6666666666667%;background-image: url(./textures/b/barrel/0.png/0.png);padding: 0; }
+div.@b12215@gameicons-delapouite@barrel::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:db5b8a2f646363695bb5752bd8aea393:b88e3ac3ecd8a70d379feb5836d6f0d3:4ddb42793a59c1b7bfff1539dfc4d068$ */

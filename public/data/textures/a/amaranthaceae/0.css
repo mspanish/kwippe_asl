@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59692@ian@chenopodium-oahuense {max-width:75px; max-height:75px; }
+.@a59692@ian@chenopodium-oahuense::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/amaranthaceae/0.png/0.png);padding: 0; }
+div.@a59692@ian@chenopodium-oahuense::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61724@ian@suaeda-australis {max-width:75px; max-height:75px; }
+.@a61724@ian@suaeda-australis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/amaranthaceae/0.png/0.png);padding: 0; }
+div.@a61724@ian@suaeda-australis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61781@ian@tecticornia-flabelliformis {max-width:75px; max-height:75px; }
+.@a61781@ian@tecticornia-flabelliformis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/amaranthaceae/0.png/0.png);padding: 0; }
+div.@a61781@ian@tecticornia-flabelliformis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61782@ian@tecticornia-spp {max-width:75px; max-height:75px; }
+.@a61782@ian@tecticornia-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/a/amaranthaceae/0.png/0.png);padding: 0; }
+div.@a61782@ian@tecticornia-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:d9d7b193cf8983e8841b24ad6113dcbb:c0d96b26a8a9f4a316b88dffa3ef65ab:4ddb42793a59c1b7bfff1539dfc4d068$ */

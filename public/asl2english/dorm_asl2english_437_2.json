@@ -1,0 +1,37 @@
+{
+    "sign": "dorm",
+    "signer": "asl2english",
+    "uid": 437,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 42,
+            "nd": null
+        },
+        "end": {
+            "d": 42,
+            "nd": null
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "R-cheek"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            1,
+            -1
+        ],
+        "type": "single"
+    },
+    "palmface": "inward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

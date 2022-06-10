@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b14483@gameicons-lorc@maze-cornea {max-width:75px; max-height:75px; }
+.@b14483@gameicons-lorc@maze-cornea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/cornea/0.png/0.png);padding: 0; }
+div.@b14483@gameicons-lorc@maze-cornea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:ab0d4746204da1d5d1c5b42006b80f6f:d621b99eeb4c52295de3cd06e08f9600:4ddb42793a59c1b7bfff1539dfc4d068$ */

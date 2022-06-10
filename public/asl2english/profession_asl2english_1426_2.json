@@ -1,0 +1,37 @@
+{
+    "sign": "profession",
+    "signer": "asl2english",
+    "uid": 1426,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 58,
+            "nd": 77
+        },
+        "end": {
+            "d": 58,
+            "nd": 77
+        }
+    },
+    "regions": [
+        0,
+        0
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

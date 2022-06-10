@@ -1,0 +1,35 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59974@ian@deepwater-research-station {max-width:75px; max-height:75px; }
+.@a59974@ian@deepwater-research-station::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/underwater/0.png/0.png);padding: 0; }
+div.@a59974@ian@deepwater-research-station::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60265@ian@fish-cages {max-width:75px; max-height:75px; }
+.@a60265@ian@fish-cages::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/underwater/0.png/0.png);padding: 0; }
+div.@a60265@ian@fish-cages::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60422@ian@habitat-2d-underwater-shoreline {max-width:75px; max-height:75px; }
+.@a60422@ian@habitat-2d-underwater-shoreline::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/underwater/0.png/0.png);padding: 0; }
+div.@a60422@ian@habitat-2d-underwater-shoreline::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61027@ian@ocean-3d-guyot-formation {max-width:75px; max-height:75px; }
+.@a61027@ian@ocean-3d-guyot-formation::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/underwater/0.png/0.png);padding: 0; }
+div.@a61027@ian@ocean-3d-guyot-formation::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61565@ian@scuba-diver {max-width:75px; max-height:75px; }
+.@a61565@ian@scuba-diver::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 1.2658227848101267%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/underwater/0.png/0.png);padding: 0; }
+div.@a61565@ian@scuba-diver::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61725@ian@submersible-glider-thermally-powered {max-width:75px; max-height:75px; }
+.@a61725@ian@submersible-glider-thermally-powered::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/underwater/0.png/0.png);padding: 0; }
+div.@a61725@ian@submersible-glider-thermally-powered::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61889@ian@undersea-habitat {max-width:75px; max-height:75px; }
+.@a61889@ian@undersea-habitat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 98.73417721518987%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/underwater/0.png/0.png);padding: 0; }
+div.@a61889@ian@undersea-habitat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62160@ian@vims-fetch-autonomous-underwater-vehicle {max-width:75px; max-height:75px; }
+.@a62160@ian@vims-fetch-autonomous-underwater-vehicle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 310.6666666666667%;background-image: url(./textures/u/underwater/0.png/0.png);padding: 0; }
+div.@a62160@ian@vims-fetch-autonomous-underwater-vehicle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:9e8e4a9a112cf6aa3e9f49ebe4767d15:0938ebf1193c53614bf994a408fa2b59:4ddb42793a59c1b7bfff1539dfc4d068$ */

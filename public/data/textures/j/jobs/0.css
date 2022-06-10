@@ -1,0 +1,23 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a17514@fir@u1f477-construct {max-width:75px; max-height:75px; }
+.@a17514@fir@u1f477-construct::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/j/jobs/0.png/0.png);padding: 0; }
+div.@a17514@fir@u1f477-construct::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40840@nog@building_construction_travel-places_kgncr {max-width:75px; max-height:75px; }
+.@a40840@nog@building_construction_travel-places_kgncr::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/j/jobs/0.png/0.png);padding: 0; }
+div.@a40840@nog@building_construction_travel-places_kgncr::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a57313@win@transit-construction {max-width:75px; max-height:75px; }
+.@a57313@win@transit-construction::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/j/jobs/0.png/0.png);padding: 0; }
+div.@a57313@win@transit-construction::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60807@ian@manufacturing-plant {max-width:75px; max-height:75px; }
+.@a60807@ian@manufacturing-plant::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 105.33333333333333%;background-image: url(./textures/j/jobs/0.png/0.png);padding: 0; }
+div.@a60807@ian@manufacturing-plant::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:98056b3643a3bb4c6fb94b79f049317f:26d6be594916e0dca1ad31f0d27d60ed:4ddb42793a59c1b7bfff1539dfc4d068$ */

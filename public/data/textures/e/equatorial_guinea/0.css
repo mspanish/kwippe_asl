@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16101@emo@gq {max-width:75px; max-height:75px; }
+.@a16101@emo@gq::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/equatorial_guinea/0.png/0.png);padding: 0; }
+div.@a16101@emo@gq::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d1967@wikim-all@coat_of_arms_of_equatorial_guinea {max-width:75px; max-height:75px; }
+.@d1967@wikim-all@coat_of_arms_of_equatorial_guinea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/equatorial_guinea/0.png/0.png);padding: 0; }
+div.@d1967@wikim-all@coat_of_arms_of_equatorial_guinea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2470@wikim-all@flag_of_equatorial_guinea {max-width:75px; max-height:75px; }
+.@d2470@wikim-all@flag_of_equatorial_guinea::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/e/equatorial_guinea/0.png/0.png);padding: 0; }
+div.@d2470@wikim-all@flag_of_equatorial_guinea::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:6d6db21d7040441d4fa5188bd8e76911:194308da2ff0d58643f9640991990a90:4ddb42793a59c1b7bfff1539dfc4d068$ */

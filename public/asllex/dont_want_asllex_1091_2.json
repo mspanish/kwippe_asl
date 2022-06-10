@@ -1,0 +1,45 @@
+{
+    "sign": "dont_want",
+    "signer": "aslLex",
+    "uid": 442,
+    "synonyms": "don't want",
+    "handshapes": {
+        "begin": {
+            "d": "curved_5",
+            "nd": "curved_5"
+        },
+        "end": {
+            "d": "curved_5",
+            "nd": "curved_5"
+        }
+    },
+    "regions": {
+        "morph1_general": "Neutral",
+        "morph1_specific": "Neutral",
+        "morph1_specific_second": null,
+        "morph1_contact": 0.0,
+        "morph1_signtype": "SymmetricalOrAlternating",
+        "morph1_movement": "None",
+        "morph1_repeat": 0,
+        "morph2_general": "Neutral",
+        "morph2_specific": "Neutral",
+        "morph2_specific_second": "Neutral",
+        "morph2_contact": 0.0,
+        "morph2_signtype": "SymmetricalOrAlternating",
+        "morph2_movement": "Straight",
+        "morph2_repeat": null
+    },
+    "hands": "SymmetricalOrAlternating",
+    "num_positions": 2,
+    "positions": [],
+    "motion": {},
+    "palmface": "",
+    "wristTurn": [
+        0,
+        1.0
+    ],
+    "morphemes": 2,
+    "complexity": 3.0,
+    "frequency": 6.031,
+    "category": "Mental State Terms"
+}

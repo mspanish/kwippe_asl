@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a13788@digerati@alimento0103 {max-width:75px; max-height:75px; }
+.@a13788@digerati@alimento0103::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/with_bottle/0.png/0.png);padding: 0; }
+div.@a13788@digerati@alimento0103::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a27869@icf@wine {max-width:75px; max-height:75px; }
+.@a27869@icf@wine::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/with_bottle/0.png/0.png);padding: 0; }
+div.@a27869@icf@wine::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13639@gameicons-delapouite@wine-bottle {max-width:75px; max-height:75px; }
+.@b13639@gameicons-delapouite@wine-bottle::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/w/with_bottle/0.png/0.png);padding: 0; }
+div.@b13639@gameicons-delapouite@wine-bottle::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:b2d5eec20149a6e353d9d3ec2ac038d4:6222424198539c9e0533ee19ca0c6202:4ddb42793a59c1b7bfff1539dfc4d068$ */

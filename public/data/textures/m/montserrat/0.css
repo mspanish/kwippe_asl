@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a16166@emo@ms {max-width:75px; max-height:75px; }
+.@a16166@emo@ms::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/montserrat/0.png/0.png);padding: 0; }
+div.@a16166@emo@ms::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@d2010@wikim-all@coat_of_arms_of_montserrat {max-width:75px; max-height:75px; }
+.@d2010@wikim-all@coat_of_arms_of_montserrat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/m/montserrat/0.png/0.png);padding: 0; }
+div.@d2010@wikim-all@coat_of_arms_of_montserrat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:068dfe4e50294b4bde2261e737a1ffe6:1a6c121eca1e656a4696057fe94e6b45:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2173@bon@pastry-cutter-2544 {max-width:75px; max-height:75px; }
+.@a2173@bon@pastry-cutter-2544::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pastry/0.png/0.png);padding: 0; }
+div.@a2173@bon@pastry-cutter-2544::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37188@mul@danish-pastry {max-width:75px; max-height:75px; }
+.@a37188@mul@danish-pastry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pastry/0.png/0.png);padding: 0; }
+div.@a37188@mul@danish-pastry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38372@mul@pastry {max-width:75px; max-height:75px; }
+.@a38372@mul@pastry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/pastry/0.png/0.png);padding: 0; }
+div.@a38372@mul@pastry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:f68d55ae6e5b33a2aff4253041d5b98e:0d083f609530bd4abd62750804e99b82:4ddb42793a59c1b7bfff1539dfc4d068$ */

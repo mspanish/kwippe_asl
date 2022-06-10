@@ -1,0 +1,95 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a14875@em2@earth-globe-americas {max-width:75px; max-height:75px; }
+.@a14875@em2@earth-globe-americas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a14875@em2@earth-globe-americas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14876@em2@earth-globe-asia-australia {max-width:75px; max-height:75px; }
+.@a14876@em2@earth-globe-asia-australia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a14876@em2@earth-globe-asia-australia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14877@em2@earth-globe-europe-africa {max-width:75px; max-height:75px; }
+.@a14877@em2@earth-globe-europe-africa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a14877@em2@earth-globe-europe-africa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28351@jqe@earth-globe-americas {max-width:75px; max-height:75px; }
+.@a28351@jqe@earth-globe-americas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a28351@jqe@earth-globe-americas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28352@jqe@earth-globe-asia-australia {max-width:75px; max-height:75px; }
+.@a28352@jqe@earth-globe-asia-australia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a28352@jqe@earth-globe-asia-australia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a28353@jqe@earth-globe-europe-africa {max-width:75px; max-height:75px; }
+.@a28353@jqe@earth-globe-europe-africa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a28353@jqe@earth-globe-europe-africa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29083@jqu@globe {max-width:75px; max-height:75px; }
+.@a29083@jqu@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a29083@jqu@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a37781@mul@globe {max-width:75px; max-height:75px; }
+.@a37781@mul@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a37781@mul@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39574@noc@earth-globe-americas {max-width:75px; max-height:75px; }
+.@a39574@noc@earth-globe-americas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a39574@noc@earth-globe-americas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39575@noc@earth-globe-asia-australia {max-width:75px; max-height:75px; }
+.@a39575@noc@earth-globe-asia-australia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a39575@noc@earth-globe-asia-australia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39576@noc@earth-globe-europe-africa {max-width:75px; max-height:75px; }
+.@a39576@noc@earth-globe-europe-africa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a39576@noc@earth-globe-europe-africa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a41888@nog@globe-meridians-travel-places {max-width:75px; max-height:75px; }
+.@a41888@nog@globe-meridians-travel-places::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a41888@nog@globe-meridians-travel-places::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44294@not@earth-globe-americas {max-width:75px; max-height:75px; }
+.@a44294@not@earth-globe-americas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a44294@not@earth-globe-americas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44295@not@earth-globe-asia-australia {max-width:75px; max-height:75px; }
+.@a44295@not@earth-globe-asia-australia::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a44295@not@earth-globe-asia-australia::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a44296@not@earth-globe-europe-africa {max-width:75px; max-height:75px; }
+.@a44296@not@earth-globe-europe-africa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a44296@not@earth-globe-europe-africa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a48187@roc@globe {max-width:75px; max-height:75px; }
+.@a48187@roc@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a48187@roc@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49641@str@584-globe-showing-europe-africa {max-width:75px; max-height:75px; }
+.@a49641@str@584-globe-showing-europe-africa::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a49641@str@584-globe-showing-europe-africa::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a49642@str@585-globe-showing-americas {max-width:75px; max-height:75px; }
+.@a49642@str@585-globe-showing-americas::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a49642@str@585-globe-showing-americas::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a523@ara@travel-globe {max-width:75px; max-height:75px; }
+.@a523@ara@travel-globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a523@ara@travel-globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53278@vaa@globe {max-width:75px; max-height:75px; }
+.@a53278@vaa@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a53278@vaa@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53842@videoplasty@world_globe_flat_icon_vector {max-width:75px; max-height:75px; }
+.@a53842@videoplasty@world_globe_flat_icon_vector::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a53842@videoplasty@world_globe_flat_icon_vector::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a54296@wav@globe {max-width:75px; max-height:75px; }
+.@a54296@wav@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a54296@wav@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56642@win@globe {max-width:75px; max-height:75px; }
+.@a56642@win@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 79.69151670951157%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a56642@win@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a805@awe@globe {max-width:75px; max-height:75px; }
+.@a805@awe@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 99.48586118251929%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@a805@awe@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12690@gameicons-delapouite@globe-ring {max-width:75px; max-height:75px; }
+.@b12690@gameicons-delapouite@globe-ring::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 0.5141388174807198%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@b12690@gameicons-delapouite@globe-ring::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14257@gameicons-lorc@globe {max-width:75px; max-height:75px; }
+.@b14257@gameicons-lorc@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 20.308483290488432%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@b14257@gameicons-lorc@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8814@web@globe-1 {max-width:75px; max-height:75px; }
+.@b8814@web@globe-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 40.102827763496144%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@b8814@web@globe-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b8815@web@globe {max-width:75px; max-height:75px; }
+.@b8815@web@globe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 59.897172236503856%;background-size: 516% 618.6666666666666%;background-image: url(./textures/t/text_companions/0.png/0.png);padding: 0; }
+div.@b8815@web@globe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1d22f7f8fa32cd39c7f6f3c37f4c8360:a2e48984015ca3a35abbf132ec49987f:4ddb42793a59c1b7bfff1539dfc4d068$ */

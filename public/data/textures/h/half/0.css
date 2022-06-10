@@ -1,0 +1,44 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a1013@awe@star-half {max-width:75px; max-height:75px; }
+.@a1013@awe@star-half::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@a1013@awe@star-half::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a14555@ele@star-half {max-width:75px; max-height:75px; }
+.@a14555@ele@star-half::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@a14555@ele@star-half::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a29217@jqu@star-half {max-width:75px; max-height:75px; }
+.@a29217@jqu@star-half::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@a29217@jqu@star-half::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38440@mul@pint-half {max-width:75px; max-height:75px; }
+.@a38440@mul@pint-half::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@a38440@mul@pint-half::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a52212@typ@star-half {max-width:75px; max-height:75px; }
+.@a52212@typ@star-half::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@a52212@typ@star-half::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53512@vaa@star-half-left {max-width:75px; max-height:75px; }
+.@a53512@vaa@star-half-left::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@a53512@vaa@star-half-left::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53514@vaa@star-half-right {max-width:75px; max-height:75px; }
+.@a53514@vaa@star-half-right::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@a53514@vaa@star-half-right::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12723@gameicons-delapouite@half-body-crawling {max-width:75px; max-height:75px; }
+.@b12723@gameicons-delapouite@half-body-crawling::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@b12723@gameicons-delapouite@half-body-crawling::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12724@gameicons-delapouite@half-dead {max-width:75px; max-height:75px; }
+.@b12724@gameicons-delapouite@half-dead::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@b12724@gameicons-delapouite@half-dead::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12725@gameicons-delapouite@half-log {max-width:75px; max-height:75px; }
+.@b12725@gameicons-delapouite@half-log::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@b12725@gameicons-delapouite@half-log::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b15225@gameicons-sbed@spikes-half {max-width:75px; max-height:75px; }
+.@b15225@gameicons-sbed@spikes-half::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/h/half/0.png/0.png);padding: 0; }
+div.@b15225@gameicons-sbed@spikes-half::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:49ad7a43996c679420028a8f4ee1a639:f17444baf378a63220c872aea907465d:4ddb42793a59c1b7bfff1539dfc4d068$ */

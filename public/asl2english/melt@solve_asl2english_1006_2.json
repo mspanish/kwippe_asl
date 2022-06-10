@@ -1,0 +1,37 @@
+{
+    "sign": "melt@solve",
+    "signer": "asl2english",
+    "uid": 1006,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 39,
+            "nd": 14
+        },
+        "end": {
+            "d": 51,
+            "nd": null
+        }
+    },
+    "regions": [
+        0,
+        "right"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "change"
+    },
+    "palmface": "up",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

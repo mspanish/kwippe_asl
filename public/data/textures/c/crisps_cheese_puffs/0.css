@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a37152@mul@crisps-cheese-puffs {max-width:75px; max-height:75px; }
+.@a37152@mul@crisps-cheese-puffs::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/c/crisps_cheese_puffs/0.png/0.png);padding: 0; }
+div.@a37152@mul@crisps-cheese-puffs::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1f98fe873c0b1b76cf7a3b41f4e4d3d1:8808c09c21031a77e3bcdd685be8b622:4ddb42793a59c1b7bfff1539dfc4d068$ */

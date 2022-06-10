@@ -1,0 +1,41 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a108@aac@long-time {max-width:75px; max-height:75px; }
+.@a108@aac@long-time::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.28694404591104733% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a108@aac@long-time::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38092@mul@long-johns {max-width:75px; max-height:75px; }
+.@a38092@mul@long-johns::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 11.33428981348637% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a38092@mul@long-johns::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38093@mul@long {max-width:75px; max-height:75px; }
+.@a38093@mul@long::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 22.381635581061694% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a38093@mul@long::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61403@ian@residence-time-long {max-width:75px; max-height:75px; }
+.@a61403@ian@residence-time-long::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.428981348637016% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a61403@ian@residence-time-long::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61950@ian@usa-ca-san-pedro-bay {max-width:75px; max-height:75px; }
+.@a61950@ian@usa-ca-san-pedro-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 44.47632711621234% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a61950@ian@usa-ca-san-pedro-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61954@ian@usa-ct-connecticut-river {max-width:75px; max-height:75px; }
+.@a61954@ian@usa-ct-connecticut-river::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 55.52367288378766% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a61954@ian@usa-ct-connecticut-river::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62093@ian@usa-nj-barnegat-bay {max-width:75px; max-height:75px; }
+.@a62093@ian@usa-nj-barnegat-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.57101865136299% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a62093@ian@usa-nj-barnegat-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62096@ian@usa-ny-gardiners-bay {max-width:75px; max-height:75px; }
+.@a62096@ian@usa-ny-gardiners-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 77.61836441893831% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a62096@ian@usa-ny-gardiners-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62097@ian@usa-ny-great-south-bay {max-width:75px; max-height:75px; }
+.@a62097@ian@usa-ny-great-south-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 88.66571018651364% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a62097@ian@usa-ny-great-south-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62143@ian@usa-wa-willapa-bay {max-width:75px; max-height:75px; }
+.@a62143@ian@usa-wa-willapa-bay::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.71305595408896% 50%;background-size: 1029.3333333333333% 105.33333333333333%;background-image: url(./textures/l/long/0.png/0.png);padding: 0; }
+div.@a62143@ian@usa-wa-willapa-bay::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:3fd2613a9babd2c2589eaf27b2d9b70c:dffbe4102959972457a4bcf23387aa57:4ddb42793a59c1b7bfff1539dfc4d068$ */

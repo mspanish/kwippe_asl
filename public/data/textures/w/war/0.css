@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59597@ian@cannon {max-width:75px; max-height:75px; }
+.@a59597@ian@cannon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/war/0.png/0.png);padding: 0; }
+div.@a59597@ian@cannon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60623@ian@kii-hawaiian-war-god {max-width:75px; max-height:75px; }
+.@a60623@ian@kii-hawaiian-war-god::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/war/0.png/0.png);padding: 0; }
+div.@a60623@ian@kii-hawaiian-war-god::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60902@ian@monument-1 {max-width:75px; max-height:75px; }
+.@a60902@ian@monument-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/war/0.png/0.png);padding: 0; }
+div.@a60902@ian@monument-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13606@gameicons-delapouite@war-axe {max-width:75px; max-height:75px; }
+.@b13606@gameicons-delapouite@war-axe::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/war/0.png/0.png);padding: 0; }
+div.@b13606@gameicons-delapouite@war-axe::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b13607@gameicons-delapouite@war-bonnet {max-width:75px; max-height:75px; }
+.@b13607@gameicons-delapouite@war-bonnet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/w/war/0.png/0.png);padding: 0; }
+div.@b13607@gameicons-delapouite@war-bonnet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:8e7d3fc3ba136c06b3ff586a5f8e5d54:6b475886d435e71b6a6f0c9b082c3e9d:4ddb42793a59c1b7bfff1539dfc4d068$ */

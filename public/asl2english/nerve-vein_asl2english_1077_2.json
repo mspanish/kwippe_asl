@@ -1,0 +1,37 @@
+{
+    "sign": "nerve-vein",
+    "signer": "asl2english",
+    "uid": 1077,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 1,
+            "nd": 93
+        },
+        "end": {
+            "d": 1,
+            "nd": 93
+        }
+    },
+    "regions": [
+        "wrist",
+        "arm"
+    ],
+    "hands": 1.5,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "type": "single",
+        "dir": [
+            1,
+            -1,
+            0
+        ]
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

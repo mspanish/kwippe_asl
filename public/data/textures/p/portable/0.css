@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a36955@mul@communication-book-portable {max-width:75px; max-height:75px; }
+.@a36955@mul@communication-book-portable::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/portable/0.png/0.png);padding: 0; }
+div.@a36955@mul@communication-book-portable::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59891@ian@cooler-2 {max-width:75px; max-height:75px; }
+.@a59891@ian@cooler-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/portable/0.png/0.png);padding: 0; }
+div.@a59891@ian@cooler-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61264@ian@portable-generator {max-width:75px; max-height:75px; }
+.@a61264@ian@portable-generator::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/p/portable/0.png/0.png);padding: 0; }
+div.@a61264@ian@portable-generator::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:14bcb8e4c1264da1b37306d053d4c3a6:dc22c0016a12d225b1c63084c4eec652:4ddb42793a59c1b7bfff1539dfc4d068$ */

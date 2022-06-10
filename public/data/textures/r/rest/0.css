@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a2218@bon@prescribed-treatment-rest-5053 {max-width:75px; max-height:75px; }
+.@a2218@bon@prescribed-treatment-rest-5053::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/r/rest/0.png/0.png);padding: 0; }
+div.@a2218@bon@prescribed-treatment-rest-5053::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61925@ian@urban-public-toilet {max-width:75px; max-height:75px; }
+.@a61925@ian@urban-public-toilet::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/r/rest/0.png/0.png);padding: 0; }
+div.@a61925@ian@urban-public-toilet::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c8f49101b869b8ae70cdbc6e3c9c6acc:6133f3f356f29f81e2570b6f978bf05a:4ddb42793a59c1b7bfff1539dfc4d068$ */

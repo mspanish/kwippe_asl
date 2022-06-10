@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a557@ara@gameboy {max-width:75px; max-height:75px; }
+.@a557@ara@gameboy::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/g/gameboy/0.png/0.png);padding: 0; }
+div.@a557@ara@gameboy::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2f4f00c9891b83145d97f7d89edbcbab:56f6672eb30e62b85d0ee8c4776178b4:4ddb42793a59c1b7bfff1539dfc4d068$ */

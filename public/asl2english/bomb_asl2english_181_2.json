@@ -1,0 +1,37 @@
+{
+    "sign": "bomb",
+    "signer": "asl2english",
+    "uid": 181,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": 4
+        },
+        "end": {
+            "d": null,
+            "nd": 35
+        }
+    },
+    "regions": [
+        "hand",
+        "R-shoulder"
+    ],
+    "hands": 2,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            1,
+            0,
+            0
+        ],
+        "type": "change"
+    },
+    "palmface": "towards-palm",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

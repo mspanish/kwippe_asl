@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a15460@em2@star-and-crescent {max-width:75px; max-height:75px; }
+.@a15460@em2@star-and-crescent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/star_crescent/0.png/0.png);padding: 0; }
+div.@a15460@em2@star-and-crescent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a16826@emo@star-and-crescent {max-width:75px; max-height:75px; }
+.@a16826@emo@star-and-crescent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/star_crescent/0.png/0.png);padding: 0; }
+div.@a16826@emo@star-and-crescent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a32045@map@mosque {max-width:75px; max-height:75px; }
+.@a32045@map@mosque::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/star_crescent/0.png/0.png);padding: 0; }
+div.@a32045@map@mosque::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a40179@noc@star-and-crescent {max-width:75px; max-height:75px; }
+.@a40179@noc@star-and-crescent::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/star_crescent/0.png/0.png);padding: 0; }
+div.@a40179@noc@star-and-crescent::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a43606@nog@star-and-crescent-symbols {max-width:75px; max-height:75px; }
+.@a43606@nog@star-and-crescent-symbols::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/star_crescent/0.png/0.png);padding: 0; }
+div.@a43606@nog@star-and-crescent-symbols::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:30ade5f8f9d7103f0027401be02f84ef:1c88cff86849b98e88ebf18166053dff:4ddb42793a59c1b7bfff1539dfc4d068$ */

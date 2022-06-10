@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12907@gameicons-delapouite@louvre-pyramid {max-width:75px; max-height:75px; }
+.@b12907@gameicons-delapouite@louvre-pyramid::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/l/louvre/0.png/0.png);padding: 0; }
+div.@b12907@gameicons-delapouite@louvre-pyramid::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:44e151a31d7bbcddb3f665eec5a9d076:7ce4240a60e6b28f938cd54407c0ed63:4ddb42793a59c1b7bfff1539dfc4d068$ */

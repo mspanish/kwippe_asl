@@ -1,0 +1,37 @@
+{
+    "sign": "fly-by-plane",
+    "signer": "asl2english",
+    "uid": 615,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 56,
+            "nd": null
+        },
+        "end": {
+            "d": 56,
+            "nd": null
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "chin-area"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "single"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

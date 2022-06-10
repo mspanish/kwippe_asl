@@ -1,0 +1,47 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a53381@vaa@moon {max-width:75px; max-height:75px; }
+.@a53381@vaa@moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@a53381@vaa@moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55342@web@moonfirstquarter {max-width:75px; max-height:75px; }
+.@a55342@web@moonfirstquarter::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@a55342@web@moonfirstquarter::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a55345@web@moonorbit {max-width:75px; max-height:75px; }
+.@a55345@web@moonorbit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.851063829787234% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@a55345@web@moonorbit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56894@win@moon-waxing-gibbous {max-width:75px; max-height:75px; }
+.@a56894@win@moon-waxing-gibbous::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@a56894@win@moon-waxing-gibbous::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a56895@win@moon {max-width:75px; max-height:75px; }
+.@a56895@win@moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@a56895@win@moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a60912@ian@moon {max-width:75px; max-height:75px; }
+.@a60912@ian@moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 33.61702127659574% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@a60912@ian@moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12586@gameicons-delapouite@falcon-moon {max-width:75px; max-height:75px; }
+.@b12586@gameicons-delapouite@falcon-moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@b12586@gameicons-delapouite@falcon-moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12980@gameicons-delapouite@moon-bats {max-width:75px; max-height:75px; }
+.@b12980@gameicons-delapouite@moon-bats::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@b12980@gameicons-delapouite@moon-bats::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b12981@gameicons-delapouite@moon-orbit {max-width:75px; max-height:75px; }
+.@b12981@gameicons-delapouite@moon-orbit::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 66.38297872340425% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@b12981@gameicons-delapouite@moon-orbit::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14135@gameicons-lorc@evil-moon {max-width:75px; max-height:75px; }
+.@b14135@gameicons-lorc@evil-moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 1.2658227848101267%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@b14135@gameicons-lorc@evil-moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14524@gameicons-lorc@moon-claws {max-width:75px; max-height:75px; }
+.@b14524@gameicons-lorc@moon-claws::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 50%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@b14524@gameicons-lorc@moon-claws::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14525@gameicons-lorc@moon {max-width:75px; max-height:75px; }
+.@b14525@gameicons-lorc@moon::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.14893617021276% 98.73417721518987%;background-size: 413.3333333333333% 310.6666666666667%;background-image: url(./textures/m/moon/0.png/0.png);padding: 0; }
+div.@b14525@gameicons-lorc@moon::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a708126d3ff5e415f1abf41d70ef0432:7792c41796e88d44d0d95155d071b9de:4ddb42793a59c1b7bfff1539dfc4d068$ */

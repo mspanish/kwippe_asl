@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60550@ian@indigenous-management-united-states {max-width:75px; max-height:75px; }
+.@a60550@ian@indigenous-management-united-states::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/i/indians/0.png/0.png);padding: 0; }
+div.@a60550@ian@indigenous-management-united-states::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a8fe21af5b5db563660bad17ed0722eb:e654926f68172ad2b40ef4ef55164b05:4ddb42793a59c1b7bfff1539dfc4d068$ */

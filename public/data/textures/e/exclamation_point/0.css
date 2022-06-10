@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a32461@mat@battery-alert {max-width:75px; max-height:75px; }
+.@a32461@mat@battery-alert::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/exclamation_point/0.png/0.png);padding: 0; }
+div.@a32461@mat@battery-alert::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a35905@mat@xbox-controller-battery-alert {max-width:75px; max-height:75px; }
+.@a35905@mat@xbox-controller-battery-alert::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/exclamation_point/0.png/0.png);padding: 0; }
+div.@a35905@mat@xbox-controller-battery-alert::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46570@pap@battery-empty-symbolic {max-width:75px; max-height:75px; }
+.@a46570@pap@battery-empty-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/exclamation_point/0.png/0.png);padding: 0; }
+div.@a46570@pap@battery-empty-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a46577@pap@battery-low-symbolic {max-width:75px; max-height:75px; }
+.@a46577@pap@battery-low-symbolic::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/exclamation_point/0.png/0.png);padding: 0; }
+div.@a46577@pap@battery-low-symbolic::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a53948@wav@battery-alert {max-width:75px; max-height:75px; }
+.@a53948@wav@battery-alert::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/e/exclamation_point/0.png/0.png);padding: 0; }
+div.@a53948@wav@battery-alert::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:07c030fed5f9da95683990f98066a942:9e0369720e0a57c9579b11af0b5f90c0:4ddb42793a59c1b7bfff1539dfc4d068$ */

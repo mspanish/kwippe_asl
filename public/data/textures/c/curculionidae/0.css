@@ -1,0 +1,20 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59342@ian@anthonomus-grandis {max-width:75px; max-height:75px; }
+.@a59342@ian@anthonomus-grandis::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 1.2658227848101267% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/curculionidae/0.png/0.png);padding: 0; }
+div.@a59342@ian@anthonomus-grandis::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59992@ian@dendroctonus-ponderosae-2 {max-width:75px; max-height:75px; }
+.@a59992@ian@dendroctonus-ponderosae-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/curculionidae/0.png/0.png);padding: 0; }
+div.@a59992@ian@dendroctonus-ponderosae-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a59993@ian@dendroctonus-ponderosae {max-width:75px; max-height:75px; }
+.@a59993@ian@dendroctonus-ponderosae::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 98.73417721518987% 50%;background-size: 310.6666666666667% 105.33333333333333%;background-image: url(./textures/c/curculionidae/0.png/0.png);padding: 0; }
+div.@a59993@ian@dendroctonus-ponderosae::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:10ea71dcf5fee3ad2f27c6511847022f:9f5f5fcc057b048e090673c5e3cd01a7:4ddb42793a59c1b7bfff1539dfc4d068$ */

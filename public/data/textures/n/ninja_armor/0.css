@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13010@gameicons-delapouite@ninja-armor {max-width:75px; max-height:75px; }
+.@b13010@gameicons-delapouite@ninja-armor::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/n/ninja_armor/0.png/0.png);padding: 0; }
+div.@b13010@gameicons-delapouite@ninja-armor::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1a43710eaf1f8c65890bba3e8a28ca2f:1b7ab17e77bb0fd6feff400a48926456:4ddb42793a59c1b7bfff1539dfc4d068$ */

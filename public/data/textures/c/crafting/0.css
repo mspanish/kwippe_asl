@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b12445@gameicons-delapouite@crafting {max-width:75px; max-height:75px; }
+.@b12445@gameicons-delapouite@crafting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/crafting/0.png/0.png);padding: 0; }
+div.@b12445@gameicons-delapouite@crafting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@b14883@gameicons-lorc@stone-crafting {max-width:75px; max-height:75px; }
+.@b14883@gameicons-lorc@stone-crafting::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/c/crafting/0.png/0.png);padding: 0; }
+div.@b14883@gameicons-lorc@stone-crafting::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:724d565efdd5cb45254d323ebb20bef2:26ecd9e05d01737eaa6e17156691bb6c:4ddb42793a59c1b7bfff1539dfc4d068$ */

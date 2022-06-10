@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61022@ian@nuphar-spp {max-width:75px; max-height:75px; }
+.@a61022@ian@nuphar-spp::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nymphaeaceae/0.png/0.png);padding: 0; }
+div.@a61022@ian@nuphar-spp::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61024@ian@nymphaea-odorata-flower {max-width:75px; max-height:75px; }
+.@a61024@ian@nymphaea-odorata-flower::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nymphaeaceae/0.png/0.png);padding: 0; }
+div.@a61024@ian@nymphaea-odorata-flower::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61025@ian@nymphaea-odorata-pad {max-width:75px; max-height:75px; }
+.@a61025@ian@nymphaea-odorata-pad::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nymphaeaceae/0.png/0.png);padding: 0; }
+div.@a61025@ian@nymphaea-odorata-pad::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62186@ian@water-lily-1 {max-width:75px; max-height:75px; }
+.@a62186@ian@water-lily-1::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nymphaeaceae/0.png/0.png);padding: 0; }
+div.@a62186@ian@water-lily-1::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a62187@ian@water-lily-2 {max-width:75px; max-height:75px; }
+.@a62187@ian@water-lily-2::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/n/nymphaeaceae/0.png/0.png);padding: 0; }
+div.@a62187@ian@water-lily-2::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:a978675fe3d51a24ff634e4937da0308:1da60b047f01cd63f8238690da070c0e:4ddb42793a59c1b7bfff1539dfc4d068$ */

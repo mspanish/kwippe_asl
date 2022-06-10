@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a61248@ian@pomatomus-saltatrix {max-width:75px; max-height:75px; }
+.@a61248@ian@pomatomus-saltatrix::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/s/saltatrix/0.png/0.png);padding: 0; }
+div.@a61248@ian@pomatomus-saltatrix::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:28b92cc9fc92225a7bda69efef272ff3:6787a1232a2e0e551a71369c9c8df29d:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,37 @@
+{
+    "sign": "frog",
+    "signer": "asl2english",
+    "uid": 651,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 82,
+            "nd": 77
+        },
+        "end": {
+            "d": 83,
+            "nd": null
+        }
+    },
+    "regions": [
+        "chin",
+        "chin"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            1,
+            0
+        ],
+        "type": "repeated"
+    },
+    "palmface": "down",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}

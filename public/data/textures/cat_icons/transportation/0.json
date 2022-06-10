@@ -1,0 +1,154 @@
+
+{
+
+"airplane-plane": { 
+	"vb": "35 17 -35 -105",
+ },
+"airplane-plane~departure-take_off": { 
+	"vb": "35 35 -0 -0",
+ },
+"airplane-plane~fighter": { 
+	"vb": "35 23 -210 -101",
+ },
+"airplane-plane~icon": { 
+	"vb": "35 25 -402 -62",
+ },
+"airplane-plane~landing": { 
+	"vb": "35 35 -0 -35",
+ },
+"airplane-plane~paper": { 
+	"vb": "35 35 -0 -70",
+ },
+"airplane-plane~seat": { 
+	"vb": "29 35 -276 -66",
+ },
+"airplane-plane~seat~legroom_extra": { 
+	"vb": "35 33 -210 -35",
+ },
+"airplane-plane~seat~legroom_normal": { 
+	"vb": "35 35 -35 -0",
+ },
+"airplane-plane~seat~legroom_reduced": { 
+	"vb": "35 35 -35 -35",
+ },
+"airplane-plane~seat~reclined": { 
+	"vb": "35 35 -35 -70",
+ },
+"airplane-plane~seat~upright": { 
+	"vb": "31 35 -245 -66",
+ },
+"balloon": { 
+	"vb": "29 35 -280 -29",
+ },
+"bicycle": { 
+	"vb": "35 27 -344 -29",
+ },
+"bicycle~no_bicycle": { 
+	"vb": "35 35 -70 -0",
+ },
+"bicycle~rental": { 
+	"vb": "33 35 -210 -0",
+ },
+"boat-ship": { 
+	"vb": "35 27 -348 -0",
+ },
+"boat-ship~ferry": { 
+	"vb": "35 35 -70 -35",
+ },
+"boat-ship~heraldry": { 
+	"vb": "35 29 -278 -0",
+ },
+"boat-ship~history": { 
+	"vb": "35 35 -70 -70",
+ },
+"boat-ship~large_ship-cruise": { 
+	"vb": "35 27 -340 -93",
+ },
+"boat-ship~motorboat": { 
+	"vb": "35 14 -175 -105",
+ },
+"boat-ship~oil_tanker": { 
+	"vb": "35 17 -70 -105",
+ },
+"boat-ship~rowboat": { 
+	"vb": "35 35 -105 -0",
+ },
+"boat-ship~sailboat": { 
+	"vb": "35 35 -105 -35",
+ },
+"boat-ship~speedboat": { 
+	"vb": "35 29 -305 -64",
+ },
+"boat-ship~with_water": { 
+	"vb": "27 35 -340 -58",
+ },
+"bus": { 
+	"vb": "35 35 -105 -70",
+ },
+"bus~double_decker": { 
+	"vb": "35 33 -243 -0",
+ },
+"bus~minibus": { 
+	"vb": "35 29 -305 -93",
+ },
+"bus~pass": { 
+	"vb": "35 25 -398 -87",
+ },
+"bus~school": { 
+	"vb": "35 35 -140 -0",
+ },
+"bus~silhouette": { 
+	"vb": "35 17 -105 -105",
+ },
+"bus~stop": { 
+	"vb": "23 35 -414 -27",
+ },
+"canoe": { 
+	"vb": "35 35 -140 -35",
+ },
+"car-automobile-auto": { 
+	"vb": "35 29 -309 -29",
+ },
+"car-automobile-auto~electric": { 
+	"vb": "35 35 -140 -70",
+ },
+"car-automobile-auto~jeep": { 
+	"vb": "35 33 -210 -68",
+ },
+"car-automobile-auto~outline": { 
+	"vb": "35 19 -0 -105",
+ },
+"car-automobile-auto~silhouette": { 
+	"vb": "35 17 -140 -105",
+ },
+"helicopter": { 
+	"vb": "35 27 -367 -56",
+ },
+"jetski": { 
+	"vb": "35 33 -245 -33",
+ },
+"kayak": { 
+	"vb": "35 35 -175 -0",
+ },
+"motorcycle": { 
+	"vb": "35 35 -175 -35",
+ },
+"motorcycle~helmet": { 
+	"vb": "35 35 -175 -70",
+ },
+"parachute": { 
+	"vb": "23 35 -375 -83",
+ },
+"racecar": { 
+	"vb": "35 29 -313 -0",
+ },
+"raft": { 
+	"vb": "35 27 -379 -27",
+ },
+"rv": { 
+	"vb": "35 23 -245 -101",
+ },
+"scooter": { 
+	"vb": "35 27 -383 -0",
+ },
+}

@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@b13148@gameicons-delapouite@poncho {max-width:75px; max-height:75px; }
+.@b13148@gameicons-delapouite@poncho::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/p/poncho/0.png/0.png);padding: 0; }
+div.@b13148@gameicons-delapouite@poncho::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c26399ef7f7a3293d9c341a1f41a8bc2:539bada3f97fc9735a69297c13382c6f:4ddb42793a59c1b7bfff1539dfc4d068$ */

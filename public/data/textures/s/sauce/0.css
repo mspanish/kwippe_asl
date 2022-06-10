@@ -1,0 +1,26 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a38368@mul@pasta-sauce {max-width:75px; max-height:75px; }
+.@a38368@mul@pasta-sauce::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 0.6410256410256411% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sauce/0.png/0.png);padding: 0; }
+div.@a38368@mul@pasta-sauce::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38650@mul@sauce-brown {max-width:75px; max-height:75px; }
+.@a38650@mul@sauce-brown::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 25.32051282051282% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sauce/0.png/0.png);padding: 0; }
+div.@a38650@mul@sauce-brown::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38651@mul@sauce-cranberry {max-width:75px; max-height:75px; }
+.@a38651@mul@sauce-cranberry::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sauce/0.png/0.png);padding: 0; }
+div.@a38651@mul@sauce-cranberry::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a38652@mul@sauce-tomato {max-width:75px; max-height:75px; }
+.@a38652@mul@sauce-tomato::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 74.67948717948718% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sauce/0.png/0.png);padding: 0; }
+div.@a38652@mul@sauce-tomato::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a39021@mul@tinned-tomato {max-width:75px; max-height:75px; }
+.@a39021@mul@tinned-tomato::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 99.35897435897436% 50%;background-size: 516% 105.33333333333333%;background-image: url(./textures/s/sauce/0.png/0.png);padding: 0; }
+div.@a39021@mul@tinned-tomato::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:c6e01a7df24ccd2b8aa5c71bd7dd61dc:6c4c5463a40425396a2d031266c28154:4ddb42793a59c1b7bfff1539dfc4d068$ */

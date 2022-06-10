@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a60846@ian@mercenaria-mercenaria {max-width:75px; max-height:75px; }
+.@a60846@ian@mercenaria-mercenaria::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/q/quahog/0.png/0.png);padding: 0; }
+div.@a60846@ian@mercenaria-mercenaria::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:1c3a6cd69525fe1ec2210037548ed4cf:fd8ec0f751f9539f0ca86d1c09be15bf:4ddb42793a59c1b7bfff1539dfc4d068$ */

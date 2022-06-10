@@ -1,0 +1,14 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a234@ara@bank-note {max-width:75px; max-height:75px; }
+.@a234@ara@bank-note::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 50% 50%;background-size: 105.33333333333333% 105.33333333333333%;background-image: url(./textures/b/bank_note/0.png/0.png);padding: 0; }
+div.@a234@ara@bank-note::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:2e1837c696368890b01b1c43edd54bf3:130437b42bc140cfb7425aefb906b61a:4ddb42793a59c1b7bfff1539dfc4d068$ */

@@ -1,0 +1,17 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.@a59506@ian@boat-powerboat {max-width:75px; max-height:75px; }
+.@a59506@ian@boat-powerboat::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 2.4691358024691357% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/powerboat/0.png/0.png);padding: 0; }
+div.@a59506@ian@boat-powerboat::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+.@a61280@ian@powerboat-sportfisher {max-width:75px; max-height:75px; }
+.@a61280@ian@powerboat-sportfisher::after {content: '\00a0';display: inline-block; width:75px; height:75px; background-position: 97.53086419753086% 50%;background-size: 208% 105.33333333333333%;background-image: url(./textures/p/powerboat/0.png/0.png);padding: 0; }
+div.@a61280@ian@powerboat-sportfisher::after {max-width:75px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:4f26f286e21106a5fe6503c8a0592f59:0eeecf0e1f1b7b56c050354b46c30bb1:4ddb42793a59c1b7bfff1539dfc4d068$ */

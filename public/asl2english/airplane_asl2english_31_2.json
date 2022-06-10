@@ -1,0 +1,37 @@
+{
+    "sign": "airplane",
+    "signer": "asl2english",
+    "uid": 31,
+    "synonyms": [],
+    "handshapes": {
+        "begin": {
+            "d": 56,
+            "nd": 56
+        },
+        "end": {
+            "d": 95,
+            "nd": 95
+        }
+    },
+    "regions": [
+        "above-right-shoulder",
+        "above-right-shoulder"
+    ],
+    "hands": 1,
+    "num_positions": 2,
+    "positions": [],
+    "motion": {
+        "dir": [
+            0,
+            0,
+            1
+        ],
+        "type": "repeated"
+    },
+    "palmface": "forward",
+    "wristTurn": [],
+    "morphemes": "",
+    "complexity": "",
+    "frequency": "",
+    "category": ""
+}
