@@ -474,5 +474,5 @@ export const kwippeSignSchema = writable(
 
 export const kwippeWordMenu = writable(0); 
 
-export const aslObj = writable(0); 
+export const aslObj = writable({}); 
 // [word, frame, kwippeData, curSigndata, color];

@@ -8,8 +8,8 @@ import { aslObj, kwippeWordMenu } from '../store.js';
 //import { characterColors, handSwaps, kwippeSignSchema } from '../store.js';
 let numberPositions;
 let kwippeData = true;
-let aslLexData = false;
-let asl2EnglishData = false;
+//let aslLexData = false;
+//let asl2EnglishData = false;
 let kwippeSignsObj = {};
 let words = [];
 let kwippeRandomize = true;
@@ -117,7 +117,7 @@ let loadAslLexDefs = async(url) => {
 	let source = 'asllex';
 	const res = await fetch('./'+source+'/'+url+ '.json');
 	let d = await res.json();
-	aslLexData = d;
+	$aslObj.aslLexData = d;
 	//console.log('we have aslLexData '+JSON.stringify(aslLexData));
 	// calling fn should return this to aslLexData
 }
@@ -127,7 +127,7 @@ let loadAsl2EnglishDefs = async(url) => {
 	let source = 'asl2english';
 	const res = await fetch('./'+source+'/'+url+ '.json');
 	let d = await res.json();	
-	asl2EnglishData = d;
+	$aslObj.asl2EnglishData = d;
 	//console.log('we have asl2EnglishData '+JSON.stringify(asl2EnglishData));	
 }
 
@@ -145,7 +145,12 @@ let getKwippeSignData = async(url) => {
 	let color = consultants[d.signer.toLowerCase()].color;
 	//var slot = skin.skeleton.findSlot('body');
 	//slot.color.setFromString(color);	
-	$aslObj = [word, frame, kwippeData, curSigndata, color];
+	$aslObj = $aslObj || {};
+	$aslObj.word = word;
+	$aslObj.frame = frame;
+	$aslObj.kwippeData = kwippeData;
+	$aslObj.curSigndata = curSigndata; 
+	$aslObj.color = color;
 	//console.log(arr);
 	console.log('full data for word '+word);
 	//console.log(JSON.stringify($aslObj));
