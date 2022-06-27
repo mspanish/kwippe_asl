@@ -45,7 +45,65 @@ label {
 
     <span  class="slideTitle">Hand</span>
         
+
+
     <div class="section">   
+        <div class="pure-menu pure-menu-horizontal">
+            <ul class="pure-menu-list"> 
+
+    <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite rotateleft" style="opacity:.75"  id="incr_hand_left" on:click={() => rotateHand("incrLeft", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">+ left</div>
+                    </div>       
+                </li>
+
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite rotateright" style="opacity:.75"  id="incr_hand_right" on:click={() => rotateHand("incrRight", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">+ right</div>
+                    </div>       
+                </li>
+
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite moveleft" style="opacity:.75"  id="_hand_left" on:click={() => rotateHand("left", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">turn l</div>
+                    </div>       
+                </li>
+
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite moveright" style="opacity:.75"  id="_hand_right" on:click={() => rotateHand("right", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">turn r</div>
+                    </div>       
+                </li>
+                
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite reset" style="opacity:.75"  id="reset_hand" on:click={() => resetHand($aslObj)}  ></div>
+                        <div class="iconLabel">reset</div>
+                    </div>       
+                </li>               
+
+
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite object_flip_horizontal" style="opacity:.75"  id="hand_flipx" on:click={() => flipHand("x", false, false, $aslObj)} ></div>
+                        <div class="iconLabel">flipX</div>
+                    </div>       
+                </li>
+                
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite object_flip_vertical" style="opacity:.75"  id="hand_flipy" on:click={() => flipHand("y", false, false, $aslObj)} ></div>
+                        <div class="iconLabel">flipY</div>
+                    </div>       
+                </li>
+
+
+            </ul>
+        </div>
     </div>
 
     <span  class="slideTitle">Lower Arm</span>
@@ -77,7 +135,7 @@ label {
                 
                 <li class="pure-menu-item">
                     <div class="iconTool">
-                        <div class="sprite mirror lower" style="opacity:.75"  on:click={() => mirror(false, $aslObj)}  ></div>
+                        <div class="sprite mirror lower" style="opacity:.75"  on:click={() => mirror($aslObj)}  ></div>
                         <div class="iconLabel">mirror</div>
                     </div>       
                 </li>

@@ -99,14 +99,17 @@ let rotateArm = (dir,arm,amount, aslObj) => {
 		 el.rotation = armData[arm].arm;
 	}
 	if (dir == 'mirror') {
-		let init = armData[selectedArm].arm;
+		
+
 		let currentVal = initVal[selectedArm]
+		let init = armData[selectedArm].arm || currentVal;
 		
 		let difference = -(currentVal) - (-(init));
-		////////console.log('currentVal is '+currentVal);
-		////////console.log('init is '+init)
-		////////console.log('difference is '+difference);
 		
+		//console.log('currentVal is '+currentVal);
+		//console.log('init is '+init)
+		//console.log('difference is '+difference);
+
 		if (currentVal > 0) {
 			////////console.log('got a positive currentVAl '+currentVal)
 			difference = -(currentVal) - init;
@@ -114,12 +117,12 @@ let rotateArm = (dir,arm,amount, aslObj) => {
 		el.rotation = initVal[arm];
 		el.rotation -= difference
 	}	
-	armData[arm].arm = el.rotation;
+	aslObj.armData[arm].arm = el.rotation;
 	character.skeleton.update();
 	
 	// try to get both arms to switch in realtime not just using mirror fn
 	if (bothHands && dir != "mirror") {
-		rotateArm('mirror',opposite)
+		rotateArm('mirror',opposite, false, aslObj)
 	}
 	//character.skeleton.updateWorldTransform();
 	//console.log('rotation for arm is now : '+el.rotation)
@@ -135,6 +138,7 @@ let rotateElbow = (dir,arm,amount,aslObj) => {
 	bothHands = aslObj.bothHands;
 	armData = aslObj.armData;
 
+	console.log('bothHands is '+bothHands);
 
 	if (!character) return
 	
@@ -170,7 +174,9 @@ let rotateElbow = (dir,arm,amount,aslObj) => {
 		 el.rotation = armData[arm].arm_bottom;
 	}	
 	if (dir == 'mirror') {
-		let currentVal = armData[selectedArm].arm_bottom;
+		let el2 = character.skeleton.findBone('arm_'+opposite+'_bottom'); 
+		let currentVal = armData[selectedArm].arm_bottom || el2.rotation;
+		//console.log('currentVal for rotateElbow is '+currentVal);
 		
 		el.rotation = currentVal;
 	}
@@ -178,7 +184,7 @@ let rotateElbow = (dir,arm,amount,aslObj) => {
 	character.skeleton.update();
 	// try to get both arms to switch in realtime not just using mirror fn
 	if (bothHands && dir != "mirror") {
-		rotateElbow('mirror',opposite)
+		rotateElbow('mirror',opposite, false, aslObj)
 	}	
 	//console.log('elbow rotation is now '+el.rotation);
 	//character.skeleton.updateWorldTransform();
@@ -217,18 +223,23 @@ let rotateHand = (dir,arm,amount,aslObj) => {
 
 		// try to get both arms to switch in realtime not just using mirror fn
 	if (bothHands || dir == 'mirror') {
+
 		let opposite = 'left';
-		let el2 = character.skeleton.findBone('hand_'+opposite+ '_inner');
 		if (selectedArm == 'left') opposite = 'right';
-		el2.rotation = el.rotation;
-		armData[opposite].hand.rotation = el.rotation;
+		let el2 = character.skeleton.findBone('hand_'+opposite+ '_inner');
+		let ely = character.skeleton.findBone('hand_'+selectedArm+ '_inner');
+		//ely.rotation = el2.rotation;
+
+		el2.rotation = ely.rotation;
+		//console.log('doing mirror, rotation is '+el2.rotation);
+		armData[opposite].hand.rotation = el2.rotation;
 	}
 	
 	character.skeleton.update();
 	//character.skeleton.updateWorldTransform();
 }
 
-//::DONE
+//::DONE 
 let flipHand = (dir, arm, once, aslObj) => {
 
 	let selectedArm, character, bothHands,armData;
@@ -325,7 +336,7 @@ let resetHand = (aslObj) => {
 }
 
 //::DONE
-let mirror = (mirrorRegion, aslObj) => {
+let mirror = (aslObj) => {
 	console.log('trying to run mirror')
 
 	let selectedArm, character, bothHands,armData;
@@ -346,12 +357,13 @@ let mirror = (mirrorRegion, aslObj) => {
 		pos = 1;
 		pos1 = 0;
 	}
-	//////console.log('selectedArm is '+selectedArm)
-	//////console.log('opposite is '+opposite)
+	//console.log('selectedArm is '+selectedArm)
+	//console.log('opposite is '+opposite)
+	
 	rotateArm('mirror',opposite, false, aslObj);	
 	rotateElbow('mirror', opposite, false, aslObj);
 	rotateHand('mirror', opposite, false, aslObj); 
-	//TODO: we need a hand fn that mirrors too	
+
 	
 	selectedArm = opposite;
 
@@ -361,7 +373,7 @@ let mirror = (mirrorRegion, aslObj) => {
 		//make sure the new shape gets put into the other hand's handshape array	
 		signData.handshapes[pos1][currentPosition] = current_hand;
 	}
-	/* this is to create a new region for the opposite side automatically */
+	/* this is to create a new region for the opposite side automatically 
 	
 	if (mirrorRegion || bothHands) {
 		if (!mirrorRegion) {
@@ -376,6 +388,7 @@ let mirror = (mirrorRegion, aslObj) => {
 		}
 		signData.regions[opposite][currentPosition] =  mirrorRegion; 
 	}
+	*/
 }
 
 /*  variables needed for fns:
