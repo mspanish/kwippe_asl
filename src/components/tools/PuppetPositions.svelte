@@ -15,6 +15,10 @@ $: if ($settings.penFill) {
 }
 */
 
+let changeSide = () => {
+
+
+}
 
 </script>
 <style>
@@ -27,10 +31,15 @@ $: if ($settings.penFill) {
   background: #f5f2f0;
   padding: 10px;
 }
-label {
-  display: inline-block; width: 130px;
+label > input{
+  display: inline-block;
 }
-
+[type="radio"]:checked, [type="radio"]:not(:checked) {
+    /* position: absolute; */
+    /* left: -9999px; */
+    position: relative;
+    left: 0px;
+}
 [type="color"] {
     padding: 0;
     vertical-align: top;
@@ -42,6 +51,23 @@ label {
 </style>
 
 <div style="margin-top:10px;">
+
+    <span  class="slideTitle">Settings</span>
+    <div class="section">  
+
+        <label>  
+            <input type=radio value="left" name="selectedArm" bind:group={$aslObj.selectedArm}>
+            left
+        </label>
+        <label>
+            <input type=radio value="right" name="selectedArm" bind:group={$aslObj.selectedArm}>
+            right
+        </label>
+        <hr />
+        <input type=checkbox bind:checked={$aslObj.bothHands}>
+            change both arms
+ 
+    </div>
 
     <span  class="slideTitle">Hand</span>
         
