@@ -2,10 +2,11 @@
 import '@mszu/pixi-ssr-shim'; // <----------------- IMPORTANT
 import { onMount } from 'svelte';
 import { sample, removeFrom } from '../scripts/utilities.js';
+import { randomizeKwippe, changeHand } from '../scripts/puppet_bodyparts.js';
 //import {  handSwaps, characterColors, kwippeSignSchema, bodypartNumbers, regionKeys, customSigns, customRegions, words, regionPositions, asl2englishOverrides, aslLexOverrides, noGoodChoice } from '../stores.js';
 import { aslObj, characterColors, handSwaps, kwippeSignSchema } from '../store.js';
-//import * as PIXI from 'pixi.js'; 
-import * as PIXI from 'pixi.js-legacy'
+import * as PIXI from 'pixi.js'; 
+//import * as PIXI from 'pixi.js-legacy'
 
 import { resetPuppet, rotateArm, rotateElbow, rotateHand, flipHand, resetHand, mirror } from '../scripts/puppet_movement.js';
 
@@ -36,9 +37,9 @@ let container,container2;
 let character;
 let skin;
 
-let gender = 'female';
+$aslObj.gender = 'female';
 let chardef = 'girl_black';//girl_shorthair'; //happy_alien'; //'guy'; //dude, guy
-let bodyColor =  '#FFBE96';// '#764630';
+$aslObj.bodyColor =  '#FFBE96';// '#764630';
 let characterIndices = {
 	eyesiris: 0,
 	eyesfront: 0,
@@ -96,16 +97,17 @@ onMount(async() => {
 	app = new PIXI.Application({
 		  // renderer: canvas,
 		   view: view, 
-		   forceCanvas:true,
+		   forceCanvas:false,
 		   width: w,
 		   height: h,
 		   transparent:true, antialias: true
 		
 	});
 	app.stage.interactive = false;// This can't be forgotten 
+	
 	//app.renderer.plugins.interaction.cursorStyles.default = 'crosshair'
 	// arms only
-	container = new PIXI.Container();
+	container = new PIXI.Container(); 
 	container.x = 75;
 	container.y = 68;
 	//head body
@@ -145,16 +147,16 @@ let addCharacter = () => {
 		app.loader
 		.add('spineCharacter', 'spine/boy_template_layered_joints_shoulder.json', spineLoaderOptions)
 		.add('spineSkin', 'spine/'+chardef+'/kwippe.json', skinLoaderOptions)	
-		.add('hairfront', 'spine/hair_'+gender+'.json')
-		.add('eyebrows', 'spine/eyebrows_'+gender+'.json')
-		.add('clothes', 'spine/clothes_'+gender+'.json')	    
+		.add('hairfront', 'spine/hair_'+$aslObj.gender+'.json')
+		.add('eyebrows', 'spine/eyebrows_'+$aslObj.gender+'.json')
+		.add('clothes', 'spine/clothes_'+$aslObj.gender+'.json')	    
 		.add('mouths', 'spine/mouths.json')	  
 		.add('nose', 'spine/nose.json')	 
 		.add('ears', 'spine/ears.json')	 	     	      
-		.add('hairback', 'spine/hairback_'+gender+'.json')
+		.add('hairback', 'spine/hairback_'+$aslObj.gender+'.json')
 		.add('eyesiris', 'spine/eyesiris.json')	  
-		.add('eyesfront', 'spine/eyesfront_'+gender+'.json')	   
-		.add('eyesback', 'spine/eyesback_'+gender+'.json')	
+		.add('eyesfront', 'spine/eyesfront_'+$aslObj.gender+'.json')	   
+		.add('eyesback', 'spine/eyesback_'+$aslObj.gender+'.json')	
 		.add('faceshape', 'spine/faceshape.json')	   	     
 		.add('body_female', 'spine/body_female.png')
 
@@ -163,8 +165,9 @@ let addCharacter = () => {
 			skin = new Spine(resources.spineSkin.spineData);	
 
 			let middle = character.width/2;
-			character.height - container.height * .6;
-
+			character.height - container.height * .75;
+			character.y = 10;
+			skin.y = 10
 			container2.addChild(skin);	
 			container.addChild(character);
 
@@ -172,6 +175,7 @@ let addCharacter = () => {
 			slot.color.setFromString('#6a1ff1');		
 			app.start();
 			$aslObj.character = character;
+			randomizeKwippe(true, $characterColors, $aslObj);
 		});	 // first app loader
 	});	 // end app loader
 } // end addCharacter()
@@ -193,7 +197,7 @@ let getWordKwippe = () => {
 		h = d.handshapes.end.d;
 		h2 = d.handshapes.end.nd;
 	}
-	changeHand(false, h, h2, noSwap);
+	changeHand(false, h, h2, noSwap, $handSwaps);
 	numberPositions = Array.from({ length: d.num_positions }, (val, key) => key);
 	
 	/* debugging
@@ -267,65 +271,6 @@ let loadFrame = () => {
 			}
 		} // end for parts 
 	} // end for arms	
-}
-
-let changeHand = (signdata, h, h2, noSwap) => {
-	if (!$aslObj.character) return
-	let pos = 'begin';
-	if ($aslObj.frame > 0) pos = 'end';
-	/* if opendata has nada, try aslLex */
-	
-	if (!h && $aslObj.aslLexData) h = $aslObj.aslLexData.handshapes[pos].d;
-	if (!h2 && $aslObj.aslLexData) h2 = $aslObj.aslLexData.handshapes[pos].nd;
-	//console.log(JSON.stringify(aslLexData))
-	
-	/* neither have data, try asl2English. May be better to always deafult to these */
-	if (!h && $aslObj.asl2EnglishData) {
-		h = $aslObj.asl2EnglishData.handshapes[pos].d; 
-		noSwap = true;
-	}
-	if (!h2 && $aslObj.asl2EnglishData) {
-		// this hand data is messy due to their inconsistent nested arrays system, so let's only add the ND hand if we're sure it's not a 1 handed sign
-		if ($aslObj.asl2EnglishData.hands > 1) {
-			h2 = $aslObj.asl2EnglishData.handshapes[pos].nd; 
-			noSwap = true;
-		}
-		//console.log(JSON.stringify(asl2EnglishData.handshapes))
-	}
-	//console.log('dominant hand is '+h);
-	//console.log('non dominant hand is '+h2);
-		
-	if (!h) {
-		$aslObj.character.skeleton.setAttachment("hand_right",'23');
-		// we don't return here because we need to look at the other hand
-	}
-	else {
-		h = h.toString().toLowerCase().replace('_', '-');
-		//console.log('dh is '+h)
-		if (!noSwap) h = $handSwaps[h];
-		if (h) $aslObj.character.skeleton.setAttachment("hand_right",h);
-		if (!h) $aslObj.character.skeleton.setAttachment("hand_right",'23');
-	}
-	
-	if (!h2) {
-		$aslObj.character.skeleton.setAttachment("hand_left",'23');
-		colorHands();
-		return
-	}
-	h2 = h2.toString().toLowerCase().replace('_', '-');
-	//console.log('nd2 is '+h2)
-	if (!noSwap) h2 = $handSwaps[h2];
-	if (h2) $aslObj.character.skeleton.setAttachment("hand_left",h2);
-	if (!h2) $aslObj.character.skeleton.setAttachment("hand_left",'23');
-	colorHands();
-} 
-
-let colorHands = (color) => {
-	if (!color) color = bodyColor;
-	var slot = $aslObj.character.skeleton.findSlot('hand_right');
-	slot.color.setFromString(color);	
-	slot = $aslObj.character.skeleton.findSlot('hand_left');
-	slot.color.setFromString(color);	
 }
 
 

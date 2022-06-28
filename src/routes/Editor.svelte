@@ -5,7 +5,7 @@ import { onMount, onDestroy } from 'svelte';
 import { fabric } from "fabric";
 
 //import { setBackgroundColor, setBackgroundImage, setBackgroundGradient } from '../scripts/background.js';
-//mport { fetchText, imageSearch, uploadImage, loadPDF } from '../scripts/image.js';
+//import { fetchText, imageSearch, uploadImage, loadPDF } from '../scripts/image.js';
 import { jsonToFabric } from '../scripts/importer.js';
 import { sample, getFromLocalStorage, saveToLocalStorage } from '../scripts/utilities.js';
 import { hexToRgb, rgbToHex } from '../scripts/colorConverters.js';
@@ -861,7 +861,7 @@ function toolClick(event) {
     $onscreen.slideMenu = dt;
 
     if (dt != 'gradient') $settings.gradientActive = false;
-    if (dt != 'pen') canvas.isDrawingMode = false;
+    if (dt != 'pen' && canvas) canvas.isDrawingMode = false;
     if (dt == 'text' || dt == 'textbox') $onscreen.slideMenu = 'text';
     if (dt == 'select') $onscreen.slideMenu = 'zindex';   
     if (dt == 'line') $onscreen.slideMenu = 'line';   	

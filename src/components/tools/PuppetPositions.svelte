@@ -52,7 +52,7 @@ label > input{
 
 <div style="margin-top:10px;">
 
-    <span  class="slideTitle">Settings</span>
+    <span  class="slideTitle">Body Settings</span>
     <div class="section">  
 
         <label>  
@@ -65,19 +65,84 @@ label > input{
         </label>
         <hr />
         <input type=checkbox bind:checked={$aslObj.bothHands}>
-            change both arms
+            change both together
  
+        <hr />
+        <div class="iconTool">
+            <div class="sprite mirror lower" style="opacity:.75"  on:click={() => mirror($aslObj)}  ></div>
+            <div class="iconLabel">mirror opposite side</div>
+        </div>       
+
     </div>
 
-    <span  class="slideTitle">Hand</span>
+    <span  class="slideTitle">Upper Arm</span>
         
+    <div class="section" >   
+        <div class="pure-menu pure-menu-horizontal">
+            <ul class="pure-menu-list"> 
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite rotateleft" style="opacity:.75"  id="rotate_arm_left" on:click={() => rotateArm("left", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">left</div>
+                    </div>       
+                </li>
 
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite rotateright" style="opacity:.75"  id="rotate_arm_right" on:click={() => rotateArm("right", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">right</div>
+                    </div>       
+                </li>
 
+                
+
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite reset" style="opacity:.75"  id="reset_arm" on:click={() => rotateArm("reset", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">reset</div>
+                    </div>       
+                </li>               
+            </ul>
+        </div>
+    </div>  
+
+    <span  class="slideTitle">Lower Arm</span>
+        
     <div class="section">   
         <div class="pure-menu pure-menu-horizontal">
             <ul class="pure-menu-list"> 
 
-    <li class="pure-menu-item">
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite rotateleft" style="opacity:.75"  id="rotate_elbow_left" on:click={() => rotateElbow("left", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">left</div>
+                    </div>       
+                </li>
+                
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite rotateright" style="opacity:.75"  id="rotate_elbow_right" on:click={() => rotateElbow("right", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">right</div>
+                    </div>       
+                </li>
+            
+                <li class="pure-menu-item">
+                    <div class="iconTool">
+                        <div class="sprite reset" style="opacity:.75"   on:click={() => rotateElbow("reset", false, false, $aslObj)}  ></div>
+                        <div class="iconLabel">reset</div>
+                    </div>       
+                </li>   
+
+            </ul>
+        </div>
+    </div>  
+
+    <span  class="slideTitle">Hand</span>
+    <div class="section">   
+        <div class="pure-menu pure-menu-horizontal">
+            <ul class="pure-menu-list"> 
+
+        <li class="pure-menu-item">
                     <div class="iconTool">
                         <div class="sprite rotateleft" style="opacity:.75"  id="incr_hand_left" on:click={() => rotateHand("incrLeft", false, false, $aslObj)}  ></div>
                         <div class="iconLabel">+ left</div>
@@ -131,73 +196,4 @@ label > input{
             </ul>
         </div>
     </div>
-
-    <span  class="slideTitle">Lower Arm</span>
-        
-    <div class="section">   
-        <div class="pure-menu pure-menu-horizontal">
-            <ul class="pure-menu-list"> 
-
-                <li class="pure-menu-item">
-                    <div class="iconTool">
-                        <div class="sprite rotateleft" style="opacity:.75"  id="rotate_elbow_left" on:click={() => rotateElbow("left", false, false, $aslObj)}  ></div>
-                        <div class="iconLabel">left</div>
-                    </div>       
-                </li>
-                
-                <li class="pure-menu-item">
-                    <div class="iconTool">
-                        <div class="sprite rotateright" style="opacity:.75"  id="rotate_elbow_right" on:click={() => rotateElbow("right", false, false, $aslObj)}  ></div>
-                        <div class="iconLabel">right</div>
-                    </div>       
-                </li>
-            
-                <li class="pure-menu-item">
-                    <div class="iconTool">
-                        <div class="sprite reset" style="opacity:.75"   on:click={() => rotateElbow("reset", false, false, $aslObj)}  ></div>
-                        <div class="iconLabel">reset</div>
-                    </div>       
-                </li>   
-                
-                <li class="pure-menu-item">
-                    <div class="iconTool">
-                        <div class="sprite mirror lower" style="opacity:.75"  on:click={() => mirror($aslObj)}  ></div>
-                        <div class="iconLabel">mirror</div>
-                    </div>       
-                </li>
-
-            </ul>
-        </div>
-    </div>  
-    
-    <span  class="slideTitle">Upper Arm</span>
-        
-    <div class="section" >   
-        <div class="pure-menu pure-menu-horizontal">
-            <ul class="pure-menu-list"> 
-                <li class="pure-menu-item">
-                    <div class="iconTool">
-                        <div class="sprite rotateleft" style="opacity:.75"  id="rotate_arm_left" on:click={() => rotateArm("left", false, false, $aslObj)}  ></div>
-                        <div class="iconLabel">left</div>
-                    </div>       
-                </li>
-
-                <li class="pure-menu-item">
-                    <div class="iconTool">
-                        <div class="sprite rotateright" style="opacity:.75"  id="rotate_arm_right" on:click={() => rotateArm("right", false, false, $aslObj)}  ></div>
-                        <div class="iconLabel">right</div>
-                    </div>       
-                </li>
-
-                
-
-                <li class="pure-menu-item">
-                    <div class="iconTool">
-                        <div class="sprite reset" style="opacity:.75"  id="reset_arm" on:click={() => rotateArm("reset", false, false, $aslObj)}  ></div>
-                        <div class="iconLabel">reset</div>
-                    </div>       
-                </li>               
-            </ul>
-        </div>
-    </div>     
 </div>

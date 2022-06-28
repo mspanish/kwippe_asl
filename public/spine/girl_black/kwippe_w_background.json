@@ -8,6 +8,12 @@
       "name": "root"
     },
     {
+      "name": "background",
+      "x": -0.5,
+      "y": 0.5,
+      "parent": "root"
+    },
+    {
       "name": "body",
       "x": -1,
       "y": -317,
@@ -88,6 +94,11 @@
   ],
   "slots": [
     {
+      "name": "background",
+      "bone": "background",
+      "attachment": "background"
+    },
+    {
       "name": "hairback",
       "bone": "hairback",
       "attachment": "hairback"
@@ -157,6 +168,14 @@
     {
       "name": "default",
       "attachments": {
+        "background": {
+          "background": {
+            "x": 0,
+            "y": 0,
+            "width": 1599,
+            "height": 999
+          }
+        },
         "body": {
           "body": {
             "x": 0,
