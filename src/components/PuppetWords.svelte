@@ -155,6 +155,7 @@ let getKwippeSignData = async(url) => {
 	console.log('full data for word '+word);
 	//console.log(JSON.stringify($aslObj));
 //	getWordKwippe();
+	$aslObj.newWordFlag = true;
 }
 
 let createKwippeSignsObj = (data) => {

@@ -8,20 +8,21 @@ import { aslObj, characterColors, handSwaps, kwippeSignSchema } from '../store.j
 import * as PIXI from 'pixi.js'; 
 //import * as PIXI from 'pixi.js-legacy'
 
-import { resetPuppet, rotateArm, rotateElbow, rotateHand, flipHand, resetHand, mirror } from '../scripts/puppet_movement.js';
+import { resetPuppet, rotateArm, rotateElbow, rotateHand, flipHand, resetHand, mirror, loadFrame } from '../scripts/puppet_movement.js';
 
 import { Spine, TextureAtlas } from 'pixi-spine';
 
 //::LISTENER #1:: so whenever the word is updated this should run...
 $: { 
-	if ($aslObj.word) {
+	if ($aslObj.newWordFlag == true) {
 		getWordKwippe();
+		$aslObj.newWordFlag = false;
 	}
 }
 
 let view;
 let app;
-let numberPositions;
+
 let kwippeRandomize = true;
 //let curSigndata;
 //let frame = 0;
@@ -38,6 +39,8 @@ let character;
 let skin;
 
 $aslObj.gender = 'female';
+$aslObj.PIXI = PIXI;
+
 let chardef = 'girl_black';//girl_shorthair'; //happy_alien'; //'guy'; //dude, guy
 $aslObj.bodyColor =  '#FFBE96';// '#764630';
 let characterIndices = {
@@ -175,6 +178,7 @@ let addCharacter = () => {
 			slot.color.setFromString('#6a1ff1');		
 			app.start();
 			$aslObj.character = character;
+			$aslObj.skin = skin;
 			randomizeKwippe(true, $characterColors, $aslObj);
 		});	 // first app loader
 	});	 // end app loader
@@ -197,8 +201,8 @@ let getWordKwippe = () => {
 		h = d.handshapes.end.d;
 		h2 = d.handshapes.end.nd;
 	}
-	changeHand(false, h, h2, noSwap, $handSwaps);
-	numberPositions = Array.from({ length: d.num_positions }, (val, key) => key);
+	changeHand(false, h, h2, noSwap, $aslObj, $handSwaps);
+	$aslObj.numberPositions = Array.from({ length: d.num_positions }, (val, key) => key);
 	
 	/* debugging
 	
@@ -216,63 +220,8 @@ let getWordKwippe = () => {
 	console.log('frames check2: '+d3);
 	*/
 	// comment out until you figure out where these functions should go, the controls will load in the side panel
-	// loadFrame();
+	loadFrame($aslObj);
 }
-
-/* key fn! Once all of our data is converted to kwippe style data using angles rather than regions, this is all it will take to load any frame. All other fns doing this stuff should be moved once data is converted */
-
-let loadFrame = () => { 
-	if (!$aslObj.character) {
-		console.log('cant load frame no character');
-		return
-	}
-//	console.log('loading frame '+frame+ ' for '+curSigndata.word);
-	let d = $aslObj.curSigndata;
-	changeMouth(d.sign);
-	let aClicks, angleDirection;
-	let arms = ['right', 'left'];	
-	let parts = ['elbow', 'wrist', 'hand'];	
-	
-	resetPuppet(false);
-
-	//word.sign = d.word;
-
-	for (let arm of arms) {
-
-		for (let part of parts) {
-			let armShort = arm[0];
-			let data = d.positions[frame][part][armShort];	
-			aClicks = data.aClicks;
-			angleDirection = data.angleDir;
-		
-			if (part == 'elbow') { // equivalent to part 'arm' in our original run			
-				for (let i = 1; i <= aClicks; i++) {
-					//console.log(i+ ' roArm>>>>>>>>>>>. angleDir is '+angleDirection);
-					rotateArm(angleDirection, arm);
-				}
-			}
-			if (part == 'wrist') {  // equivalent to part 'elbow' in our original run
-				for (let i = 1; i <= aClicks; i++) {
-					//console.log(i+ ' roElbow>>>>>>>>>>>. angleDir is '+angleDirection);
-					rotateElbow(angleDirection, arm);
-				}
-			}
-			if (part == 'hand') {
-				//console.log('ignoring hand, aClicks: '+aClicks)
-				for (let i = 1; i <= aClicks; i++) {
-					//console.log(i+ ' roHand>>>>>>>>>>>. angleDir is '+angleDirection);
-					//rotateHand('incr'+angleDirection,arm);
-				}
-				if (data.thumb_angle.angleReverse) {
-					// seems like I need certain conditions here as this is causing some things to flip that perhaps are already flipped due to their position - need to check this
-					//console.log('got a flipX!');
-					flipHand('x',arm);
-				}		
-			}
-		} // end for parts 
-	} // end for arms	
-}
-
 
 </script>
 

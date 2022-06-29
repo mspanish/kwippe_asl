@@ -1,3 +1,5 @@
+import { changeMouth } from './puppet_bodyparts.js';
+
 let signData = {	
 	handshapes: [[null,null],[null,null]],
 	regions: {
@@ -55,6 +57,7 @@ let resetPuppet = (resetData, aslObj) => {
 	//resetHand(aslObj);	
 } 
 
+ 
 //::DONE rotateArm(dir, arm, amount, selectedArm, character, bothHands, armData)
 let rotateArm = (dir,arm,amount, aslObj) => {
 
@@ -138,7 +141,7 @@ let rotateElbow = (dir,arm,amount,aslObj) => {
 	bothHands = aslObj.bothHands;
 	armData = aslObj.armData;
 
-	console.log('bothHands is '+bothHands);
+	//console.log('bothHands is '+bothHands);
 
 	if (!character) return
 	
@@ -391,6 +394,66 @@ let mirror = (aslObj) => {
 	*/
 }
 
+let loadFrame = (aslObj) => { 
+	let selectedArm, character, bothHands, armData, curSigndata, frame;
+	
+	selectedArm = aslObj.selectedArm;
+	character = aslObj.character;
+	bothHands = aslObj.bothHands;
+	armData = aslObj.armData;
+	curSigndata = aslObj.curSigndata;
+	frame = aslObj.frame;
+
+	if (!character) {
+		console.log('cant load frame no character');
+		return
+	}
+	console.log('loading frame '+frame+ ' for '+curSigndata.word);
+	let d = curSigndata;
+	changeMouth(d.sign, false, aslObj);
+	let aClicks, angleDirection;
+	let arms = ['right', 'left'];	
+	let parts = ['elbow', 'wrist', 'hand'];	
+	resetPuppet(false, aslObj);
+	return
+	//word.sign = d.word;
+
+	for (let arm of arms) {
+
+		for (let part of parts) {
+			let armShort = arm[0];
+			let data = d.positions[frame][part][armShort];	
+			aClicks = data.aClicks;
+			angleDirection = data.angleDir;
+		
+			if (part == 'elbow') { // equivalent to part 'arm' in our original run			
+				for (let i = 1; i <= aClicks; i++) {
+					//console.log(i+ ' roArm>>>>>>>>>>>. angleDir is '+angleDirection);
+					rotateArm(angleDirection, arm, false, aslObj);
+				}
+			}
+			if (part == 'wrist') {  // equivalent to part 'elbow' in our original run
+				for (let i = 1; i <= aClicks; i++) {
+					//console.log(i+ ' roElbow>>>>>>>>>>>. angleDir is '+angleDirection);
+					rotateElbow(angleDirection, arm, false, aslObj);
+				}
+			}
+			if (part == 'hand') {
+				//console.log('ignoring hand, aClicks: '+aClicks)
+				for (let i = 1; i <= aClicks; i++) {
+					//console.log(i+ ' roHand>>>>>>>>>>>. angleDir is '+angleDirection);
+					//rotateHand('incr'+angleDirection,arm, false, aslObj);
+				}
+				if (data.thumb_angle.angleReverse) {
+					// seems like I need certain conditions here as this is causing some things to flip that perhaps are already flipped due to their position - need to check this
+					//console.log('got a flipX!');
+					flipHand('x',arm, false, aslObj);
+				}		
+			}
+		} // end for parts 
+	} // end for arms	
+}
+
 /*  variables needed for fns:
 
  resetPuppet(resetData, character,signData,armData,selectedArm)
@@ -407,7 +470,8 @@ let mirror = (aslObj) => {
 
  mirror (mirrorRegion, signData, selectedArm, character, currentPosition)
 
+ loadFrame(aslObj)
 */
 
 
-export { resetPuppet, rotateArm, rotateElbow, rotateHand, flipHand, resetHand, mirror }
+export { resetPuppet, rotateArm, rotateElbow, rotateHand, flipHand, resetHand, mirror, loadFrame }
