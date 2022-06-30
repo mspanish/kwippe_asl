@@ -246,7 +246,9 @@ let checkKwippeData = (text) => {
 	        {/each}
 
 	    </ul>
-	</li>
+	</li> 
+
+
 {/if} 	
 
 <style>

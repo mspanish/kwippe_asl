@@ -14,6 +14,8 @@ let signData = {
 
 //::DONE
 let resetPuppet = (resetData, aslObj) => {
+	console.log('running resetPuppet$$$')
+
 	let selectedArm, character, bothHands,armData;
 
 	selectedArm = aslObj.selectedArm;
@@ -54,7 +56,8 @@ let resetPuppet = (resetData, aslObj) => {
 	selectedArm = 'right';	
 	rotateArm('reset', false, false, aslObj);
 	rotateElbow('reset', false, false, aslObj);
-	//resetHand(aslObj);	
+	resetHand(aslObj);	
+	selectedArm = 'left';
 } 
 
  
@@ -152,7 +155,7 @@ let rotateElbow = (dir,arm,amount,aslObj) => {
 	if (!amount) amount = 5;
 
 	let initVal = {
-		right: 12.22,
+		right: 22.22,
 		left: 12.22
 	}
 	
@@ -415,7 +418,7 @@ let loadFrame = (aslObj) => {
 	let arms = ['right', 'left'];	
 	let parts = ['elbow', 'wrist', 'hand'];	
 	resetPuppet(false, aslObj);
-	return
+	//return
 	//word.sign = d.word;
 
 	for (let arm of arms) {
@@ -454,6 +457,7 @@ let loadFrame = (aslObj) => {
 	} // end for arms	
 }
 
+
 /*  variables needed for fns:
 
  resetPuppet(resetData, character,signData,armData,selectedArm)
@@ -471,6 +475,7 @@ let loadFrame = (aslObj) => {
  mirror (mirrorRegion, signData, selectedArm, character, currentPosition)
 
  loadFrame(aslObj)
+ 
 */
 
 

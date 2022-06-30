@@ -24,6 +24,7 @@ let view;
 let app;
 
 let kwippeRandomize = true;
+let currentPosition = 0;
 //let curSigndata;
 //let frame = 0;
 let signIndex = 0;
@@ -223,6 +224,15 @@ let getWordKwippe = () => {
 	loadFrame($aslObj);
 }
 
+let changePosition = (frame) => {
+	currentPosition = frame;
+	getNewFrame();
+}
+
+let getNewFrame = () => {
+	resetPuppet(false,$aslObj);	
+	getWordKwippe();
+}
 </script>
 
 <style>
@@ -232,6 +242,48 @@ let getWordKwippe = () => {
 		margin-left:  100px;
 		margin-top:  50px;
 	}
+	.frameCount {
+		font-size: 10px;
+		color: grey;
+		width: 100%;
+		text-align: center;
+		position: absolute;
+		left:  300px;
+		top:  180px;
+		z-index: 200;
+	}
+	.frameNav {
+		font-size: 50px;
+		color:  red;
+		background-color: lightgrey;
+		border-radius: 8px;
+		cursor: pointer;
+		text-align: center;
+		padding:5px;
+		position: absolute;
+		left:  200px;
+		top:  150px;
+		z-index: 200;
+	}
+	.frameNavL {
+		left:  500px;
+	}
+	.frameNav:hover {
+		opacity: .7;
+	}
 </style>
 
+{#if $aslObj.numberPositions && $aslObj.numberPositions.length > 0}
+	<div class="frameCount">frame {$aslObj.frame+1} of {$aslObj.numberPositions.length}</div>
+{/if}
+
+{#if $aslObj.numberPositions && $aslObj.numberPositions.length > 0 && $aslObj.frame > 0}
+	<div class="frameNav frameNavR" on:click="{() =>changePosition($aslObj.frame--)}">←</div>
+{/if}
+
 <canvas id="character_canvas" bind:this={view}/>
+
+
+{#if $aslObj.numberPositions && $aslObj.numberPositions.length > 0 && $aslObj.frame < $aslObj.numberPositions.length-1 }
+	<div class="frameNav frameNavL" on:click="{() =>changePosition($aslObj.frame++)}">→</div>
+{/if}
