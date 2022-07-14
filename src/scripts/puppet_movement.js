@@ -23,18 +23,17 @@ let resetPuppet = (resetData, aslObj) => {
 	bothHands = aslObj.bothHands;
 	armData = aslObj.armData;
 
-
 	if (!character) return
 	
 	if (resetData) {
-		positionsSet = {};
+		//positionsSet = {};
 		//signData.regions['right'][currentPosition] =  null; 
 		//signData.regions['left'][currentPosition] =  null; 
 		//signData.hands = { pos0: {right: {}, left: {}}, 
-		pos1 = {
-			right: {}, 
-			left: {}  
-		}; 
+		// pos1 = {
+		// 	right: {}, 
+		// 	left: {}  
+		// }; 
 		
 		let innerObj = {
 			arm: 0,
@@ -49,15 +48,15 @@ let resetPuppet = (resetData, aslObj) => {
 		armData.left = innerObj;
 		armData.right = innerObj; 
 	}
-	selectedArm = 'left';
+	aslObj.selectedArm = 'left';
 	rotateArm('reset', false, false, aslObj);
 	rotateElbow('reset', false, false, aslObj);
 	resetHand(aslObj);
-	selectedArm = 'right';	
+	aslObj.selectedArm = 'right';	
 	rotateArm('reset', false, false, aslObj);
 	rotateElbow('reset', false, false, aslObj);
 	resetHand(aslObj);	
-	selectedArm = 'left';
+	//selectedArm = 'left';
 } 
 
  
@@ -78,10 +77,14 @@ let rotateArm = (dir,arm,amount, aslObj) => {
 		right: -117.05,
 		left: -63.33
 	}
+	console.log('rotateArm amount is '+amount)
+	console.log('rotateArm dir is '+dir);
+	console.log('rotateArm arm is '+arm);
+
 	let opposite = 'left';
 	if (selectedArm == 'left') opposite = 'right';
 	var el = character.skeleton.findBone('arm_'+arm);
-	//////console.log('initial rotation for arm is '+el.rotation)
+	console.log('initial rotation for arm is '+el.rotation)
 	////////console.log('local rotation for arm is '+el.worldRotationX)
 	if (dir == 'exact') {
 		el.rotation = amount;
@@ -109,19 +112,17 @@ let rotateArm = (dir,arm,amount, aslObj) => {
 
 		let currentVal = initVal[selectedArm]
 		let init = armData[selectedArm].arm || currentVal;
-		
 		let difference = -(currentVal) - (-(init));
-		
 		//console.log('currentVal is '+currentVal);
 		//console.log('init is '+init)
 		//console.log('difference is '+difference);
-
 		if (currentVal > 0) {
 			////////console.log('got a positive currentVAl '+currentVal)
 			difference = -(currentVal) - init;
 		}
 		el.rotation = initVal[arm];
 		el.rotation -= difference
+
 	}	
 	aslObj.armData[arm].arm = el.rotation;
 	character.skeleton.update();
@@ -131,7 +132,7 @@ let rotateArm = (dir,arm,amount, aslObj) => {
 		rotateArm('mirror',opposite, false, aslObj)
 	}
 	//character.skeleton.updateWorldTransform();
-	//console.log('rotation for arm is now : '+el.rotation)
+	if (arm == 'left') console.log('rotation for arm is now : '+el.rotation)
 }
 
 //::DONE
@@ -155,7 +156,7 @@ let rotateElbow = (dir,arm,amount,aslObj) => {
 	if (!amount) amount = 5;
 
 	let initVal = {
-		right: 22.22,
+		right: 12.22,
 		left: 12.22
 	}
 	
@@ -192,7 +193,8 @@ let rotateElbow = (dir,arm,amount,aslObj) => {
 	if (bothHands && dir != "mirror") {
 		rotateElbow('mirror',opposite, false, aslObj)
 	}	
-	//console.log('elbow rotation is now '+el.rotation);
+
+	if (arm == 'left') console.log('elbow rotation is now '+el.rotation);
 	//character.skeleton.updateWorldTransform();
 }
 
@@ -416,8 +418,10 @@ let loadFrame = (aslObj) => {
 	changeMouth(d.sign, false, aslObj);
 	let aClicks, angleDirection;
 	let arms = ['right', 'left'];	
+	//for debugging!
+	//arms = ['left'];	
 	let parts = ['elbow', 'wrist', 'hand'];	
-	resetPuppet(false, aslObj);
+	resetPuppet(true, aslObj);
 	//return
 	//word.sign = d.word;
 
@@ -426,6 +430,8 @@ let loadFrame = (aslObj) => {
 		for (let part of parts) {
 			let armShort = arm[0];
 			let data = d.positions[frame][part][armShort];	
+			console.log('new: part is '+part);
+			console.log('new: data is '+JSON.stringify(data));
 			aClicks = data.aClicks;
 			angleDirection = data.angleDir;
 		

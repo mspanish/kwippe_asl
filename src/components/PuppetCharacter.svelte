@@ -180,6 +180,8 @@ let addCharacter = () => {
 			app.start();
 			$aslObj.character = character;
 			$aslObj.skin = skin;
+			var el = character.skeleton.findBone('arm_left');
+			console.log('default rotation for left arm is '+el.rotation);
 			randomizeKwippe(true, $characterColors, $aslObj);
 		});	 // first app loader
 	});	 // end app loader
